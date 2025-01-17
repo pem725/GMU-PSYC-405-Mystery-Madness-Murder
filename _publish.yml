@@ -1,0 +1,4 @@
+- source: PSYC405syllabus.qmd
+  netlify:
+    - id: 4538fdd0-3569-4b2a-8ed1-f9102f1c3c74
+      url: 'https://visionary-phoenix-b2d2ac.netlify.app'
