@@ -10,27 +10,27 @@ format:
   docx: default
 ---
 
-## Meeting Times
+## WHEN: Meeting Times
 
 (Section 003): 9:00 AM to 10:15 AM TR (Buchanan Hall D001) - IN PERSON
 
 (Section 002):10:30 AM to 11:45 AM TR (Krug Hall 5) - IN PERSON
 
-## Instructor: Patrick E. McKnight
+## WHO: [Patrick E. McKnight](https://psychology.gmu.edu/people/pmcknigh "My GMU profile")
 
 ### Contact
 
 **pmcknigh** (note the lack of a "t") at **gmu.edu** OR via [canvas](https://canvas.gmu.edu/courses/33214/discussion_topics/2340609 "Ask your professor!")
 
-**Office Hours:** Thurs 10:30-noon, David King Hall (2064/65)
+**Office Hours:** Thurs 10:30-noon, David King Hall (2064/65) or via zoom by appt.
 
 **NOTE:** Please contact me via canvas for questions/concerns that might benefit everyone; via email for more personal and/or parochial matters.
 
-## Course Description/Overview
+## WHAT: Course Description/Overview
 
 PSYC 405 (Mystery, Madness, and Murder) fulfills requirements for **Mason Apex** in Mason Core. What that means can be better explained via their [website](https://masoncore.gmu.edu/). For us, I want you to wonder. Ever wonder how psychology can be applied in every aspect of your life? Not pop psychology but real psychological science? Some stuff out there is real and real common. We will observe both factual and fictional depictions of human behavior, dissect the behavior according to science, and discuss the results of our collective inquiry. We will learn and apply psychological science together. My aim is to work with you to create a course you fondly recall for many years. Let's do it together. How? Well, you need to know what is expected...
 
-## Course Learning Outcomes
+## DEMANDS: Course Learning Outcomes
 
 ### The Mason Apex course objectives are:
 
@@ -48,7 +48,45 @@ What that means to you is that the fifteen weeks of twice-weekly sessions ought 
 
 We will be on an unscripted Odyssey of wonder and learning. Join me!
 
-## GRADING AND EVALUATION Grading Schema
+## HOW: What are we going to do?
+
+We are going to critically and psychologically analyze popular media portrayals of humans. Each week, we meet on Tuesday and Thursday morning. Come prepared to listen and watch. Our goal on Tuesday is to capture the observation. I will display, play, or demonstrate something relevant to our topic. That will be our primary day to capture and think. Each section of the course (Mystery, Madness & Murder) provides us with a unique look across the various sub-disciplines of psychological science. We will explore broad topics such as:
+
+### Governing Areas of Inquiry
+
+1.  BELIEF: Why do people believe weird things? When are they more likely to believe in such oddities? Can we predict who believes odd stuff? Do I believe odd stuff?
+2.  PURPOSE: What will people do to protect their own beliefs, defend their own principles, or die for honor?
+3.  MOTIVATION: What drives people to do amazing, cruel, helpful, selfless, or selfish acts?
+4.  UNCERTAINTY: What would you be willing to do to change the most uncomfortable situation? Have you ever been so uncertain about something that you couldn't sleep?
+5.  DISCOMFORT: What would you be willing to do to make your (or another person's) life more comfortable?
+6.  EMOTION: To what extent do humans behave emotionally (vs. rationally)? Why would this matter?
+
+These are the central themes that we will revisit each week. Some may be more relevant than others given the topic at hand. Be aware that you ought to search for the relevance in all. Each of these areas has a wealth of scientific evidence that keeps us still searching for more. In other words, the evidence is there but it is wanting. We will discuss the theories that lead us to be able to answer these questions with the backdrop of popularized media representations of both fictional and real individuals.
+
+### Media Evaluated
+
+During class - provided sufficient AV facilities - we shall all share in the viewing of a media snippet that depicts a person in context behaving either as a recreation of "real" behavior or as a fictional account of behavior. There are fictionalized scenarios with real people acting in odd ways (e.g., "reality" TV) but we will focus solely on either the fictionalized recreation of "real" behavior or the completely fictionalized account. The distinction will become more apparent as we progress through the course. Our goal is to dissect the behavior, identify the validity of such acts, understand the author/director's intent, and appreciate the behavior in context. I repeat "in context" because these behaviors - without context - become more difficult to understand. You will appreciate this point more and more as we explore the questions above in the following films, books, TV shows, and such.
+
+| Week | Topic | Title | Details |
+|------------------|------------------|------------------|------------------|
+| 1 | OVERVIEW | Testing 1, 2, 3... | Figure out what kind of media capabilities we are going to have in the classroom. |
+| 2 | Mystery | [Diabolique](https://www.imdb.com/title/tt0046911/) |  |
+| 3 | Mystery | Diabolique |  |
+| 4 | Mystery | Hoodwinked! |  |
+| 5 | Mystery | Hoodwinked! |  |
+| 6 | Madness | A Beautiful Mind |  |
+| 7 | Madness | A Beautiful Mind |  |
+| 8 | SPRING BREAK | **R-E-L-A-X** |  |
+| 9 | Madness | Jacob's Ladder |  |
+| 10 | Madness | Jacob's Ladder |  |
+| 11 | Murder | The Hound of The Baskervilles |  |
+| 12 | Murder | The Hound of The Baskervilles |  |
+| 13 | Murder | Murder by Death |  |
+| 14 | Murder | Murder by Death |  |
+
+## GRADES: How do you get scored?
+
+### Grading Schema
 
 I offer a simple A-F with the following breakdown...
 
@@ -69,8 +107,8 @@ Those grades will be predicated on the follow complex formula:
 ### Your keys to success
 
 | Evaluation Criteria | Percent of Grade | Rationale | Expectation | Computation |
-|:--------------:|:--------:|:--------------:|:--------------:|:--------------:|
-| Attendance | 60% | "80% of success in life is just showing up."  – Woody Allen.  For this class, showing up gives you 60%.  Show up. | Show up every day.  You'll appreciate the course, learning, and your fellow students. | 28 classes (2x/wk for 14 weeks).  I expect everyone to attend at least 24 classes.  Every class missed after those 4 means you lose 60%/24 or 2.5 percentage points per class. |
+|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
+| Attendance | 60% | "80% of success in life is just showing up." – Woody Allen. For this class, showing up gives you 60%. Show up. | Show up every day. You'll appreciate the course, learning, and your fellow students. | 28 classes (2x/wk for 14 weeks). I expect everyone to attend at least 24 classes. Every class missed after those 4 means you lose 60%/24 or 2.5 percentage points per class. |
 | Quizzes | 20% | Show up and pay attention.  Weekly quizzes will be fun and easy but test your attendance (see above) and attention. | Show up every day and listen to the discussion.  Go home and think.  Talk to your classmates.  | Weekly quizzes (N=14) but best 10.  Thus, you get a break for a month on quizzes.  Use the time wisely. |
 | Engagement | 20% | Talk to me.  Show me that you are alive and engaged.  Shy?  Post questions or comments to me via canvas.  Stay engaged.  Extroverted?  Speak up in class.  Everyone has an opportunity and avenue to engage. Please do so. | Show up every day, listen to the discussion, and contribute to it.  Your contributions make all the difference between an OK class and a great class.  Let's make it great together.  I invite you in and you contribute.  Are you game? | Do I know you via voice, email, canvas, or any other medium used by GMU that I have access to and use?  Knowing you want a better grade is not knowing your thoughts or ideas.  Please, make yourself and ideas known to me (and the rest of the class if you wish). |
 | Extra Credit | 0% | Yep, none.  Don't ask. | Do what is asked of you now and you won't have to make up the work you didn't do.  Come to class, attend to what I say, and stay engaged.  Expect nothing more or less. | ***Not Applicable*** |
@@ -94,3 +132,5 @@ More information on Mason’s Honor Code can be found at http://oai.gmu.edu/the-
 Mason’s Writing Center provides detailed information about plagiarism, APA citation style, and more at http://writingcenter.gmu.edu/writing-resources/wc-quick-guides
 
 Since critical thinking and analysis skills are part of the learning outcomes of this class, all writing assignments should be prepared by the student. Developing strong competencies in these areas will prepare you for a competitive workplace. AI-generated submissions are not permitted and all suspected violations will be reported to the Office of Academic Integrity for resolution.
+
+## DETAILS: Your course in a nutshell
