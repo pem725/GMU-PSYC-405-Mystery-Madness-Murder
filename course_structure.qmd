@@ -1,0 +1,133 @@
+---
+title: "PSYC 405: Mystery, Madness & Murder"
+subtitle: "Course Organization and Weekly Schedule"
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    number-sections: false
+crossref:
+  chapters: true
+bibliography: references.bib
+---
+
+# Course Overview
+
+The course analyzes human behavior through popular media, applying psychological science and encouraging critical thinking. Students integrate observations with theory, understand behavior in everyday life, and evaluate both fictional and non-fictional accounts.
+
+## Core Areas of Inquiry
+
+The course is organized around six governing areas:
+
+-   Belief
+-   Purpose
+-   Motivation
+-   Uncertainty
+-   Discomfort
+-   Emotion
+
+# Weekly Schedule and Film Analysis
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)  # for data manipulation if needed
+```
+
+## Mystery Block
+
+### Weeks 2-3: Diabolique {#diabolique}
+
+The film introduces the concept of "weird beliefs" and their formation, serving as a foundation for understanding belief manipulation and critical thinking.
+
+#### Key Sources and Applications
+
+Diamond's[@diamond1961] work on psychiatric examination connects with the film's portrayal of perception versus reality, while Shermer's[@shermer2002, @shermer2003] analysis of thinking fallacies provides a framework for understanding the characters' belief systems.
+
+#### Learning Activities
+
+Students analyze the film using Shermer's[@shermer2003] fallacies and apply Trocco's[@trocco, @trocco1998] methods for studying "weird phenomena." This analysis focuses primarily on the governing areas of **Belief** and **Uncertainty**.
+
+### Weeks 4-5: Hoodwinked! {#hoodwinked}
+
+This section explores narrative influence on beliefs and the nature of deception.
+
+#### Key Sources and Applications
+
+Vrij et al.'s[@vrij2019] work on deception detection provides a framework for analyzing the multiple perspectives presented in the film. Shermer's[@shermer2003] insights on media manipulation complement the film's narrative structure.
+
+#### Learning Activities
+
+Students examine deception methods and narrator reliability using Vrij's[@vrij2019] concepts, focusing on **Belief**, **Uncertainty**, and **Emotion** as governing areas.
+
+## Madness Block
+
+### Weeks 6-7: A Beautiful Mind {#beautiful-mind}
+
+Examines mental illness, perception versus reality, and diagnostic challenges.
+
+#### Key Sources and Applications
+
+-   Geller's[@geller1998] analysis of "crazy therapies" and their potential harm
+-   Diamond's[@diamond1961] perspective on psychiatric examination methods
+-   Gross's[@gross2015] framework for emotion regulation stages
+
+#### Learning Activities
+
+Students apply emotion regulation concepts to character analysis and evaluate treatment approaches through both Geller's[@geller1998] and Diamond's[@diamond1961] perspectives.
+
+### Weeks 9-10: Jacob's Ladder {#jacobs-ladder}
+
+Explores trauma's effect on perception and the nature of reality.
+
+#### Key Sources and Applications
+
+-   Geller's[@geller1998] concept of "bogusness" in relation to altered realities
+-   Diamond's[@diamond1961] rehabilitation and treatment perspectives
+-   Gross's[@gross2015] emotion regulation in psychopathology
+
+#### Learning Activities
+
+Students analyze rehabilitation approaches and apply Gross's[@gross2015] emotion regulation model to the protagonist's experiences.
+
+## Murder Block
+
+### Weeks 11-12: The Hound of the Baskervilles {#hound}
+
+Examines fear, superstition, and cultural narrative influence on belief.
+
+#### Key Sources and Applications
+
+-   Shermer's[@shermer2003] analysis of societal fear feedback loops
+-   Marshall's[@marshall2018] moral foundations theory
+-   Trocco's[@trocco, @trocco1998] skeptical perspective methodology
+
+#### Learning Activities
+
+Students compare the Baskerville legend to Shermer's[@shermer2003] "witch craze" concept and analyze characters through moral foundations theory.
+
+### Weeks 13-14: Murder by Death {#murder}
+
+Analyzes motivation, expectation effects on perception, and psychological approaches to crime.
+
+#### Key Sources and Applications
+
+-   Marshall's[@marshall2018] work on psychopathy and moral decision-making
+-   Diamantis's[@diamantis2015] concept of "collective knowledge"
+-   Vrij's[@vrij2019] research on deception detection training
+
+#### Learning Activities
+
+Students apply collective knowledge doctrine to the detective group and analyze deception detection abilities.
+
+# Epilogue: Week 15
+
+The final week focuses on synthesis and integration of course themes:
+
+-   Review of core psychological concepts
+-   Integration of film analysis techniques
+-   Application of theoretical frameworks
+-   Student reflections on learning outcomes
+
+# References {.unnumbered}
+
+\[List of course readings and sources\]
