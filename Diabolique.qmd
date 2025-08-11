@@ -1,0 +1,115 @@
+---
+title: "Les Diabolique (1955)"
+author: "Patrick E. McKnight"
+format: html
+---
+
+```{python}
+import requests
+from bs4 import BeautifulSoup
+import pandas as pd
+import time
+from datetime import datetime
+import re
+
+class MovieScraper:
+    def __init__(self):
+        self.headers = {
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
+        }
+        self.data = {
+            'ratings': [],
+            'reviews': [],
+            'metadata': {}
+        }
+
+    def scrape_letterboxd(self, movie_url):
+        """
+        Scrape movie ratings and reviews from Letterboxd
+        """
+        try:
+            response = requests.get(movie_url, headers=self.headers)
+            soup = BeautifulSoup(response.text, 'html.parser')
+            
+            # Get overall rating
+            rating_elem = soup.find('meta', {'name': 'twitter:data2'})
+            if rating_elem:
+                self.data['metadata']['letterboxd_rating'] = float(rating_elem['content'].split('/')[0])
+            
+            # Get reviews
+            reviews = soup.find_all('div', class_='review-text')
+            for review in reviews:
+                self.data['reviews'].append({
+                    'source': 'Letterboxd',
+                    'text': review.get_text().strip(),
+                    'date': datetime.now().strftime('%Y-%m-%d')  # You might want to extract actual review dates
+                })
+                
+        except Exception as e:
+            print(f"Error scraping Letterboxd: {e}")
+
+    def scrape_tmdb(self, api_key, movie_id):
+        """
+        Scrape movie data from TMDB API
+        Note: You'll need to sign up for a free API key at https://www.themoviedb.org/
+        """
+        base_url = f"https://api.themoviedb.org/3/movie/{movie_id}"
+        
+        try:
+            # Get movie details
+            response = requests.get(
+                f"{base_url}?api_key={api_key}&language=en-US"
+            ).json()
+            
+            self.data['metadata'].update({
+                'tmdb_rating': response.get('vote_average'),
+                'vote_count': response.get('vote_count'),
+                'popularity': response.get('popularity')
+            })
+            
+            # Get reviews
+            reviews = requests.get(
+                f"{base_url}/reviews?api_key={api_key}&language=en-US"
+            ).json()
+            
+            for review in reviews.get('results', []):
+                self.data['reviews'].append({
+                    'source': 'TMDB',
+                    'text': review.get('content'),
+                    'date': review.get('created_at')[:10]
+                })
+                
+        except Exception as e:
+            print(f"Error scraping TMDB: {e}")
+
+    def export_data(self, filename):
+        """
+        Export scraped data to CSV files
+        """
+        # Export reviews
+        pd.DataFrame(self.data['reviews']).to_csv(f'{filename}_reviews.csv', index=False)
+        
+        # Export metadata
+        pd.DataFrame([self.data['metadata']]).to_csv(f'{filename}_metadata.csv', index=False)
+
+def main():
+    scraper = MovieScraper()
+    
+    # Example usage:
+    # You'll need to replace these with actual URLs and API keys
+    letterboxd_url = "https://letterboxd.com/film/diabolique-1955/"
+    tmdb_movie_id = "11661"  # ID for Les Diaboliques (1955)
+    tmdb_api_key = "YOUR_API_KEY"
+    
+    # Scrape data
+    scraper.scrape_letterboxd(letterboxd_url)
+    scraper.scrape_tmdb(tmdb_api_key, tmdb_movie_id)
+    
+    # Export data
+    scraper.export_data('diabolique_1955')
+
+if __name__ == "__main__":
+    main()
+
+```
+
