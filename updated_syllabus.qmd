@@ -12,20 +12,22 @@ format:
 
 ## WHEN: Meeting Times
 
--   (Section 001): Tuesdays and Thursdays (**Planetary Hall 127**) - IN PERSON
+-   (Section 001): **10:30 AM - 11:45 AM** Tuesdays and Thursdays (**Planetary Hall 127**) - IN PERSON
 -   **Semester Dates:** August 25 - December 17, 2025
 
 ## WHO: [Patrick E. McKnight](https://psychology.gmu.edu/people/pmcknigh "My GMU profile")
 
 ![](20130820_123617.jpg)
 
-### Contact
+::: {.callout-note icon="envelope"}
+## Contact
 
 **pmcknigh** (note the lack of a "t") at **gmu.edu** OR via [canvas](https://canvas.gmu.edu/courses/33214/discussion_topics/2340609 "Ask your professor!")
 
 **Office Hours:** Thurs noon-2p David King Hall (2064/65) or via zoom by appt.
 
 **NOTE:** Please contact me via canvas for questions/concerns that might benefit everyone; via email for more personal and/or parochial matters.
+:::
 
 ## WHAT: Course Description/Overview
 
@@ -33,9 +35,14 @@ PSYC 405 (Mystery, Madness, and Murder) fulfills requirements for **Mason Apex**
 
 ## DEMANDS: Course Learning Outcomes
 
-### The Mason Apex course objectives are:
+::: {.callout-important}
+## The Mason Apex course objectives are:
 
 Integrate skills, abilities, theories, or methodologies gained across a Mason student's undergraduate education to explore complex issues in original ways. Communicate effectively the results of the student's work with awareness of audience, purpose, and context using an appropriate modality (for example: written, oral, visual, material, embodied, multimodal).
+:::
+
+::: {.callout-tip icon="lightbulb"}
+## Your Cognitive Arsenal
 
 What that means to you is that the fifteen weeks of twice-weekly sessions ought to lead you to the following additions to your cognitive arsenal. You will be MORE able to...
 
@@ -48,12 +55,14 @@ What that means to you is that the fifteen weeks of twice-weekly sessions ought 
 -   **Apply** your gained knowledge to evaluate both fictional and non-fictional stories
 
 We will be on an unscripted odyssey of wonder and learning. Join me!
+:::
 
 ## HOW: What are we going to do?
 
 We are going to critically and psychologically analyze popular media portrayals of humans. Each week, we meet on Tuesday and Thursday morning. Come prepared to listen and watch. Our goal on Tuesday is to capture the observation. I will display, play, or demonstrate something relevant to our topic. That will be our primary day to capture and think. On Thursday, we will discuss the material as it relates to several "governing" areas of inquiry.
 
-### Governing Areas of Inquiry
+::: {.callout-note icon="false"}
+## Governing Areas of Inquiry
 
 1.  **BELIEF:** Why do people believe weird things? When are they more likely to believe in such oddities? Can we predict who believes odd stuff? Do I believe odd stuff?
 2.  **PURPOSE:** What will people do to protect their own beliefs, defend their own principles, or die for honor?
@@ -61,6 +70,7 @@ We are going to critically and psychologically analyze popular media portrayals 
 4.  **UNCERTAINTY:** What would you be willing to do to change the most uncomfortable situation? Have you ever been so uncertain about something that you couldn't sleep?
 5.  **DISCOMFORT:** What would you be willing to do to make your (or another person's) life more comfortable?
 6.  **EMOTION:** To what extent do humans behave emotionally (vs. rationally)? Why would this matter?
+:::
 
 These are the central themes that we will revisit each week. Some may be more relevant than others given the topic at hand. Be aware that you ought to search for the relevance in all. Each of these areas has a wealth of scientific evidence that keeps us still searching for more. In other words, the evidence is there but it is wanting. Along this path of enrichment, we will explore and apply good scientific discipline to understand the nature of human behavior. Each section of the course (Mystery, Madness & Murder) provides us with a unique look across the various sub-disciplines of psychological science. We will discuss the theories that lead us to be able to answer these questions with the backdrop of popularized media representations of both fictional and real individuals.
 
@@ -110,21 +120,38 @@ During class, we shall all share in the viewing of a media snippet that depicts 
 
 I offer a simple A-F with the following breakdown...
 
+::: {.callout-tip}
+## Grade A
 **A:** Attend **all** the classes, answer ***most quiz questions correctly***, and ***chime in***. Guaranteed A.
+:::
 
+::: {.callout-tip}
+## Grade B
 **B:** Attend **all** the classes, answer some quiz questions correctly and chime in. Good enough for a B.
+:::
 
+::: {.callout-tip}
+## Grade C
 **C:** Attend ***most*** of the classes, answer a few of the quiz questions correctly, and ALWAYS chime in. Yeah, you'll get a C.
+:::
 
+::: {.callout-warning}
+## Grade D
 **D:** Show up but don't engage and perform poorly on the quizzes.
+:::
 
+::: {.callout-caution}
+## Grade F
 **F:** Who are you?
+:::
 
 ### Grade Weights
 
 Those grades will be predicated on the follow complex formula:
 
-### Your keys to success
+::: {.callout-important icon="key"}
+## Your Keys to Success
+:::
 
 +---------------------+------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | Evaluation Criteria | Percent of Grade | Rationale                                                                                                                                                                                                                  | Expectation                                                                                                                                                                                                                              | Computation                                                                                                                                                                                                                                                          |
@@ -138,20 +165,33 @@ Those grades will be predicated on the follow complex formula:
 | Extra Credit        | 0%               | NONE. Don't ask.                                                                                                                                                                                                           | Do what is asked of you now and you won't have to make up the work you didn't do.  Come to class, attend to what I say, and stay engaged.  Expect nothing more or less.                                                                  | ***Not Applicable***                                                                                                                                                                                                                                                 |
 +---------------------+------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-### Grading-related Policies:
+::: {.callout-warning icon="exclamation-triangle"}
+## Grading-related Policies
 
 **Late work:** None accepted
 
 **Missed exams:** No exams but missed quizzes result in a zero for the quiz. No make ups.
 
 **Team project responsibilities:** None
+:::
 
-**Official communications via GMU e-mail:** Mason uses electronic mail to provide official information to students. Examples include communications from course instructors, notices from the library, notices about academic standing, financial aid information, class materials, assignments, questions, and instructor feedback. Students are responsible for the content of university communications sent to their Mason e-mail account, and are required to activate that account and check it regularly. If you are having your Mason mail forwarded to another account, please ensure that your Mason account doesn't exceed the assigned limit, causing mail to bounce back to the sender.
+::: {.callout-note icon="info-circle"}
+## Official Communications via GMU E-mail
+Mason uses electronic mail to provide official information to students. Examples include communications from course instructors, notices from the library, notices about academic standing, financial aid information, class materials, assignments, questions, and instructor feedback. Students are responsible for the content of university communications sent to their Mason e-mail account, and are required to activate that account and check it regularly. If you are having your Mason mail forwarded to another account, please ensure that your Mason account doesn't exceed the assigned limit, causing mail to bounce back to the sender.
+:::
 
-**Disability accommodations:** If you are a student with a disability and you need academic accommodations, please let me know early in the semester. If you have not already done so, contact the Office of Disability Services (ODS) at 703-993-2474. All academic accommodations must be arranged through that office. Please keep in mind that it might not be possible to grant last-minute requests for accommodations, so it is important to make all arrangements well before the date when the accommodation is needed. The Office of Disability Services website can be found at http://ods.gmu.edu
+::: {.callout-note icon="universal-access"}
+## Disability Accommodations
+If you are a student with a disability and you need academic accommodations, please let me know early in the semester. If you have not already done so, contact the Office of Disability Services (ODS) at 703-993-2474. All academic accommodations must be arranged through that office. Please keep in mind that it might not be possible to grant last-minute requests for accommodations, so it is important to make all arrangements well before the date when the accommodation is needed. The Office of Disability Services website can be found at http://ods.gmu.edu
+:::
 
-**Academic integrity:** The integrity of the University community is affected by the individual choices made by each of us. Mason has an Honor Code with clear guidelines regarding academic integrity. Three fundamental principles to follow at all times are: (1) all work submitted must be your own; (2) when using the work or ideas of others, including fellow students, give full credit through accurate citations; and (3) if you are uncertain about the ground rules on a particular assignment, ask for clarification. No grade is important enough to justify academic misconduct. More information on Mason's Honor Code can be found at http://oai.gmu.edu/the-mason-honor-code-2/
+::: {.callout-warning icon="shield-check"}
+## Academic Integrity
+The integrity of the University community is affected by the individual choices made by each of us. Mason has an Honor Code with clear guidelines regarding academic integrity. Three fundamental principles to follow at all times are: (1) all work submitted must be your own; (2) when using the work or ideas of others, including fellow students, give full credit through accurate citations; and (3) if you are uncertain about the ground rules on a particular assignment, ask for clarification. No grade is important enough to justify academic misconduct. More information on Mason's Honor Code can be found at http://oai.gmu.edu/the-mason-honor-code-2/
+:::
 
-## TL;DR
+::: {.callout-caution icon="zap"}
+## TL;DR - The Bottom Line
 
 Show up to your section, watch a (part of a) movie, complete the weekly quiz ***after paying attention***, and speak up during discussion in class or online (not during the movie). Do that, you earn an A. Anything short of that is negotiable.
+:::
