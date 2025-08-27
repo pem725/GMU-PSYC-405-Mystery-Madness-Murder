@@ -1,4 +1,12 @@
 - source: PSYC405syllabus.qmd
   netlify:
     - id: 4538fdd0-3569-4b2a-8ed1-f9102f1c3c74
-      url: 'https://visionary-phoenix-b2d2ac.netlify.app'
+      url: https://visionary-phoenix-b2d2ac.netlify.app
+- source: corrected_syllabus.qmd
+  netlify:
+    - id: 8ca129e8-c5e3-4ab8-a7da-18f78e0da859
+      url: https://remarkable-daffodil-3f6b1f.netlify.app
+- source: updated_syllabus.qmd
+  netlify:
+    - id: 8ca129e8-c5e3-4ab8-a7da-18f78e0da859
+      url: https://gmu-psyc405f2025.netlify.app
