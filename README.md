@@ -37,6 +37,7 @@ Investigation of criminal psychology, moral reasoning, and justice through behav
 [![Netlify Status](https://api.netlify.com/api/v1/badges/8ca129e8-c5e3-4ab8-a7da-18f78e0da859/deploy-status)](https://app.netlify.com/projects/gmu-psyc405f2025/deploys)
 
 - [Current Syllabus (Fall 2025)](updated_syllabus.qmd) - Section 001
+- [Fall 2025 Live Site](https://gmu-psyc405f2025.netlify.app/) - Netlify hosted version
 - **Featured Films**: Vertigo, Memento, One Flew Over the Cuckoo's Nest, Silver Linings Playbook, To Kill a Mockingbird, 12 Angry Men
 
 ## Previous Syllabi
@@ -45,6 +46,7 @@ Investigation of criminal psychology, moral reasoning, and justice through behav
 [![Netlify Status](https://api.netlify.com/api/v1/badges/4538fdd0-3569-4b2a-8ed1-f9102f1c3c74/deploy-status)](https://app.netlify.com/projects/gmu-psyc405s2025/deploys)
 
 - [Spring 2025 Syllabus](PSYC405syllabus.qmd) - Sections 002 & 003
+- [Spring 2025 Live Site](https://gmu-psyc405s2025.netlify.app/) - Netlify hosted version
 - **Featured Films**: Diabolique, Hoodwinked!, A Beautiful Mind, Jacob's Ladder, The Hound of the Baskervilles, Murder by Death
 
 ## Course Resources
