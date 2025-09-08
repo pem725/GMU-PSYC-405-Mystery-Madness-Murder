@@ -52,7 +52,8 @@ Investigation of criminal psychology, moral reasoning, and justice through behav
 ## Course Resources
 
 - [Course Timeline](timeline-S2025.md) - Historical context and character profiles
-- [Course Structure Details](course_structure.md) - Detailed course organization
+- [Course Structure - Fall 2025](course_structure_fall2025.md) - Current semester organization
+- [Course Structure - Spring 2025](course_structure_spring2025.md) - Previous semester organization
 - [Case Study: Diabolique](Diabolique.md) - Movie data scraper tool and analysis
 
 ## Instructor
