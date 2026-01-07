@@ -31,8 +31,8 @@ DTEND;TZID=America/New_York:20260121T101500
 RRULE:FREQ=WEEKLY;BYDAY=MO,WE;UNTIL=20260504T235959Z
 EXDATE;TZID=America/New_York:20260309T090000
 EXDATE;TZID=America/New_York:20260311T090000
-SUMMARY:📽️ PSYC 405-001: Mystery, Madness & Murder
-DESCRIPTION:PSYC 405 Section 001 - Mystery, Madness & Murder\n\nInstructor: Patrick McKnight\n\nTime: 9:00 AM - 10:15 AM\n\nNote: Check Canvas for weekly quiz and film schedule.
+SUMMARY:PSYC 405-001: Mystery, Madness & Murder
+DESCRIPTION:PSYC 405 Section 001\nInstructor: Patrick McKnight\nTime: 9:00 AM - 10:15 AM\n\nNote: Check Canvas for weekly quiz and film schedule.
 LOCATION:Art and Design Building L008
 STATUS:CONFIRMED
 UID:psyc405-001-spring2026-class@gmu.edu
@@ -44,31 +44,137 @@ DTEND;TZID=America/New_York:20260121T114500
 RRULE:FREQ=WEEKLY;BYDAY=MO,WE;UNTIL=20260504T235959Z
 EXDATE;TZID=America/New_York:20260309T103000
 EXDATE;TZID=America/New_York:20260311T103000
-SUMMARY:📽️ PSYC 405-002: Mystery, Madness & Murder
-DESCRIPTION:PSYC 405 Section 002 - Mystery, Madness & Murder\n\nInstructor: Patrick McKnight\n\nTime: 10:30 AM - 11:45 AM\n\nNote: Check Canvas for weekly quiz and film schedule.
+SUMMARY:PSYC 405-002: Mystery, Madness & Murder
+DESCRIPTION:PSYC 405 Section 002\nInstructor: Patrick McKnight\nTime: 10:30 AM - 11:45 AM\n\nNote: Check Canvas for weekly quiz and film schedule.
 LOCATION:Art and Design Building L008
 STATUS:CONFIRMED
 UID:psyc405-002-spring2026-class@gmu.edu
 END:VEVENT
 
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260121
-DTEND;VALUE=DATE:20260122
-SUMMARY:📚 PSYC 405 - First Day of Class
-DESCRIPTION:First day of PSYC 405: Mystery, Madness & Murder\n\nWeek 1: Hello & Greetings\nQuiz 1 this week
-LOCATION:Art and Design Building L008
+DTSTART;VALUE=DATE:20260120
+DTEND;VALUE=DATE:20260121
+SUMMARY:First Day of Classes (Spring 2026)
+DESCRIPTION:GMU Spring 2026 semester begins.\nPSYC 405 Week 1: Hello & Greetings
 STATUS:CONFIRMED
-UID:psyc405-first-day@gmu.edu
+UID:gmu-spring2026-first-day@gmu.edu
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260127
+DTEND;VALUE=DATE:20260128
+SUMMARY:Last Day to Add Classes
+DESCRIPTION:Last day to add a class for Spring 2026 full semester courses.
+STATUS:CONFIRMED
+UID:gmu-spring2026-last-add@gmu.edu
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260203
+DTEND;VALUE=DATE:20260204
+SUMMARY:Last Day to Drop (100% Refund)
+DESCRIPTION:Last day to drop with 100% tuition refund for full semester courses.
+STATUS:CONFIRMED
+UID:gmu-spring2026-drop-100@gmu.edu
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260210
+DTEND;VALUE=DATE:20260211
+SUMMARY:Last Day to Drop (50% Refund)
+DESCRIPTION:Last day to drop with 50% tuition refund for full semester courses.
+STATUS:CONFIRMED
+UID:gmu-spring2026-drop-50@gmu.edu
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260211
+DTEND;VALUE=DATE:20260225
+SUMMARY:Unrestricted Withdrawal Period
+DESCRIPTION:Period for unrestricted withdrawal from courses (Feb 11 - Feb 24).
+STATUS:CONFIRMED
+UID:gmu-spring2026-unrestricted-wd@gmu.edu
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260216
+DTEND;VALUE=DATE:20260321
+SUMMARY:Mid-term Evaluation Period
+DESCRIPTION:Mid-term grade evaluation period (Feb 16 - Mar 20).
+STATUS:CONFIRMED
+UID:gmu-spring2026-midterm@gmu.edu
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260225
+DTEND;VALUE=DATE:20260331
+SUMMARY:Selective Withdrawal Period
+DESCRIPTION:Selective withdrawal period (Feb 25 - Mar 30). Dean's approval required.
+STATUS:CONFIRMED
+UID:gmu-spring2026-selective-wd@gmu.edu
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260309
+DTEND;VALUE=DATE:20260316
+SUMMARY:SPRING BREAK - No Classes
+DESCRIPTION:Spring Recess - No PSYC 405 classes this week.\nRelax and recharge!
+STATUS:CONFIRMED
+UID:gmu-spring2026-spring-break@gmu.edu
 END:VEVENT
 
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260504
 DTEND;VALUE=DATE:20260505
-SUMMARY:📚 PSYC 405 - Last Day of Class
-DESCRIPTION:Last day of PSYC 405: Mystery, Madness & Murder\n\nWeek 15: Epilogue - What did you think?\nQuiz 14 (Final)
-LOCATION:Art and Design Building L008
+SUMMARY:Last Day of Classes (Spring 2026)
+DESCRIPTION:Last day of PSYC 405 classes.\nWeek 15: Epilogue - What did you think?\nQuiz 14 (Final)
 STATUS:CONFIRMED
-UID:psyc405-last-day@gmu.edu
+UID:gmu-spring2026-last-day@gmu.edu
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260505
+DTEND;VALUE=DATE:20260506
+SUMMARY:Reading Day
+DESCRIPTION:Reading day - No classes. Prepare for final exams.
+STATUS:CONFIRMED
+UID:gmu-spring2026-reading-day1@gmu.edu
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260506
+DTEND;VALUE=DATE:20260514
+SUMMARY:Final Examination Period
+DESCRIPTION:Final exam period (May 6-13). Check schedule for PSYC 405 final if applicable.
+STATUS:CONFIRMED
+UID:gmu-spring2026-finals@gmu.edu
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260510
+DTEND;VALUE=DATE:20260511
+SUMMARY:Reading Day
+DESCRIPTION:Reading day - No exams scheduled.
+STATUS:CONFIRMED
+UID:gmu-spring2026-reading-day2@gmu.edu
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260514
+DTEND;VALUE=DATE:20260515
+SUMMARY:GMU Commencement
+DESCRIPTION:George Mason University Spring 2026 Commencement ceremony.
+STATUS:CONFIRMED
+UID:gmu-spring2026-commencement@gmu.edu
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260515
+DTEND;VALUE=DATE:20260516
+SUMMARY:Degree Conferral Date
+DESCRIPTION:Official degree conferral date for Spring 2026 graduates.
+STATUS:CONFIRMED
+UID:gmu-spring2026-degree-conferral@gmu.edu
 END:VEVENT
 
 END:VCALENDAR

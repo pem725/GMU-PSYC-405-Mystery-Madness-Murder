@@ -4,13 +4,74 @@ This document outlines the streamlined process for creating syllabi for a new se
 
 ## Quick Start Checklist
 
-- [ ] Obtain ICS calendar file from GMU with class schedule
-- [ ] Review available movies in `~/Class Movies/`
-- [ ] Check `FILM_HISTORY.md` for previously used films
-- [ ] Create syllabus files for each section
-- [ ] Update `_quarto.yml` navigation
-- [ ] Update `FILM_HISTORY.md` with new films
+- [ ] Tell Claude to create semester materials (see Automated Workflow below)
+- [ ] Review and approve movie selections
+- [ ] Verify classroom location from Patriot Web
 - [ ] Commit and push (auto-deploys to Netlify)
+- [ ] Import ICS file to your calendar
+
+---
+
+## Automated Workflow with Claude
+
+Most of the semester setup can be automated by asking Claude Code to help. Here's what Claude can do automatically:
+
+### What Claude Can Automate
+
+| Task | Automation Level | Data Source |
+|------|-----------------|-------------|
+| Academic calendar dates | **Fully automated** | GMU Registrar website |
+| Class times | **Fully automated** | Coursicle/GMU public data |
+| ICS file creation | **Fully automated** | Generated from calendar data |
+| Movie selection | **Semi-automated** | `~/Class Movies/` + `FILM_HISTORY.md` |
+| Syllabus creation | **Fully automated** | Template + gathered data |
+| Important dates table | **Fully automated** | GMU Registrar website |
+| Classroom location | **Manual required** | Patriot Web (requires login) |
+
+### Sample Prompts for Claude
+
+**Full semester setup:**
+```
+I need to prepare PSYC 405 for [Fall/Spring] [Year]. I teach two sections
+on [Mon/Wed or Tue/Thu]. Please:
+1. Get the GMU academic calendar for that semester
+2. Create an ICS file with class meetings and important dates
+3. Select 8 movies per section from ~/Class Movies/ (check FILM_HISTORY.md for used films)
+4. Create syllabi for both sections
+5. Update the README and FILM_HISTORY.md
+```
+
+**Just the calendar:**
+```
+Get the GMU [Fall/Spring] [Year] academic calendar and create an ICS file
+for PSYC 405. Include class meetings for sections 001 (9:00-10:15 AM) and
+002 (10:30-11:45 AM) on Mon/Wed, plus all important academic dates.
+```
+
+**Just movie selection:**
+```
+Select 8 movies for each PSYC 405 section from ~/Class Movies/.
+Check FILM_HISTORY.md and the PSYC 325 repo for films already used.
+Categorize as Mystery (3), Madness (3), Murder (2).
+```
+
+### Data Sources Claude Uses
+
+| Source | URL | What It Provides |
+|--------|-----|------------------|
+| GMU Registrar | registrar.gmu.edu/calendars/ | Academic dates, deadlines |
+| Psychology Dept | psychology.gmu.edu | Course info, instructor profile |
+| Coursicle | coursicle.com/gmu/ | Class times (public data) |
+| PSYC 325 Repo | github.com/pem725/GMU-PSYC-325-PSYCHOPATHOLOGY | Films to exclude |
+
+### Manual Steps Required
+
+**Classroom location** must be verified manually:
+1. Log into [Patriot Web](https://patriotweb.gmu.edu)
+2. Navigate to: Student Services → Registration → Look Up Classes
+3. Search for PSYC 405 for the relevant semester
+4. Note the building and room number
+5. Update the ICS file and syllabi with the correct location
 
 ---
 
