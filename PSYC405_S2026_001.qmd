@@ -92,39 +92,23 @@ These are the central themes that we will revisit each week. Some may be more re
 
 During class, we shall all share in the viewing of a media snippet that depicts a person in context behaving either as a recreation of "real" behavior or as a fictional account of behavior. Our goal is to dissect the behavior, identify the validity of such acts, understand the author/director's intent, and appreciate the behavior in context.
 
-+--------+------------------+--------------------------------------------------------------------------------------------+----------------+
-| Week   | Module           | Film                                                                                       | Assessment     |
-+========+==================+============================================================================================+================+
-| 1      | Intro            | Hello & Greetings                                                                          | Quiz 1[^1]     |
-+--------+------------------+--------------------------------------------------------------------------------------------+----------------+
-| 2      | Mystery          | [Shutter Island](https://www.imdb.com/title/tt1130884/){target="_blank"} (2010)            | Quiz 2         |
-+--------+------------------+--------------------------------------------------------------------------------------------+----------------+
-| 3      | Mystery          | [Shutter Island](https://www.imdb.com/title/tt1130884/){target="_blank"} / [North by Northwest](https://www.imdb.com/title/tt0053125/){target="_blank"} (1959) | Quiz 3         |
-+--------+------------------+--------------------------------------------------------------------------------------------+----------------+
-| 4      | Mystery          | [North by Northwest](https://www.imdb.com/title/tt0053125/){target="_blank"}               | Quiz 4         |
-+--------+------------------+--------------------------------------------------------------------------------------------+----------------+
-| 5      | Mystery          | [Sunset Boulevard](https://www.imdb.com/title/tt0043014/){target="_blank"} (1950)          | Quiz 5         |
-+--------+------------------+--------------------------------------------------------------------------------------------+----------------+
-| 6      | Madness          | [Black Swan](https://www.imdb.com/title/tt0947798/){target="_blank"} (2010)                | Quiz 6         |
-+--------+------------------+--------------------------------------------------------------------------------------------+----------------+
-| 7      | Madness          | [Black Swan](https://www.imdb.com/title/tt0947798/){target="_blank"} / [Good Will Hunting](https://www.imdb.com/title/tt0119217/){target="_blank"} (1997) | Quiz 7         |
-+--------+------------------+--------------------------------------------------------------------------------------------+----------------+
-| 8      | SPRING BREAK     | **R-E-L-A-X** (March 9-13)                                                                 | NO QUIZ        |
-+--------+------------------+--------------------------------------------------------------------------------------------+----------------+
-| 9      | Madness          | [Good Will Hunting](https://www.imdb.com/title/tt0119217/){target="_blank"}                | Quiz 8         |
-+--------+------------------+--------------------------------------------------------------------------------------------+----------------+
-| 10     | Madness          | [What's Eating Gilbert Grape](https://www.imdb.com/title/tt0108550/){target="_blank"} (1993) | Quiz 9         |
-+--------+------------------+--------------------------------------------------------------------------------------------+----------------+
-| 11     | Murder           | [Primal Fear](https://www.imdb.com/title/tt0117381/){target="_blank"} (1996)               | Quiz 10        |
-+--------+------------------+--------------------------------------------------------------------------------------------+----------------+
-| 12     | Murder           | [Primal Fear](https://www.imdb.com/title/tt0117381/){target="_blank"} / [The Hurricane](https://www.imdb.com/title/tt0174856/){target="_blank"} (1999) | Quiz 11        |
-+--------+------------------+--------------------------------------------------------------------------------------------+----------------+
-| 13     | Murder           | [The Hurricane](https://www.imdb.com/title/tt0174856/){target="_blank"}                    | Quiz 12        |
-+--------+------------------+--------------------------------------------------------------------------------------------+----------------+
-| 14     | Murder           | Wrap-up & Review                                                                           | Quiz 13        |
-+--------+------------------+--------------------------------------------------------------------------------------------+----------------+
-| 15     | Epilogue (FINAL) | What did you think?                                                                        | Quiz 14        |
-+--------+------------------+--------------------------------------------------------------------------------------------+----------------+
+| Week | Module | Film | Assessment |
+|:----:|:------:|:-----|:----------:|
+| 1 | Intro | Hello & Greetings | Quiz 1[^1] |
+| 2 | Mystery | [Shutter Island](https://www.imdb.com/title/tt1130884/){target="_blank"} (2010) | Quiz 2 |
+| 3 | Mystery | [Shutter Island](https://www.imdb.com/title/tt1130884/){target="_blank"} / [North by Northwest](https://www.imdb.com/title/tt0053125/){target="_blank"} (1959) | Quiz 3 |
+| 4 | Mystery | [North by Northwest](https://www.imdb.com/title/tt0053125/){target="_blank"} | Quiz 4 |
+| 5 | Mystery | [Sunset Boulevard](https://www.imdb.com/title/tt0043014/){target="_blank"} (1950) | Quiz 5 |
+| 6 | Madness | [Black Swan](https://www.imdb.com/title/tt0947798/){target="_blank"} (2010) | Quiz 6 |
+| 7 | Madness | [Black Swan](https://www.imdb.com/title/tt0947798/){target="_blank"} / [Good Will Hunting](https://www.imdb.com/title/tt0119217/){target="_blank"} (1997) | Quiz 7 |
+| 8 | SPRING BREAK | **R-E-L-A-X** (March 9-13) | NO QUIZ |
+| 9 | Madness | [Good Will Hunting](https://www.imdb.com/title/tt0119217/){target="_blank"} | Quiz 8 |
+| 10 | Madness | [What's Eating Gilbert Grape](https://www.imdb.com/title/tt0108550/){target="_blank"} (1993) | Quiz 9 |
+| 11 | Murder | [Primal Fear](https://www.imdb.com/title/tt0117381/){target="_blank"} (1996) | Quiz 10 |
+| 12 | Murder | [Primal Fear](https://www.imdb.com/title/tt0117381/){target="_blank"} / [The Hurricane](https://www.imdb.com/title/tt0174856/){target="_blank"} (1999) | Quiz 11 |
+| 13 | Murder | [The Hurricane](https://www.imdb.com/title/tt0174856/){target="_blank"} | Quiz 12 |
+| 14 | Murder | Wrap-up & Review | Quiz 13 |
+| 15 | Epilogue (FINAL) | What did you think? | Quiz 14 |
 
 [^1]: All quizzes are conducted on canvas. Please consult the canvas website for the course. You will have access to the quiz for the period that I announce every week (at random). Come to class. You won't have to wonder when I start the quiz. Just show up. Oh, and bring a computer or phone.
 

@@ -92,39 +92,23 @@ These are the central themes that we will revisit each week. Some may be more re
 
 During class, we shall all share in the viewing of a media snippet that depicts a person in context behaving either as a recreation of "real" behavior or as a fictional account of behavior. Our goal is to dissect the behavior, identify the validity of such acts, understand the author/director's intent, and appreciate the behavior in context.
 
-+--------+------------------+--------------------------------------------------------------------------------------------+----------------+
-| Week   | Module           | Film                                                                                       | Assessment     |
-+========+==================+============================================================================================+================+
-| 1      | Intro            | Hello & Greetings                                                                          | Quiz 1[^1]     |
-+--------+------------------+--------------------------------------------------------------------------------------------+----------------+
-| 2      | Mystery          | [The Machinist](https://www.imdb.com/title/tt0361862/){target="_blank"} (2004)             | Quiz 2         |
-+--------+------------------+--------------------------------------------------------------------------------------------+----------------+
-| 3      | Mystery          | [The Machinist](https://www.imdb.com/title/tt0361862/){target="_blank"} / [Identity](https://www.imdb.com/title/tt0309698/){target="_blank"} (2003) | Quiz 3         |
-+--------+------------------+--------------------------------------------------------------------------------------------+----------------+
-| 4      | Mystery          | [Identity](https://www.imdb.com/title/tt0309698/){target="_blank"}                         | Quiz 4         |
-+--------+------------------+--------------------------------------------------------------------------------------------+----------------+
-| 5      | Mystery          | [Fight Club](https://www.imdb.com/title/tt0137523/){target="_blank"} (1999)                | Quiz 5         |
-+--------+------------------+--------------------------------------------------------------------------------------------+----------------+
-| 6      | Madness          | [Rain Man](https://www.imdb.com/title/tt0095953/){target="_blank"} (1988)                  | Quiz 6         |
-+--------+------------------+--------------------------------------------------------------------------------------------+----------------+
-| 7      | Madness          | [Rain Man](https://www.imdb.com/title/tt0095953/){target="_blank"} / [K-PAX](https://www.imdb.com/title/tt0272152/){target="_blank"} (2001) | Quiz 7         |
-+--------+------------------+--------------------------------------------------------------------------------------------+----------------+
-| 8      | SPRING BREAK     | **R-E-L-A-X** (March 9-13)                                                                 | NO QUIZ        |
-+--------+------------------+--------------------------------------------------------------------------------------------+----------------+
-| 9      | Madness          | [K-PAX](https://www.imdb.com/title/tt0272152/){target="_blank"}                            | Quiz 8         |
-+--------+------------------+--------------------------------------------------------------------------------------------+----------------+
-| 10     | Madness          | [Leaving Las Vegas](https://www.imdb.com/title/tt0113627/){target="_blank"} (1995)         | Quiz 9         |
-+--------+------------------+--------------------------------------------------------------------------------------------+----------------+
-| 11     | Murder           | [Nuremberg](https://www.imdb.com/title/tt26743110/){target="_blank"} (2025)                | Quiz 10        |
-+--------+------------------+--------------------------------------------------------------------------------------------+----------------+
-| 12     | Murder           | [Nuremberg](https://www.imdb.com/title/tt26743110/){target="_blank"} / [Wind River](https://www.imdb.com/title/tt5362988/){target="_blank"} (2017) | Quiz 11        |
-+--------+------------------+--------------------------------------------------------------------------------------------+----------------+
-| 13     | Murder           | [Wind River](https://www.imdb.com/title/tt5362988/){target="_blank"}                       | Quiz 12        |
-+--------+------------------+--------------------------------------------------------------------------------------------+----------------+
-| 14     | Murder           | Wrap-up & Review                                                                           | Quiz 13        |
-+--------+------------------+--------------------------------------------------------------------------------------------+----------------+
-| 15     | Epilogue (FINAL) | What did you think?                                                                        | Quiz 14        |
-+--------+------------------+--------------------------------------------------------------------------------------------+----------------+
+| Week | Module | Film | Assessment |
+|:----:|:------:|:-----|:----------:|
+| 1 | Intro | Hello & Greetings | Quiz 1[^1] |
+| 2 | Mystery | [The Machinist](https://www.imdb.com/title/tt0361862/){target="_blank"} (2004) | Quiz 2 |
+| 3 | Mystery | [The Machinist](https://www.imdb.com/title/tt0361862/){target="_blank"} / [Identity](https://www.imdb.com/title/tt0309698/){target="_blank"} (2003) | Quiz 3 |
+| 4 | Mystery | [Identity](https://www.imdb.com/title/tt0309698/){target="_blank"} | Quiz 4 |
+| 5 | Mystery | [Fight Club](https://www.imdb.com/title/tt0137523/){target="_blank"} (1999) | Quiz 5 |
+| 6 | Madness | [Rain Man](https://www.imdb.com/title/tt0095953/){target="_blank"} (1988) | Quiz 6 |
+| 7 | Madness | [Rain Man](https://www.imdb.com/title/tt0095953/){target="_blank"} / [K-PAX](https://www.imdb.com/title/tt0272152/){target="_blank"} (2001) | Quiz 7 |
+| 8 | SPRING BREAK | **R-E-L-A-X** (March 9-13) | NO QUIZ |
+| 9 | Madness | [K-PAX](https://www.imdb.com/title/tt0272152/){target="_blank"} | Quiz 8 |
+| 10 | Madness | [Leaving Las Vegas](https://www.imdb.com/title/tt0113627/){target="_blank"} (1995) | Quiz 9 |
+| 11 | Murder | [Nuremberg](https://www.imdb.com/title/tt26743110/){target="_blank"} (2025) | Quiz 10 |
+| 12 | Murder | [Nuremberg](https://www.imdb.com/title/tt26743110/){target="_blank"} / [Wind River](https://www.imdb.com/title/tt5362988/){target="_blank"} (2017) | Quiz 11 |
+| 13 | Murder | [Wind River](https://www.imdb.com/title/tt5362988/){target="_blank"} | Quiz 12 |
+| 14 | Murder | Wrap-up & Review | Quiz 13 |
+| 15 | Epilogue (FINAL) | What did you think? | Quiz 14 |
 
 [^1]: All quizzes are conducted on canvas. Please consult the canvas website for the course. You will have access to the quiz for the period that I announce every week (at random). Come to class. You won't have to wonder when I start the quiz. Just show up. Oh, and bring a computer or phone.
 
