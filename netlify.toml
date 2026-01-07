@@ -1,9 +1,12 @@
 [build]
-  command = "quarto render"
+  command = """
+    QUARTO_VER="1.4.554" && \
+    mkdir -p $HOME/quarto && \
+    curl -sL https://github.com/quarto-dev/quarto-cli/releases/download/v${QUARTO_VER}/quarto-${QUARTO_VER}-linux-amd64.tar.gz | tar -xz -C $HOME/quarto --strip-components=1 && \
+    export PATH=$HOME/quarto/bin:$PATH && \
+    quarto render
+  """
   publish = "_site"
-
-[build.environment]
-  QUARTO_VERSION = "1.4"
 
 # Redirects for clean URLs
 [[redirects]]
