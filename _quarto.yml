@@ -8,8 +8,6 @@ project:
     - updated_syllabus.qmd
     - PSYC405syllabus.qmd
     - FILM_HISTORY.qmd
-    - course_structure.qmd
-    - timeline.qmd
 
 website:
   title: "PSYC 405: Mystery, Madness & Murder"
@@ -32,14 +30,8 @@ website:
             href: updated_syllabus.qmd
           - text: "Spring 2025"
             href: PSYC405syllabus.qmd
-      - text: "Resources"
-        menu:
-          - text: "Film History"
-            href: FILM_HISTORY.qmd
-          - text: "Course Structure"
-            href: course_structure.qmd
-          - text: "Timeline"
-            href: timeline.qmd
+      - text: "Film History"
+        href: FILM_HISTORY.qmd
     right:
       - icon: github
         href: https://github.com/pem725/GMU-PSYC-405-Mystery-Madness-Murder
