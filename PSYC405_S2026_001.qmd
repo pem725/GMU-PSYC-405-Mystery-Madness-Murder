@@ -147,6 +147,107 @@ During class, we shall all share in the viewing of a media snippet that depicts 
 - **Primal Fear** - Forensic psychology, malingering, courtroom psychology, deception
 - **The Hurricane** - Wrongful conviction, systemic bias, justice and injustice
 
+## Film Resources & Discussion Questions
+
+::: {.callout-note icon="film"}
+## External Resources
+Use these links to explore background information, reviews, and critical analyses of each film.
+:::
+
+### Mystery Module Films
+
+#### Shutter Island (2010)
+**Links:** [IMDB](https://www.imdb.com/title/tt1130884/) (8.2/10) | [Rotten Tomatoes](https://www.rottentomatoes.com/m/shutter_island) (69%)
+
+::: {.callout-tip}
+## Discussion Questions
+1. **BELIEF:** How does the film manipulate our perception of reality? At what point did you question what was "real" in the story?
+2. **UNCERTAINTY:** How does Teddy's uncertainty about his own identity parallel the uncertainty we experience as viewers? What cues did you use to distinguish truth from delusion?
+3. **DISCOMFORT:** The film presents two possible realities. Which ending is more psychologically comforting - and why might we prefer one interpretation over another?
+4. **EMOTION:** How do Teddy's unprocessed grief and guilt manifest in his delusions? What does this tell us about the relationship between trauma and perception?
+:::
+
+#### North by Northwest (1959)
+**Links:** [IMDB](https://www.imdb.com/title/tt0053125/) (8.3/10) | [Rotten Tomatoes](https://www.rottentomatoes.com/m/north_by_northwest) (97%)
+
+::: {.callout-tip}
+## Discussion Questions
+1. **BELIEF:** Roger Thornhill is mistaken for someone who doesn't exist. How quickly do others accept false identities, and what makes identity "believable"?
+2. **PURPOSE:** What motivates Thornhill to pursue the truth rather than simply prove his innocence and walk away?
+3. **MOTIVATION:** How does Hitchcock use ordinary settings (crop fields, Mount Rushmore) to create extraordinary tension? What does this suggest about danger in everyday life?
+4. **UNCERTAINTY:** How does the film explore the theme of "the wrong man"? What psychological toll does being falsely accused take on a person?
+:::
+
+#### Sunset Boulevard (1950)
+**Links:** [IMDB](https://www.imdb.com/title/tt0043014/) (8.4/10) | [Rotten Tomatoes](https://www.rottentomatoes.com/m/sunset_boulevard) (98%)
+
+::: {.callout-tip}
+## Discussion Questions
+1. **BELIEF:** Norma Desmond believes she is still a great star. What psychological mechanisms allow her to maintain this delusion despite overwhelming evidence to the contrary?
+2. **DISCOMFORT:** Joe Gillis compromises his integrity for comfort and security. What does his trajectory say about the psychological costs of such compromises?
+3. **EMOTION:** How does the film portray the relationship between fame, identity, and mental health? Is Norma's condition caused by Hollywood, or was she always vulnerable?
+4. **PURPOSE:** What does Max's devotion to Norma reveal about enabling behavior and the psychology of caretaking?
+:::
+
+### Madness Module Films
+
+#### Black Swan (2010)
+**Links:** [IMDB](https://www.imdb.com/title/tt0947798/) (8.0/10) | [Rotten Tomatoes](https://www.rottentomatoes.com/m/black_swan_2010) (85%)
+
+::: {.callout-tip}
+## Discussion Questions
+1. **MOTIVATION:** What drives Nina's obsessive pursuit of perfection? Is her behavior admirable dedication or pathological compulsion?
+2. **BELIEF:** At what point do Nina's hallucinations begin? How does the film blur the line between artistic transformation and psychotic break?
+3. **DISCOMFORT:** How does the mother-daughter relationship contribute to Nina's psychological fragmentation? What role does her mother's own unfulfilled ambitions play?
+4. **EMOTION:** The film suggests Nina must "lose herself" to achieve artistic greatness. What does this say about the relationship between creativity and mental stability?
+:::
+
+#### Good Will Hunting (1997)
+**Links:** [IMDB](https://www.imdb.com/title/tt0119217/) (8.3/10) | [Rotten Tomatoes](https://www.rottentomatoes.com/m/good_will_hunting) (97%)
+
+::: {.callout-tip}
+## Discussion Questions
+1. **BELIEF:** Why does Will believe he doesn't deserve success or love? How do early experiences shape our core beliefs about ourselves?
+2. **PURPOSE:** Sean tells Will, "It's not your fault." Why is this simple statement so transformative? What makes therapeutic breakthroughs possible?
+3. **UNCERTAINTY:** Will pushes away everyone who gets close. What function does this self-sabotage serve psychologically?
+4. **MOTIVATION:** What finally motivates Will to change? Is it Sean's therapy, Skylar's love, or something internal?
+:::
+
+#### What's Eating Gilbert Grape (1993)
+**Links:** [IMDB](https://www.imdb.com/title/tt0108550/) (7.7/10) | [Rotten Tomatoes](https://www.rottentomatoes.com/m/whats_eating_gilbert_grape) (90%)
+
+::: {.callout-tip}
+## Discussion Questions
+1. **DISCOMFORT:** Gilbert feels trapped by his family responsibilities. How do caregiver roles affect mental health and personal development?
+2. **MOTIVATION:** What drives Gilbert's affair with Mrs. Carver? What psychological needs is he trying to meet?
+3. **EMOTION:** How does the film portray Arnie's intellectual disability? Is the portrayal accurate and respectful by modern standards?
+4. **PURPOSE:** The family's dysfunction centers on secrets and denial. What role does the mother's condition play in the family's psychological dynamics?
+:::
+
+### Murder Module Films
+
+#### Primal Fear (1996)
+**Links:** [IMDB](https://www.imdb.com/title/tt0117381/) (7.7/10) | [Rotten Tomatoes](https://www.rottentomatoes.com/m/primal_fear) (77%)
+
+::: {.callout-tip}
+## Discussion Questions
+1. **BELIEF:** The film hinges on believability. What made Aaron's alternate personality convincing to the jury, to Martin Vail, and to you?
+2. **UNCERTAINTY:** How do forensic psychologists distinguish genuine dissociative identity disorder from malingering? What are the ethical challenges?
+3. **MOTIVATION:** What motivates Martin Vail to take Aaron's case? How does his motivation evolve throughout the film?
+4. **EMOTION:** The ending reveals a devastating deception. What emotional and ethical responsibilities do defense attorneys have when defending potentially guilty clients?
+:::
+
+#### The Hurricane (1999)
+**Links:** [IMDB](https://www.imdb.com/title/tt0174856/) (7.6/10) | [Rotten Tomatoes](https://www.rottentomatoes.com/m/hurricane) (82%)
+
+::: {.callout-tip}
+## Discussion Questions
+1. **PURPOSE:** Rubin Carter maintains his innocence for decades despite enormous pressure. What psychological resources allow someone to maintain their sense of self under such circumstances?
+2. **BELIEF:** How did racial bias and confirmation bias contribute to Carter's wrongful conviction? What cognitive errors led investigators astray?
+3. **DISCOMFORT:** Carter refuses to wear prison clothes or participate in prison programs. What psychological function does this defiance serve?
+4. **MOTIVATION:** What motivated Lesra and the Canadians to fight for Carter's freedom? What does their commitment reveal about altruism and justice-seeking behavior?
+:::
+
 ## GRADES: How do you get scored?
 
 ### Grading Schema

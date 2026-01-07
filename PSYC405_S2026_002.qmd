@@ -147,6 +147,107 @@ During class, we shall all share in the viewing of a media snippet that depicts 
 - **Nuremberg** - War crimes, moral judgment, collective guilt, obedience to authority
 - **Wind River** - Violence, trauma, justice in marginalized communities, grief
 
+## Film Resources & Discussion Questions
+
+::: {.callout-note icon="film"}
+## External Resources
+Use these links to explore background information, reviews, and critical analyses of each film.
+:::
+
+### Mystery Module Films
+
+#### The Machinist (2004)
+**Links:** [IMDB](https://www.imdb.com/title/tt0361862/) (7.6/10) | [Rotten Tomatoes](https://www.rottentomatoes.com/m/machinist) (77%)
+
+::: {.callout-tip}
+## Discussion Questions
+1. **BELIEF:** Trevor Reznik creates an elaborate reality to avoid confronting his guilt. How do our minds construct alternative narratives to protect us from unbearable truths?
+2. **DISCOMFORT:** The film portrays extreme insomnia and physical deterioration. What is the relationship between guilt, sleep, and physical health?
+3. **UNCERTAINTY:** When did you first suspect that Ivan might not be real? What visual or narrative cues did the film use to signal unreliability?
+4. **EMOTION:** Why does Trevor's unconscious mind create Ivan as a separate entity rather than allowing him to remember directly? What psychological purpose does this splitting serve?
+:::
+
+#### Identity (2003)
+**Links:** [IMDB](https://www.imdb.com/title/tt0309698/) (7.3/10) | [Rotten Tomatoes](https://www.rottentomatoes.com/m/identity) (63%)
+
+::: {.callout-tip}
+## Discussion Questions
+1. **BELIEF:** The film presents multiple personalities as separate characters. How accurate is this portrayal of dissociative identity disorder? What does research actually tell us?
+2. **MOTIVATION:** Each "personality" has distinct motivations and moral codes. What does this suggest about the multiplicity of drives within a single person?
+3. **UNCERTAINTY:** The twist recontextualizes everything we've seen. How does narrative structure affect our willingness to accept psychological explanations?
+4. **PURPOSE:** The psychiatrist believes integration therapy can eliminate the "murderous" personality. What ethical questions does this raise about treating DID?
+:::
+
+#### Fight Club (1999)
+**Links:** [IMDB](https://www.imdb.com/title/tt0137523/) (8.8/10) | [Rotten Tomatoes](https://www.rottentomatoes.com/m/fight_club) (81%)
+
+::: {.callout-tip}
+## Discussion Questions
+1. **BELIEF:** The narrator creates Tyler Durden to embody everything he wishes he could be. What does Tyler represent about suppressed aspects of identity?
+2. **DISCOMFORT:** The film critiques consumerism and modern masculinity. What psychological needs does the narrator try to meet through material possessions, and why do they fail?
+3. **MOTIVATION:** What drives the members of Fight Club and later Project Mayhem? Is their violence a symptom or an attempted cure?
+4. **EMOTION:** The narrator's dissociation is triggered by chronic insomnia and alienation. What does modern research tell us about the relationship between sleep deprivation and psychosis?
+:::
+
+### Madness Module Films
+
+#### Rain Man (1988)
+**Links:** [IMDB](https://www.imdb.com/title/tt0095953/) (8.0/10) | [Rotten Tomatoes](https://www.rottentomatoes.com/m/rain_man) (88%)
+
+::: {.callout-tip}
+## Discussion Questions
+1. **BELIEF:** The film depicts autism and savant syndrome. How has our understanding of the autism spectrum changed since 1988? What did the film get right or wrong?
+2. **MOTIVATION:** Charlie's initial motivation is purely financial. How and why does his motivation transform over the course of the film?
+3. **EMOTION:** Raymond experiences emotions differently than neurotypical individuals. How does the film portray his emotional world, and is this portrayal respectful?
+4. **PURPOSE:** What does the relationship between Charlie and Raymond reveal about how we define "normal" functioning and human connection?
+:::
+
+#### K-PAX (2001)
+**Links:** [IMDB](https://www.imdb.com/title/tt0272152/) (7.4/10) | [Rotten Tomatoes](https://www.rottentomatoes.com/m/kpax) (42%)
+
+::: {.callout-tip}
+## Discussion Questions
+1. **BELIEF:** Is Prot an alien or a man with delusions? The film deliberately maintains ambiguity. What evidence supports each interpretation, and which do you find more compelling?
+2. **UNCERTAINTY:** Dr. Powell struggles to diagnose Prot. What does this uncertainty reveal about the limits of psychiatric diagnosis?
+3. **DISCOMFORT:** Prot's presence transforms the other patients. What does this suggest about the role of hope and alternative perspectives in mental health treatment?
+4. **PURPOSE:** Why might someone adopt an "alien" identity as a response to trauma? What psychological protection does this provide?
+:::
+
+#### Leaving Las Vegas (1995)
+**Links:** [IMDB](https://www.imdb.com/title/tt0113627/) (7.5/10) | [Rotten Tomatoes](https://www.rottentomatoes.com/m/leaving_las_vegas) (91%)
+
+::: {.callout-tip}
+## Discussion Questions
+1. **MOTIVATION:** Ben has made a deliberate choice to drink himself to death. What psychological state leads someone to this decision? Is it depression, despair, or something else?
+2. **BELIEF:** Sera agrees not to ask Ben to stop drinking. What does this unconditional acceptance represent psychologically? Is it love, codependency, or something more complex?
+3. **DISCOMFORT:** The film refuses to offer hope for recovery. How does this unflinching portrayal challenge our expectations about addiction narratives?
+4. **EMOTION:** What role does human connection play when recovery is not the goal? Can love exist meaningfully in the context of self-destruction?
+:::
+
+### Murder Module Films
+
+#### Nuremberg (2025)
+**Links:** [IMDB](https://www.imdb.com/title/tt26743110/) (7.4/10) | [Rotten Tomatoes](https://www.rottentomatoes.com/m/nuremberg_2025) (71%)
+
+::: {.callout-tip}
+## Discussion Questions
+1. **PURPOSE:** The Nuremberg trials established that "following orders" is not a defense for atrocities. What psychological mechanisms allow ordinary people to commit extraordinary evil?
+2. **BELIEF:** How did Nazi ideology reshape individual moral beliefs? What does this tell us about the malleability of human conscience?
+3. **MOTIVATION:** Hannah Arendt coined the phrase "the banality of evil" to describe Eichmann. What motivates bureaucratic participation in genocide?
+4. **EMOTION:** How do perpetrators rationalize their actions? What emotional and cognitive processes allow people to compartmentalize their behavior?
+:::
+
+#### Wind River (2017)
+**Links:** [IMDB](https://www.imdb.com/title/tt5362988/) (7.7/10) | [Rotten Tomatoes](https://www.rottentomatoes.com/m/wind_river_2017) (87%)
+
+::: {.callout-tip}
+## Discussion Questions
+1. **DISCOMFORT:** The film depicts violence against Indigenous women, a tragically underreported crisis. How does the isolation and lack of resources on reservations contribute to this problem?
+2. **MOTIVATION:** Cory Lambert hunts predators both literally and figuratively. How does his own grief shape his pursuit of justice?
+3. **BELIEF:** The film shows how crimes on reservations fall through jurisdictional cracks. What does this reveal about systemic failures and the value placed on marginalized lives?
+4. **EMOTION:** The film's ending focuses on grief and healing rather than cathartic revenge. What does this choice say about justice and closure?
+:::
+
 ## GRADES: How do you get scored?
 
 ### Grading Schema

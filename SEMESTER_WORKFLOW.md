@@ -26,6 +26,8 @@ Most of the semester setup can be automated by asking Claude Code to help. Here'
 | Movie selection | **Semi-automated** | `~/Class Movies/` + `FILM_HISTORY.md` |
 | Syllabus creation | **Fully automated** | Template + gathered data |
 | Important dates table | **Fully automated** | GMU Registrar website |
+| IMDB/RT links & ratings | **Fully automated** | IMDB + Rotten Tomatoes websites |
+| Discussion questions | **Fully automated** | Generated from film themes + course inquiry areas |
 | Classroom location | **Manual required** | Patriot Web (requires login) |
 
 ### Sample Prompts for Claude
@@ -55,6 +57,16 @@ Check FILM_HISTORY.md and the PSYC 325 repo for films already used.
 Categorize as Mystery (3), Madness (3), Murder (2).
 ```
 
+**Film resources and discussion questions:**
+```
+For the movies in both PSYC 405 syllabi, add:
+1. IMDB links with ratings
+2. Rotten Tomatoes links with scores
+3. 4 discussion questions per film aligned with the course's
+   Governing Areas of Inquiry (Belief, Purpose, Motivation,
+   Uncertainty, Discomfort, Emotion)
+```
+
 ### Data Sources Claude Uses
 
 | Source | URL | What It Provides |
@@ -63,6 +75,8 @@ Categorize as Mystery (3), Madness (3), Murder (2).
 | Psychology Dept | psychology.gmu.edu | Course info, instructor profile |
 | Coursicle | coursicle.com/gmu/ | Class times (public data) |
 | PSYC 325 Repo | github.com/pem725/GMU-PSYC-325-PSYCHOPATHOLOGY | Films to exclude |
+| IMDB | imdb.com | Film ratings, cast, plot summaries |
+| Rotten Tomatoes | rottentomatoes.com | Critical scores, audience scores |
 
 ### Manual Steps Required
 
