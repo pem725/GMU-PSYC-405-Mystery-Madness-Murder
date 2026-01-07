@@ -1,0 +1,216 @@
+---
+title: "Syllabus for PSYC 405: Mystery, Madness & Murder"
+subtitle:  "Spring 2026: Section 001"
+author: "Patrick E. McKnight"
+format:
+  html:
+    toc: true
+    toc_float: true
+  pdf: default
+  docx: default
+---
+
+## WHEN: Meeting Times
+
+-   (Section 001): **9:00 AM - 10:15 AM** Mondays and Wednesdays (**Art and Design Building L008**) - IN PERSON
+-   **Semester Dates:** January 21 - May 4, 2026
+
+## WHO: [Patrick E. McKnight](https://psychology.gmu.edu/people/pmcknigh "My GMU profile")
+
+![](20130820_123617.jpg)
+
+::: {.callout-note icon="envelope"}
+## Contact
+
+**pmcknigh** (note the lack of a "t") at **gmu.edu** OR via [canvas](https://canvas.gmu.edu "Ask your professor!")
+
+**Office Hours:** By appointment via Zoom or in person
+
+**NOTE:** Please contact me via canvas for questions/concerns that might benefit everyone; via email for more personal and/or parochial matters.
+:::
+
+## WHAT: Course Description/Overview
+
+PSYC 405 (Mystery, Madness, and Murder) fulfills requirements for **Mason Apex** in Mason Core. What that means can be better explained via their [website](https://masoncore.gmu.edu/). For us, I want you to wonder. Ever wonder how psychology can be applied in every aspect of your life? Not pop psychology but real psychological science? Some stuff out there is real and real common. We will observe both factual and fictional depictions of human behavior, dissect the behavior according to science, and discuss the results of our collective inquiry. We will learn and apply psychological science together. My aim is to work with you to create a course you fondly recall for many years. Let's do it together. How? Well, you need to know what is expected...
+
+## DEMANDS: Course Learning Outcomes
+
+::: {.callout-important}
+## The Mason Apex course objectives are:
+
+Integrate skills, abilities, theories, or methodologies gained across a Mason student's undergraduate education to explore complex issues in original ways. Communicate effectively the results of the student's work with awareness of audience, purpose, and context using an appropriate modality (for example: written, oral, visual, material, embodied, multimodal).
+:::
+
+::: {.callout-tip icon="lightbulb"}
+## Your Cognitive Arsenal
+
+What that means to you is that the fifteen weeks of twice-weekly sessions ought to lead you to the following additions to your cognitive arsenal. You will be MORE able to...
+
+-   **Detect** human behavior
+
+-   **Appreciate** the limits of our detection Integrate your observations with theory
+
+-   **Understand** behavior in everyday life
+
+-   **Apply** your gained knowledge to evaluate both fictional and non-fictional stories
+
+We will be on an unscripted odyssey of wonder and learning. Join me!
+:::
+
+## HOW: What are we going to do?
+
+We are going to critically and psychologically analyze popular media portrayals of humans. Each week, we meet on Monday and Wednesday morning. Come prepared to listen and watch. Our goal is to capture observations, think critically, and discuss the material as it relates to several "governing" areas of inquiry.
+
+::: {.callout-note icon="false"}
+## Governing Areas of Inquiry
+
+1.  **BELIEF:** Why do people believe weird things? When are they more likely to believe in such oddities? Can we predict who believes odd stuff? Do I believe odd stuff?
+2.  **PURPOSE:** What will people do to protect their own beliefs, defend their own principles, or die for honor?
+3.  **MOTIVATION:** What drives people to do amazing, cruel, helpful, selfless, or selfish acts?
+4.  **UNCERTAINTY:** What would you be willing to do to change the most uncomfortable situation? Have you ever been so uncertain about something that you couldn't sleep?
+5.  **DISCOMFORT:** What would you be willing to do to make your (or another person's) life more comfortable?
+6.  **EMOTION:** To what extent do humans behave emotionally (vs. rationally)? Why would this matter?
+:::
+
+These are the central themes that we will revisit each week. Some may be more relevant than others given the topic at hand. Be aware that you ought to search for the relevance in all. Each of these areas has a wealth of scientific evidence that keeps us still searching for more. In other words, the evidence is there but it is wanting. Along this path of enrichment, we will explore and apply good scientific discipline to understand the nature of human behavior. Each section of the course (Mystery, Madness & Murder) provides us with a unique look across the various sub-disciplines of psychological science.
+
+### Media & Schedule
+
+During class, we shall all share in the viewing of a media snippet that depicts a person in context behaving either as a recreation of "real" behavior or as a fictional account of behavior. Our goal is to dissect the behavior, identify the validity of such acts, understand the author/director's intent, and appreciate the behavior in context.
+
++--------+------------------+--------------------------------------------------------------------------------------------+----------------+
+| Week   | Module           | Film                                                                                       | Assessment     |
++========+==================+============================================================================================+================+
+| 1      | Intro            | Hello & Greetings                                                                          | Quiz 1[^1]     |
++--------+------------------+--------------------------------------------------------------------------------------------+----------------+
+| 2      | Mystery          | [Shutter Island](https://www.imdb.com/title/tt1130884/){target="_blank"} (2010)            | Quiz 2         |
++--------+------------------+--------------------------------------------------------------------------------------------+----------------+
+| 3      | Mystery          | [Shutter Island](https://www.imdb.com/title/tt1130884/){target="_blank"} / [North by Northwest](https://www.imdb.com/title/tt0053125/){target="_blank"} (1959) | Quiz 3         |
++--------+------------------+--------------------------------------------------------------------------------------------+----------------+
+| 4      | Mystery          | [North by Northwest](https://www.imdb.com/title/tt0053125/){target="_blank"}               | Quiz 4         |
++--------+------------------+--------------------------------------------------------------------------------------------+----------------+
+| 5      | Mystery          | [Sunset Boulevard](https://www.imdb.com/title/tt0043014/){target="_blank"} (1950)          | Quiz 5         |
++--------+------------------+--------------------------------------------------------------------------------------------+----------------+
+| 6      | Madness          | [Black Swan](https://www.imdb.com/title/tt0947798/){target="_blank"} (2010)                | Quiz 6         |
++--------+------------------+--------------------------------------------------------------------------------------------+----------------+
+| 7      | Madness          | [Black Swan](https://www.imdb.com/title/tt0947798/){target="_blank"} / [Good Will Hunting](https://www.imdb.com/title/tt0119217/){target="_blank"} (1997) | Quiz 7         |
++--------+------------------+--------------------------------------------------------------------------------------------+----------------+
+| 8      | SPRING BREAK     | **R-E-L-A-X** (March 9-13)                                                                 | NO QUIZ        |
++--------+------------------+--------------------------------------------------------------------------------------------+----------------+
+| 9      | Madness          | [Good Will Hunting](https://www.imdb.com/title/tt0119217/){target="_blank"}                | Quiz 8         |
++--------+------------------+--------------------------------------------------------------------------------------------+----------------+
+| 10     | Madness          | [What's Eating Gilbert Grape](https://www.imdb.com/title/tt0108550/){target="_blank"} (1993) | Quiz 9         |
++--------+------------------+--------------------------------------------------------------------------------------------+----------------+
+| 11     | Murder           | [Primal Fear](https://www.imdb.com/title/tt0117381/){target="_blank"} (1996)               | Quiz 10        |
++--------+------------------+--------------------------------------------------------------------------------------------+----------------+
+| 12     | Murder           | [Primal Fear](https://www.imdb.com/title/tt0117381/){target="_blank"} / [The Hurricane](https://www.imdb.com/title/tt0174856/){target="_blank"} (1999) | Quiz 11        |
++--------+------------------+--------------------------------------------------------------------------------------------+----------------+
+| 13     | Murder           | [The Hurricane](https://www.imdb.com/title/tt0174856/){target="_blank"}                    | Quiz 12        |
++--------+------------------+--------------------------------------------------------------------------------------------+----------------+
+| 14     | Murder           | Wrap-up & Review                                                                           | Quiz 13        |
++--------+------------------+--------------------------------------------------------------------------------------------+----------------+
+| 15     | Epilogue (FINAL) | What did you think?                                                                        | Quiz 14        |
++--------+------------------+--------------------------------------------------------------------------------------------+----------------+
+
+[^1]: All quizzes are conducted on canvas. Please consult the canvas website for the course. You will have access to the quiz for the period that I announce every week (at random). Come to class. You won't have to wonder when I start the quiz. Just show up. Oh, and bring a computer or phone.
+
+### Section 001 Film Themes
+
+**Mystery Module (Weeks 2-5):**
+
+- **Shutter Island** - Trauma-induced delusion, reality testing, institutional psychiatry
+- **North by Northwest** - Mistaken identity, paranoia, perception manipulation
+- **Sunset Boulevard** - Delusion, obsession, the thin line between fantasy and reality
+
+**Madness Module (Weeks 6-10):**
+
+- **Black Swan** - Perfectionism, psychosis, performance anxiety, identity dissolution
+- **Good Will Hunting** - Trauma, therapeutic process, attachment, resistance to change
+- **What's Eating Gilbert Grape** - Developmental disability, caregiving burden, family dynamics
+
+**Murder Module (Weeks 11-14):**
+
+- **Primal Fear** - Forensic psychology, malingering, courtroom psychology, deception
+- **The Hurricane** - Wrongful conviction, systemic bias, justice and injustice
+
+## GRADES: How do you get scored?
+
+### Grading Schema
+
+I offer a simple A-F with the following breakdown...
+
+::: {.callout-tip}
+## Grade A
+**A:** Attend **all** the classes, answer ***most quiz questions correctly***, and ***chime in***. Guaranteed A.
+:::
+
+::: {.callout-tip}
+## Grade B
+**B:** Attend **all** the classes, answer some quiz questions correctly and chime in. Good enough for a B.
+:::
+
+::: {.callout-tip}
+## Grade C
+**C:** Attend ***most*** of the classes, answer a few of the quiz questions correctly, and ALWAYS chime in. Yeah, you'll get a C.
+:::
+
+::: {.callout-warning}
+## Grade D
+**D:** Show up but don't engage and perform poorly on the quizzes.
+:::
+
+::: {.callout-caution}
+## Grade F
+**F:** Who are you?
+:::
+
+### Grade Weights
+
+Those grades will be predicated on the follow complex formula:
+
+::: {.callout-important icon="key"}
+## Your Keys to Success
+:::
+
++---------------------+------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Evaluation Criteria | Percent of Grade | Rationale                                                                                                                                                                                                                  | Expectation                                                                                                                                                                                                                              | Computation                                                                                                                                                                                                                                                          |
++:===================:+:================:+:==========================================================================================================================================================================================================================:+:========================================================================================================================================================================================================================================:+:====================================================================================================================================================================================================================================================================:+
+| Attendance          | 60%              | "80% of success in life is just showing up." – Woody Allen. For this class, showing up gives you 60%. Show up.                                                                                                             | Show up every day. You'll appreciate me, the course, learning, and your fellow students more if you do so.                                                                                                                               | 28 classes (2x/wk for 14 weeks). I expect everyone to attend at least 24 classes. Every class missed after those 4 means you lose 60%/24 or 2.5 percentage points per class.                                                                                         |
++---------------------+------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Quizzes             | 20%              | Show up and pay attention.  Weekly quizzes will be fun and easy but test your attendance (see above) and attention.                                                                                                        | Show up every day and listen to the discussion.  Go home and think.  Talk to your classmates.                                                                                                                                            | Weekly quizzes (N=14) but best 10.  Thus, you get a break for a month on quizzes.  Use the time wisely.                                                                                                                                                              |
++---------------------+------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Engagement          | 20%              | Talk to me.  Show me that you are alive and engaged.  Shy?  Post questions or comments to me via canvas.  Stay engaged.  Extroverted?  Speak up in class.  Everyone has an opportunity and avenue to engage. Please do so. | Show up every day, listen to the discussion, and contribute to it.  Your contributions make all the difference between an OK class and a great class.  Let's make it great together.  I invite you in and you contribute.  Are you game? | Do I know you via voice, email, canvas, or any other medium used by GMU that I have access to and use?  Knowing you want a better grade is not knowing your thoughts or ideas.  Please, make yourself and ideas known to me (and the rest of the class if you wish). |
++---------------------+------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Extra Credit        | 0%               | NONE. Don't ask.                                                                                                                                                                                                           | Do what is asked of you now and you won't have to make up the work you didn't do.  Come to class, attend to what I say, and stay engaged.  Expect nothing more or less.                                                                  | ***Not Applicable***                                                                                                                                                                                                                                                 |
++---------------------+------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+::: {.callout-warning icon="exclamation-triangle"}
+## Grading-related Policies
+
+**Late work:** None accepted
+
+**Missed exams:** No exams but missed quizzes result in a zero for the quiz. No make ups.
+
+**Team project responsibilities:** None
+:::
+
+::: {.callout-note icon="info-circle"}
+## Official Communications via GMU E-mail
+Mason uses electronic mail to provide official information to students. Examples include communications from course instructors, notices from the library, notices about academic standing, financial aid information, class materials, assignments, questions, and instructor feedback. Students are responsible for the content of university communications sent to their Mason e-mail account, and are required to activate that account and check it regularly. If you are having your Mason mail forwarded to another account, please ensure that your Mason account doesn't exceed the assigned limit, causing mail to bounce back to the sender.
+:::
+
+::: {.callout-note icon="universal-access"}
+## Disability Accommodations
+If you are a student with a disability and you need academic accommodations, please let me know early in the semester. If you have not already done so, contact the Office of Disability Services (ODS) at 703-993-2474. All academic accommodations must be arranged through that office. Please keep in mind that it might not be possible to grant last-minute requests for accommodations, so it is important to make all arrangements well before the date when the accommodation is needed. The Office of Disability Services website can be found at http://ods.gmu.edu
+:::
+
+::: {.callout-warning icon="shield-check"}
+## Academic Integrity
+The integrity of the University community is affected by the individual choices made by each of us. Mason has an Honor Code with clear guidelines regarding academic integrity. Three fundamental principles to follow at all times are: (1) all work submitted must be your own; (2) when using the work or ideas of others, including fellow students, give full credit through accurate citations; and (3) if you are uncertain about the ground rules on a particular assignment, ask for clarification. No grade is important enough to justify academic misconduct. More information on Mason's Honor Code can be found at http://oai.gmu.edu/the-mason-honor-code-2/
+:::
+
+::: {.callout-caution icon="zap"}
+## TL;DR - The Bottom Line
+
+Show up to your section, watch a (part of a) movie, complete the weekly quiz ***after paying attention***, and speak up during discussion in class or online (not during the movie). Do that, you earn an A. Anything short of that is negotiable.
+:::

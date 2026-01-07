@@ -1,0 +1,146 @@
+# PSYC 405 Film History
+
+This document records all films viewed and discussed in PSYC 405: Mystery, Madness & Murder. Films are generally not repeated across semesters to ensure fresh perspectives and diverse content for students who may take related courses.
+
+---
+
+## Films by Semester
+
+### Spring 2026
+
+#### Section 001
+| Film | Year | Module | Key Psychological Themes |
+|------|------|--------|--------------------------|
+| Shutter Island | 2010 | Mystery | Trauma, delusion, reality testing, institutional psychiatry |
+| North by Northwest | 1959 | Mystery | Mistaken identity, paranoia, perception manipulation |
+| Sunset Boulevard | 1950 | Mystery | Delusion, obsession, fantasy vs. reality |
+| Black Swan | 2010 | Madness | Perfectionism, psychosis, performance anxiety, identity |
+| Good Will Hunting | 1997 | Madness | Trauma, therapy, attachment, resistance to change |
+| What's Eating Gilbert Grape | 1993 | Madness | Developmental disability, caregiving, family dynamics |
+| Primal Fear | 1996 | Murder | Forensic psychology, malingering, courtroom psychology |
+| The Hurricane | 1999 | Murder | Wrongful conviction, systemic bias, justice |
+
+#### Section 002
+| Film | Year | Module | Key Psychological Themes |
+|------|------|--------|--------------------------|
+| The Machinist | 2004 | Mystery | Guilt, insomnia, reality distortion, deterioration |
+| Identity | 2003 | Mystery | Dissociative identity disorder, unreliable narrative |
+| Fight Club | 1999 | Mystery | DID, consumerism, unreliable narrator, identity |
+| Rain Man | 1988 | Madness | Autism spectrum, savant syndrome, relationships |
+| K-PAX | 2001 | Madness | Delusion vs. reality, therapeutic relationship |
+| Leaving Las Vegas | 1995 | Madness | Alcoholism, self-destruction, depression |
+| Nuremberg | 2025 | Murder | War crimes, moral judgment, obedience to authority |
+| Wind River | 2017 | Murder | Violence, trauma, justice in marginalized communities |
+
+---
+
+### Fall 2025
+
+#### Section 001
+| Film | Year | Module | Key Psychological Themes |
+|------|------|--------|--------------------------|
+| Vertigo | 1958 | Mystery | Obsession, acrophobia, identity, manipulation |
+| Memento | 2000 | Mystery | Anterograde amnesia, memory, identity, unreliable narrator |
+| One Flew Over the Cuckoo's Nest | 1975 | Madness | Institutional psychiatry, autonomy, rebellion |
+| Silver Linings Playbook | 2012 | Madness | Bipolar disorder, treatment, recovery, relationships |
+| To Kill a Mockingbird | 1962 | Murder | Racial injustice, moral courage, prejudice |
+| 12 Angry Men | 1957 | Murder | Jury psychology, persuasion, groupthink, bias |
+
+---
+
+### Spring 2025
+
+#### Sections 002 & 003
+| Film | Year | Module | Key Psychological Themes |
+|------|------|--------|--------------------------|
+| Diabolique | 1955 | Mystery | Deception, perception, belief manipulation |
+| Hoodwinked! | 2005 | Mystery | Narrative perspective, deception detection |
+| A Beautiful Mind | 2001 | Madness | Schizophrenia, hallucinations, treatment |
+| Jacob's Ladder | 1990 | Madness | Trauma, altered reality, PTSD |
+| The Hound of the Baskervilles | 1959 | Murder | Fear, superstition, rational investigation |
+| Murder by Death | 1976 | Murder | Detective psychology, deception, collective knowledge |
+
+---
+
+## Complete Film Index (Alphabetical)
+
+| Film | Year | Semester | Section(s) | Module |
+|------|------|----------|------------|--------|
+| 12 Angry Men | 1957 | Fall 2025 | 001 | Murder |
+| A Beautiful Mind | 2001 | Spring 2025 | 002, 003 | Madness |
+| Black Swan | 2010 | Spring 2026 | 001 | Madness |
+| Diabolique | 1955 | Spring 2025 | 002, 003 | Mystery |
+| Fight Club | 1999 | Spring 2026 | 002 | Mystery |
+| Good Will Hunting | 1997 | Spring 2026 | 001 | Madness |
+| Hoodwinked! | 2005 | Spring 2025 | 002, 003 | Mystery |
+| Identity | 2003 | Spring 2026 | 002 | Mystery |
+| Jacob's Ladder | 1990 | Spring 2025 | 002, 003 | Madness |
+| K-PAX | 2001 | Spring 2026 | 002 | Madness |
+| Leaving Las Vegas | 1995 | Spring 2026 | 002 | Madness |
+| Memento | 2000 | Fall 2025 | 001 | Mystery |
+| Murder by Death | 1976 | Spring 2025 | 002, 003 | Murder |
+| North by Northwest | 1959 | Spring 2026 | 001 | Mystery |
+| Nuremberg | 2025 | Spring 2026 | 002 | Murder |
+| One Flew Over the Cuckoo's Nest | 1975 | Fall 2025 | 001 | Madness |
+| Primal Fear | 1996 | Spring 2026 | 001 | Murder |
+| Rain Man | 1988 | Spring 2026 | 002 | Madness |
+| Shutter Island | 2010 | Spring 2026 | 001 | Mystery |
+| Silver Linings Playbook | 2012 | Fall 2025 | 001 | Madness |
+| Sunset Boulevard | 1950 | Spring 2026 | 001 | Mystery |
+| The Hound of the Baskervilles | 1959 | Spring 2025 | 002, 003 | Murder |
+| The Hurricane | 1999 | Spring 2026 | 001 | Murder |
+| The Machinist | 2004 | Spring 2026 | 002 | Mystery |
+| To Kill a Mockingbird | 1962 | Fall 2025 | 001 | Murder |
+| Vertigo | 1958 | Fall 2025 | 001 | Mystery |
+| What's Eating Gilbert Grape | 1993 | Spring 2026 | 001 | Madness |
+| Wind River | 2017 | Spring 2026 | 002 | Murder |
+
+---
+
+## Summary Statistics
+
+| Category | Count |
+|----------|-------|
+| **Total Unique Films** | 28 |
+| **Mystery Films** | 11 |
+| **Madness Films** | 11 |
+| **Murder Films** | 6 |
+
+### Films by Decade
+| Decade | Count |
+|--------|-------|
+| 1950s | 4 |
+| 1970s | 2 |
+| 1980s | 1 |
+| 1990s | 6 |
+| 2000s | 8 |
+| 2010s | 5 |
+| 2020s | 2 |
+
+---
+
+## Cross-Listed Films (PSYC 325: Psychopathology)
+
+The following films have been used in PSYC 325 and are excluded from PSYC 405 to avoid duplication for students taking both courses:
+
+| Film | Year | PSYC 325 Semester |
+|------|------|-------------------|
+| Girl, Interrupted | 1999 | Fall 2025 |
+| The Soloist | 2009 | Fall 2025 |
+| Reign Over Me | 2007 | Fall 2025 |
+| Repulsion | 1965 | Fall 2025 |
+| The Basketball Diaries | 1995 | Fall 2025 |
+
+---
+
+## Notes for Future Semesters
+
+- Films are selected to match module themes (Mystery, Madness, Murder)
+- Each section receives a unique film lineup within the same semester
+- Cross-reference with PSYC 325 to avoid student overlap
+- Consider film availability in the Class Movies directory
+- Balance classic and contemporary films for diverse perspectives
+
+---
+
+*Last updated: Spring 2026*

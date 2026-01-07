@@ -10,3 +10,11 @@
   netlify:
     - id: 8ca129e8-c5e3-4ab8-a7da-18f78e0da859
       url: https://gmu-psyc405f2025.netlify.app
+- source: PSYC405_S2026_001.qmd
+  netlify:
+    - id: 7b0f4c39-5d03-4b73-9072-665fe76892e5
+      url: https://poetic-toffee-bf20de.netlify.app
+- source: PSYC405_S2026_002.qmd
+  netlify:
+    - id: 43ea4334-a6fc-4dad-ba08-ec4a2e494c99
+      url: https://tangerine-phoenix-33721d.netlify.app

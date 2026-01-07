@@ -1,0 +1,58 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - index.qmd
+    - PSYC405_S2026_001.qmd
+    - PSYC405_S2026_002.qmd
+    - updated_syllabus.qmd
+    - PSYC405syllabus.qmd
+    - FILM_HISTORY.qmd
+    - course_structure.qmd
+    - timeline.qmd
+
+website:
+  title: "PSYC 405: Mystery, Madness & Murder"
+  description: "George Mason University - Course Materials"
+
+  navbar:
+    background: primary
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Current Syllabi"
+        menu:
+          - text: "Spring 2026 - Section 001"
+            href: PSYC405_S2026_001.qmd
+          - text: "Spring 2026 - Section 002"
+            href: PSYC405_S2026_002.qmd
+      - text: "Previous Syllabi"
+        menu:
+          - text: "Fall 2025"
+            href: updated_syllabus.qmd
+          - text: "Spring 2025"
+            href: PSYC405syllabus.qmd
+      - text: "Resources"
+        menu:
+          - text: "Film History"
+            href: FILM_HISTORY.qmd
+          - text: "Course Structure"
+            href: course_structure.qmd
+          - text: "Timeline"
+            href: timeline.qmd
+    right:
+      - icon: github
+        href: https://github.com/pem725/GMU-PSYC-405-Mystery-Madness-Murder
+
+  page-footer:
+    center: "PSYC 405 - George Mason University - Patrick E. McKnight, Ph.D."
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-depth: 3
+    code-fold: true
+
+execute:
+  freeze: auto

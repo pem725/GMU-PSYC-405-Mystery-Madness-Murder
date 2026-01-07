@@ -1,0 +1,71 @@
+---
+title: "PSYC 405: Mystery, Madness & Murder"
+subtitle: "George Mason University - Department of Psychology"
+---
+
+## Course Overview
+
+This course uses psychological science to analyze popular media portrayals of human behavior. Through critical examination of films depicting mystery, psychological complexity, and criminal behavior, students develop skills in:
+
+- **Behavioral Detection**: Observing and analyzing human behavior patterns
+- **Scientific Application**: Integrating psychological theories with real-world observations
+- **Critical Analysis**: Evaluating fictional vs. factual behavioral portrayals
+- **Media Literacy**: Understanding directorial intent and contextual influences
+
+## Current Semester: Spring 2026
+
+::: {.callout-tip}
+## Section 001 (9:00 AM - 10:15 AM)
+**Location:** Art and Design Building L008
+
+**Films:** Shutter Island, North by Northwest, Sunset Boulevard, Black Swan, Good Will Hunting, What's Eating Gilbert Grape, Primal Fear, The Hurricane
+
+[View Section 001 Syllabus](PSYC405_S2026_001.qmd)
+:::
+
+::: {.callout-tip}
+## Section 002 (10:30 AM - 11:45 AM)
+**Location:** Art and Design Building L008
+
+**Films:** The Machinist, Identity, Fight Club, Rain Man, K-PAX, Leaving Las Vegas, Nuremberg, Wind River
+
+[View Section 002 Syllabus](PSYC405_S2026_002.qmd)
+:::
+
+## Course Modules
+
+### Module 1: Mystery
+Exploration of perception, memory, and deception through psychological thrillers and detective stories.
+
+### Module 2: Madness
+Analysis of psychological disorders, their media representation, and scientific understanding.
+
+### Module 3: Murder
+Investigation of criminal psychology, moral reasoning, and justice through behavioral science.
+
+## Governing Areas of Inquiry
+
+Throughout the course, we examine films through six psychological lenses:
+
+1. **BELIEF** - Why do people believe weird things?
+2. **PURPOSE** - What will people do to protect their beliefs?
+3. **MOTIVATION** - What drives people to act?
+4. **UNCERTAINTY** - How do people handle the unknown?
+5. **DISCOMFORT** - What will people do for comfort?
+6. **EMOTION** - How much do emotions drive behavior?
+
+## Instructor
+
+**Patrick E. McKnight, Ph.D.**
+George Mason University
+Department of Psychology
+
+::: {.callout-note}
+## Contact
+**Email:** pmcknigh@gmu.edu (note: no "t")
+**Office Hours:** By appointment
+:::
+
+---
+
+*This is a Mason Apex course integrating psychological science with media analysis.*
