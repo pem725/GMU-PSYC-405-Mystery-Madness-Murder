@@ -71,10 +71,10 @@ Investigation of criminal psychology, moral reasoning, and justice through behav
 
 ### Auto-Publishing
 
-This site auto-deploys to Netlify when changes are pushed to `main`. Simply:
+This site auto-deploys via Netlify when changes are pushed to `main`. Simply:
 1. Edit or add `.qmd` files
-2. Commit and push
-3. Site rebuilds automatically
+2. Commit and push to GitHub
+3. Netlify automatically rebuilds and deploys
 
 ### New Semester Setup
 

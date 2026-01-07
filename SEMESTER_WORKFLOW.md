@@ -215,14 +215,23 @@ Examples:
 
 ## Auto-Deploy Configuration
 
-### GitHub Secrets Required
+Netlify is configured to automatically build and deploy when you push to the `main` branch.
 
-To enable auto-deployment, add these secrets to GitHub repository settings:
+### Netlify Build Settings
 
-| Secret Name | Description | How to Get |
-|-------------|-------------|------------|
-| `NETLIFY_AUTH_TOKEN` | Personal access token | Netlify User Settings > Applications > Personal access tokens |
-| `NETLIFY_SITE_ID` | Site API ID | Netlify Site Settings > General > Site ID |
+| Setting | Value |
+|---------|-------|
+| Repository | `pem725/GMU-PSYC-405-Mystery-Madness-Murder` |
+| Branch | `main` |
+| Build command | `quarto render` |
+| Publish directory | `_site` |
+
+### How It Works
+
+1. Push changes to `main` branch on GitHub
+2. Netlify detects the push automatically
+3. Netlify runs `quarto render` to build the site
+4. Site is deployed to your Netlify URL
 
 ### Manual Deployment (if needed)
 
