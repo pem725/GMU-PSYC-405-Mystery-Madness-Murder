@@ -1,0 +1,286 @@
+---
+title: "Student Evaluations & Course Reviews"
+subtitle: "PSYC 405: Mystery, Madness & Murder"
+author: "Patrick E. McKnight"
+format:
+  html:
+    toc: true
+    toc-depth: 3
+---
+
+## Overview
+
+This page presents student evaluation data from PSYC 405, providing transparency about the course experience. Both strengths and areas for improvement are included to help prospective students make informed decisions.
+
+::: {.callout-note}
+## About This Data
+All data comes from official GMU Student Evaluations of Teaching (SET). Response rates vary by section (41-69%). Ratings are on a 1-5 scale where 5 = Strongly Agree.
+:::
+
+---
+
+## Summary by Semester
+
+### Fall 2025 (Section 001)
+
+| Metric | Value |
+|--------|-------|
+| **Enrolled** | 35 |
+| **Responses** | 24 (68.57%) |
+| **Class Level** | 75% Seniors, 21% Juniors |
+| **Expected Grade** | 100% A |
+
+**Category Averages:**
+
+| Category | Course Mean | Dept (Psychology) | vs. Dept |
+|----------|:-----------:|:-----------------:|:--------:|
+| Student Participation | 4.40 | 4.27 | +0.13 |
+| Learning Outcomes | 4.51 | 4.43 | +0.08 |
+| Course Environment | 4.67 | 4.49 | +0.18 |
+| Instructor Preparation | 4.57 | 4.49 | +0.08 |
+
+---
+
+### Spring 2025 (Section 002)
+
+| Metric | Value |
+|--------|-------|
+| **Enrolled** | 35 |
+| **Responses** | 16 (45.71%) |
+| **Class Level** | 47% Seniors, 53% Juniors |
+| **Expected Grade** | 93% A, 7% B |
+
+**Category Averages:**
+
+| Category | Course Mean | Dept (Psychology) | vs. Dept |
+|----------|:-----------:|:-----------------:|:--------:|
+| Student Participation | 4.44 | 4.38 | +0.06 |
+| Learning Outcomes | 4.69 | 4.40 | +0.29 |
+| Course Environment | 4.81 | 4.46 | +0.35 |
+| Instructor Preparation | 4.88 | 4.48 | +0.40 |
+
+---
+
+### Spring 2025 (Section 003)
+
+| Metric | Value |
+|--------|-------|
+| **Enrolled** | 34 |
+| **Responses** | 14 (41.18%) |
+| **Class Level** | 57% Seniors, 36% Juniors |
+| **Expected Grade** | 93% A, 7% B |
+
+**Category Averages:**
+
+| Category | Course Mean | Dept (Psychology) | vs. Dept |
+|----------|:-----------:|:-----------------:|:--------:|
+| Student Participation | 4.16 | 4.38 | -0.22 |
+| Learning Outcomes | 4.28 | 4.40 | -0.12 |
+| Course Environment | 4.53 | 4.46 | +0.07 |
+| Instructor Preparation | 4.45 | 4.48 | -0.03 |
+
+---
+
+## Comparison to Benchmarks
+
+::: {.callout-tip}
+## For Annual Evaluations
+This section provides detailed comparisons to Department (Psychology), School (Humanities & Social Sciences), and Institution averages.
+:::
+
+### Key Instructor Metrics vs. Department Average
+
+The following table shows course means averaged across all three sections compared to Psychology Department averages:
+
+| Metric | Course Avg | Dept Avg | Difference | Interpretation |
+|--------|:----------:|:--------:|:----------:|----------------|
+| Teaching methods/style | 4.56 | 4.31 | **+0.25** | Above average |
+| Created engaging environment | 4.71 | 4.44 | **+0.27** | Above average |
+| Encouraged diverse perspectives | 4.79 | 4.56 | **+0.23** | Above average |
+| Offered feedback opportunities | 4.75 | 4.42 | **+0.33** | Well above average |
+| Technology/resources | 4.61 | 4.42 | **+0.19** | Above average |
+| Course organization | 4.55 | 4.40 | **+0.15** | Above average |
+| Communicated requirements | 4.68 | 4.53 | **+0.15** | Above average |
+| Presented content clearly | 4.67 | 4.52 | **+0.15** | Above average |
+
+### Highest-Rated Items (Across All Sections)
+
+1. **Encouraged diverse perspectives**: 4.79 (Dept: 4.56) — *+0.23*
+2. **Offered student feedback opportunities**: 4.75 (Dept: 4.42) — *+0.33*
+3. **Created engaging environment**: 4.71 (Dept: 4.44) — *+0.27*
+
+### Areas Near or Below Department Average
+
+1. **Student contribution to discussions**: 4.06 (Dept: 4.26) — *-0.20*
+2. **Variety of learning opportunities**: 4.29 (Dept: 4.44) — *-0.15*
+3. **Office hours accessibility**: 4.49 (Dept: 4.51) — *-0.02*
+
+---
+
+## What Students Say
+
+### What Students Valued Most
+
+::: {.callout-tip icon="false"}
+## The Learning Environment
+
+> *"I have never had a professor so excited to be with students before. It made the class engaging and approachable. I was excited to come to class every week. Patrick fostered an environment of curiosity and encouraged students to speak up in discussion."*
+> — Fall 2025 Student
+
+> *"This was my favorite class this semester. The professor was super adaptive and responded to emails quickly. He made the class seem like it wasn't a requirement because he made it feel like it was for fun."*
+> — Fall 2025 Student
+
+> *"Dr. McKnight values the sharing of knowledge above all else and it shows in his teaching. There's no pressure or frustration with his method of teaching. I felt relaxed, I felt like I learned, and most of all I enjoyed myself."*
+> — Spring 2025 Student
+:::
+
+::: {.callout-tip icon="false"}
+## Discussion-Based Learning
+
+> *"The open discussions during this course were very helpful in understanding how others view what we're watching. The lecture itself was very engaging which made it easier to pick up on the greater lesson."*
+> — Fall 2025 Student
+
+> *"Professor McKnight connected the films we watched to relevant, interesting psychological concepts."*
+> — Fall 2025 Student
+
+> *"The class discussions as a class were amazing. I do remember a lot of deep conversations that were often steered back to the movie. The instructor was very good at relating psychological principles in the movie back to real life."*
+> — Spring 2025 Student
+:::
+
+::: {.callout-tip icon="false"}
+## Personal Impact
+
+> *"Learning through movies and then analyzing them and relating it back to psychology was really fun and Patrick honestly made me remember that I still like to learn. Best teacher I've had at GMU hands down."*
+> — Spring 2025 Student
+
+> *"None, this course is probably the best course I've taken at Mason."*
+> — Fall 2025 Student (asked for least valuable aspects)
+
+> *"Professor McKnight makes everyone comfortable and willing to learn and engage. It was a pleasure to be in his class as he made me feel seen, heard, and appreciated."*
+> — Spring 2025 Student
+:::
+
+---
+
+### Constructive Feedback & Suggestions
+
+::: {.callout-warning icon="false"}
+## Requests for More Structure
+
+> *"I think we needed more written or hands on assignments. Even just 5 or 6 would have been helpful, or an end of year assignment, metacognition, anything where we could have picked out our favorite movie and written about it."*
+> — Spring 2025 Student
+
+> *"There were not many assignments, so most topics were learned from discussion which did not provide as much practice or application."*
+> — Fall 2025 Student
+
+> *"We did not have any course work besides minimal quizzes. I wish the class was a little more structured."*
+> — Fall 2025 Student
+:::
+
+::: {.callout-warning icon="false"}
+## Schedule Clarity
+
+> *"A little clearer communication on what days we will have quizzes (not a big deal but it is something to consider)."*
+> — Fall 2025 Student
+
+> *"A clear schedule of when movies will be played / when discussions will be had regarding the movie."*
+> — Fall 2025 Student
+:::
+
+::: {.callout-warning icon="false"}
+## One Dissenting Voice
+
+> *"I understand Patrick does not follow teaching in the old fashioned way (readings, slides, exams) but honestly that is how I have been learning so far... those points that were talked about in class were not stored in my long term memory because even if I tried to take notes, it was hard because they were dialogues."*
+> — Spring 2025 Student
+
+*Note: This represents a minority view. The discussion-based, film-centered approach is intentional and valued by most students, but may not suit every learning style.*
+:::
+
+---
+
+## Course Philosophy & Response to Feedback
+
+### Why This Course Looks Different
+
+This course is intentionally **not** a traditional lecture-based class. As a **Mason Apex** capstone course, the goal is to integrate skills across your undergraduate education through critical analysis, discussion, and synthesis—not memorization of facts.
+
+The discussion-based approach and minimal traditional assignments are **by design**:
+
+- **Films as texts**: Movies provide shared experiences for psychological analysis
+- **Discussion over exams**: Real understanding emerges through articulation and debate
+- **Attendance-based grading**: Presence and engagement matter more than test performance
+- **Low-stakes environment**: Reduces anxiety, encourages risk-taking in thinking
+
+### Addressing Common Concerns
+
+| Concern | Response |
+|---------|----------|
+| "Need more assignments" | The course now includes **discussion questions** for each film to provide guided reflection points. Weekly quizzes remain low-stakes but reinforce key concepts. |
+| "Schedule unclear" | The syllabus now includes detailed week-by-week schedules with specific film assignments and quiz weeks clearly marked. |
+| "Hard to take notes on discussions" | The new **Film Resources & Discussion Questions** section provides pre-reading prompts tied to course themes (Belief, Purpose, Motivation, Uncertainty, Discomfort, Emotion). |
+| "Traditional learners struggle" | This is acknowledged. Students who prefer lecture/exam formats may find other courses more suitable. This course rewards presence and participation. |
+
+---
+
+## Student Recommendations
+
+Students consistently recommend this course:
+
+- **100%** of Fall 2025 respondents expected to receive an A
+- Multiple students explicitly stated they **recommended the course to friends**
+- Comments like "best course at Mason" and "best professor I've had" appeared across sections
+
+### Who Should Take This Course
+
+This course is ideal for students who:
+
+- Enjoy discussion and expressing their perspectives
+- Want to apply psychology to real-world (and fictional) scenarios
+- Appreciate a relaxed, engagement-focused learning environment
+- Are comfortable with minimal traditional assignments
+
+This course may be challenging for students who:
+
+- Strongly prefer structured lecture/exam formats
+- Need written assignments to encode information
+- Are uncomfortable participating in class discussions
+
+---
+
+## Obstacles Beyond Instructor Control
+
+When asked about obstacles to learning beyond the instructor's control, students overwhelmingly reported **none**:
+
+- "There were no obstacles with this class, this teacher always had open communication"
+- "No, not at all this course was magnificent"
+- "No significant obstacles to learning"
+
+The only external factors mentioned were personal (commuting, illness) rather than course-related.
+
+---
+
+## Summary Statistics for Annual Evaluation
+
+::: {.callout-important}
+## Executive Summary for Performance Reviews
+
+**Overall Performance**: PSYC 405 ratings consistently **exceed departmental and institutional averages** on instructor-controlled metrics.
+
+**Strongest Areas** (all above department average):
+- Encouraging diverse perspectives (+0.23 above dept)
+- Offering feedback opportunities (+0.33 above dept)
+- Creating engaging environment (+0.27 above dept)
+- Teaching methods/style (+0.25 above dept)
+
+**Areas for Monitoring**:
+- Student discussion participation varies by section
+- Some students request more written assignments (intentional design choice)
+
+**Student Satisfaction**: Extremely high. Multiple unprompted comments describe this as "best course at Mason" and "best professor I've had."
+
+**Response to Feedback**: Discussion questions have been added to syllabi to provide structured reflection opportunities while maintaining the course's signature discussion-based approach.
+:::
+
+---
+
+*Last updated: January 2026*
