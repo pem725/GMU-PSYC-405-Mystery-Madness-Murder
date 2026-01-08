@@ -1,6 +1,33 @@
 # PSYC 405: Mystery, Madness & Murder
 **George Mason University - Department of Psychology**
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/8ca129e8-c5e3-4ab8-a7da-18f78e0da859/deploy-status)](https://app.netlify.com/projects/gmu-psyc405f2025/deploys)
+
+## 🌐 [Visit the Course Website](https://gmu-psyc405f2025.netlify.app/)
+
+---
+
+## ⭐ Student Reviews: Consistently Above Department Average
+
+**This course outperforms other Psychology Department courses across all instructor-controlled metrics.** Based on official GMU Student Evaluations of Teaching:
+
+| What Students Rate | Course | Dept Avg | Above Avg By |
+|--------------------|:------:|:--------:|:------------:|
+| Encouraged diverse perspectives | 4.79 | 4.56 | **+0.23** |
+| Offered feedback opportunities | 4.75 | 4.42 | **+0.33** |
+| Created engaging environment | 4.71 | 4.44 | **+0.27** |
+| Teaching methods & style | 4.56 | 4.31 | **+0.25** |
+
+> *"This was my favorite class this semester... He made the class seem like it wasn't a requirement because he made it feel like it was for fun."* — Student, Fall 2025
+
+> *"Best teacher I've had at GMU hands down."* — Student, Spring 2025
+
+> *"None, this course is probably the best course I've taken at Mason."* — Student asked about least valuable aspects
+
+📊 **[Read Full Student Reviews & Evaluation Data →](https://gmu-psyc405f2025.netlify.app/PAST_REVIEWS.html)**
+
+---
+
 ## Course Overview
 
 This course uses psychological science to analyze popular media portrayals of human behavior. Through critical examination of films depicting mystery, psychological complexity, and criminal behavior, students develop skills in:
