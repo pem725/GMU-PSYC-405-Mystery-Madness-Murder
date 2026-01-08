@@ -82,12 +82,24 @@ What gives life meaning? How does purpose relate to happiness and well-being? Th
 
 ---
 
-### EMOTION: Regulation and Expression
+### EMOTION: Regulation and Differentiation
 
-Understanding how we manage our emotional responses is central to many of the psychological phenomena depicted in our films.
+Understanding how we manage our emotional responses is central to many of the psychological phenomena depicted in our films. Recent research highlights the importance of *emotion differentiation*—the ability to make fine-grained distinctions between emotional states.
 
 ::: {.callout-note icon="false"}
 ## Key Readings
+
+**Kashdan, T. B., Barrett, L. F., & McKnight, P. E.** (2015). Unpacking emotion differentiation: Transforming unpleasant experience by perceiving distinctions in negativity. *Current Directions in Psychological Science, 24*(1), 10-16. [Read](https://www.jstor.org/stable/44318822){target="_blank"}
+
+- Key review showing that people who differentiate emotions with high granularity are less likely to resort to maladaptive strategies (binge drinking, aggression, self-harm) when distressed.
+
+**Kalokerinos, E. K., Erbas, Y., Ceulemans, E., & Kuppens, P.** (2019). Differentiate to regulate: Low negative emotion differentiation is associated with ineffective use of emotion-regulation strategies. *Psychological Science, 30*(6), 863-879. [Read](https://www.jstor.org/stable/26957266){target="_blank"}
+
+- Experience-sampling study demonstrating that low emotion differentiators use regulation strategies less effectively—all strategies are associated with *increased* negative emotion for them.
+
+**Feldman Barrett, L., Gross, J. J., Conner Christensen, T., & Benvenuto, M.** (2001). Knowing what you're feeling and knowing what to do about it. *Cognition & Emotion, 15*(6), 713-724. [DOI](https://doi.org/10.1080/02699930143000239){target="_blank"}
+
+- Foundational study linking emotion differentiation to regulation frequency, especially at high emotional intensity.
 
 **Gross, J. J.** (2015). Emotion regulation: Current status and future prospects. *Psychological Inquiry, 26*(1), 1-26. [DOI](https://doi.org/10.1080/1047840X.2014.940781){target="_blank"}
 
@@ -135,9 +147,9 @@ These readings explore the intersection of psychology and law, particularly rega
 
 - Meta-analysis challenging the assumption that psychopaths lack moral understanding. The relationship between psychopathy and moral judgment is smaller than commonly believed.
 
-**The "Guilty Mind:" Mens Rea** (Book Section)
+**Morse, S. J.** (1992). The "guilty mind:" Mens rea. In D. K. Kagehiro & W. S. Laufer (Eds.), *Handbook of Psychology and Law* (pp. 207-229). Springer. [DOI](https://doi.org/10.1007/978-1-4757-4038-7_11){target="_blank"}
 
-- Foundational reading on *mens rea* (the "guilty mind")—the mental state requirement for criminal liability. Essential for understanding how psychology intersects with legal determinations of criminal intent.
+- Definitive chapter clarifying the confusing legal concept of *mens rea* (guilty mind). Explains why this mental state requirement is central to criminal liability and distinguishes "specific" from "general" intent.
 
 **Diamond, B. L.** (1961). Criminal responsibility of the mentally ill. *Stanford Law Review, 14*(1), 59-86. [Read](https://heinonline.org/HOL/P?h=hein.journals/stflr14&i=79){target="_blank"}
 
