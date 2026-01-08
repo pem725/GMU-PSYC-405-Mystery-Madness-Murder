@@ -1,0 +1,151 @@
+---
+title: "Course Readings & Resources"
+subtitle: "PSYC 405: Mystery, Madness & Murder"
+author: "Patrick E. McKnight"
+format:
+  html:
+    toc: true
+    toc-depth: 3
+bibliography: references.bib
+nocite: |
+  @*
+---
+
+## Overview
+
+This page provides access to academic readings and resources that support our course discussions. These materials are curated to deepen your understanding of the psychological concepts we explore through film.
+
+::: {.callout-tip}
+## Zotero Library Access
+All references are available in our public Zotero group library. You can:
+
+- **Browse online:** [PSYC 405 Zotero Library](https://www.zotero.org/groups/6375337/psyc_-mystery_madness_murder/library){target="_blank"}
+- **Subscribe:** Add this library to your own Zotero account to stay updated as new readings are added
+- **Download:** Export references in any citation format (APA, MLA, Chicago, etc.)
+
+The library is continuously updated throughout the semester with new relevant materials.
+:::
+
+---
+
+## Readings by Course Theme
+
+### BELIEF: Why People Believe Weird Things
+
+These readings explore the psychology of belief formation, pseudoscience, and why intelligent people sometimes hold irrational beliefs.
+
+::: {.callout-note icon="false"}
+## Key Readings
+
+**Shermer, M.** (2002). *Why people believe weird things: Pseudoscience, superstition, and other confusions of our time.* St. Martin's Griffin.
+
+- The foundational text on this topic. Shermer examines everything from alien abductions to Holocaust denial.
+
+**Shermer, M.** (2002). Smart people believe weird things. *Scientific American, 287*(3), 35. [DOI](https://doi.org/10.1038/scientificamerican0902-35){target="_blank"}
+
+- Why does education not protect against irrational beliefs? Shermer argues smart people are better at rationalizing beliefs they arrived at for non-rational reasons.
+
+**Matthews, R.** (2005). Why do people believe weird things? *Significance, 2*(4), 182-184. [DOI](https://doi.org/10.1111/j.1740-9713.2005.00134.x){target="_blank"}
+
+- A statistician's perspective on why "irrational" beliefs may be more rational than scientists assume.
+
+**Boudry, M., Blancke, S., & Pigliucci, M.** (2015). What makes weird beliefs thrive? The epidemiology of pseudoscience. *Philosophical Psychology, 28*(8), 1177-1198. [DOI](https://doi.org/10.1080/09515089.2014.971946){target="_blank"}
+
+- How do pseudoscientific beliefs spread? An epidemiological model of belief transmission.
+
+**Boudry, M., & Braeckman, J.** (2012). How convenient! The epistemic rationale of self-validating belief systems. *Philosophical Psychology, 25*(3), 341-364. [DOI](https://doi.org/10.1080/09515089.2011.579420){target="_blank"}
+
+- Why are some belief systems so resistant to contrary evidence? The psychology of "immunizing strategies."
+:::
+
+---
+
+### EMOTION: Regulation and Expression
+
+Understanding how we manage our emotional responses is central to many of the psychological phenomena depicted in our films.
+
+::: {.callout-note icon="false"}
+## Key Readings
+
+**Gross, J. J.** (2015). Emotion regulation: Current status and future prospects. *Psychological Inquiry, 26*(1), 1-26. [DOI](https://doi.org/10.1080/1047840X.2014.940781){target="_blank"}
+
+- The definitive overview of emotion regulation research. Gross introduces the process model that distinguishes between different regulation strategies (suppression vs. reappraisal).
+:::
+
+---
+
+### MOTIVATION: Social Dominance and Power
+
+What drives people to seek power over others? How do social hierarchies shape behavior?
+
+::: {.callout-note icon="false"}
+## Key Readings
+
+**Pratto, F., Sidanius, J., Stallworth, L. M., & Malle, B. F.** (1994). Social dominance orientation: A personality variable predicting social and political attitudes. *Journal of Personality and Social Psychology, 67*(4), 741-763. [DOI](https://doi.org/10.1037/0022-3514.67.4.741){target="_blank"}
+
+- Introduces Social Dominance Orientation (SDO)—the preference for social hierarchy. SDO predicts attitudes toward policies affecting intergroup relations.
+:::
+
+---
+
+### UNCERTAINTY: Deception and Detection
+
+Can we really tell when someone is lying? These readings challenge common assumptions about deception detection.
+
+::: {.callout-note icon="false"}
+## Key Readings
+
+**Vrij, A., Hartwig, M., & Granhag, P. A.** (2019). Reading lies: Nonverbal communication and deception. *Annual Review of Psychology, 70*, 295-317. [DOI](https://doi.org/10.1146/annurev-psych-010418-103135){target="_blank"}
+
+- A comprehensive review showing that nonverbal cues to deception are "faint and unreliable" and that people are mediocre lie detectors. Challenges the popular belief in body language as a lie detection tool.
+:::
+
+---
+
+### MURDER: Psychopathy, Morality, and Criminal Responsibility
+
+These readings explore the intersection of psychology and law, particularly regarding moral reasoning and criminal responsibility.
+
+::: {.callout-note icon="false"}
+## Key Readings
+
+**Marshall, J., Watts, A. L., & Lilienfeld, S. O.** (2018). Do psychopathic individuals possess a misaligned moral compass? A meta-analytic examination of psychopathy's relations with moral judgment. *Personality Disorders: Theory, Research, and Treatment, 9*(1), 40-50. [DOI](https://doi.org/10.1037/per0000226){target="_blank"}
+
+- Meta-analysis challenging the assumption that psychopaths lack moral understanding. The relationship between psychopathy and moral judgment is smaller than commonly believed.
+
+**Diamond, B. L.** (1961). Criminal responsibility of the mentally ill. *Stanford Law Review, 14*(1), 59-86. [Read](https://heinonline.org/HOL/P?h=hein.journals/stflr14&i=79){target="_blank"}
+
+- Classic article on the insanity defense and the legal-psychological complexities of holding mentally ill individuals criminally responsible.
+
+**Diamantis, M. E.** (2015). Corporate criminal minds. *Notre Dame Law Review, 91*(5), 2049-2090. [Read](https://heinonline.org/HOL/P?h=hein.journals/tndl91&i=2099){target="_blank"}
+
+- Can corporations have criminal intent? An exploration of how we attribute mental states to non-human entities.
+:::
+
+---
+
+## How to Use These Resources
+
+### For Class Discussions
+Before we discuss a film, consider skimming the relevant readings. They provide theoretical frameworks for understanding character motivations, psychological phenomena, and the realism (or lack thereof) in film portrayals.
+
+### For Your Own Learning
+These readings go deeper than our class discussions can. If a topic sparks your interest, dive into the primary sources.
+
+### Citation
+All references are available in proper citation format through the Zotero library. Export in APA, MLA, or any format you need.
+
+---
+
+## Full Bibliography
+
+The complete list of references, organized by theme:
+
+::: {#refs}
+:::
+
+---
+
+*This reading list is continuously updated. Check back throughout the semester or subscribe to the [Zotero library](https://www.zotero.org/groups/6375337/psyc_-mystery_madness_murder/library){target="_blank"} for the latest additions.*
+
+*Last updated: January 2026*

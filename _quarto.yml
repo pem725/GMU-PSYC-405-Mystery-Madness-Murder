@@ -8,6 +8,7 @@ project:
     - updated_syllabus.qmd
     - PSYC405syllabus.qmd
     - FILM_HISTORY.qmd
+    - READINGS.qmd
     - PAST_REVIEWS.qmd
 
 website:
@@ -33,6 +34,8 @@ website:
             href: PSYC405syllabus.qmd
       - text: "Film History"
         href: FILM_HISTORY.qmd
+      - text: "Readings"
+        href: READINGS.qmd
       - text: "Past Reviews"
         href: PAST_REVIEWS.qmd
     right:
