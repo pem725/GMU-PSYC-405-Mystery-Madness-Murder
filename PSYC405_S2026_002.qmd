@@ -29,14 +29,14 @@ format:
 | May 4 (Mon) | Last day of PSYC 405 classes |
 | May 6-13 | Final examination period |
 
-## WHO: [Patrick E. McKnight](https://psychology.gmu.edu/people/pmcknigh "My GMU profile")
+## WHO: [Patrick E. McKnight](https://psychology.gmu.edu/people/pmcknigh "My GMU profile"){target="_blank"}
 
 ![](20130820_123617.jpg)
 
 ::: {.callout-note icon="envelope"}
 ## Contact
 
-**pmcknigh** (note the lack of a "t") at **gmu.edu** OR via [canvas](https://canvas.gmu.edu "Ask your professor!")
+**pmcknigh** (note the lack of a "t") at **gmu.edu** OR via [canvas](https://canvas.gmu.edu "Ask your professor!"){target="_blank"}
 
 **Office Hours:** By appointment via Zoom or in person
 
@@ -45,7 +45,7 @@ format:
 
 ## WHAT: Course Description/Overview
 
-PSYC 405 (Mystery, Madness, and Murder) fulfills requirements for **Mason Apex** in Mason Core. What that means can be better explained via their [website](https://masoncore.gmu.edu/). For us, I want you to wonder. Ever wonder how psychology can be applied in every aspect of your life? Not pop psychology but real psychological science? Some stuff out there is real and real common. We will observe both factual and fictional depictions of human behavior, dissect the behavior according to science, and discuss the results of our collective inquiry. We will learn and apply psychological science together. My aim is to work with you to create a course you fondly recall for many years. Let's do it together. How? Well, you need to know what is expected...
+PSYC 405 (Mystery, Madness, and Murder) fulfills requirements for **Mason Apex** in Mason Core. What that means can be better explained via their [website](https://masoncore.gmu.edu/){target="_blank"}. For us, I want you to wonder. Ever wonder how psychology can be applied in every aspect of your life? Not pop psychology but real psychological science? Some stuff out there is real and real common. We will observe both factual and fictional depictions of human behavior, dissect the behavior according to science, and discuss the results of our collective inquiry. We will learn and apply psychological science together. My aim is to work with you to create a course you fondly recall for many years. Let's do it together. How? Well, you need to know what is expected...
 
 ## DEMANDS: Course Learning Outcomes
 
@@ -141,7 +141,7 @@ Use these links to explore background information, reviews, and critical analyse
 ### Mystery Module Films
 
 #### The Machinist (2004)
-**Links:** [IMDB](https://www.imdb.com/title/tt0361862/) (7.6/10) | [Rotten Tomatoes](https://www.rottentomatoes.com/m/machinist) (77%)
+**Links:** [IMDB](https://www.imdb.com/title/tt0361862/){target="_blank"} (7.6/10) | [Rotten Tomatoes](https://www.rottentomatoes.com/m/machinist){target="_blank"} (77%)
 
 ::: {.callout-tip}
 ## Discussion Questions
@@ -152,7 +152,7 @@ Use these links to explore background information, reviews, and critical analyse
 :::
 
 #### Identity (2003)
-**Links:** [IMDB](https://www.imdb.com/title/tt0309698/) (7.3/10) | [Rotten Tomatoes](https://www.rottentomatoes.com/m/identity) (63%)
+**Links:** [IMDB](https://www.imdb.com/title/tt0309698/){target="_blank"} (7.3/10) | [Rotten Tomatoes](https://www.rottentomatoes.com/m/identity){target="_blank"} (63%)
 
 ::: {.callout-tip}
 ## Discussion Questions
@@ -163,7 +163,7 @@ Use these links to explore background information, reviews, and critical analyse
 :::
 
 #### Fight Club (1999)
-**Links:** [IMDB](https://www.imdb.com/title/tt0137523/) (8.8/10) | [Rotten Tomatoes](https://www.rottentomatoes.com/m/fight_club) (81%)
+**Links:** [IMDB](https://www.imdb.com/title/tt0137523/){target="_blank"} (8.8/10) | [Rotten Tomatoes](https://www.rottentomatoes.com/m/fight_club){target="_blank"} (81%)
 
 ::: {.callout-tip}
 ## Discussion Questions
@@ -176,7 +176,7 @@ Use these links to explore background information, reviews, and critical analyse
 ### Madness Module Films
 
 #### Rain Man (1988)
-**Links:** [IMDB](https://www.imdb.com/title/tt0095953/) (8.0/10) | [Rotten Tomatoes](https://www.rottentomatoes.com/m/rain_man) (88%)
+**Links:** [IMDB](https://www.imdb.com/title/tt0095953/){target="_blank"} (8.0/10) | [Rotten Tomatoes](https://www.rottentomatoes.com/m/rain_man){target="_blank"} (88%)
 
 ::: {.callout-tip}
 ## Discussion Questions
@@ -187,7 +187,7 @@ Use these links to explore background information, reviews, and critical analyse
 :::
 
 #### K-PAX (2001)
-**Links:** [IMDB](https://www.imdb.com/title/tt0272152/) (7.4/10) | [Rotten Tomatoes](https://www.rottentomatoes.com/m/kpax) (42%)
+**Links:** [IMDB](https://www.imdb.com/title/tt0272152/){target="_blank"} (7.4/10) | [Rotten Tomatoes](https://www.rottentomatoes.com/m/kpax){target="_blank"} (42%)
 
 ::: {.callout-tip}
 ## Discussion Questions
@@ -198,7 +198,7 @@ Use these links to explore background information, reviews, and critical analyse
 :::
 
 #### Leaving Las Vegas (1995)
-**Links:** [IMDB](https://www.imdb.com/title/tt0113627/) (7.5/10) | [Rotten Tomatoes](https://www.rottentomatoes.com/m/leaving_las_vegas) (91%)
+**Links:** [IMDB](https://www.imdb.com/title/tt0113627/){target="_blank"} (7.5/10) | [Rotten Tomatoes](https://www.rottentomatoes.com/m/leaving_las_vegas){target="_blank"} (91%)
 
 ::: {.callout-tip}
 ## Discussion Questions
@@ -211,7 +211,7 @@ Use these links to explore background information, reviews, and critical analyse
 ### Murder Module Films
 
 #### Nuremberg (2025)
-**Links:** [IMDB](https://www.imdb.com/title/tt26743110/) (7.4/10) | [Rotten Tomatoes](https://www.rottentomatoes.com/m/nuremberg_2025) (71%)
+**Links:** [IMDB](https://www.imdb.com/title/tt26743110/){target="_blank"} (7.4/10) | [Rotten Tomatoes](https://www.rottentomatoes.com/m/nuremberg_2025){target="_blank"} (71%)
 
 ::: {.callout-tip}
 ## Discussion Questions
@@ -222,7 +222,7 @@ Use these links to explore background information, reviews, and critical analyse
 :::
 
 #### Wind River (2017)
-**Links:** [IMDB](https://www.imdb.com/title/tt5362988/) (7.7/10) | [Rotten Tomatoes](https://www.rottentomatoes.com/m/wind_river_2017) (87%)
+**Links:** [IMDB](https://www.imdb.com/title/tt5362988/){target="_blank"} (7.7/10) | [Rotten Tomatoes](https://www.rottentomatoes.com/m/wind_river_2017){target="_blank"} (87%)
 
 ::: {.callout-tip}
 ## Discussion Questions

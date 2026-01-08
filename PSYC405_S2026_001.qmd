@@ -29,14 +29,14 @@ format:
 | May 4 (Mon) | Last day of PSYC 405 classes |
 | May 6-13 | Final examination period |
 
-## WHO: [Patrick E. McKnight](https://psychology.gmu.edu/people/pmcknigh "My GMU profile")
+## WHO: [Patrick E. McKnight](https://psychology.gmu.edu/people/pmcknigh "My GMU profile"){target="_blank"}
 
 ![](20130820_123617.jpg)
 
 ::: {.callout-note icon="envelope"}
 ## Contact
 
-**pmcknigh** (note the lack of a "t") at **gmu.edu** OR via [canvas](https://canvas.gmu.edu "Ask your professor!")
+**pmcknigh** (note the lack of a "t") at **gmu.edu** OR via [canvas](https://canvas.gmu.edu "Ask your professor!"){target="_blank"}
 
 **Office Hours:** By appointment via Zoom or in person
 
@@ -45,7 +45,7 @@ format:
 
 ## WHAT: Course Description/Overview
 
-PSYC 405 (Mystery, Madness, and Murder) fulfills requirements for **Mason Apex** in Mason Core. What that means can be better explained via their [website](https://masoncore.gmu.edu/). For us, I want you to wonder. Ever wonder how psychology can be applied in every aspect of your life? Not pop psychology but real psychological science? Some stuff out there is real and real common. We will observe both factual and fictional depictions of human behavior, dissect the behavior according to science, and discuss the results of our collective inquiry. We will learn and apply psychological science together. My aim is to work with you to create a course you fondly recall for many years. Let's do it together. How? Well, you need to know what is expected...
+PSYC 405 (Mystery, Madness, and Murder) fulfills requirements for **Mason Apex** in Mason Core. What that means can be better explained via their [website](https://masoncore.gmu.edu/){target="_blank"}. For us, I want you to wonder. Ever wonder how psychology can be applied in every aspect of your life? Not pop psychology but real psychological science? Some stuff out there is real and real common. We will observe both factual and fictional depictions of human behavior, dissect the behavior according to science, and discuss the results of our collective inquiry. We will learn and apply psychological science together. My aim is to work with you to create a course you fondly recall for many years. Let's do it together. How? Well, you need to know what is expected...
 
 ## DEMANDS: Course Learning Outcomes
 
@@ -141,7 +141,7 @@ Use these links to explore background information, reviews, and critical analyse
 ### Mystery Module Films
 
 #### Shutter Island (2010)
-**Links:** [IMDB](https://www.imdb.com/title/tt1130884/) (8.2/10) | [Rotten Tomatoes](https://www.rottentomatoes.com/m/shutter_island) (69%)
+**Links:** [IMDB](https://www.imdb.com/title/tt1130884/){target="_blank"} (8.2/10) | [Rotten Tomatoes](https://www.rottentomatoes.com/m/shutter_island){target="_blank"} (69%)
 
 ::: {.callout-tip}
 ## Discussion Questions
@@ -152,7 +152,7 @@ Use these links to explore background information, reviews, and critical analyse
 :::
 
 #### North by Northwest (1959)
-**Links:** [IMDB](https://www.imdb.com/title/tt0053125/) (8.3/10) | [Rotten Tomatoes](https://www.rottentomatoes.com/m/north_by_northwest) (97%)
+**Links:** [IMDB](https://www.imdb.com/title/tt0053125/){target="_blank"} (8.3/10) | [Rotten Tomatoes](https://www.rottentomatoes.com/m/north_by_northwest){target="_blank"} (97%)
 
 ::: {.callout-tip}
 ## Discussion Questions
@@ -163,7 +163,7 @@ Use these links to explore background information, reviews, and critical analyse
 :::
 
 #### Sunset Boulevard (1950)
-**Links:** [IMDB](https://www.imdb.com/title/tt0043014/) (8.4/10) | [Rotten Tomatoes](https://www.rottentomatoes.com/m/sunset_boulevard) (98%)
+**Links:** [IMDB](https://www.imdb.com/title/tt0043014/){target="_blank"} (8.4/10) | [Rotten Tomatoes](https://www.rottentomatoes.com/m/sunset_boulevard){target="_blank"} (98%)
 
 ::: {.callout-tip}
 ## Discussion Questions
@@ -176,7 +176,7 @@ Use these links to explore background information, reviews, and critical analyse
 ### Madness Module Films
 
 #### Black Swan (2010)
-**Links:** [IMDB](https://www.imdb.com/title/tt0947798/) (8.0/10) | [Rotten Tomatoes](https://www.rottentomatoes.com/m/black_swan_2010) (85%)
+**Links:** [IMDB](https://www.imdb.com/title/tt0947798/){target="_blank"} (8.0/10) | [Rotten Tomatoes](https://www.rottentomatoes.com/m/black_swan_2010){target="_blank"} (85%)
 
 ::: {.callout-tip}
 ## Discussion Questions
@@ -187,7 +187,7 @@ Use these links to explore background information, reviews, and critical analyse
 :::
 
 #### Good Will Hunting (1997)
-**Links:** [IMDB](https://www.imdb.com/title/tt0119217/) (8.3/10) | [Rotten Tomatoes](https://www.rottentomatoes.com/m/good_will_hunting) (97%)
+**Links:** [IMDB](https://www.imdb.com/title/tt0119217/){target="_blank"} (8.3/10) | [Rotten Tomatoes](https://www.rottentomatoes.com/m/good_will_hunting){target="_blank"} (97%)
 
 ::: {.callout-tip}
 ## Discussion Questions
@@ -198,7 +198,7 @@ Use these links to explore background information, reviews, and critical analyse
 :::
 
 #### What's Eating Gilbert Grape (1993)
-**Links:** [IMDB](https://www.imdb.com/title/tt0108550/) (7.7/10) | [Rotten Tomatoes](https://www.rottentomatoes.com/m/whats_eating_gilbert_grape) (90%)
+**Links:** [IMDB](https://www.imdb.com/title/tt0108550/){target="_blank"} (7.7/10) | [Rotten Tomatoes](https://www.rottentomatoes.com/m/whats_eating_gilbert_grape){target="_blank"} (90%)
 
 ::: {.callout-tip}
 ## Discussion Questions
@@ -211,7 +211,7 @@ Use these links to explore background information, reviews, and critical analyse
 ### Murder Module Films
 
 #### Primal Fear (1996)
-**Links:** [IMDB](https://www.imdb.com/title/tt0117381/) (7.7/10) | [Rotten Tomatoes](https://www.rottentomatoes.com/m/primal_fear) (77%)
+**Links:** [IMDB](https://www.imdb.com/title/tt0117381/){target="_blank"} (7.7/10) | [Rotten Tomatoes](https://www.rottentomatoes.com/m/primal_fear){target="_blank"} (77%)
 
 ::: {.callout-tip}
 ## Discussion Questions
@@ -222,7 +222,7 @@ Use these links to explore background information, reviews, and critical analyse
 :::
 
 #### The Hurricane (1999)
-**Links:** [IMDB](https://www.imdb.com/title/tt0174856/) (7.6/10) | [Rotten Tomatoes](https://www.rottentomatoes.com/m/hurricane) (82%)
+**Links:** [IMDB](https://www.imdb.com/title/tt0174856/){target="_blank"} (7.6/10) | [Rotten Tomatoes](https://www.rottentomatoes.com/m/hurricane){target="_blank"} (82%)
 
 ::: {.callout-tip}
 ## Discussion Questions

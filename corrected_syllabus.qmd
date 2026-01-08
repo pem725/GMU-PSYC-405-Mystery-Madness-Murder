@@ -16,13 +16,13 @@ format:
 -   **Semester Dates:** August 25 - December 8, 2025
 -   **Class Period:** August 26 - December 4, 2025
 
-## WHO: [Patrick E. McKnight](https://psychology.gmu.edu/people/pmcknigh "My GMU profile")
+## WHO: [Patrick E. McKnight](https://psychology.gmu.edu/people/pmcknigh "My GMU profile"){target="_blank"}
 
 ![](20130820_123617.jpg)
 
 ### Contact
 
-**pmcknigh** (note the lack of a "t") at **gmu.edu** OR via [canvas](https://canvas.gmu.edu/courses/33214/discussion_topics/2340609 "Ask your professor!")
+**pmcknigh** (note the lack of a "t") at **gmu.edu** OR via [canvas](https://canvas.gmu.edu/courses/33214/discussion_topics/2340609 "Ask your professor!"){target="_blank"}
 
 **Office Hours:** Thurs noon-2p David King Hall (2064/65) or via zoom by appt.
 
@@ -30,7 +30,7 @@ format:
 
 ## WHAT: Course Description/Overview
 
-PSYC 405 (Mystery, Madness, and Murder) fulfills requirements for **Mason Apex** in Mason Core. What that means can be better explained via their [website](https://masoncore.gmu.edu/). For us, I want you to wonder. Ever wonder how psychology can be applied in every aspect of your life? Not pop psychology but real psychological science? Some stuff out there is real and real common. We will observe both factual and fictional depictions of human behavior, dissect the behavior according to science, and discuss the results of our collective inquiry. We will learn and apply psychological science together. My aim is to work with you to create a course you fondly recall for many years. Let's do it together. How? Well, you need to know what is expected...
+PSYC 405 (Mystery, Madness, and Murder) fulfills requirements for **Mason Apex** in Mason Core. What that means can be better explained via their [website](https://masoncore.gmu.edu/){target="_blank"}. For us, I want you to wonder. Ever wonder how psychology can be applied in every aspect of your life? Not pop psychology but real psychological science? Some stuff out there is real and real common. We will observe both factual and fictional depictions of human behavior, dissect the behavior according to science, and discuss the results of our collective inquiry. We will learn and apply psychological science together. My aim is to work with you to create a course you fondly recall for many years. Let's do it together. How? Well, you need to know what is expected...
 
 ## DEMANDS: Course Learning Outcomes
 
