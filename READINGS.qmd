@@ -113,6 +113,10 @@ These readings explore the intersection of psychology and law, particularly rega
 
 - Meta-analysis challenging the assumption that psychopaths lack moral understanding. The relationship between psychopathy and moral judgment is smaller than commonly believed.
 
+**The "Guilty Mind:" Mens Rea** (Book Section)
+
+- Foundational reading on *mens rea* (the "guilty mind")—the mental state requirement for criminal liability. Essential for understanding how psychology intersects with legal determinations of criminal intent.
+
 **Diamond, B. L.** (1961). Criminal responsibility of the mentally ill. *Stanford Law Review, 14*(1), 59-86. [Read](https://heinonline.org/HOL/P?h=hein.journals/stflr14&i=79){target="_blank"}
 
 - Classic article on the insanity defense and the legal-psychological complexities of holding mentally ill individuals criminally responsible.
