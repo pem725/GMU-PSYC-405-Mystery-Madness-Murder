@@ -1,9 +1,9 @@
 # PSYC 405: Mystery, Madness & Murder
 **George Mason University - Department of Psychology**
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/8ca129e8-c5e3-4ab8-a7da-18f78e0da859/deploy-status)](https://app.netlify.com/projects/gmu-psyc405f2025/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/8ca129e8-c5e3-4ab8-a7da-18f78e0da859/deploy-status)](https://app.netlify.com/projects/gmu-psyc405/deploys)
 
-## 🌐 [Visit the Course Website](https://gmu-psyc405f2025.netlify.app/)
+## 🌐 [Visit the Course Website](https://gmu-psyc405.netlify.app/)
 
 ---
 
@@ -24,7 +24,7 @@
 
 > *"None, this course is probably the best course I've taken at Mason."* — Student asked about least valuable aspects
 
-📊 **[Read Full Student Reviews & Evaluation Data →](https://gmu-psyc405f2025.netlify.app/PAST_REVIEWS.html)**
+📊 **[Read Full Student Reviews & Evaluation Data →](https://gmu-psyc405.netlify.app/PAST_REVIEWS.html)**
 
 ---
 
