@@ -60,6 +60,28 @@ These readings explore the psychology of belief formation, pseudoscience, and wh
 
 ---
 
+### PURPOSE: What Drives Meaning in Life?
+
+What gives life meaning? How does purpose relate to happiness and well-being? These readings explore the psychology of purpose—central to understanding character motivations in film.
+
+::: {.callout-note icon="false"}
+## Key Readings
+
+**McKnight, P. E., Kashdan, T. B., MacKay, A., Kelso, K., & Gross, M.** (2025). Purpose and happiness: A comparison. *The Journal of Positive Psychology*. [DOI](https://doi.org/10.1080/17439760.2025.2515942){target="_blank"}
+
+- Groundbreaking longitudinal study showing that **happiness predicts purpose**, not the other way around. Challenges conventional assumptions about the relationship between these constructs.
+
+**Kashdan, T. B., Goodman, F. R., McKnight, P. E., Brown, B., & Rum, R.** (2024). Purpose in life: A resolution on the definition, conceptual model, and optimal measurement. *American Psychologist, 79*(6), 838-853.
+
+- Definitive article resolving decades of confusion about what "purpose in life" actually means and how to measure it properly.
+
+**McKnight, P. E., & Kashdan, T. B.** (2009). Purpose in life as a system that creates and sustains health and well-being: An integrative, testable theory. *Review of General Psychology, 13*(3), 242-251.
+
+- The foundational theory paper proposing purpose as a self-organizing system that promotes health. Essential background for understanding how purpose functions psychologically.
+:::
+
+---
+
 ### EMOTION: Regulation and Expression
 
 Understanding how we manage our emotional responses is central to many of the psychological phenomena depicted in our films.
