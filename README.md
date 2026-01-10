@@ -86,6 +86,22 @@ Investigation of criminal psychology, moral reasoning, and justice through behav
 - [Spring 2025 Live Site](https://gmu-psyc405s2025.netlify.app/) - Netlify hosted version
 - **Featured Films**: Diabolique, Hoodwinked!, A Beautiful Mind, Jacob's Ladder, The Hound of the Baskervilles, Murder by Death
 
+## Weekly Quizzes
+
+Each section has 14 weekly quizzes integrating film content with psychological science:
+
+- **[Quiz Index Page](https://gmu-psyc405.netlify.app/QUIZZES.html)** - Complete overview of all quizzes
+- Quizzes are linked directly from each syllabus
+- Questions require knowledge of BOTH the film AND the psychological literature
+- Answer keys are confidential (not in this repository)
+
+### Quiz Philosophy
+
+These are not simple recall questions. Each quiz item requires students to:
+1. Watch films actively, analyzing character behavior
+2. Read the psychological literature from our [Zotero library](https://www.zotero.org/groups/6375337/psyc_-mystery_madness_murder/library)
+3. Connect specific film moments with psychological concepts
+
 ## Course Resources
 
 - [Film History](FILM_HISTORY.md) - Complete record of all films viewed across semesters
@@ -93,6 +109,7 @@ Investigation of criminal psychology, moral reasoning, and justice through behav
 - [Course Structure - Fall 2025](course_structure_fall2025.md) - Previous semester organization
 - [Course Structure - Spring 2025](course_structure_spring2025.md) - Previous semester organization
 - [Case Study: Diabolique](Diabolique.md) - Movie data scraper tool and analysis
+- [Course Readings](https://gmu-psyc405.netlify.app/READINGS.html) - Psychological science literature
 
 ## For Instructors
 

@@ -94,21 +94,21 @@ During class, we shall all share in the viewing of a media snippet that depicts 
 
 | Week | Module | Film | Assessment |
 |:----:|:------:|:-----|:----------:|
-| 1 | Intro | Hello & Greetings | Quiz 1[^1] |
-| 2 | Mystery | [The Machinist](https://www.imdb.com/title/tt0361862/){target="_blank"} (2004) | Quiz 2 |
-| 3 | Mystery | [The Machinist](https://www.imdb.com/title/tt0361862/){target="_blank"} / [Identity](https://www.imdb.com/title/tt0309698/){target="_blank"} (2003) | Quiz 3 |
-| 4 | Mystery | [Identity](https://www.imdb.com/title/tt0309698/){target="_blank"} | Quiz 4 |
-| 5 | Mystery | [Fight Club](https://www.imdb.com/title/tt0137523/){target="_blank"} (1999) | Quiz 5 |
-| 6 | Madness | [Rain Man](https://www.imdb.com/title/tt0095953/){target="_blank"} (1988) | Quiz 6 |
-| 7 | Madness | [Rain Man](https://www.imdb.com/title/tt0095953/){target="_blank"} / [K-PAX](https://www.imdb.com/title/tt0272152/){target="_blank"} (2001) | Quiz 7 |
+| 1 | Intro | Hello & Greetings | [Quiz 1](quizzes/spring2026_002/quiz01_intro.html)[^1] |
+| 2 | Mystery | [The Machinist](https://www.imdb.com/title/tt0361862/){target="_blank"} (2004) - IMDB 7.6 \| [RT 77%](https://www.rottentomatoes.com/m/machinist){target="_blank"} \| [Wiki](https://en.wikipedia.org/wiki/The_Machinist){target="_blank"} | [Quiz 2](quizzes/spring2026_002/quiz02_machinist.html) |
+| 3 | Mystery | The Machinist / [Identity](https://www.imdb.com/title/tt0309698/){target="_blank"} (2003) - IMDB 7.3 \| [RT 63%](https://www.rottentomatoes.com/m/identity){target="_blank"} \| [Wiki](https://en.wikipedia.org/wiki/Identity_(2003_film)){target="_blank"} | [Quiz 3](quizzes/spring2026_002/quiz03_machinist_identity.html) |
+| 4 | Mystery | Identity | [Quiz 4](quizzes/spring2026_002/quiz04_identity.html) |
+| 5 | Mystery | [Fight Club](https://www.imdb.com/title/tt0137523/){target="_blank"} (1999) - IMDB 8.8 \| [RT 81%](https://www.rottentomatoes.com/m/fight_club){target="_blank"} \| [Wiki](https://en.wikipedia.org/wiki/Fight_Club){target="_blank"} | [Quiz 5](quizzes/spring2026_002/quiz05_fight_club.html) |
+| 6 | Madness | [Rain Man](https://www.imdb.com/title/tt0095953/){target="_blank"} (1988) - IMDB 8.0 \| [RT 88%](https://www.rottentomatoes.com/m/rain_man){target="_blank"} \| [Wiki](https://en.wikipedia.org/wiki/Rain_Man){target="_blank"} | [Quiz 6](quizzes/spring2026_002/quiz06_rain_man.html) |
+| 7 | Madness | Rain Man / [K-PAX](https://www.imdb.com/title/tt0272152/){target="_blank"} (2001) - IMDB 7.4 \| [RT 42%](https://www.rottentomatoes.com/m/kpax){target="_blank"} \| [Wiki](https://en.wikipedia.org/wiki/K-PAX_(film)){target="_blank"} | [Quiz 7](quizzes/spring2026_002/quiz07_rain_man_kpax.html) |
 | 8 | SPRING BREAK | **R-E-L-A-X** (March 9-13) | NO QUIZ |
-| 9 | Madness | [K-PAX](https://www.imdb.com/title/tt0272152/){target="_blank"} | Quiz 8 |
-| 10 | Madness | [Leaving Las Vegas](https://www.imdb.com/title/tt0113627/){target="_blank"} (1995) | Quiz 9 |
-| 11 | Murder | [Nuremberg](https://www.imdb.com/title/tt26743110/){target="_blank"} (2025) | Quiz 10 |
-| 12 | Murder | [Nuremberg](https://www.imdb.com/title/tt26743110/){target="_blank"} / [Wind River](https://www.imdb.com/title/tt5362988/){target="_blank"} (2017) | Quiz 11 |
-| 13 | Murder | [Wind River](https://www.imdb.com/title/tt5362988/){target="_blank"} | Quiz 12 |
-| 14 | Murder | Wrap-up & Review | Quiz 13 |
-| 15 | Epilogue (FINAL) | What did you think? | Quiz 14 |
+| 9 | Madness | K-PAX | [Quiz 8](quizzes/spring2026_002/quiz08_kpax.html) |
+| 10 | Madness | [Leaving Las Vegas](https://www.imdb.com/title/tt0113627/){target="_blank"} (1995) - IMDB 7.5 \| [RT 91%](https://www.rottentomatoes.com/m/leaving_las_vegas){target="_blank"} \| [Wiki](https://en.wikipedia.org/wiki/Leaving_Las_Vegas){target="_blank"} | [Quiz 9](quizzes/spring2026_002/quiz09_leaving_las_vegas.html) |
+| 11 | Murder | [Nuremberg](https://www.imdb.com/title/tt26743110/){target="_blank"} (2025) - IMDB 7.4 \| [RT 71%](https://www.rottentomatoes.com/m/nuremberg_2025){target="_blank"} \| [Wiki](https://en.wikipedia.org/wiki/Nuremberg_(2025_film)){target="_blank"} | [Quiz 10](quizzes/spring2026_002/quiz10_nuremberg.html) |
+| 12 | Murder | Nuremberg / [Wind River](https://www.imdb.com/title/tt5362988/){target="_blank"} (2017) - IMDB 7.7 \| [RT 87%](https://www.rottentomatoes.com/m/wind_river_2017){target="_blank"} \| [Wiki](https://en.wikipedia.org/wiki/Wind_River_(film)){target="_blank"} | [Quiz 11](quizzes/spring2026_002/quiz11_nuremberg_wind_river.html) |
+| 13 | Murder | Wind River | [Quiz 12](quizzes/spring2026_002/quiz12_wind_river.html) |
+| 14 | Murder | Wrap-up & Review | [Quiz 13](quizzes/spring2026_002/quiz13_wrapup.html) |
+| 15 | Epilogue (FINAL) | What did you think? | [Quiz 14](quizzes/spring2026_002/quiz14_final.html) |
 
 [^1]: All quizzes are conducted on canvas. Please consult the canvas website for the course. You will have access to the quiz for the period that I announce every week (at random). Come to class. You won't have to wonder when I start the quiz. Just show up. Oh, and bring a computer or phone.
 

@@ -11,8 +11,8 @@ project:
     - READINGS.qmd
     - PAST_REVIEWS.qmd
     - QUIZZES.qmd
-    - quizzes/section001/*.qmd
-    - quizzes/section002/*.qmd
+    - quizzes/spring2026_001/*.qmd
+    - quizzes/spring2026_002/*.qmd
 
 website:
   title: "PSYC 405: Mystery, Madness & Murder"

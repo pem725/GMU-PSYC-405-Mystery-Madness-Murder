@@ -142,6 +142,109 @@ If new readings don't fit existing themes, create a new section in both files:
 1. Add `% ====... THEME_NAME ...====` section header in `references.bib`
 2. Add corresponding `### THEME_NAME:` section in `READINGS.qmd`
 
+## Quiz Generation Workflow
+
+The course uses weekly quizzes that integrate film content with psychological science from the Zotero library.
+
+### Quiz Directory Structure
+
+Quizzes are organized by semester, year, and section:
+```
+quizzes/
+├── spring2026_001/          # Spring 2026, Section 001
+│   ├── quiz01_intro.qmd
+│   ├── quiz02_shutter_island.qmd
+│   └── ...
+├── spring2026_002/          # Spring 2026, Section 002
+│   ├── quiz01_intro.qmd
+│   ├── quiz02_machinist.qmd
+│   └── ...
+└── ANSWER_KEY_CONFIDENTIAL.md  # NEVER COMMIT - gitignored
+```
+
+### Directory Naming Convention
+Format: `{semester}{year}_{section}`
+- Examples: `spring2026_001`, `fall2026_001`, `spring2027_002`
+
+### Generating New Quizzes
+
+When creating quizzes for a new semester:
+
+1. **Create directory structure:**
+   ```bash
+   mkdir -p quizzes/{semester}{year}_{section}
+   ```
+
+2. **Generate quiz files:**
+   - 14 quizzes per section (one per week)
+   - 5 questions per quiz
+   - Questions must integrate BOTH film content AND psychological science
+   - Each question requires knowledge of the movie AND Zotero readings
+   - Make questions difficult - no simple recall
+
+3. **Quiz file format:**
+   ```markdown
+   ---
+   title: "Quiz N: Topic"
+   subtitle: "PSYC 405 - Section XXX"
+   format:
+     html:
+       toc: false
+   ---
+
+   ## Question 1
+   Question text here...
+
+   A. Answer choice A
+   B. Answer choice B
+   C. Answer choice C
+   D. Answer choice D
+   E. Answer choice E
+   ```
+
+4. **Create answer key (LOCAL ONLY):**
+   - File: `quizzes/ANSWER_KEY_CONFIDENTIAL.md`
+   - Include correct answer for each question
+   - Document distractor justifications (why wrong answers are wrong)
+   - This file is gitignored - NEVER commit to repository
+
+5. **Update configuration files:**
+   - Add quiz directory to `_quarto.yml` render list
+   - Update `QUIZZES.qmd` with links to new quizzes
+   - Update syllabus with quiz links
+
+6. **Link quizzes in syllabus:**
+   - Each week's assessment should link directly to the quiz
+   - Format: `[Quiz N](quizzes/{semester}{year}_{section}/quizNN_topic.html)`
+
+### Quiz Content Guidelines
+
+- **Integration requirement:** Every question must require knowledge of BOTH the film AND the psychological science
+- **Distractor quality:** Wrong answers should represent common misconceptions
+- **Difficulty level:** High - students must watch actively AND read the literature
+- **Source materials:**
+  - Films listed in the syllabus
+  - Readings from Zotero library (https://www.zotero.org/groups/6375337/psyc_-mystery_madness_murder/library)
+
+### Canvas Integration
+
+Quizzes are also uploaded to Canvas for grading. The Markdown format allows easy copy/paste to Canvas quiz builder.
+
+## Movie Metadata Standards
+
+### Required Information for Each Film
+
+When adding films to syllabi, include:
+- **IMDB link and rating:** `[Title](https://www.imdb.com/title/ttXXXXXXX/){target="_blank"} - IMDB X.X`
+- **Rotten Tomatoes link and score:** `[RT XX%](https://www.rottentomatoes.com/m/movie_slug){target="_blank"}`
+- **Wikipedia link:** `[Wiki](https://en.wikipedia.org/wiki/Film_Name_(film)){target="_blank"}`
+- **Release year:** Include in parentheses after title
+
+### Example Format
+```markdown
+[Shutter Island](https://www.imdb.com/title/tt1130884/){target="_blank"} (2010) - IMDB 8.2 | [RT 69%](https://www.rottentomatoes.com/m/shutter_island){target="_blank"} | [Wiki](https://en.wikipedia.org/wiki/Shutter_Island_(film)){target="_blank"}
+```
+
 ## Website Information
 
 - **Live Site:** https://gmu-psyc405.netlify.app/
@@ -161,3 +264,35 @@ All external links should include `{target="_blank"}` to open in new tabs:
 ```markdown
 [Link Text](https://example.com){target="_blank"}
 ```
+
+## Future TODOs (Workflow Improvements)
+
+### 1. Movie Suggestions
+- Develop a system to suggest new films based on psychological themes
+- Track which psychological concepts are underrepresented in current film selection
+- Consider student feedback when selecting new films
+- Maintain diversity across genres, decades, and psychological domains
+
+### 2. Zotero Library Sync
+- Sync with Zotero library at the start of each semester
+- Identify new readings that could enhance quiz content
+- Expand readings to cover emerging psychological science
+- Ensure all quiz questions have supporting literature
+- Command: `WebFetch: https://api.zotero.org/groups/6375337/items?format=bibtex&limit=100`
+
+### 3. Movie Link Verification
+- Periodically verify all IMDB, Rotten Tomatoes, and Wikipedia links
+- Update ratings as they change over time
+- Replace broken links promptly
+- Consider adding additional sources (Letterboxd, Metacritic)
+
+### 4. Quiz Quality Assurance
+- Review quiz questions each semester for continued relevance
+- Update questions based on new psychological research
+- Retire questions that become common knowledge
+- Develop new questions as films are rotated
+
+### 5. Canvas Integration Improvements
+- Streamline quiz import to Canvas
+- Consider developing automated Canvas quiz generation
+- Track quiz performance data to improve question quality

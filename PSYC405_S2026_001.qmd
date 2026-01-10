@@ -94,21 +94,21 @@ During class, we shall all share in the viewing of a media snippet that depicts 
 
 | Week | Module | Film | Assessment |
 |:----:|:------:|:-----|:----------:|
-| 1 | Intro | Hello & Greetings | Quiz 1[^1] |
-| 2 | Mystery | [Shutter Island](https://www.imdb.com/title/tt1130884/){target="_blank"} (2010) | Quiz 2 |
-| 3 | Mystery | [Shutter Island](https://www.imdb.com/title/tt1130884/){target="_blank"} / [North by Northwest](https://www.imdb.com/title/tt0053125/){target="_blank"} (1959) | Quiz 3 |
-| 4 | Mystery | [North by Northwest](https://www.imdb.com/title/tt0053125/){target="_blank"} | Quiz 4 |
-| 5 | Mystery | [Sunset Boulevard](https://www.imdb.com/title/tt0043014/){target="_blank"} (1950) | Quiz 5 |
-| 6 | Madness | [Black Swan](https://www.imdb.com/title/tt0947798/){target="_blank"} (2010) | Quiz 6 |
-| 7 | Madness | [Black Swan](https://www.imdb.com/title/tt0947798/){target="_blank"} / [Good Will Hunting](https://www.imdb.com/title/tt0119217/){target="_blank"} (1997) | Quiz 7 |
+| 1 | Intro | Hello & Greetings | [Quiz 1](quizzes/spring2026_001/quiz01_intro.html)[^1] |
+| 2 | Mystery | [Shutter Island](https://www.imdb.com/title/tt1130884/){target="_blank"} (2010) - IMDB 8.2 \| [RT 69%](https://www.rottentomatoes.com/m/shutter_island){target="_blank"} \| [Wiki](https://en.wikipedia.org/wiki/Shutter_Island_(film)){target="_blank"} | [Quiz 2](quizzes/spring2026_001/quiz02_shutter_island.html) |
+| 3 | Mystery | Shutter Island / [North by Northwest](https://www.imdb.com/title/tt0053125/){target="_blank"} (1959) - IMDB 8.3 \| [RT 97%](https://www.rottentomatoes.com/m/north_by_northwest){target="_blank"} \| [Wiki](https://en.wikipedia.org/wiki/North_by_Northwest){target="_blank"} | [Quiz 3](quizzes/spring2026_001/quiz03_shutter_nxnw.html) |
+| 4 | Mystery | North by Northwest | [Quiz 4](quizzes/spring2026_001/quiz04_north_by_northwest.html) |
+| 5 | Mystery | [Sunset Boulevard](https://www.imdb.com/title/tt0043014/){target="_blank"} (1950) - IMDB 8.4 \| [RT 98%](https://www.rottentomatoes.com/m/sunset_boulevard){target="_blank"} \| [Wiki](https://en.wikipedia.org/wiki/Sunset_Boulevard_(film)){target="_blank"} | [Quiz 5](quizzes/spring2026_001/quiz05_sunset_boulevard.html) |
+| 6 | Madness | [Black Swan](https://www.imdb.com/title/tt0947798/){target="_blank"} (2010) - IMDB 8.0 \| [RT 85%](https://www.rottentomatoes.com/m/black_swan_2010){target="_blank"} \| [Wiki](https://en.wikipedia.org/wiki/Black_Swan_(film)){target="_blank"} | [Quiz 6](quizzes/spring2026_001/quiz06_black_swan.html) |
+| 7 | Madness | Black Swan / [Good Will Hunting](https://www.imdb.com/title/tt0119217/){target="_blank"} (1997) - IMDB 8.3 \| [RT 97%](https://www.rottentomatoes.com/m/good_will_hunting){target="_blank"} \| [Wiki](https://en.wikipedia.org/wiki/Good_Will_Hunting){target="_blank"} | [Quiz 7](quizzes/spring2026_001/quiz07_black_swan_gwh.html) |
 | 8 | SPRING BREAK | **R-E-L-A-X** (March 9-13) | NO QUIZ |
-| 9 | Madness | [Good Will Hunting](https://www.imdb.com/title/tt0119217/){target="_blank"} | Quiz 8 |
-| 10 | Madness | [What's Eating Gilbert Grape](https://www.imdb.com/title/tt0108550/){target="_blank"} (1993) | Quiz 9 |
-| 11 | Murder | [Primal Fear](https://www.imdb.com/title/tt0117381/){target="_blank"} (1996) | Quiz 10 |
-| 12 | Murder | [Primal Fear](https://www.imdb.com/title/tt0117381/){target="_blank"} / [The Hurricane](https://www.imdb.com/title/tt0174856/){target="_blank"} (1999) | Quiz 11 |
-| 13 | Murder | [The Hurricane](https://www.imdb.com/title/tt0174856/){target="_blank"} | Quiz 12 |
-| 14 | Murder | Wrap-up & Review | Quiz 13 |
-| 15 | Epilogue (FINAL) | What did you think? | Quiz 14 |
+| 9 | Madness | Good Will Hunting | [Quiz 8](quizzes/spring2026_001/quiz08_good_will_hunting.html) |
+| 10 | Madness | [What's Eating Gilbert Grape](https://www.imdb.com/title/tt0108550/){target="_blank"} (1993) - IMDB 7.7 \| [RT 90%](https://www.rottentomatoes.com/m/whats_eating_gilbert_grape){target="_blank"} \| [Wiki](https://en.wikipedia.org/wiki/What%27s_Eating_Gilbert_Grape){target="_blank"} | [Quiz 9](quizzes/spring2026_001/quiz09_gilbert_grape.html) |
+| 11 | Murder | [Primal Fear](https://www.imdb.com/title/tt0117381/){target="_blank"} (1996) - IMDB 7.7 \| [RT 77%](https://www.rottentomatoes.com/m/primal_fear){target="_blank"} \| [Wiki](https://en.wikipedia.org/wiki/Primal_Fear_(film)){target="_blank"} | [Quiz 10](quizzes/spring2026_001/quiz10_primal_fear.html) |
+| 12 | Murder | Primal Fear / [The Hurricane](https://www.imdb.com/title/tt0174856/){target="_blank"} (1999) - IMDB 7.6 \| [RT 82%](https://www.rottentomatoes.com/m/hurricane){target="_blank"} \| [Wiki](https://en.wikipedia.org/wiki/The_Hurricane_(1999_film)){target="_blank"} | [Quiz 11](quizzes/spring2026_001/quiz11_primal_fear_hurricane.html) |
+| 13 | Murder | The Hurricane | [Quiz 12](quizzes/spring2026_001/quiz12_hurricane.html) |
+| 14 | Murder | Wrap-up & Review | [Quiz 13](quizzes/spring2026_001/quiz13_wrapup.html) |
+| 15 | Epilogue (FINAL) | What did you think? | [Quiz 14](quizzes/spring2026_001/quiz14_final.html) |
 
 [^1]: All quizzes are conducted on canvas. Please consult the canvas website for the course. You will have access to the quiz for the period that I announce every week (at random). Come to class. You won't have to wonder when I start the quiz. Just show up. Oh, and bring a computer or phone.
 
