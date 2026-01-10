@@ -30,7 +30,7 @@ This document records all films viewed and discussed in PSYC 405: Mystery, Madne
 | [Rain Man](https://www.imdb.com/title/tt0095953/){target="_blank"} | 1988 | 🎬 8.0 \| [🍅 88%](https://www.rottentomatoes.com/m/rain_man){target="_blank"} \| [📖](https://en.wikipedia.org/wiki/Rain_Man){target="_blank"} | Madness | Autism spectrum, savant syndrome, relationships |
 | [K-PAX](https://www.imdb.com/title/tt0272152/){target="_blank"} | 2001 | 🎬 7.4 \| [🍅 42%](https://www.rottentomatoes.com/m/kpax){target="_blank"} \| [📖](https://en.wikipedia.org/wiki/K-PAX_(film)){target="_blank"} | Madness | Delusion vs. reality, therapeutic relationship |
 | [Leaving Las Vegas](https://www.imdb.com/title/tt0113627/){target="_blank"} | 1995 | 🎬 7.5 \| [🍅 91%](https://www.rottentomatoes.com/m/leaving_las_vegas){target="_blank"} \| [📖](https://en.wikipedia.org/wiki/Leaving_Las_Vegas){target="_blank"} | Madness | Alcoholism, self-destruction, depression |
-| [Nuremberg](https://www.imdb.com/title/tt26743110/){target="_blank"} | 2025 | 🎬 7.4 \| [🍅 71%](https://www.rottentomatoes.com/m/nuremberg_2025){target="_blank"} \| [📖](https://en.wikipedia.org/wiki/Nuremberg_(2025_film)){target="_blank"} | Murder | War crimes, moral judgment, obedience to authority |
+| [Nuremberg](https://www.imdb.com/title/tt0208629/){target="_blank"} | 2000 | 🎬 7.3 \| [🍅 83%](https://www.rottentomatoes.com/m/1102961-nuremberg){target="_blank"} \| [📖](https://en.wikipedia.org/wiki/Nuremberg_(miniseries)){target="_blank"} | Murder | War crimes, moral judgment, obedience to authority |
 | [Wind River](https://www.imdb.com/title/tt5362988/){target="_blank"} | 2017 | 🎬 7.7 \| [🍅 87%](https://www.rottentomatoes.com/m/wind_river_2017){target="_blank"} \| [📖](https://en.wikipedia.org/wiki/Wind_River_(film)){target="_blank"} | Murder | Violence, trauma, justice in marginalized communities |
 
 ### Fall 2025
@@ -75,7 +75,7 @@ This document records all films viewed and discussed in PSYC 405: Mystery, Madne
 | Memento | 2000 | Fall 2025 | 001 | Mystery |
 | Murder by Death | 1976 | Spring 2025 | 002, 003 | Murder |
 | North by Northwest | 1959 | Spring 2026 | 001 | Mystery |
-| Nuremberg | 2025 | Spring 2026 | 002 | Murder |
+| Nuremberg | 2000 | Spring 2026 | 002 | Murder |
 | One Flew Over the Cuckoo's Nest | 1975 | Fall 2025 | 001 | Madness |
 | Primal Fear | 1996 | Spring 2026 | 001 | Murder |
 | Rain Man | 1988 | Spring 2026 | 002 | Madness |
@@ -106,9 +106,9 @@ This document records all films viewed and discussed in PSYC 405: Mystery, Madne
 | 1970s | 2 |
 | 1980s | 1 |
 | 1990s | 6 |
-| 2000s | 8 |
+| 2000s | 9 |
 | 2010s | 5 |
-| 2020s | 2 |
+| 2020s | 1 |
 
 ## Cross-Listed Films (PSYC 325: Psychopathology)
 
