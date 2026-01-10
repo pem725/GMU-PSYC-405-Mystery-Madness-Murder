@@ -360,7 +360,7 @@ All external links should include `{target="_blank"}` to open in new tabs:
 **Last Verified:** January 2026
 - All IMDB links verified working
 - Rotten Tomatoes links updated to use numeric IDs (more stable than slug-based URLs)
-- Nuremberg (2025) uses tt26743110
+- Nuremberg (2025) uses tt29567915
 
 **Common Issues:**
 - RT URLs: Use format `/m/{slug}` or `/m/{numeric-id}-{slug}` depending on availability
