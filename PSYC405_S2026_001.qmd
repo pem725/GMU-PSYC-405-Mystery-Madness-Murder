@@ -95,7 +95,7 @@ During class, we shall all share in the viewing of a media snippet that depicts 
 | Week | Module | Film | Assessment |
 |:----:|:------:|:-----|:----------:|
 | 1 | Intro | Hello & Greetings | [Quiz 1](quizzes/spring2026_001/quiz01_intro.html){target="_blank"}[^1] |
-| 2 | Mystery | [Shutter Island](https://www.imdb.com/title/tt1130884/){target="_blank"} (2010) 🎬 8.2 \| [🍅 69%](https://www.rottentomatoes.com/m/shutter_island){target="_blank"} \| [📖](https://en.wikipedia.org/wiki/Shutter_Island_(film)){target="_blank"} | [Quiz 2](quizzes/spring2026_001/quiz02_shutter_island.html){target="_blank"} |
+| 2 | Mystery | [Shutter Island](https://www.imdb.com/title/tt1130884/){target="_blank"} (2010) 🎬 8.2 \| [🍅 69%](https://www.rottentomatoes.com/m/1198124-shutter_island){target="_blank"} \| [📖](https://en.wikipedia.org/wiki/Shutter_Island_(film)){target="_blank"} | [Quiz 2](quizzes/spring2026_001/quiz02_shutter_island.html){target="_blank"} |
 | 3 | Mystery | Shutter Island / [North by Northwest](https://www.imdb.com/title/tt0053125/){target="_blank"} (1959) 🎬 8.3 \| [🍅 97%](https://www.rottentomatoes.com/m/north_by_northwest){target="_blank"} \| [📖](https://en.wikipedia.org/wiki/North_by_Northwest){target="_blank"} | [Quiz 3](quizzes/spring2026_001/quiz03_shutter_nxnw.html){target="_blank"} |
 | 4 | Mystery | North by Northwest | [Quiz 4](quizzes/spring2026_001/quiz04_north_by_northwest.html){target="_blank"} |
 | 5 | Mystery | [Sunset Boulevard](https://www.imdb.com/title/tt0043014/){target="_blank"} (1950) 🎬 8.4 \| [🍅 98%](https://www.rottentomatoes.com/m/sunset_boulevard){target="_blank"} \| [📖](https://en.wikipedia.org/wiki/Sunset_Boulevard_(film)){target="_blank"} | [Quiz 5](quizzes/spring2026_001/quiz05_sunset_boulevard.html){target="_blank"} |
@@ -104,8 +104,8 @@ During class, we shall all share in the viewing of a media snippet that depicts 
 | 8 | SPRING BREAK | **R-E-L-A-X** (March 9-13) | NO QUIZ |
 | 9 | Madness | Good Will Hunting | [Quiz 8](quizzes/spring2026_001/quiz08_good_will_hunting.html){target="_blank"} |
 | 10 | Madness | [What's Eating Gilbert Grape](https://www.imdb.com/title/tt0108550/){target="_blank"} (1993) 🎬 7.7 \| [🍅 90%](https://www.rottentomatoes.com/m/whats_eating_gilbert_grape){target="_blank"} \| [📖](https://en.wikipedia.org/wiki/What%27s_Eating_Gilbert_Grape){target="_blank"} | [Quiz 9](quizzes/spring2026_001/quiz09_gilbert_grape.html){target="_blank"} |
-| 11 | Murder | [Primal Fear](https://www.imdb.com/title/tt0117381/){target="_blank"} (1996) 🎬 7.7 \| [🍅 77%](https://www.rottentomatoes.com/m/primal_fear){target="_blank"} \| [📖](https://en.wikipedia.org/wiki/Primal_Fear_(film)){target="_blank"} | [Quiz 10](quizzes/spring2026_001/quiz10_primal_fear.html){target="_blank"} |
-| 12 | Murder | Primal Fear / [The Hurricane](https://www.imdb.com/title/tt0174856/){target="_blank"} (1999) 🎬 7.6 \| [🍅 82%](https://www.rottentomatoes.com/m/hurricane){target="_blank"} \| [📖](https://en.wikipedia.org/wiki/The_Hurricane_(1999_film)){target="_blank"} | [Quiz 11](quizzes/spring2026_001/quiz11_primal_fear_hurricane.html){target="_blank"} |
+| 11 | Murder | [Primal Fear](https://www.imdb.com/title/tt0117381/){target="_blank"} (1996) 🎬 7.7 \| [🍅 77%](https://www.rottentomatoes.com/m/1070992-primal_fear){target="_blank"} \| [📖](https://en.wikipedia.org/wiki/Primal_Fear_(film)){target="_blank"} | [Quiz 10](quizzes/spring2026_001/quiz10_primal_fear.html){target="_blank"} |
+| 12 | Murder | Primal Fear / [The Hurricane](https://www.imdb.com/title/tt0174856/){target="_blank"} (1999) 🎬 7.6 \| [🍅 82%](https://www.rottentomatoes.com/m/1093641-hurricane){target="_blank"} \| [📖](https://en.wikipedia.org/wiki/The_Hurricane_(1999_film)){target="_blank"} | [Quiz 11](quizzes/spring2026_001/quiz11_primal_fear_hurricane.html){target="_blank"} |
 | 13 | Murder | The Hurricane | [Quiz 12](quizzes/spring2026_001/quiz12_hurricane.html){target="_blank"} |
 | 14 | Murder | Wrap-up & Review | [Quiz 13](quizzes/spring2026_001/quiz13_wrapup.html){target="_blank"} |
 | 15 | Epilogue (FINAL) | What did you think? | [Quiz 14](quizzes/spring2026_001/quiz14_final.html){target="_blank"} |
@@ -146,7 +146,7 @@ Use these links to explore background information, reviews, and critical analyse
 ### Mystery Module Films
 
 #### Shutter Island (2010)
-**Links:** [🎬 IMDB](https://www.imdb.com/title/tt1130884/){target="_blank"} (8.2/10) | [🍅 Rotten Tomatoes](https://www.rottentomatoes.com/m/shutter_island){target="_blank"} (69%) | [📖 Wikipedia](https://en.wikipedia.org/wiki/Shutter_Island_(film)){target="_blank"}
+**Links:** [🎬 IMDB](https://www.imdb.com/title/tt1130884/){target="_blank"} (8.2/10) | [🍅 Rotten Tomatoes](https://www.rottentomatoes.com/m/1198124-shutter_island){target="_blank"} (69%) | [📖 Wikipedia](https://en.wikipedia.org/wiki/Shutter_Island_(film)){target="_blank"}
 
 ::: {.callout-tip}
 ## Discussion Questions
@@ -216,7 +216,7 @@ Use these links to explore background information, reviews, and critical analyse
 ### Murder Module Films
 
 #### Primal Fear (1996)
-**Links:** [🎬 IMDB](https://www.imdb.com/title/tt0117381/){target="_blank"} (7.7/10) | [🍅 Rotten Tomatoes](https://www.rottentomatoes.com/m/primal_fear){target="_blank"} (77%) | [📖 Wikipedia](https://en.wikipedia.org/wiki/Primal_Fear_(film)){target="_blank"}
+**Links:** [🎬 IMDB](https://www.imdb.com/title/tt0117381/){target="_blank"} (7.7/10) | [🍅 Rotten Tomatoes](https://www.rottentomatoes.com/m/1070992-primal_fear){target="_blank"} (77%) | [📖 Wikipedia](https://en.wikipedia.org/wiki/Primal_Fear_(film)){target="_blank"}
 
 ::: {.callout-tip}
 ## Discussion Questions
@@ -227,7 +227,7 @@ Use these links to explore background information, reviews, and critical analyse
 :::
 
 #### The Hurricane (1999)
-**Links:** [🎬 IMDB](https://www.imdb.com/title/tt0174856/){target="_blank"} (7.6/10) | [🍅 Rotten Tomatoes](https://www.rottentomatoes.com/m/hurricane){target="_blank"} (82%) | [📖 Wikipedia](https://en.wikipedia.org/wiki/The_Hurricane_(1999_film)){target="_blank"}
+**Links:** [🎬 IMDB](https://www.imdb.com/title/tt0174856/){target="_blank"} (7.6/10) | [🍅 Rotten Tomatoes](https://www.rottentomatoes.com/m/1093641-hurricane){target="_blank"} (82%) | [📖 Wikipedia](https://en.wikipedia.org/wiki/The_Hurricane_(1999_film)){target="_blank"}
 
 ::: {.callout-tip}
 ## Discussion Questions

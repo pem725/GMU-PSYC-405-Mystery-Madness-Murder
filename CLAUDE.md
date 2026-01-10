@@ -250,12 +250,12 @@ When adding films to syllabi, include:
 
 ### Example Format (Schedule Tables)
 ```markdown
-[Shutter Island](https://www.imdb.com/title/tt1130884/){target="_blank"} (2010) 🎬 8.2 \| [🍅 69%](https://www.rottentomatoes.com/m/shutter_island){target="_blank"} \| [📖](https://en.wikipedia.org/wiki/Shutter_Island_(film)){target="_blank"}
+[Shutter Island](https://www.imdb.com/title/tt1130884/){target="_blank"} (2010) 🎬 8.2 \| [🍅 69%](https://www.rottentomatoes.com/m/1198124-shutter_island){target="_blank"} \| [📖](https://en.wikipedia.org/wiki/Shutter_Island_(film)){target="_blank"}
 ```
 
 ### Example Format (Film Resources Section)
 ```markdown
-**Links:** [🎬 IMDB](https://www.imdb.com/title/tt1130884/){target="_blank"} (8.2/10) | [🍅 Rotten Tomatoes](https://www.rottentomatoes.com/m/shutter_island){target="_blank"} (69%) | [📖 Wikipedia](https://en.wikipedia.org/wiki/Shutter_Island_(film)){target="_blank"}
+**Links:** [🎬 IMDB](https://www.imdb.com/title/tt1130884/){target="_blank"} (8.2/10) | [🍅 Rotten Tomatoes](https://www.rottentomatoes.com/m/1198124-shutter_island){target="_blank"} (69%) | [📖 Wikipedia](https://en.wikipedia.org/wiki/Shutter_Island_(film)){target="_blank"}
 ```
 
 ### Link Standards
