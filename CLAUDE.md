@@ -203,8 +203,21 @@ When creating quizzes for a new semester:
    ```
 
 4. **Create answer key (LOCAL ONLY):**
-   - File: `quizzes/ANSWER_KEY_CONFIDENTIAL.md`
-   - This file is gitignored - NEVER commit to repository
+
+   **Directory Structure:**
+   ```
+   quizzes/answer_keys/                    # gitignored - NEVER commit
+   ├── ANSWER_KEY_INDEX.md                 # Quick reference with all answers
+   ├── spring2026_001_quiz01.md            # Section 001 quizzes
+   ├── spring2026_001_quiz02.md
+   ├── ...
+   ├── spring2026_002_quiz01.md            # Section 002 quizzes
+   ├── spring2026_002_quiz02.md
+   └── ...
+   ```
+
+   **File Naming Convention:** `{semester}{year}_{section}_quiz{number}.md`
+   - Examples: `spring2026_001_quiz01.md`, `fall2027_002_quiz14.md`
 
    **Required elements for EACH question:**
 
@@ -241,6 +254,7 @@ When creating quizzes for a new semester:
    - The rationale explains not just WHAT is correct but WHY
    - Students who ask about questions can receive meaningful explanations
    - Question quality can be evaluated for future revisions
+   - Portable via USB or cloud storage (all links are relative within directory)
 
 5. **Update configuration files:**
    - Add quiz directory to `_quarto.yml` render list
@@ -342,6 +356,15 @@ All external links should include `{target="_blank"}` to open in new tabs:
 - Update ratings as they change over time
 - Replace broken links promptly
 - Consider adding additional sources (Letterboxd, Metacritic)
+
+**Last Verified:** January 2026
+- All IMDB links verified working
+- Rotten Tomatoes links updated to use numeric IDs (more stable than slug-based URLs)
+- Nuremberg links corrected to reference 2000 TV miniseries (tt0208629) instead of 2025 film
+
+**Common Issues:**
+- RT URLs: Use format `/m/{numeric-id}-{slug}` for stability (e.g., `/m/1102961-nuremberg`)
+- Multiple films with same title: Always verify IMDB ID matches the correct year/production
 
 ### 4. Quiz Quality Assurance
 - Review quiz questions each semester for continued relevance
