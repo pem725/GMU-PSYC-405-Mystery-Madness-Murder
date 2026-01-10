@@ -31,20 +31,20 @@ The questions are intentionally difficult. To succeed:
 
 | Quiz | Topic | Film(s) | Key Concepts |
 |:----:|:------|:--------|:-------------|
-| [Quiz 1](quizzes/spring2026_001/quiz01_intro.html) | Course Introduction | N/A | Belief formation, purpose, course frameworks |
-| [Quiz 2](quizzes/spring2026_001/quiz02_shutter_island.html) | Shutter Island (Part I) | Shutter Island | Trauma, delusion, emotion regulation |
-| [Quiz 3](quizzes/spring2026_001/quiz03_shutter_nxnw.html) | Shutter Island / North by Northwest | Both | Identity, self-deception, institutional power |
-| [Quiz 4](quizzes/spring2026_001/quiz04_north_by_northwest.html) | North by Northwest | North by Northwest | Deception detection, purpose, belief |
-| [Quiz 5](quizzes/spring2026_001/quiz05_sunset_boulevard.html) | Sunset Boulevard | Sunset Boulevard | Self-validating beliefs, emotion differentiation |
-| [Quiz 6](quizzes/spring2026_001/quiz06_black_swan.html) | Black Swan (Part I) | Black Swan | Perfectionism, emotion differentiation, regulation |
-| [Quiz 7](quizzes/spring2026_001/quiz07_black_swan_gwh.html) | Black Swan / Good Will Hunting | Both | Therapy, purpose development, regulation strategies |
-| [Quiz 8](quizzes/spring2026_001/quiz08_good_will_hunting.html) | Good Will Hunting | Good Will Hunting | Attachment, trauma, therapeutic process |
-| [Quiz 9](quizzes/spring2026_001/quiz09_gilbert_grape.html) | What's Eating Gilbert Grape | Gilbert Grape | Caregiving burden, emotion regulation, purpose |
-| [Quiz 10](quizzes/spring2026_001/quiz10_primal_fear.html) | Primal Fear (Part I) | Primal Fear | Psychopathy, deception, mens rea |
-| [Quiz 11](quizzes/spring2026_001/quiz11_primal_fear_hurricane.html) | Primal Fear / The Hurricane | Both | Justice, belief systems, institutional bias |
-| [Quiz 12](quizzes/spring2026_001/quiz12_hurricane.html) | The Hurricane | The Hurricane | Wrongful conviction, SDO, purpose |
-| [Quiz 13](quizzes/spring2026_001/quiz13_wrapup.html) | Course Integration | All films | Synthesis across all themes |
-| [Quiz 14](quizzes/spring2026_001/quiz14_final.html) | Final Reflection | All films | Applied psychological science |
+| [Quiz 1](quizzes/spring2026_001/quiz01_intro.html){target="_blank"} | Course Introduction | N/A | Belief formation, purpose, course frameworks |
+| [Quiz 2](quizzes/spring2026_001/quiz02_shutter_island.html){target="_blank"} | Shutter Island (Part I) | Shutter Island | Trauma, delusion, emotion regulation |
+| [Quiz 3](quizzes/spring2026_001/quiz03_shutter_nxnw.html){target="_blank"} | Shutter Island / North by Northwest | Both | Identity, self-deception, institutional power |
+| [Quiz 4](quizzes/spring2026_001/quiz04_north_by_northwest.html){target="_blank"} | North by Northwest | North by Northwest | Deception detection, purpose, belief |
+| [Quiz 5](quizzes/spring2026_001/quiz05_sunset_boulevard.html){target="_blank"} | Sunset Boulevard | Sunset Boulevard | Self-validating beliefs, emotion differentiation |
+| [Quiz 6](quizzes/spring2026_001/quiz06_black_swan.html){target="_blank"} | Black Swan (Part I) | Black Swan | Perfectionism, emotion differentiation, regulation |
+| [Quiz 7](quizzes/spring2026_001/quiz07_black_swan_gwh.html){target="_blank"} | Black Swan / Good Will Hunting | Both | Therapy, purpose development, regulation strategies |
+| [Quiz 8](quizzes/spring2026_001/quiz08_good_will_hunting.html){target="_blank"} | Good Will Hunting | Good Will Hunting | Attachment, trauma, therapeutic process |
+| [Quiz 9](quizzes/spring2026_001/quiz09_gilbert_grape.html){target="_blank"} | What's Eating Gilbert Grape | Gilbert Grape | Caregiving burden, emotion regulation, purpose |
+| [Quiz 10](quizzes/spring2026_001/quiz10_primal_fear.html){target="_blank"} | Primal Fear (Part I) | Primal Fear | Psychopathy, deception, mens rea |
+| [Quiz 11](quizzes/spring2026_001/quiz11_primal_fear_hurricane.html){target="_blank"} | Primal Fear / The Hurricane | Both | Justice, belief systems, institutional bias |
+| [Quiz 12](quizzes/spring2026_001/quiz12_hurricane.html){target="_blank"} | The Hurricane | The Hurricane | Wrongful conviction, SDO, purpose |
+| [Quiz 13](quizzes/spring2026_001/quiz13_wrapup.html){target="_blank"} | Course Integration | All films | Synthesis across all themes |
+| [Quiz 14](quizzes/spring2026_001/quiz14_final.html){target="_blank"} | Final Reflection | All films | Applied psychological science |
 
 ---
 
@@ -54,20 +54,20 @@ The questions are intentionally difficult. To succeed:
 
 | Quiz | Topic | Film(s) | Key Concepts |
 |:----:|:------|:--------|:-------------|
-| [Quiz 1](quizzes/spring2026_002/quiz01_intro.html) | Course Introduction | N/A | Belief formation, purpose, course frameworks |
-| [Quiz 2](quizzes/spring2026_002/quiz02_machinist.html) | The Machinist (Part I) | The Machinist | Guilt, insomnia, reality distortion |
-| [Quiz 3](quizzes/spring2026_002/quiz03_machinist_identity.html) | The Machinist / Identity | Both | Fragmented identity, DID, belief systems |
-| [Quiz 4](quizzes/spring2026_002/quiz04_identity.html) | Identity | Identity | DID, moral judgment, mens rea |
-| [Quiz 5](quizzes/spring2026_002/quiz05_fight_club.html) | Fight Club | Fight Club | Dissociation, purpose, SDO |
-| [Quiz 6](quizzes/spring2026_002/quiz06_rain_man.html) | Rain Man (Part I) | Rain Man | Autism, emotion, scientific belief |
-| [Quiz 7](quizzes/spring2026_002/quiz07_rain_man_kpax.html) | Rain Man / K-PAX | Both | Diagnosis, deception detection, purpose |
-| [Quiz 8](quizzes/spring2026_002/quiz08_kpax.html) | K-PAX | K-PAX | Delusion vs. reality, belief formation |
-| [Quiz 9](quizzes/spring2026_002/quiz09_leaving_las_vegas.html) | Leaving Las Vegas | Leaving Las Vegas | Self-destruction, emotion regulation, purpose |
-| [Quiz 10](quizzes/spring2026_002/quiz10_nuremberg.html) | Nuremberg (Part I) | Nuremberg | War crimes, SDO, moral judgment |
-| [Quiz 11](quizzes/spring2026_002/quiz11_nuremberg_wind_river.html) | Nuremberg / Wind River | Both | Systemic injustice, responsibility |
-| [Quiz 12](quizzes/spring2026_002/quiz12_wind_river.html) | Wind River | Wind River | Marginalized communities, grief, purpose |
-| [Quiz 13](quizzes/spring2026_002/quiz13_wrapup.html) | Course Integration | All films | Synthesis across all themes |
-| [Quiz 14](quizzes/spring2026_002/quiz14_final.html) | Final Reflection | All films | Applied psychological science |
+| [Quiz 1](quizzes/spring2026_002/quiz01_intro.html){target="_blank"} | Course Introduction | N/A | Belief formation, purpose, course frameworks |
+| [Quiz 2](quizzes/spring2026_002/quiz02_machinist.html){target="_blank"} | The Machinist (Part I) | The Machinist | Guilt, insomnia, reality distortion |
+| [Quiz 3](quizzes/spring2026_002/quiz03_machinist_identity.html){target="_blank"} | The Machinist / Identity | Both | Fragmented identity, DID, belief systems |
+| [Quiz 4](quizzes/spring2026_002/quiz04_identity.html){target="_blank"} | Identity | Identity | DID, moral judgment, mens rea |
+| [Quiz 5](quizzes/spring2026_002/quiz05_fight_club.html){target="_blank"} | Fight Club | Fight Club | Dissociation, purpose, SDO |
+| [Quiz 6](quizzes/spring2026_002/quiz06_rain_man.html){target="_blank"} | Rain Man (Part I) | Rain Man | Autism, emotion, scientific belief |
+| [Quiz 7](quizzes/spring2026_002/quiz07_rain_man_kpax.html){target="_blank"} | Rain Man / K-PAX | Both | Diagnosis, deception detection, purpose |
+| [Quiz 8](quizzes/spring2026_002/quiz08_kpax.html){target="_blank"} | K-PAX | K-PAX | Delusion vs. reality, belief formation |
+| [Quiz 9](quizzes/spring2026_002/quiz09_leaving_las_vegas.html){target="_blank"} | Leaving Las Vegas | Leaving Las Vegas | Self-destruction, emotion regulation, purpose |
+| [Quiz 10](quizzes/spring2026_002/quiz10_nuremberg.html){target="_blank"} | Nuremberg (Part I) | Nuremberg | War crimes, SDO, moral judgment |
+| [Quiz 11](quizzes/spring2026_002/quiz11_nuremberg_wind_river.html){target="_blank"} | Nuremberg / Wind River | Both | Systemic injustice, responsibility |
+| [Quiz 12](quizzes/spring2026_002/quiz12_wind_river.html){target="_blank"} | Wind River | Wind River | Marginalized communities, grief, purpose |
+| [Quiz 13](quizzes/spring2026_002/quiz13_wrapup.html){target="_blank"} | Course Integration | All films | Synthesis across all themes |
+| [Quiz 14](quizzes/spring2026_002/quiz14_final.html){target="_blank"} | Final Reflection | All films | Applied psychological science |
 
 ---
 

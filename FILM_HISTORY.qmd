@@ -10,28 +10,28 @@ This document records all films viewed and discussed in PSYC 405: Mystery, Madne
 ### Spring 2026
 
 #### Section 001
-| Film | Year | Module | Key Psychological Themes |
-|------|------|--------|--------------------------|
-| Shutter Island | 2010 | Mystery | Trauma, delusion, reality testing, institutional psychiatry |
-| North by Northwest | 1959 | Mystery | Mistaken identity, paranoia, perception manipulation |
-| Sunset Boulevard | 1950 | Mystery | Delusion, obsession, fantasy vs. reality |
-| Black Swan | 2010 | Madness | Perfectionism, psychosis, performance anxiety, identity |
-| Good Will Hunting | 1997 | Madness | Trauma, therapy, attachment, resistance to change |
-| What's Eating Gilbert Grape | 1993 | Madness | Developmental disability, caregiving, family dynamics |
-| Primal Fear | 1996 | Murder | Forensic psychology, malingering, courtroom psychology |
-| The Hurricane | 1999 | Murder | Wrongful conviction, systemic bias, justice |
+| Film | Year | Links | Module | Key Psychological Themes |
+|------|------|-------|--------|--------------------------|
+| [Shutter Island](https://www.imdb.com/title/tt1130884/){target="_blank"} | 2010 | 🎬 8.2 \| [🍅 69%](https://www.rottentomatoes.com/m/shutter_island){target="_blank"} \| [📖](https://en.wikipedia.org/wiki/Shutter_Island_(film)){target="_blank"} | Mystery | Trauma, delusion, reality testing, institutional psychiatry |
+| [North by Northwest](https://www.imdb.com/title/tt0053125/){target="_blank"} | 1959 | 🎬 8.3 \| [🍅 97%](https://www.rottentomatoes.com/m/north_by_northwest){target="_blank"} \| [📖](https://en.wikipedia.org/wiki/North_by_Northwest){target="_blank"} | Mystery | Mistaken identity, paranoia, perception manipulation |
+| [Sunset Boulevard](https://www.imdb.com/title/tt0043014/){target="_blank"} | 1950 | 🎬 8.4 \| [🍅 98%](https://www.rottentomatoes.com/m/sunset_boulevard){target="_blank"} \| [📖](https://en.wikipedia.org/wiki/Sunset_Boulevard_(film)){target="_blank"} | Mystery | Delusion, obsession, fantasy vs. reality |
+| [Black Swan](https://www.imdb.com/title/tt0947798/){target="_blank"} | 2010 | 🎬 8.0 \| [🍅 85%](https://www.rottentomatoes.com/m/black_swan_2010){target="_blank"} \| [📖](https://en.wikipedia.org/wiki/Black_Swan_(film)){target="_blank"} | Madness | Perfectionism, psychosis, performance anxiety, identity |
+| [Good Will Hunting](https://www.imdb.com/title/tt0119217/){target="_blank"} | 1997 | 🎬 8.3 \| [🍅 97%](https://www.rottentomatoes.com/m/good_will_hunting){target="_blank"} \| [📖](https://en.wikipedia.org/wiki/Good_Will_Hunting){target="_blank"} | Madness | Trauma, therapy, attachment, resistance to change |
+| [What's Eating Gilbert Grape](https://www.imdb.com/title/tt0108550/){target="_blank"} | 1993 | 🎬 7.7 \| [🍅 90%](https://www.rottentomatoes.com/m/whats_eating_gilbert_grape){target="_blank"} \| [📖](https://en.wikipedia.org/wiki/What%27s_Eating_Gilbert_Grape){target="_blank"} | Madness | Developmental disability, caregiving, family dynamics |
+| [Primal Fear](https://www.imdb.com/title/tt0117381/){target="_blank"} | 1996 | 🎬 7.7 \| [🍅 77%](https://www.rottentomatoes.com/m/primal_fear){target="_blank"} \| [📖](https://en.wikipedia.org/wiki/Primal_Fear_(film)){target="_blank"} | Murder | Forensic psychology, malingering, courtroom psychology |
+| [The Hurricane](https://www.imdb.com/title/tt0174856/){target="_blank"} | 1999 | 🎬 7.6 \| [🍅 82%](https://www.rottentomatoes.com/m/hurricane){target="_blank"} \| [📖](https://en.wikipedia.org/wiki/The_Hurricane_(1999_film)){target="_blank"} | Murder | Wrongful conviction, systemic bias, justice |
 
 #### Section 002
-| Film | Year | Module | Key Psychological Themes |
-|------|------|--------|--------------------------|
-| The Machinist | 2004 | Mystery | Guilt, insomnia, reality distortion, deterioration |
-| Identity | 2003 | Mystery | Dissociative identity disorder, unreliable narrative |
-| Fight Club | 1999 | Mystery | DID, consumerism, unreliable narrator, identity |
-| Rain Man | 1988 | Madness | Autism spectrum, savant syndrome, relationships |
-| K-PAX | 2001 | Madness | Delusion vs. reality, therapeutic relationship |
-| Leaving Las Vegas | 1995 | Madness | Alcoholism, self-destruction, depression |
-| Nuremberg | 2025 | Murder | War crimes, moral judgment, obedience to authority |
-| Wind River | 2017 | Murder | Violence, trauma, justice in marginalized communities |
+| Film | Year | Links | Module | Key Psychological Themes |
+|------|------|-------|--------|--------------------------|
+| [The Machinist](https://www.imdb.com/title/tt0361862/){target="_blank"} | 2004 | 🎬 7.6 \| [🍅 77%](https://www.rottentomatoes.com/m/machinist){target="_blank"} \| [📖](https://en.wikipedia.org/wiki/The_Machinist){target="_blank"} | Mystery | Guilt, insomnia, reality distortion, deterioration |
+| [Identity](https://www.imdb.com/title/tt0309698/){target="_blank"} | 2003 | 🎬 7.3 \| [🍅 63%](https://www.rottentomatoes.com/m/identity){target="_blank"} \| [📖](https://en.wikipedia.org/wiki/Identity_(2003_film)){target="_blank"} | Mystery | Dissociative identity disorder, unreliable narrative |
+| [Fight Club](https://www.imdb.com/title/tt0137523/){target="_blank"} | 1999 | 🎬 8.8 \| [🍅 81%](https://www.rottentomatoes.com/m/fight_club){target="_blank"} \| [📖](https://en.wikipedia.org/wiki/Fight_Club){target="_blank"} | Mystery | DID, consumerism, unreliable narrator, identity |
+| [Rain Man](https://www.imdb.com/title/tt0095953/){target="_blank"} | 1988 | 🎬 8.0 \| [🍅 88%](https://www.rottentomatoes.com/m/rain_man){target="_blank"} \| [📖](https://en.wikipedia.org/wiki/Rain_Man){target="_blank"} | Madness | Autism spectrum, savant syndrome, relationships |
+| [K-PAX](https://www.imdb.com/title/tt0272152/){target="_blank"} | 2001 | 🎬 7.4 \| [🍅 42%](https://www.rottentomatoes.com/m/kpax){target="_blank"} \| [📖](https://en.wikipedia.org/wiki/K-PAX_(film)){target="_blank"} | Madness | Delusion vs. reality, therapeutic relationship |
+| [Leaving Las Vegas](https://www.imdb.com/title/tt0113627/){target="_blank"} | 1995 | 🎬 7.5 \| [🍅 91%](https://www.rottentomatoes.com/m/leaving_las_vegas){target="_blank"} \| [📖](https://en.wikipedia.org/wiki/Leaving_Las_Vegas){target="_blank"} | Madness | Alcoholism, self-destruction, depression |
+| [Nuremberg](https://www.imdb.com/title/tt26743110/){target="_blank"} | 2025 | 🎬 7.4 \| [🍅 71%](https://www.rottentomatoes.com/m/nuremberg_2025){target="_blank"} \| [📖](https://en.wikipedia.org/wiki/Nuremberg_(2025_film)){target="_blank"} | Murder | War crimes, moral judgment, obedience to authority |
+| [Wind River](https://www.imdb.com/title/tt5362988/){target="_blank"} | 2017 | 🎬 7.7 \| [🍅 87%](https://www.rottentomatoes.com/m/wind_river_2017){target="_blank"} \| [📖](https://en.wikipedia.org/wiki/Wind_River_(film)){target="_blank"} | Murder | Violence, trauma, justice in marginalized communities |
 
 ### Fall 2025
 

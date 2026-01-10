@@ -235,15 +235,38 @@ Quizzes are also uploaded to Canvas for grading. The Markdown format allows easy
 ### Required Information for Each Film
 
 When adding films to syllabi, include:
-- **IMDB link and rating:** `[Title](https://www.imdb.com/title/ttXXXXXXX/){target="_blank"} - IMDB X.X`
-- **Rotten Tomatoes link and score:** `[RT XX%](https://www.rottentomatoes.com/m/movie_slug){target="_blank"}`
-- **Wikipedia link:** `[Wiki](https://en.wikipedia.org/wiki/Film_Name_(film)){target="_blank"}`
+- **IMDB link and rating:** Film title links to IMDB, followed by 🎬 emoji and rating
+- **Rotten Tomatoes link and score:** 🍅 emoji with percentage linking to RT page
+- **Wikipedia link:** 📖 emoji linking to Wikipedia article
 - **Release year:** Include in parentheses after title
+- **CRITICAL:** ALL external links must include `{target="_blank"}` to open in new tabs
 
-### Example Format
+### Emoji Legend
+| Emoji | Source | Usage |
+|-------|--------|-------|
+| 🎬 | IMDB | Placed before rating (e.g., 🎬 8.2) |
+| 🍅 | Rotten Tomatoes | Linked with percentage (e.g., [🍅 69%](url)) |
+| 📖 | Wikipedia | Linked standalone (e.g., [📖](url)) |
+
+### Example Format (Schedule Tables)
 ```markdown
-[Shutter Island](https://www.imdb.com/title/tt1130884/){target="_blank"} (2010) - IMDB 8.2 | [RT 69%](https://www.rottentomatoes.com/m/shutter_island){target="_blank"} | [Wiki](https://en.wikipedia.org/wiki/Shutter_Island_(film)){target="_blank"}
+[Shutter Island](https://www.imdb.com/title/tt1130884/){target="_blank"} (2010) 🎬 8.2 \| [🍅 69%](https://www.rottentomatoes.com/m/shutter_island){target="_blank"} \| [📖](https://en.wikipedia.org/wiki/Shutter_Island_(film)){target="_blank"}
 ```
+
+### Example Format (Film Resources Section)
+```markdown
+**Links:** [🎬 IMDB](https://www.imdb.com/title/tt1130884/){target="_blank"} (8.2/10) | [🍅 Rotten Tomatoes](https://www.rottentomatoes.com/m/shutter_island){target="_blank"} (69%) | [📖 Wikipedia](https://en.wikipedia.org/wiki/Shutter_Island_(film)){target="_blank"}
+```
+
+### Link Standards
+
+**ALL links must open in new tabs.** This applies to:
+- Quiz links in schedule tables
+- Movie links (IMDB, Rotten Tomatoes, Wikipedia)
+- External resource links
+- Zotero library links
+
+Format: `[Link Text](URL){target="_blank"}`
 
 ## Website Information
 
