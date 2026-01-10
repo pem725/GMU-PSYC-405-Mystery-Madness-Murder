@@ -204,9 +204,43 @@ When creating quizzes for a new semester:
 
 4. **Create answer key (LOCAL ONLY):**
    - File: `quizzes/ANSWER_KEY_CONFIDENTIAL.md`
-   - Include correct answer for each question
-   - Document distractor justifications (why wrong answers are wrong)
    - This file is gitignored - NEVER commit to repository
+
+   **Required elements for EACH question:**
+
+   ```markdown
+   ### Question N
+
+   **Question:** [Full question text exactly as it appears in the quiz]
+
+   **Answer Choices:**
+   - A) [Option A text]
+   - B) [Option B text] ✓  (mark correct with ✓)
+   - C) [Option C text]
+   - D) [Option D text]
+
+   **Correct Answer: [Letter]**
+
+   **Rationale for Correct Answer:**
+   [Explain WHY this answer is correct. Cite specific research,
+   explain the psychological mechanism, and connect to course concepts.]
+
+   **Distractor Analysis:**
+   - **A** ([brief label]) - [Why this wrong answer is appealing but incorrect]
+   - **C** ([brief label]) - [Why this wrong answer is appealing but incorrect]
+   - **D** ([brief label]) - [Why this wrong answer is appealing but incorrect]
+
+   **Course Connection:**
+   - **Film:** [Which film(s) the question relates to and specific scenes/characters]
+   - **Readings:** [Which Zotero readings inform the question - cite author(s) and year]
+   - **Integration:** [How the question requires combining BOTH film AND reading knowledge]
+   ```
+
+   This format ensures:
+   - Instructors can discuss any question in class with full context
+   - The rationale explains not just WHAT is correct but WHY
+   - Students who ask about questions can receive meaningful explanations
+   - Question quality can be evaluated for future revisions
 
 5. **Update configuration files:**
    - Add quiz directory to `_quarto.yml` render list
