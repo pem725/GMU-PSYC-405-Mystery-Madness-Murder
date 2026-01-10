@@ -1,0 +1,66 @@
+---
+title: "Quiz 10: Nuremberg"
+subtitle: "PSYC 405 Section 002 - Spring 2026"
+format: html
+---
+
+## Quiz 10: Nuremberg (2025) - Part I
+
+*This quiz requires knowledge of the film AND relevant psychological science.*
+
+---
+
+### Question 1
+
+The Nuremberg trials established that "following orders" does not excuse atrocities. According to research on social dominance (Pratto et al., 1994), what psychological mechanism allows ordinary people to participate in extraordinary evil?
+
+A) Only psychopaths commit atrocities
+B) Soldiers lack moral reasoning capacity
+C) High SDO combined with legitimizing myths and hierarchical structure allows individuals to defer moral responsibility to authority, enabling atrocity participation without experiencing cognitive dissonance
+D) War automatically eliminates moral judgment
+
+---
+
+### Question 2
+
+Hannah Arendt famously described Eichmann as embodying "the banality of evil." According to Marshall et al. (2018), what does research suggest about the moral understanding of those who commit atrocities?
+
+A) Perpetrators completely lack moral understanding
+B) Atrocity is always psychopathic
+C) Perpetrators often demonstrate intact moral understanding - they know their actions are wrong but compartmentalize or rationalize their behavior
+D) Moral judgment is irrelevant to mass violence
+
+---
+
+### Question 3
+
+The defendants at Nuremberg used various psychological defenses: denial, rationalization, and diffusion of responsibility. According to Boudry & Braeckman (2012), these represent which broader phenomenon?
+
+A) Unique Nazi psychology
+B) Normal human confession-avoidance
+C) Self-validating belief systems that protect perpetrators from confronting the moral implications of their actions - "immunizing strategies" against guilt
+D) Deliberate legal strategy without psychological basis
+
+---
+
+### Question 4
+
+Morse (1992) argues that mens rea (guilty mind) is central to criminal liability. What unique challenge did the Nuremberg trials face regarding criminal intent?
+
+A) The defendants lacked intent entirely
+B) War crimes have no mens rea requirement
+C) The defendants acted with intent but within systems that redefined murder as acceptable policy - raising questions about how institutional context shapes individual criminal responsibility
+D) International law ignores psychological considerations
+
+---
+
+### Question 5
+
+According to Diamond (1961) on criminal responsibility of the mentally ill, what principle would argue AGAINST using "psychological pressure" as a defense for war crimes?
+
+A) Mental illness defenses are never valid
+B) Criminal responsibility requires only that the defendant understood the nature of their actions and could have chosen otherwise - ideological commitment does not eliminate this capacity
+C) War creates automatic insanity
+D) Psychology has no relevance to law
+
+---

@@ -1,0 +1,66 @@
+---
+title: "Quiz 1: Course Introduction"
+subtitle: "PSYC 405 Section 002 - Spring 2026"
+format: html
+---
+
+## Quiz 1: Foundations of Psychological Inquiry
+
+*This quiz tests your understanding of the course's governing areas of inquiry and foundational concepts in psychological science.*
+
+---
+
+### Question 1
+
+The course examines "Mystery, Madness, and Murder" through the lens of psychological science. According to Boudry et al. (2015), why do pseudoscientific explanations of human behavior persist despite scientific alternatives?
+
+A) Scientists fail to communicate effectively with the public
+B) Pseudoscience is more accurate than science
+C) Pseudoscientific beliefs have features that make them cognitively "sticky" - they appeal to intuition, provide simple explanations, and resist disconfirmation
+D) The public intentionally rejects science
+
+---
+
+### Question 2
+
+Shermer (2002) argues that intelligent people are not protected from irrational beliefs. What mechanism does he propose to explain this paradox?
+
+A) Intelligence and rationality are negatively correlated
+B) Education exposes people to more false information
+C) Intelligent people are more skilled at constructing post-hoc rationalizations for beliefs acquired through non-rational means
+D) Smart people have more irrational beliefs overall
+
+---
+
+### Question 3
+
+The six "governing areas of inquiry" (BELIEF, PURPOSE, MOTIVATION, UNCERTAINTY, DISCOMFORT, EMOTION) represent overlapping psychological constructs. According to current research, which relationship is MOST supported by evidence?
+
+A) These constructs are entirely independent
+B) BELIEF determines all other constructs
+C) These constructs interact bidirectionally - for example, emotion influences belief while belief shapes emotional interpretation
+D) Only EMOTION is scientifically measurable
+
+---
+
+### Question 4
+
+McKnight & Kashdan (2009) propose that purpose in life functions as a "self-organizing system." What does this theoretical framework predict about purpose?
+
+A) Purpose is fixed and unchangeable once established
+B) Purpose requires external validation to exist
+C) Purpose actively creates conditions that sustain itself, influencing perception, motivation, and behavior in self-perpetuating patterns
+D) Purpose is synonymous with happiness
+
+---
+
+### Question 5
+
+When analyzing films depicting psychological phenomena, what methodological principle should guide interpretation?
+
+A) Fictional portrayals should be accepted as accurate representations
+B) Entertainment value invalidates psychological analysis
+C) Fictional portrayals should be evaluated against empirical evidence, recognizing that dramatic necessity often distorts psychological accuracy
+D) Only documentaries can inform psychological understanding
+
+---

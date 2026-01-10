@@ -11,3 +11,6 @@
 
 # Local Quarto render outputs (Netlify builds fresh)
 *_files/
+
+# Confidential instructor materials - DO NOT COMMIT
+quizzes/ANSWER_KEY_CONFIDENTIAL.md

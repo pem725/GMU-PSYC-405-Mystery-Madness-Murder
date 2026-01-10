@@ -1,0 +1,66 @@
+---
+title: "Quiz 1: Course Introduction"
+subtitle: "PSYC 405 Section 001 - Spring 2026"
+format: html
+---
+
+## Quiz 1: Foundations of Psychological Inquiry
+
+*This quiz tests your understanding of the course's governing areas of inquiry and foundational concepts in psychological science.*
+
+---
+
+### Question 1
+
+According to Shermer's research on belief formation, why might highly intelligent individuals be *more* susceptible to believing "weird things" rather than less?
+
+A) Intelligence correlates negatively with critical thinking skills
+B) Smart people are better at constructing sophisticated rationalizations for beliefs they arrived at for non-smart reasons
+C) Higher education exposes people to more pseudoscientific content
+D) Intelligent people have less need for empirical evidence
+
+---
+
+### Question 2
+
+The course explores six "governing areas of inquiry." Which of the following accurately describes the relationship between UNCERTAINTY and BELIEF as psychological constructs?
+
+A) Uncertainty always leads to stronger beliefs as a compensatory mechanism
+B) Belief and uncertainty are independent constructs with no psychological relationship
+C) Uncertainty can paradoxically strengthen beliefs when evidence is ambiguous, as people seek cognitive closure
+D) High certainty eliminates the need for belief systems entirely
+
+---
+
+### Question 3
+
+Boudry and Braeckman (2012) argue that "weird" belief systems exhibit surprising resilience because they are "self-validating." Which psychological mechanism does NOT contribute to this self-validation?
+
+A) Confirmation bias in seeking supporting evidence
+B) Motivated reasoning to preserve existing beliefs
+C) Systematic falsification testing of core assumptions
+D) Immunizing strategies that reinterpret contradictory evidence
+
+---
+
+### Question 4
+
+When analyzing fictional portrayals of human behavior in film, which methodological consideration from psychological science is MOST critical?
+
+A) Films accurately represent base rates of psychological disorders in the population
+B) Dramatic necessity often conflicts with psychological accuracy, requiring viewers to distinguish artistic license from scientific validity
+C) Both the ecological validity of portrayed behaviors AND the theoretical mechanisms driving those behaviors must be evaluated
+D) Film portrayals should be dismissed entirely as entertainment with no psychological relevance
+
+---
+
+### Question 5
+
+The Mason Apex learning objectives emphasize "integrating skills, abilities, theories, or methodologies." In the context of this course, integration means:
+
+A) Memorizing psychological terminology to apply to film analysis
+B) Accepting film portrayals as accurate representations of psychological phenomena
+C) Separating entertainment value from scientific analysis
+D) Synthesizing observational skills, theoretical frameworks, and critical evaluation to analyze complex human behavior in context
+
+---

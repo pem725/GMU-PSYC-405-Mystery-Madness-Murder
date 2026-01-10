@@ -1,0 +1,66 @@
+---
+title: "Quiz 7: Rain Man / K-PAX"
+subtitle: "PSYC 405 Section 002 - Spring 2026"
+format: html
+---
+
+## Quiz 7: Transition - Diagnosis and Uncertainty
+
+*This quiz bridges Rain Man and K-PAX.*
+
+---
+
+### Question 1
+
+Both Raymond (Rain Man) and Prot (K-PAX) present diagnostic challenges. According to Matthews (2005), why might clinicians rationally disagree about unusual presentations?
+
+A) Psychiatric diagnosis is purely subjective
+B) Clinicians are randomly distributed in diagnostic tendencies
+C) Given ambiguous evidence, different prior beliefs (base rate expectations) lead to different rational conclusions - "weird" presentations challenge standard diagnostic inference
+D) Only one diagnosis can ever be correct
+
+---
+
+### Question 2
+
+Raymond's savant abilities are genuine; Prot's claimed alien origin may or may not be delusional. According to Vrij et al. (2019), what makes distinguishing delusion from reality so difficult in Prot's case?
+
+A) Aliens might actually exist
+B) Behavioral cues cannot distinguish between sincere belief (delusion) and deliberate deception - and genuine delusion produces no "deception" cues at all
+C) Psychiatrists lack training in alien detection
+D) Prot deliberately obscures diagnostic cues
+
+---
+
+### Question 3
+
+Both films explore how "different" minds relate to "normal" society. According to Pratto et al. (1994), how might social dominance orientation predict attitudes toward both Raymond and Prot?
+
+A) High SDO would predict acceptance of difference
+B) SDO is irrelevant to attitudes about neurodiversity
+C) High SDO correlates with preference for hierarchy; unusual minds may be seen as threats to social order or as requiring institutionalization rather than accommodation
+D) Low SDO individuals reject all difference
+
+---
+
+### Question 4
+
+Dr. Powell (K-PAX) becomes personally invested in Prot's case. According to research on emotion differentiation (Kashdan et al., 2015), what risk does this personal investment create?
+
+A) Investment always improves clinical judgment
+B) Personal feelings have no effect on diagnosis
+C) Undifferentiated emotional investment may impair objective assessment; distinguishing professional concern from personal fascination requires high emotion differentiation
+D) Only detached clinicians make accurate diagnoses
+
+---
+
+### Question 5
+
+Charlie transforms from exploiting Raymond to genuinely caring for him. According to McKnight & Kashdan (2009), this transformation illustrates which characteristic of purpose as a "self-organizing system"?
+
+A) Purpose is externally imposed by circumstances
+B) Purpose creates conditions that sustain and strengthen itself - Charlie's initial positive experiences with Raymond generated further investment that became self-perpetuating
+C) Purpose develops independently of experience
+D) Purpose cannot emerge from selfish beginnings
+
+---

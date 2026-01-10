@@ -1,0 +1,66 @@
+---
+title: "Quiz 14: Final Reflection"
+subtitle: "PSYC 405 Section 002 - Spring 2026"
+format: html
+---
+
+## Quiz 14: Final Reflection - What Did You Learn?
+
+*This quiz tests deep integration of course concepts and their application.*
+
+---
+
+### Question 1
+
+A colleague claims they can reliably detect when patients are lying based on body language. Based on Vrij et al. (2019) and the course material, what is the most scientifically accurate response?
+
+A) Support their confidence - clinical experience develops this skill
+B) Express skepticism - nonverbal deception cues are "faint and unreliable," and training does not significantly improve detection accuracy
+C) Recommend they take a lie detection course to improve further
+D) Accept that some individuals have innate lie detection ability
+
+---
+
+### Question 2
+
+A friend expresses frustration that their search for "purpose" hasn't made them happier. Based on McKnight et al. (2025), what empirically-supported advice would you offer?
+
+A) Search harder for the right purpose
+B) Purpose and happiness are unrelated
+C) Consider that the causal direction may be reversed - cultivating positive experiences might facilitate purpose development more effectively than directly pursuing purpose
+D) Accept that some people cannot have purpose
+
+---
+
+### Question 3
+
+You notice that an intelligent friend maintains a belief that contradicts scientific consensus. Based on Shermer (2002) and Boudry & Braeckman (2012), which approach is LEAST likely to change their mind?
+
+A) Understanding the emotional needs the belief serves
+B) Exploring what evidence would convince them they were wrong
+C) Presenting more facts contradicting their belief - self-validating belief systems reinterpret contradictory evidence as confirmation
+D) Discussing the belief's origins and development
+
+---
+
+### Question 4
+
+Based on emotion regulation research (Gross, 2015; Kashdan et al., 2015; Kalokerinos et al., 2019), which sequence represents the most adaptive response to overwhelming negative experience?
+
+A) Suppress → Avoid → Reappraise
+B) Act immediately → Reflect later → Repeat
+C) Differentiate (identify specific emotions) → Select appropriate strategy → Implement flexibly
+D) Reappraise everything → Never experience negative emotion
+
+---
+
+### Question 5
+
+The course analyzed fictional portrayals alongside empirical research. What is the BEST reason for this approach?
+
+A) Fiction is always psychologically accurate
+B) Research findings are too abstract without illustration
+C) Entertainment value increases student engagement
+D) Comparing dramatized portrayals to scientific evidence develops critical evaluation skills and illuminates both accurate representation and common misconceptions about psychological phenomena
+
+---

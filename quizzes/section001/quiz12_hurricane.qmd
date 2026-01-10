@@ -1,0 +1,66 @@
+---
+title: "Quiz 12: The Hurricane"
+subtitle: "PSYC 405 Section 001 - Spring 2026"
+format: html
+---
+
+## Quiz 12: The Hurricane (1999)
+
+*This quiz requires knowledge of the film AND relevant psychological science.*
+
+---
+
+### Question 1
+
+Rubin Carter was convicted largely based on eyewitness testimony that was later discredited. According to research on belief formation (Matthews, 2005), why might juries rationally accept flawed testimony?
+
+A) Juries are inherently irrational
+B) Eyewitnesses are always believed over defendants
+C) Given the information available at trial (without knowledge of eyewitness memory limitations), accepting confident testimony may have been statistically reasonable inference
+D) Racial bias explains all wrongful convictions
+
+---
+
+### Question 2
+
+Detective Vincent Della Pesca pursues Carter with obsessive intensity. According to Pratto et al. (1994), which aspect of social dominance orientation best explains his behavior?
+
+A) Low SDO seeking to protect victims
+B) In-group loyalty to fellow officers
+C) High SDO combined with legitimizing beliefs about Black criminality, making Carter's guilt a foregone conclusion requiring evidence to confirm rather than test
+D) Personal animosity unrelated to social dominance
+
+---
+
+### Question 3
+
+Carter maintained his innocence for 19 years despite enormous pressure to confess in exchange for parole. According to McKnight et al. (2025), what does this suggest about the relationship between purpose and happiness?
+
+A) Purpose requires happiness to sustain itself
+B) Happiness must precede purpose chronologically
+C) Purpose can sustain behavior even in the absence of happiness; however, research suggests that purpose alone may not be self-sustaining indefinitely
+D) Purpose and happiness are identical constructs
+
+---
+
+### Question 4
+
+Lesra Martin and the Canadian activists become invested in Carter's freedom despite having no prior connection to him. According to purpose research (Kashdan et al., 2024), what distinguishes their motivation from simple altruism?
+
+A) Financial incentives drove their involvement
+B) Guilt motivated their action
+C) Their involvement became self-concordant - aligned with deeply held values - transforming from external interest to integrated purpose
+D) Altruism and purpose are synonymous
+
+---
+
+### Question 5
+
+The film depicts how confirmation bias affected the investigation - evidence supporting Carter's guilt was emphasized while exculpatory evidence was dismissed. According to Boudry et al. (2015), this pattern represents which broader phenomenon?
+
+A) Individual investigator incompetence
+B) Deliberate conspiracy to frame Carter
+C) The epidemiology of belief - how false beliefs can spread through institutions via normal cognitive processes without requiring malicious intent
+D) Standard investigative procedure
+
+---

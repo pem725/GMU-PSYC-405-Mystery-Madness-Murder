@@ -1,0 +1,66 @@
+---
+title: "Quiz 4: North by Northwest"
+subtitle: "PSYC 405 Section 001 - Spring 2026"
+format: html
+---
+
+## Quiz 4: North by Northwest (1959)
+
+*This quiz requires knowledge of the film AND relevant psychological science.*
+
+---
+
+### Question 1
+
+Roger Thornhill's mother dismisses his claims about being kidnapped and nearly killed, even when presented with evidence. According to Matthews (2005), why might her "irrational" skepticism actually represent reasonable inference?
+
+A) Maternal instinct overrides logical evaluation
+B) Given base rates, a son's fantastic story about spies is less probable than alternative explanations, making skepticism statistically defensible
+C) Emotional attachment prevents objective assessment
+D) Older adults are generally more skeptical of younger generations
+
+---
+
+### Question 2
+
+Vandamm and his associates maintain the fiction of "George Kaplan" despite mounting evidence that Thornhill is not their target. This persistence demonstrates which cognitive phenomenon described in Boudry et al. (2015)?
+
+A) Sunk cost fallacy in decision-making
+B) Motivated cognition that preserves a useful belief despite contradictory evidence
+C) Fundamental attribution error in person perception
+D) Availability heuristic in probability judgment
+
+---
+
+### Question 3
+
+Eve Kendall operates as a triple agent, deceiving Thornhill, Vandamm, and (initially) the CIA. According to Vrij et al. (2019) on deception detection, why is she successful?
+
+A) Women are inherently better at deception than men
+B) Romantic contexts disable normal lie detection abilities
+C) Nonverbal cues to deception are "faint and unreliable," and people are mediocre lie detectors regardless of the deceiver's characteristics
+D) Trained agents develop unique physiological control over deception cues
+
+---
+
+### Question 4
+
+Thornhill transforms from a self-interested advertising executive to someone who risks his life for others. According to McKnight et al. (2025) on purpose and happiness, what is the most likely causal direction?
+
+A) Finding purpose through helping Eve led to his increased positive affect
+B) Positive emotional experiences with Eve may have preceded and facilitated his sense of purpose
+C) Purpose and happiness developed simultaneously and independently
+D) External threats eliminated his capacity for both purpose and happiness
+
+---
+
+### Question 5
+
+The film's famous Mount Rushmore climax places the protagonists literally climbing over the faces of presidents. What psychological function does this setting serve according to research on emotion regulation (Gross, 2015)?
+
+A) Patriotic symbolism reduces viewer anxiety
+B) Familiar landmarks provide cognitive anchoring
+C) The iconic setting creates cognitive dissonance between safety associations and present danger, intensifying emotional response
+D) Height phobia activation is universal across audiences
+
+---

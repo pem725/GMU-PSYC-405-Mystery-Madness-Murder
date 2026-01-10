@@ -1,0 +1,66 @@
+---
+title: "Quiz 10: Primal Fear"
+subtitle: "PSYC 405 Section 001 - Spring 2026"
+format: html
+---
+
+## Quiz 10: Primal Fear (1996) - Part I
+
+*This quiz requires knowledge of the film AND relevant psychological science.*
+
+---
+
+### Question 1
+
+Aaron Stampler convincingly presents with apparent dissociative identity disorder (DID). According to the meta-analytic findings in Marshall et al. (2018), what does research suggest about the relationship between psychopathy and moral understanding?
+
+A) Psychopaths completely lack moral understanding
+B) Psychopaths have inverted moral values
+C) The relationship between psychopathy and moral judgment is smaller than commonly believed; psychopaths often understand morality but are unmoved by it
+D) Psychopathy and moral judgment are unrelated constructs
+
+---
+
+### Question 2
+
+Martin Vail accepts Aaron's case initially for publicity and career advancement. His motivation transforms throughout the trial. According to Pratto et al. (1994), what does Vail's initial motivation reveal about social dominance orientation?
+
+A) High SDO individuals avoid legal professions
+B) Vail demonstrates low SDO through his defense of the accused
+C) Defense attorneys may be motivated by hierarchy-enhancing goals (fame, status) while using hierarchy-attenuating rhetoric (defending the powerless)
+D) SDO is irrelevant to legal practice
+
+---
+
+### Question 3
+
+The film's forensic psychiatrist must distinguish between genuine DID and malingering. According to Vrij et al. (2019), why is this distinction so difficult?
+
+A) DID and malingering produce identical brain scans
+B) Psychiatrists receive no training in deception detection
+C) Behavioral cues to deception are "faint and unreliable," and clinical training does not significantly improve detection accuracy
+D) Malingerers always eventually confess
+
+---
+
+### Question 4
+
+Morse (1992) describes *mens rea* (guilty mind) as central to criminal liability. If Aaron truly had DID, which legal concept would be most relevant to his defense?
+
+A) Not guilty by reason of insanity (complete defense)
+B) Diminished capacity - the argument that mental illness prevented formation of specific intent required for first-degree murder
+C) Automatism (involuntary action)
+D) Self-defense (justification)
+
+---
+
+### Question 5
+
+The film's twist reveals that "Aaron" was the performance and "Roy" was the true personality. This revelation challenges which assumption about deception?
+
+A) Deception requires conscious effort and shows behavioral leakage
+B) The most effective deception involves becoming the deceptive persona, making traditional cue-based detection impossible
+C) Psychiatric evaluation can always detect deception
+D) Multiple personalities cannot be fabricated
+
+---

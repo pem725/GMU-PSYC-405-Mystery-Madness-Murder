@@ -1,0 +1,66 @@
+---
+title: "Quiz 11: Primal Fear / The Hurricane"
+subtitle: "PSYC 405 Section 001 - Spring 2026"
+format: html
+---
+
+## Quiz 11: Transition - Justice and Deception
+
+*This quiz bridges Primal Fear and The Hurricane.*
+
+---
+
+### Question 1
+
+Aaron Stampler deceives everyone; Rubin Carter is deceived BY the system. According to Vrij et al. (2019), what do these cases together suggest about institutional deception detection?
+
+A) Legal systems are excellent at detecting individual deception
+B) Institutions cannot be deceived
+C) Neither individuals nor institutions reliably detect deception; the direction of deception (perpetrator vs. victim) does not predict detection accuracy
+D) Only psychopaths can deceive institutions
+
+---
+
+### Question 2
+
+Martin Vail discovers he was manipulated after the verdict is final. Rubin Carter knew he was being manipulated but was powerless to stop it. According to research on belief perseverance (Boudry & Braeckman, 2012), why did both men initially fail to recognize the truth?
+
+A) Intelligence does not protect against deception
+B) Emotional investment prevented objective evaluation
+C) Both operated within self-validating belief systems - Vail's about his client, Carter's accuser's about his guilt - that reinterpreted contradictory evidence to confirm existing beliefs
+D) The legal system prevented truth-seeking
+
+---
+
+### Question 3
+
+Primal Fear depicts a guilty person escaping justice; The Hurricane depicts an innocent person denied justice. According to Diamond (1961) on criminal responsibility, what fundamental challenge does this contrast illustrate?
+
+A) The insanity defense should be abolished
+B) Mental illness always leads to injustice
+C) The legal system must balance two types of errors - convicting the innocent and acquitting the guilty - and mental illness complicates both determinations
+D) Criminal responsibility can be objectively determined
+
+---
+
+### Question 4
+
+Carter refused to wear prison clothes or participate in prison programs. According to McKnight & Kashdan (2009), how might this defiance relate to purpose maintenance?
+
+A) Defiance indicates purpose rejection
+B) Maintaining identity boundaries preserves the self-organizing system of purpose even when external circumstances are uncontrollable
+C) Purpose cannot exist within incarceration
+D) Defiance is always maladaptive
+
+---
+
+### Question 5
+
+Both films feature attorneys who believe their clients. What does Shermer's (2002) analysis of "smart people believing weird things" suggest about expert vulnerability to deception?
+
+A) Legal training specifically protects against deception
+B) Attorneys are randomly selected for gullibility
+C) Expertise provides sophisticated tools for rationalizing conclusions reached through intuition and emotional investment
+D) Smart people never believe false things
+
+---

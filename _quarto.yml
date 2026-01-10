@@ -10,6 +10,9 @@ project:
     - FILM_HISTORY.qmd
     - READINGS.qmd
     - PAST_REVIEWS.qmd
+    - QUIZZES.qmd
+    - quizzes/section001/*.qmd
+    - quizzes/section002/*.qmd
 
 website:
   title: "PSYC 405: Mystery, Madness & Murder"
@@ -36,6 +39,8 @@ website:
         href: FILM_HISTORY.qmd
       - text: "Readings"
         href: READINGS.qmd
+      - text: "Quizzes"
+        href: QUIZZES.qmd
       - text: "Past Reviews"
         href: PAST_REVIEWS.qmd
     right:

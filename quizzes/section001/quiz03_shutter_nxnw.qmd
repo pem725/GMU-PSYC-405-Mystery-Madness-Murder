@@ -1,0 +1,66 @@
+---
+title: "Quiz 3: Shutter Island / North by Northwest"
+subtitle: "PSYC 405 Section 001 - Spring 2026"
+format: html
+---
+
+## Quiz 3: Transition - Reality and Identity
+
+*This quiz bridges themes from Shutter Island and introduces North by Northwest.*
+
+---
+
+### Question 1
+
+At the end of Shutter Island, Andrew asks: "Which would be worse - to live as a monster, or to die as a good man?" This question most directly engages which psychological construct from the purpose literature (McKnight & Kashdan, 2009)?
+
+A) Self-efficacy and competence beliefs
+B) The relationship between identity coherence and meaningful existence
+C) Hedonic versus eudaimonic well-being
+D) Goal-directed behavior and motivation
+
+---
+
+### Question 2
+
+Roger Thornhill in North by Northwest is mistaken for "George Kaplan," who doesn't actually exist. According to Shermer's analysis of belief formation, what makes this false identity so readily accepted by others?
+
+A) People inherently trust government agencies
+B) Thornhill's behavior confirms their pre-existing expectations
+C) The identity fills a cognitive schema that observers already possess, making confirmation bias more powerful than contradictory evidence
+D) Mistaken identity is statistically common in espionage contexts
+
+---
+
+### Question 3
+
+Both Teddy Daniels and Roger Thornhill experience profound uncertainty about their identities, but the psychological source differs. What is the KEY distinction?
+
+A) Teddy's uncertainty is externally imposed; Roger's is internally generated
+B) Roger experiences identity confusion; Teddy experiences identity delusion
+C) Teddy's identity crisis stems from motivated self-deception; Roger's stems from others' misattribution
+D) Both represent equivalent forms of dissociative experience
+
+---
+
+### Question 4
+
+Hitchcock deliberately sets the famous crop-duster scene in an open, mundane environment. According to research on emotion and context (Kashdan et al., 2015), why does this setting intensify rather than diminish fear?
+
+A) Rural settings activate evolutionary threat detection systems
+B) The contrast between mundane context and lethal threat creates emotional differentiation difficulties, amplifying distress
+C) Isolation increases objective danger levels
+D) Audiences have learned associations between fields and violence
+
+---
+
+### Question 5
+
+The psychiatric institution in Shutter Island and the government conspiracy in North by Northwest both represent external systems that control individual reality. Which concept from social dominance research (Pratto et al., 1994) is most relevant?
+
+A) In-group favoritism and out-group derogation
+B) Legitimizing myths that justify hierarchical systems
+C) Institutional power's capacity to define and enforce what counts as "truth"
+D) Individual differences in preference for equality
+
+---

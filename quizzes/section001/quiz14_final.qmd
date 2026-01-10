@@ -1,0 +1,66 @@
+---
+title: "Quiz 14: Final Reflection"
+subtitle: "PSYC 405 Section 001 - Spring 2026"
+format: html
+---
+
+## Quiz 14: Final Reflection - What Did You Learn?
+
+*This quiz tests deep integration of course concepts and their application.*
+
+---
+
+### Question 1
+
+You encounter a friend who believes in a conspiracy theory despite strong contrary evidence. Based on Boudry & Braeckman (2012) and Shermer (2002), which approach is LEAST likely to change their mind?
+
+A) Acknowledging emotional reasons why the belief might be appealing
+B) Exploring what evidence would, in principle, convince them otherwise
+C) Presenting more factual counter-evidence, as self-validating belief systems reinterpret contradictory evidence as confirmation
+D) Understanding the social context in which the belief developed
+
+---
+
+### Question 2
+
+A clinician must evaluate whether a defendant is malingering a mental disorder. According to Vrij et al. (2019) and the course material on Primal Fear, what should the clinician understand about their detection abilities?
+
+A) Clinical training provides excellent deception detection
+B) Behavioral cues reliably distinguish genuine from feigned symptoms
+C) Detection accuracy is likely near chance levels; systematic evaluation of symptom consistency and collateral information is more reliable than cue-based judgment
+D) Malingerers always eventually reveal themselves
+
+---
+
+### Question 3
+
+Based on the emotion regulation literature (Gross, 2015; Kashdan et al., 2015), which intervention approach would be most appropriate for someone like Nina Sayers (Black Swan)?
+
+A) Encouraging more intense practice to achieve her goals
+B) Suppressing emotional responses to reduce distress
+C) Removing her from the ballet context entirely
+D) Building emotion differentiation skills before attempting cognitive reappraisal or situation modification
+
+---
+
+### Question 4
+
+Research shows happiness may predict subsequent purpose rather than purpose predicting happiness (McKnight et al., 2025). Which implication for personal development is most supported by this finding?
+
+A) Pursuing purpose is futile
+B) Only happy people can have purpose
+C) Purpose is unrelated to well-being
+D) Cultivating positive emotional experiences may facilitate purpose development more effectively than directly pursuing purpose
+
+---
+
+### Question 5
+
+The course examined psychological phenomena through both fictional films and scientific research. What is the primary VALUE of analyzing fictional portrayals alongside empirical findings?
+
+A) Films accurately represent psychological disorders
+B) Entertainment value makes learning more pleasant
+C) Film analysis develops observational and critical thinking skills; comparing fictional portrayals to research illuminates both the accuracy and the limitations of popular understanding
+D) There is no value; fiction should be separated from science
+
+---

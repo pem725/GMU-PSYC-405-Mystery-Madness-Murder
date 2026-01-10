@@ -112,6 +112,11 @@ During class, we shall all share in the viewing of a media snippet that depicts 
 
 [^1]: All quizzes are conducted on canvas. Please consult the canvas website for the course. You will have access to the quiz for the period that I announce every week (at random). Come to class. You won't have to wonder when I start the quiz. Just show up. Oh, and bring a computer or phone.
 
+::: {.callout-important}
+## Quiz Questions & Study Materials
+All quiz questions are available for study on our [Quiz Page](QUIZZES.qmd). Yes, you can see the questions beforehand! The goal is for you to **learn** how questions are constructed and how psychological science connects to film content. The questions require integration of movie knowledge AND readings - simple memorization won't help.
+:::
+
 ### Section 001 Film Themes
 
 **Mystery Module (Weeks 2-5):**
