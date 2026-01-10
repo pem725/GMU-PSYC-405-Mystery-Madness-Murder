@@ -360,10 +360,10 @@ All external links should include `{target="_blank"}` to open in new tabs:
 **Last Verified:** January 2026
 - All IMDB links verified working
 - Rotten Tomatoes links updated to use numeric IDs (more stable than slug-based URLs)
-- Nuremberg links corrected to reference 2000 TV miniseries (tt0208629) instead of 2025 film
+- Nuremberg (2025) uses tt26743110
 
 **Common Issues:**
-- RT URLs: Use format `/m/{numeric-id}-{slug}` for stability (e.g., `/m/1102961-nuremberg`)
+- RT URLs: Use format `/m/{slug}` or `/m/{numeric-id}-{slug}` depending on availability
 - Multiple films with same title: Always verify IMDB ID matches the correct year/production
 
 ### 4. Quiz Quality Assurance

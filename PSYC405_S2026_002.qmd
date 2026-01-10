@@ -104,7 +104,7 @@ During class, we shall all share in the viewing of a media snippet that depicts 
 | 8 | SPRING BREAK | **R-E-L-A-X** (March 9-13) | NO QUIZ |
 | 9 | Madness | K-PAX | [Quiz 8](quizzes/spring2026_002/quiz08_kpax.html){target="_blank"} |
 | 10 | Madness | [Leaving Las Vegas](https://www.imdb.com/title/tt0113627/){target="_blank"} (1995) 🎬 7.5 \| [🍅 91%](https://www.rottentomatoes.com/m/leaving_las_vegas){target="_blank"} \| [📖](https://en.wikipedia.org/wiki/Leaving_Las_Vegas){target="_blank"} | [Quiz 9](quizzes/spring2026_002/quiz09_leaving_las_vegas.html){target="_blank"} |
-| 11 | Murder | [Nuremberg](https://www.imdb.com/title/tt0208629/){target="_blank"} (2000) 🎬 7.3 \| [🍅 83%](https://www.rottentomatoes.com/m/1102961-nuremberg){target="_blank"} \| [📖](https://en.wikipedia.org/wiki/Nuremberg_(miniseries)){target="_blank"} | [Quiz 10](quizzes/spring2026_002/quiz10_nuremberg.html){target="_blank"} |
+| 11 | Murder | [Nuremberg](https://www.imdb.com/title/tt26743110/){target="_blank"} (2025) 🎬 7.4 \| [🍅 71%](https://www.rottentomatoes.com/m/nuremberg_2025){target="_blank"} \| [📖](https://en.wikipedia.org/wiki/Nuremberg_(2025_film)){target="_blank"} | [Quiz 10](quizzes/spring2026_002/quiz10_nuremberg.html){target="_blank"} |
 | 12 | Murder | Nuremberg / [Wind River](https://www.imdb.com/title/tt5362988/){target="_blank"} (2017) 🎬 7.7 \| [🍅 87%](https://www.rottentomatoes.com/m/wind_river_2017){target="_blank"} \| [📖](https://en.wikipedia.org/wiki/Wind_River_(film)){target="_blank"} | [Quiz 11](quizzes/spring2026_002/quiz11_nuremberg_wind_river.html){target="_blank"} |
 | 13 | Murder | Wind River | [Quiz 12](quizzes/spring2026_002/quiz12_wind_river.html){target="_blank"} |
 | 14 | Murder | Wrap-up & Review | [Quiz 13](quizzes/spring2026_002/quiz13_wrapup.html){target="_blank"} |
@@ -215,8 +215,8 @@ Use these links to explore background information, reviews, and critical analyse
 
 ### Murder Module Films
 
-#### Nuremberg (2000)
-**Links:** [🎬 IMDB](https://www.imdb.com/title/tt0208629/){target="_blank"} (7.3/10) | [🍅 Rotten Tomatoes](https://www.rottentomatoes.com/m/1102961-nuremberg){target="_blank"} (83%) | [📖 Wikipedia](https://en.wikipedia.org/wiki/Nuremberg_(miniseries)){target="_blank"}
+#### Nuremberg (2025)
+**Links:** [🎬 IMDB](https://www.imdb.com/title/tt26743110/){target="_blank"} (7.4/10) | [🍅 Rotten Tomatoes](https://www.rottentomatoes.com/m/nuremberg_2025){target="_blank"} (71%) | [📖 Wikipedia](https://en.wikipedia.org/wiki/Nuremberg_(2025_film)){target="_blank"}
 
 ::: {.callout-tip}
 ## Discussion Questions
