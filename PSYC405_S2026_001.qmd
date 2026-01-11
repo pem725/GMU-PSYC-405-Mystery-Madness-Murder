@@ -268,6 +268,16 @@ I offer a simple A-F with the following breakdown...
 **F:** Who are you?
 :::
 
+### Numerical Grade Scale
+
+| Grade | Percentage | Description |
+|-------|------------|-------------|
+| A | 90-100% | Excellent |
+| B | 80-89% | Good |
+| C | 70-79% | Satisfactory |
+| D | 60-69% | Passing |
+| F | Below 60% | Failing |
+
 ### Grade Weights
 
 Those grades will be predicated on the follow complex formula:
@@ -299,18 +309,93 @@ Those grades will be predicated on the follow complex formula:
 :::
 
 ::: {.callout-note icon="info-circle"}
-## Official Communications via GMU E-mail
-Mason uses electronic mail to provide official information to students. Examples include communications from course instructors, notices from the library, notices about academic standing, financial aid information, class materials, assignments, questions, and instructor feedback. Students are responsible for the content of university communications sent to their Mason e-mail account, and are required to activate that account and check it regularly. If you are having your Mason mail forwarded to another account, please ensure that your Mason account doesn't exceed the assigned limit, causing mail to bounce back to the sender.
+## FERPA and Official Communications
+
+**FERPA Rights:** The Family Educational Rights and Privacy Act (FERPA) protects your education records. You have the right to inspect your records, request amendments, and control disclosure of personally identifiable information. For more information, visit the [Registrar's FERPA page](https://registrar.gmu.edu/ferpa/){target="_blank"}.
+
+**GMU Email Requirement:** Mason uses electronic mail to provide official information to students. Examples include communications from course instructors, notices from the library, notices about academic standing, financial aid information, class materials, assignments, questions, and instructor feedback. Students are responsible for the content of university communications sent to their Mason e-mail account and are required to activate that account and check it regularly.
+
+**Important:** I will only respond to emails sent from your official **@gmu.edu** address for matters related to this course.
 :::
 
 ::: {.callout-note icon="universal-access"}
-## Disability Accommodations
-If you are a student with a disability and you need academic accommodations, please let me know early in the semester. If you have not already done so, contact the Office of Disability Services (ODS) at 703-993-2474. All academic accommodations must be arranged through that office. Please keep in mind that it might not be possible to grant last-minute requests for accommodations, so it is important to make all arrangements well before the date when the accommodation is needed. The Office of Disability Services website can be found at http://ods.gmu.edu
+## Disability Services
+
+Disability Services at George Mason University provides reasonable accommodations ensuring equal access to university programs and activities. If you need accommodations:
+
+1. **Register** with Disability Services at [ds.gmu.edu](https://ds.gmu.edu){target="_blank"}
+2. **Communicate** your approved accommodations to me **in advance** of relevant class meetings, assignments, or exams
+
+**Contact Disability Services:**
+
+- Location: SUB I, Suite 2500
+- Email: [ds@gmu.edu](mailto:ds@gmu.edu)
+- Phone: (703) 993-2474
+
+Please arrange accommodations early in the semester—last-minute requests may not be possible to fulfill.
 :::
 
 ::: {.callout-warning icon="shield-check"}
-## Academic Integrity
-The integrity of the University community is affected by the individual choices made by each of us. Mason has an Honor Code with clear guidelines regarding academic integrity. Three fundamental principles to follow at all times are: (1) all work submitted must be your own; (2) when using the work or ideas of others, including fellow students, give full credit through accurate citations; and (3) if you are uncertain about the ground rules on a particular assignment, ask for clarification. No grade is important enough to justify academic misconduct. More information on Mason's Honor Code can be found at http://oai.gmu.edu/the-mason-honor-code-2/
+## Academic Standards
+
+George Mason University promotes authentic scholarship through three core principles:
+
+1. **Honesty:** Providing accurate information in all academic endeavors
+2. **Acknowledgement:** Giving proper credit for all contributions to your work
+3. **Uniqueness of Work:** Ensuring submitted work is the result of your own effort
+
+Violations—including plagiarism, fabrication, and cheating—are addressed through university procedures with consequences ranging from academic sanctions to disciplinary action. You are responsible for understanding how these expectations apply to this course. When in doubt, ask me.
+
+For complete policies, see [Academic Standards](https://academicstandards.gmu.edu/){target="_blank"}.
+:::
+
+::: {.callout-note icon="robot"}
+## Artificial Intelligence (AI) Tools Policy
+
+**My perspective:** AI is a remarkable tool that is widely misunderstood and, unfortunately, often abused. I encourage you to use AI wisely and openly.
+
+**Permitted Uses:** You may use AI tools (such as ChatGPT, Claude, Grammarly, etc.) for:
+
+- Brainstorming and generating initial ideas
+- Checking grammar and spelling
+- Understanding concepts discussed in class or readings
+- Exploring psychological theories in greater depth
+
+**Prohibited Uses:** You may NOT use AI tools to:
+
+- Generate quiz answers or submit AI-written responses as your own work
+- Summarize films you have not watched
+- Replace your own critical analysis and engagement with course material
+
+**Why this matters:** This course emphasizes YOUR observations, YOUR critical thinking, and YOUR integration of psychological science with film content. AI cannot watch films for you or develop your analytical skills. The learning happens in the doing—not in the outsourcing.
+
+**Disclosure requirement:** If you use AI tools in any capacity for course work, disclose this use openly. There is no penalty for honest disclosure; there are consequences for deception.
+:::
+
+::: {.callout-warning icon="shield"}
+## Title IX and Sexual Misconduct
+
+George Mason University is committed to providing a learning environment free from sex and gender-based discrimination. As a faculty member, I am a **non-confidential employee** required to report any information about sexual misconduct or relationship violence to the Title IX Coordinator.
+
+**Title IX Coordinator Contact:**
+
+- Email: [TitleIX@gmu.edu](mailto:TitleIX@gmu.edu)
+- Phone: (703) 993-8730
+- Location: Aquia 373 (Fairfax campus)
+
+**Confidential Resources** (not required to report):
+
+- Student Support and Advocacy Center (SSAC): (703) 993-3686
+- Counseling and Psychological Services (CAPS): (703) 993-2380
+- Student Health Services: (703) 993-2831
+
+For more information, visit [Title IX at Mason](https://diversity.gmu.edu/title-ix){target="_blank"}.
+:::
+
+::: {.callout-important}
+## University Policies
+
+All students are expected to review and comply with the [GMU Common Course Policies](https://stearnscenter.gmu.edu/home/gmu-common-course-policies/){target="_blank"}, which include required information about Academic Standards, Disability Services, FERPA, and Title IX.
 :::
 
 ::: {.callout-caution icon="zap"}
