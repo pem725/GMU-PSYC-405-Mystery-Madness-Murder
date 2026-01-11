@@ -316,6 +316,81 @@ When adding films to syllabi, include:
 
 Format: `[Link Text](URL){target="_blank"}`
 
+## GMU Syllabus Compliance
+
+All syllabi must comply with [GMU Catalog Policy AP.2.5](https://catalog.gmu.edu/policies/academic/course-information/) and include the [GMU Common Course Policies](https://stearnscenter.gmu.edu/home/gmu-common-course-policies/).
+
+### Required Elements (per AP.2.5)
+
+Every syllabus must include:
+
+1. **Course Number and Title**
+2. **Course Overview** - expanded description; note Mason Core/WI/RS designations
+3. **Learning Outcomes** - expected student competencies
+4. **Instructor Information** - name and contact details
+5. **Meeting Times and Modality**
+6. **Grading Policies:**
+   - Numerical grade scale (A = 90-100%, B = 80-89%, etc.)
+   - Grade weights (how assignments count toward final grade)
+   - Late work and other policies affecting grades
+7. **AI Tools Statement** (required since August 2025)
+
+### Common Policy Addendum (Four Required Policies)
+
+The following four policies must be included either in full OR via link to the [GMU Common Course Policies page](https://stearnscenter.gmu.edu/home/gmu-common-course-policies/):
+
+1. **Academic Standards** (replaced "Academic Integrity/Honor Code" in Fall 2024)
+   - Three principles: Honesty, Acknowledgement, Uniqueness of Work
+   - Link: [academicstandards.gmu.edu](https://academicstandards.gmu.edu)
+
+2. **Disability Services**
+   - Updated contact: SUB I Suite 2500, ds@gmu.edu, (703) 993-2474
+   - Link: [ds.gmu.edu](https://ds.gmu.edu)
+
+3. **FERPA and GMU Email**
+   - Student rights regarding education records
+   - Requirement to use @gmu.edu email
+
+4. **Title IX and Sexual Misconduct**
+   - Faculty reporting requirements
+   - Title IX Coordinator: TitleIX@gmu.edu, (703) 993-8730
+   - Confidential resources: SSAC, CAPS, Student Health
+
+### AI Tools Policy Guidelines
+
+The instructor's perspective on AI:
+
+> "AI is a remarkable tool that is widely misunderstood and, unfortunately, often abused. I encourage you to use AI wisely and openly."
+
+**Policy structure:**
+- **Permitted uses:** Brainstorming, grammar checking, concept exploration
+- **Prohibited uses:** Generating quiz answers, summarizing unwatched films, replacing critical analysis
+- **Disclosure requirement:** Students must disclose AI use openly; no penalty for honest disclosure
+
+### Syllabus Template Location
+
+Current syllabi following this format:
+- `PSYC405_S2026_001.qmd` - Section 001
+- `PSYC405_S2026_002.qmd` - Section 002
+
+### Compliance Verification
+
+When creating or updating syllabi, verify against this checklist:
+
+- [ ] Course number, title, and Mason Core designation
+- [ ] Instructor contact information
+- [ ] Meeting times and location
+- [ ] Learning outcomes
+- [ ] Numerical grade scale (percentages)
+- [ ] Grade weights with computation details
+- [ ] Late work policy
+- [ ] AI Tools Policy statement
+- [ ] Academic Standards section (not "Honor Code")
+- [ ] Disability Services (ds.gmu.edu, not ods.gmu.edu)
+- [ ] FERPA statement
+- [ ] Title IX statement with confidential resources
+- [ ] Link to GMU Common Course Policies
+
 ## Website Information
 
 - **Live Site:** https://gmu-psyc405.netlify.app/
@@ -376,3 +451,37 @@ All external links should include `{target="_blank"}` to open in new tabs:
 - Streamline quiz import to Canvas
 - Consider developing automated Canvas quiz generation
 - Track quiz performance data to improve question quality
+
+### 6. Syllabus Streamlining (Future Semesters)
+- **Goal:** Shorten syllabi by linking to policies instead of including full text
+- **Current approach:** Both full policy text AND link to GMU Common Course Policies
+- **Future approach:** Replace full text with concise link-only references
+- **Example transformation:**
+  ```markdown
+  # Current (verbose)
+  ::: {.callout-warning icon="shield-check"}
+  ## Academic Standards
+  [Full policy text here...]
+  :::
+
+  # Future (streamlined)
+  See [GMU Academic Standards](https://academicstandards.gmu.edu){target="_blank"} for university policy.
+  ```
+- **Benefits:**
+  - Shorter, more readable syllabi
+  - Always links to current policy (no outdated language)
+  - Reduces maintenance burden when policies change
+- **Retain full text for:** AI Tools Policy (course-specific)
+
+### 7. Semester Changeover Checklist
+When preparing syllabi for a new semester:
+1. Update semester dates in YAML header and Important Dates table
+2. Update film schedule if films are being rotated
+3. Verify all movie links still resolve (IMDB, RT, Wikipedia)
+4. Sync Zotero library and update readings if needed
+5. Create new quiz directory: `quizzes/{semester}{year}_{section}/`
+6. Generate new quizzes integrating updated films and readings
+7. Create answer keys in `quizzes/answer_keys/` (gitignored)
+8. Verify GMU policy links still work
+9. Render and test all pages locally before pushing
+10. Update `_quarto.yml` navigation if pages changed
