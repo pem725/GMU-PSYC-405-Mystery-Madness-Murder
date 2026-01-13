@@ -1,6 +1,9 @@
 project:
   type: website
   output-dir: _site
+  resources:
+    - "PSYC405_S2026_001.pdf"
+    - "PSYC405_S2026_002.pdf"
   render:
     - index.qmd
     - PSYC405_S2026_001.qmd

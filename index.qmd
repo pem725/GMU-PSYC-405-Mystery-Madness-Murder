@@ -20,7 +20,7 @@ This course uses psychological science to analyze popular media portrayals of hu
 
 **Films:** Shutter Island, North by Northwest, Sunset Boulevard, Black Swan, Good Will Hunting, What's Eating Gilbert Grape, Primal Fear, The Hurricane
 
-[View Section 001 Syllabus](PSYC405_S2026_001.qmd)
+[View Section 001 Syllabus](PSYC405_S2026_001.qmd) | [Download PDF](PSYC405_S2026_001.pdf)
 :::
 
 ::: {.callout-tip}
@@ -29,7 +29,7 @@ This course uses psychological science to analyze popular media portrayals of hu
 
 **Films:** The Machinist, Identity, Fight Club, Rain Man, K-PAX, Leaving Las Vegas, Nuremberg, Wind River
 
-[View Section 002 Syllabus](PSYC405_S2026_002.qmd)
+[View Section 002 Syllabus](PSYC405_S2026_002.qmd) | [Download PDF](PSYC405_S2026_002.pdf)
 :::
 
 ## Course Modules
