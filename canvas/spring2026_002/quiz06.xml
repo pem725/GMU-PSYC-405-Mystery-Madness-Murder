@@ -1,0 +1,377 @@
+<?xml version="1.0" ?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2">
+  <assessment ident="quiz6_310dd4f9" title="Quiz 6: Rain Man">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>qmd_timelimit</fieldlabel>
+        <fieldentry/>
+      </qtimetadatafield>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+    </qtimetadata>
+    <section ident="section_quiz6_310dd4f9">
+      <item ident="q1_d68e6361" title="Question 1">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>10</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>q1_d68e6361</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;Rain Man was released in 1988. Since then, our understanding of autism has shifted from viewing it as a single condition to understanding it as a spectrum. What does this change in diagnostic thinking illustrate about belief in science (Boudry et al., 2015)?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response_q1_d68e6361" rcardinality="Single">
+            <render_choice>
+              <response_label ident="A">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Science never changes its mind&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="B">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Earlier researchers were incompetent&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="C">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Scientific beliefs are updated through systematic evidence accumulation; the &amp;quot;epidemiology&amp;quot; of scientific beliefs differs from pseudoscience by being responsive to disconfirmation&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="D">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;The autism spectrum is a pseudoscientific concept&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response_q1_d68e6361">C</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+        <itemfeedback ident="correct_fb_q1_d68e6361">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;Correct!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Boudry et al. distinguish scientific from pseudoscientific beliefs partly by responsiveness to evidence. The shift from &amp;quot;autism&amp;quot; to &amp;quot;autism spectrum disorder&amp;quot; illustrates science updating its beliefs based on accumulated evidence: research showed autism presentations vary widely, so diagnostic concepts evolved. This contrasts with pseudoscientific beliefs that resist revision. Science changes; that&amp;#39;s a feature, not a bug.&lt;/p&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+        <itemfeedback ident="incorrect_fb_q1_d68e6361">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;The correct answer is C.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Boudry et al. distinguish scientific from pseudoscientific beliefs partly by responsiveness to evidence. The shift from &amp;quot;autism&amp;quot; to &amp;quot;autism spectrum disorder&amp;quot; illustrates science updating its beliefs based on accumulated evidence: research showed autism presentations vary widely, so diagnostic concepts evolved. This contrasts with pseudoscientific beliefs that resist revision. Science changes; that&amp;#39;s a feature, not a bug.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why other answers are incorrect:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;A:&lt;/strong&gt; The autism example directly shows science changing.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;B:&lt;/strong&gt; They were working with available evidence; progress isn&amp;#39;t about incompetence.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;D:&lt;/strong&gt; The spectrum concept emerged from rigorous research; it&amp;#39;s scientific.&lt;/li&gt;&lt;/ul&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+      </item>
+      <item ident="q2_4a07c371" title="Question 2">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>10</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>q2_4a07c371</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;Raymond demonstrates both severe social impairments and remarkable savant abilities. According to research on emotion (Feldman Barrett et al., 2001), how should we understand Raymond&amp;#39;s emotional experience?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response_q2_4a07c371" rcardinality="Single">
+            <render_choice>
+              <response_label ident="A">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Raymond has no emotional experience&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="B">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Raymond&amp;#39;s emotions are identical to neurotypical experience&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="C">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Raymond likely experiences emotions but may process and express them differently; emotional differentiation may follow different developmental patterns in autism&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="D">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Savant abilities eliminate emotion&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response_q2_4a07c371">C</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+        <itemfeedback ident="correct_fb_q2_4a07c371">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;Correct!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Feldman Barrett&amp;#39;s research on emotional experience emphasizes that emotion involves construction, not just recognition. People with autism often experience emotions but may process, differentiate, and express them differently. Raymond shows distress (when routines are broken), comfort (with Charlie by the end), and fear (of airplanes). His emotions are real but follow different expression patterns. Savant abilities have no relationship to emotional capacity.&lt;/p&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+        <itemfeedback ident="incorrect_fb_q2_4a07c371">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;The correct answer is C.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Feldman Barrett&amp;#39;s research on emotional experience emphasizes that emotion involves construction, not just recognition. People with autism often experience emotions but may process, differentiate, and express them differently. Raymond shows distress (when routines are broken), comfort (with Charlie by the end), and fear (of airplanes). His emotions are real but follow different expression patterns. Savant abilities have no relationship to emotional capacity.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why other answers are incorrect:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;A:&lt;/strong&gt; Raymond clearly shows emotional reactions throughout the film.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;B:&lt;/strong&gt; His expression and possibly processing differ; not identical.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;D:&lt;/strong&gt; No connection between savant skills and emotional capacity.&lt;/li&gt;&lt;/ul&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+      </item>
+      <item ident="q3_656fbdd5" title="Question 3">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>10</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>q3_656fbdd5</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;Charlie initially views Raymond as a means to access his inheritance. According to McKnight et al. (2025), what does the transformation in Charlie&amp;#39;s motivation suggest about the relationship between purpose and happiness?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response_q3_656fbdd5" rcardinality="Single">
+            <render_choice>
+              <response_label ident="A">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Purpose always precedes positive emotional experience&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="B">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Charlie never develops genuine purpose regarding Raymond&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="C">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Positive emotional experiences with Raymond may have preceded and facilitated Charlie&amp;#39;s developing sense of caring purpose&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="D">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Money eliminates the possibility of purpose&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response_q3_656fbdd5">C</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+        <itemfeedback ident="correct_fb_q3_656fbdd5">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;Correct!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;McKnight et al. (2025) found happiness predicting subsequent purpose. Charlie&amp;#39;s transformation fits this: his positive emotional experiences with Raymond (moments of connection, shared humor, growing affection) preceded his development of caring purpose. He didn&amp;#39;t decide to care and then feel positive; he felt positive connections and then began caring. The happiness came first, facilitating purpose development.&lt;/p&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+        <itemfeedback ident="incorrect_fb_q3_656fbdd5">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;The correct answer is C.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;McKnight et al. (2025) found happiness predicting subsequent purpose. Charlie&amp;#39;s transformation fits this: his positive emotional experiences with Raymond (moments of connection, shared humor, growing affection) preceded his development of caring purpose. He didn&amp;#39;t decide to care and then feel positive; he felt positive connections and then began caring. The happiness came first, facilitating purpose development.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why other answers are incorrect:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;A:&lt;/strong&gt; McKnight et al. found the opposite direction.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;B:&lt;/strong&gt; Charlie clearly transforms from exploiting to genuinely caring.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;D:&lt;/strong&gt; Charlie&amp;#39;s initial money motivation transforms; money doesn&amp;#39;t permanently block purpose.&lt;/li&gt;&lt;/ul&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+      </item>
+      <item ident="q4_b95ffbf9" title="Question 4">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>10</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>q4_b95ffbf9</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;The film emphasizes Raymond&amp;#39;s routines (specific TV shows, food, bedtime). According to emotion regulation research (Gross, 2015), what function do these routines serve?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response_q4_b95ffbf9" rcardinality="Single">
+            <render_choice>
+              <response_label ident="A">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;They are meaningless behaviors without function&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="B">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;They indicate low intelligence&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="C">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Routines represent situation selection - creating predictable environments that reduce anxiety by minimizing uncertainty and unexpected emotional demands&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="D">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;They are designed to irritate caregivers&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response_q4_b95ffbf9">C</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+        <itemfeedback ident="correct_fb_q4_b95ffbf9">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;Correct!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Gross&amp;#39;s situation selection involves choosing environments that regulate emotional responses. Raymond&amp;#39;s routines create maximum predictability, minimizing unexpected events that would trigger distress. This is adaptive situation selection: he creates a psychological environment he can manage. When routines are disrupted (wrong airline, different underwear), he shows distress because his situation-selection strategy has failed.&lt;/p&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+        <itemfeedback ident="incorrect_fb_q4_b95ffbf9">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;The correct answer is C.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Gross&amp;#39;s situation selection involves choosing environments that regulate emotional responses. Raymond&amp;#39;s routines create maximum predictability, minimizing unexpected events that would trigger distress. This is adaptive situation selection: he creates a psychological environment he can manage. When routines are disrupted (wrong airline, different underwear), he shows distress because his situation-selection strategy has failed.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why other answers are incorrect:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;A:&lt;/strong&gt; The routines clearly serve emotional regulation function.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;B:&lt;/strong&gt; Routines are unrelated to intelligence; Raymond shows savant abilities.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;D:&lt;/strong&gt; Routines serve Raymond&amp;#39;s needs, not relational manipulation.&lt;/li&gt;&lt;/ul&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+      </item>
+      <item ident="q5_1f6d84f7" title="Question 5">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>10</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>q5_1f6d84f7</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;Raymond&amp;#39;s father left his fortune to Raymond rather than Charlie. According to Boudry &amp;amp; Braeckman (2012), why might Charlie have initially constructed a narrative of injustice despite evidence that his father&amp;#39;s decision was protective?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response_q5_1f6d84f7" rcardinality="Single">
+            <render_choice>
+              <response_label ident="A">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Charlie is inherently irrational&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="B">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Inheritance disputes always cause irrationality&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="C">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Self-validating beliefs about unfair treatment are psychologically protective; reinterpreting the decision as unjust preserves Charlie&amp;#39;s self-concept&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="D">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Charlie&amp;#39;s narrative was actually correct&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response_q5_1f6d84f7">C</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+        <itemfeedback ident="correct_fb_q5_1f6d84f7">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;Correct!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Boudry &amp;amp; Braeckman describe how beliefs can be self-validating when they serve psychological functions. Charlie&amp;#39;s &amp;quot;I was cheated&amp;quot; narrative protects his self-concept: if the decision was unjust, then Charlie is a victim, not a person his father didn&amp;#39;t trust. The alternative - that his father recognized he wasn&amp;#39;t trustworthy with an inheritance - threatens self-concept. The injustice narrative is self-validating because it preserves positive self-view.&lt;/p&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+        <itemfeedback ident="incorrect_fb_q5_1f6d84f7">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;The correct answer is C.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Boudry &amp;amp; Braeckman describe how beliefs can be self-validating when they serve psychological functions. Charlie&amp;#39;s &amp;quot;I was cheated&amp;quot; narrative protects his self-concept: if the decision was unjust, then Charlie is a victim, not a person his father didn&amp;#39;t trust. The alternative - that his father recognized he wasn&amp;#39;t trustworthy with an inheritance - threatens self-concept. The injustice narrative is self-validating because it preserves positive self-view.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why other answers are incorrect:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;A:&lt;/strong&gt; Charlie&amp;#39;s reasoning is motivated, not simply irrational.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;B:&lt;/strong&gt; Too general; the mechanism is psychological protection.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;D:&lt;/strong&gt; The film suggests the father was trying to protect Raymond.&lt;/li&gt;&lt;/ul&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

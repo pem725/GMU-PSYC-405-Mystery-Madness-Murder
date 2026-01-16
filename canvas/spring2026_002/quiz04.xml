@@ -1,0 +1,377 @@
+<?xml version="1.0" ?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2">
+  <assessment ident="quiz4_323f2134" title="Quiz 4: Identity">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>qmd_timelimit</fieldlabel>
+        <fieldentry/>
+      </qtimetadatafield>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+    </qtimetadata>
+    <section ident="section_quiz4_323f2134">
+      <item ident="q1_391c9a23" title="Question 1">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>10</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>q1_391c9a23</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;The motel guests in Identity are revealed to be Malcolm&amp;#39;s alternate personalities. Each personality has distinct moral characteristics (prostitute, convict, actress, child). According to research on moral judgment and psychopathy (Marshall et al., 2018), what does the &amp;quot;murderous&amp;quot; personality suggest about moral understanding?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response_q1_391c9a23" rcardinality="Single">
+            <render_choice>
+              <response_label ident="A">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Psychopathic traits eliminate moral understanding&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="B">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Multiple personalities cannot share moral knowledge&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="C">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Even personalities portrayed as &amp;quot;evil&amp;quot; demonstrate moral understanding - they know their actions are wrong but are unmoved by this knowledge&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="D">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Moral judgment is irrelevant to DID&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response_q1_391c9a23">C</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+        <itemfeedback ident="correct_fb_q1_391c9a23">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;Correct!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Marshall et al.&amp;#39;s meta-analysis shows that psychopaths generally UNDERSTAND moral distinctions - the deficit is in caring about them. The murderous personality in Identity knows that killing is wrong (evidenced by concealment, planning to avoid detection). The problem isn&amp;#39;t moral knowledge but moral motivation. This distinction between moral understanding and moral motivation is crucial for both psychopathy and for understanding how &amp;quot;evil&amp;quot; can exist alongside moral awareness.&lt;/p&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+        <itemfeedback ident="incorrect_fb_q1_391c9a23">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;The correct answer is C.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Marshall et al.&amp;#39;s meta-analysis shows that psychopaths generally UNDERSTAND moral distinctions - the deficit is in caring about them. The murderous personality in Identity knows that killing is wrong (evidenced by concealment, planning to avoid detection). The problem isn&amp;#39;t moral knowledge but moral motivation. This distinction between moral understanding and moral motivation is crucial for both psychopathy and for understanding how &amp;quot;evil&amp;quot; can exist alongside moral awareness.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why other answers are incorrect:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;A:&lt;/strong&gt; Research contradicts this; understanding is present.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;B:&lt;/strong&gt; The film actually shows personalities with apparently independent knowledge.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;D:&lt;/strong&gt; Moral functioning is highly relevant to understanding the murderous alter.&lt;/li&gt;&lt;/ul&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+      </item>
+      <item ident="q2_9029bba7" title="Question 2">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>10</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>q2_9029bba7</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;The psychiatrist believes that eliminating the dangerous personality will &amp;quot;cure&amp;quot; Malcolm. According to Morse (1992) on mens rea, what legal problem does Malcolm&amp;#39;s case present?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response_q2_9029bba7" rcardinality="Single">
+            <render_choice>
+              <response_label ident="A">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Insanity defenses are never valid&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="B">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;If Malcolm cannot control which personality emerges, he may lack the &amp;quot;guilty mind&amp;quot; required for criminal responsibility - but this raises questions about which &amp;quot;self&amp;quot; is being tried&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="C">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Multiple personalities cannot commit crimes&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="D">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Mental illness always eliminates criminal responsibility&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response_q2_9029bba7">B</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+        <itemfeedback ident="correct_fb_q2_9029bba7">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;Correct!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Morse&amp;#39;s analysis of mens rea requires that the defendant have a &amp;quot;guilty mind&amp;quot; - awareness of wrongdoing and intent to commit the act. If Malcolm&amp;#39;s alter commits murder without &amp;quot;Malcolm&amp;quot; (the host) knowing or being able to prevent it, questions arise: Does the host have mens rea? Is the alter a separate legal entity? Can you punish one &amp;quot;person&amp;quot; for another&amp;#39;s crime? DID cases challenge fundamental assumptions about unified selfhood underlying criminal law.&lt;/p&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+        <itemfeedback ident="incorrect_fb_q2_9029bba7">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;The correct answer is B.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Morse&amp;#39;s analysis of mens rea requires that the defendant have a &amp;quot;guilty mind&amp;quot; - awareness of wrongdoing and intent to commit the act. If Malcolm&amp;#39;s alter commits murder without &amp;quot;Malcolm&amp;quot; (the host) knowing or being able to prevent it, questions arise: Does the host have mens rea? Is the alter a separate legal entity? Can you punish one &amp;quot;person&amp;quot; for another&amp;#39;s crime? DID cases challenge fundamental assumptions about unified selfhood underlying criminal law.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why other answers are incorrect:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;A:&lt;/strong&gt; Insanity defenses are valid legal mechanisms, just controversial and complex.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;C:&lt;/strong&gt; Actions committed by alters ARE potentially criminal; the question is attribution.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;D:&lt;/strong&gt; Mental illness affects but doesn&amp;#39;t automatically eliminate responsibility.&lt;/li&gt;&lt;/ul&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+      </item>
+      <item ident="q3_a0690f89" title="Question 3">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>10</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>q3_a0690f89</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;The film&amp;#39;s twist reveals that the &amp;quot;real&amp;quot; story is happening in Malcolm&amp;#39;s mind during a competency hearing. According to Boudry et al. (2015), why do audiences initially accept the motel story as real?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response_q3_a0690f89" rcardinality="Single">
+            <render_choice>
+              <response_label ident="A">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Audiences always believe what they see&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="B">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;The motel setting is inherently believable&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="C">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;The motel narrative satisfies cognitive expectations (linear causality, distinct characters, explicable events) more readily than the &amp;quot;mental&amp;quot; explanation&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="D">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Film viewers suspend all critical judgment&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response_q3_a0690f89">C</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+        <itemfeedback ident="correct_fb_q3_a0690f89">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;Correct!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Boudry et al. describe how beliefs spread partly because they fit cognitive expectations. The motel narrative works because it satisfies expectations: events have linear causality (storm traps people), characters are distinct individuals, events can be explained through normal logic. The &amp;quot;mental&amp;quot; explanation violates these expectations: causality is psychological, characters aren&amp;#39;t really separate, events follow dream logic. We default to the explanation that fits existing schemas.&lt;/p&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+        <itemfeedback ident="incorrect_fb_q3_a0690f89">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;The correct answer is C.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Boudry et al. describe how beliefs spread partly because they fit cognitive expectations. The motel narrative works because it satisfies expectations: events have linear causality (storm traps people), characters are distinct individuals, events can be explained through normal logic. The &amp;quot;mental&amp;quot; explanation violates these expectations: causality is psychological, characters aren&amp;#39;t really separate, events follow dream logic. We default to the explanation that fits existing schemas.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why other answers are incorrect:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;A:&lt;/strong&gt; Audiences can be skeptical; the question is why THIS story is initially accepted.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;B:&lt;/strong&gt; The setting isn&amp;#39;t more believable than others; it&amp;#39;s the narrative structure that works.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;D:&lt;/strong&gt; Audiences maintain some judgment; they accept the motel story because it makes sense, not because they&amp;#39;re uncritical.&lt;/li&gt;&lt;/ul&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+      </item>
+      <item ident="q4_cb8bf384" title="Question 4">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>10</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>q4_cb8bf384</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;Each of Malcolm&amp;#39;s personalities seems to have independent agency, goals, and fears. According to purpose research (Kashdan et al., 2024), can fragmented personality states have genuine purpose?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response_q4_cb8bf384" rcardinality="Single">
+            <render_choice>
+              <response_label ident="A">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Only integrated personalities can have purpose&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="B">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Dissociated states cannot have goals&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="C">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Purpose requires self-concordance with one&amp;#39;s &amp;quot;authentic&amp;quot; values - fragmented states may have goals but lack the integration required for genuine purpose&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="D">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Purpose is irrelevant to mental illness&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response_q4_cb8bf384">C</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+        <itemfeedback ident="correct_fb_q4_cb8bf384">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;Correct!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Kashdan et al. emphasize self-concordance - goals aligned with one&amp;#39;s authentic values. The film&amp;#39;s alters have goals (survival, escape, even murder), but these goals exist within fragmented states rather than integrated identity. Genuine purpose in the McKnight &amp;amp; Kashdan framework requires a coherent self whose values generate self-concordant goals. Alters may have direction, but whether this constitutes PURPOSE depends on integration that Malcolm lacks.&lt;/p&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+        <itemfeedback ident="incorrect_fb_q4_cb8bf384">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;The correct answer is C.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Kashdan et al. emphasize self-concordance - goals aligned with one&amp;#39;s authentic values. The film&amp;#39;s alters have goals (survival, escape, even murder), but these goals exist within fragmented states rather than integrated identity. Genuine purpose in the McKnight &amp;amp; Kashdan framework requires a coherent self whose values generate self-concordant goals. Alters may have direction, but whether this constitutes PURPOSE depends on integration that Malcolm lacks.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why other answers are incorrect:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;A:&lt;/strong&gt; Too absolute; some purpose-like functioning may exist, but it&amp;#39;s incomplete.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;B:&lt;/strong&gt; The alters clearly have goals; the question is whether goals equal purpose.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;D:&lt;/strong&gt; Purpose is highly relevant to recovery and well-being in mental illness.&lt;/li&gt;&lt;/ul&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+      </item>
+      <item ident="q5_2a6369e9" title="Question 5">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>10</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>q5_2a6369e9</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;The motel is revealed to be named after Malcolm Rivers himself. This detail suggests which psychological process?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response_q5_2a6369e9" rcardinality="Single">
+            <render_choice>
+              <response_label ident="A">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Random coincidence with no meaning&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="B">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Unconscious self-reference - even in dissociated states, the mind maintains connections to core identity&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="C">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Deliberate choice by Malcolm&amp;#39;s conscious mind&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="D">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Pure narrative convenience without psychological basis&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response_q5_2a6369e9">B</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+        <itemfeedback ident="correct_fb_q5_2a6369e9">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;Correct!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The motel name reveals that even within dissociated fantasy, Malcolm&amp;#39;s mind references his actual identity. This illustrates how the unconscious maintains connections to core self even when conscious awareness is fragmented. The detail isn&amp;#39;t random or merely narrative convenient - it demonstrates that dissociated states remain connected to the generating mind, with identity markers leaking through. The unconscious keeps pointing toward integration even when the conscious system is fragmented.&lt;/p&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+        <itemfeedback ident="incorrect_fb_q5_2a6369e9">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;The correct answer is B.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The motel name reveals that even within dissociated fantasy, Malcolm&amp;#39;s mind references his actual identity. This illustrates how the unconscious maintains connections to core self even when conscious awareness is fragmented. The detail isn&amp;#39;t random or merely narrative convenient - it demonstrates that dissociated states remain connected to the generating mind, with identity markers leaking through. The unconscious keeps pointing toward integration even when the conscious system is fragmented.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why other answers are incorrect:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;A:&lt;/strong&gt; In psychological analysis, such details are typically meaningful, not random.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;C:&lt;/strong&gt; Malcolm isn&amp;#39;t consciously aware of his alters; this is unconscious processing.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;D:&lt;/strong&gt; While it serves the plot, it also represents genuine psychological phenomenon.&lt;/li&gt;&lt;/ul&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

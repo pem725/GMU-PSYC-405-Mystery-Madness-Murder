@@ -1,0 +1,377 @@
+<?xml version="1.0" ?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2">
+  <assessment ident="quiz7_5fdcfdae" title="Quiz 7: Rain Man / K-PAX">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>qmd_timelimit</fieldlabel>
+        <fieldentry/>
+      </qtimetadatafield>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+    </qtimetadata>
+    <section ident="section_quiz7_5fdcfdae">
+      <item ident="q1_46c387eb" title="Question 1">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>10</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>q1_46c387eb</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;Both Raymond (Rain Man) and Prot (K-PAX) present diagnostic challenges. According to Matthews (2005), why might clinicians rationally disagree about unusual presentations?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response_q1_46c387eb" rcardinality="Single">
+            <render_choice>
+              <response_label ident="A">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Psychiatric diagnosis is purely subjective&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="B">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Clinicians are randomly distributed in diagnostic tendencies&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="C">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Given ambiguous evidence, different prior beliefs (base rate expectations) lead to different rational conclusions - &amp;quot;weird&amp;quot; presentations challenge standard diagnostic inference&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="D">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Only one diagnosis can ever be correct&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response_q1_46c387eb">C</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+        <itemfeedback ident="correct_fb_q1_46c387eb">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;Correct!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Matthews&amp;#39; analysis of &amp;quot;rational inference from weird evidence&amp;quot; shows that prior beliefs (base rates) affect diagnostic conclusions. Clinicians with different priors can reach different conclusions, both rationally. For Prot: if your prior for &amp;quot;aliens exist&amp;quot; is zero, you conclude delusion; if non-zero, you might entertain alternatives. For unusual presentations, there&amp;#39;s often no &amp;quot;obviously correct&amp;quot; answer - rational people can disagree because they weight evidence differently.&lt;/p&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+        <itemfeedback ident="incorrect_fb_q1_46c387eb">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;The correct answer is C.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Matthews&amp;#39; analysis of &amp;quot;rational inference from weird evidence&amp;quot; shows that prior beliefs (base rates) affect diagnostic conclusions. Clinicians with different priors can reach different conclusions, both rationally. For Prot: if your prior for &amp;quot;aliens exist&amp;quot; is zero, you conclude delusion; if non-zero, you might entertain alternatives. For unusual presentations, there&amp;#39;s often no &amp;quot;obviously correct&amp;quot; answer - rational people can disagree because they weight evidence differently.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why other answers are incorrect:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;A:&lt;/strong&gt; Diagnosis involves subjective judgment but isn&amp;#39;t arbitrary; there are rational constraints.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;B:&lt;/strong&gt; Disagreement reflects prior beliefs and evidence weighting, not randomness.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;D:&lt;/strong&gt; For ambiguous cases, &amp;quot;correct&amp;quot; may be underdetermined by available evidence.&lt;/li&gt;&lt;/ul&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+      </item>
+      <item ident="q2_a1bdb96f" title="Question 2">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>10</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>q2_a1bdb96f</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;Raymond&amp;#39;s savant abilities are genuine; Prot&amp;#39;s claimed alien origin may or may not be delusional. According to Vrij et al. (2019), what makes distinguishing delusion from reality so difficult in Prot&amp;#39;s case?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response_q2_a1bdb96f" rcardinality="Single">
+            <render_choice>
+              <response_label ident="A">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Aliens might actually exist&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="B">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Behavioral cues cannot distinguish between sincere belief (delusion) and deliberate deception - and genuine delusion produces no &amp;quot;deception&amp;quot; cues at all&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="C">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Psychiatrists lack training in alien detection&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="D">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Prot deliberately obscures diagnostic cues&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response_q2_a1bdb96f">B</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+        <itemfeedback ident="correct_fb_q2_a1bdb96f">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;Correct!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Vrij et al.&amp;#39;s research shows deception detection relies on cues that are &amp;quot;faint and unreliable.&amp;quot; But Prot&amp;#39;s situation is even more complex: if he genuinely BELIEVES he&amp;#39;s from K-PAX (delusion), he&amp;#39;s not deceiving at all - he&amp;#39;s sincere. Sincere delusion produces no deception cues because there&amp;#39;s no deception. You can&amp;#39;t detect &amp;quot;lies&amp;quot; in someone who believes what they&amp;#39;re saying. The behavioral cues that might indicate deception simply don&amp;#39;t appear.&lt;/p&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+        <itemfeedback ident="incorrect_fb_q2_a1bdb96f">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;The correct answer is B.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Vrij et al.&amp;#39;s research shows deception detection relies on cues that are &amp;quot;faint and unreliable.&amp;quot; But Prot&amp;#39;s situation is even more complex: if he genuinely BELIEVES he&amp;#39;s from K-PAX (delusion), he&amp;#39;s not deceiving at all - he&amp;#39;s sincere. Sincere delusion produces no deception cues because there&amp;#39;s no deception. You can&amp;#39;t detect &amp;quot;lies&amp;quot; in someone who believes what they&amp;#39;re saying. The behavioral cues that might indicate deception simply don&amp;#39;t appear.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why other answers are incorrect:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;A:&lt;/strong&gt; While technically possible, this doesn&amp;#39;t explain the diagnostic difficulty from a psychological perspective.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;C:&lt;/strong&gt; Humorous but misses the point about sincere belief vs. deception.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;D:&lt;/strong&gt; If Prot is delusional, he&amp;#39;s not deliberately obscuring anything.&lt;/li&gt;&lt;/ul&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+      </item>
+      <item ident="q3_0b1207a3" title="Question 3">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>10</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>q3_0b1207a3</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;Both films explore how &amp;quot;different&amp;quot; minds relate to &amp;quot;normal&amp;quot; society. According to Pratto et al. (1994), how might social dominance orientation predict attitudes toward both Raymond and Prot?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response_q3_0b1207a3" rcardinality="Single">
+            <render_choice>
+              <response_label ident="A">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;High SDO would predict acceptance of difference&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="B">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;SDO is irrelevant to attitudes about neurodiversity&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="C">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;High SDO correlates with preference for hierarchy; unusual minds may be seen as threats to social order or as requiring institutionalization rather than accommodation&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="D">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Low SDO individuals reject all difference&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response_q3_0b1207a3">C</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+        <itemfeedback ident="correct_fb_q3_0b1207a3">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;Correct!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Pratto et al. show that high SDO correlates with preference for established hierarchies and skepticism of those who don&amp;#39;t fit. Both Raymond and Prot challenge normal social order - Raymond through autism, Prot through claimed alien status. High SDO orientation would predict seeing these individuals as problems to be managed (institutionalized) rather than accommodated. Low SDO would predict more acceptance of difference.&lt;/p&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+        <itemfeedback ident="incorrect_fb_q3_0b1207a3">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;The correct answer is C.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Pratto et al. show that high SDO correlates with preference for established hierarchies and skepticism of those who don&amp;#39;t fit. Both Raymond and Prot challenge normal social order - Raymond through autism, Prot through claimed alien status. High SDO orientation would predict seeing these individuals as problems to be managed (institutionalized) rather than accommodated. Low SDO would predict more acceptance of difference.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why other answers are incorrect:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;A:&lt;/strong&gt; Opposite: high SDO correlates with hierarchy preference and skepticism of difference.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;B:&lt;/strong&gt; SDO predicts attitudes toward many social groups including disabled individuals.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;D:&lt;/strong&gt; Low SDO generally predicts more acceptance of diversity.&lt;/li&gt;&lt;/ul&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+      </item>
+      <item ident="q4_41222a76" title="Question 4">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>10</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>q4_41222a76</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;Dr. Powell (K-PAX) becomes personally invested in Prot&amp;#39;s case. According to research on emotion differentiation (Kashdan et al., 2015), what risk does this personal investment create?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response_q4_41222a76" rcardinality="Single">
+            <render_choice>
+              <response_label ident="A">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Investment always improves clinical judgment&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="B">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Personal feelings have no effect on diagnosis&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="C">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Undifferentiated emotional investment may impair objective assessment; distinguishing professional concern from personal fascination requires high emotion differentiation&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="D">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Only detached clinicians make accurate diagnoses&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response_q4_41222a76">C</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+        <itemfeedback ident="correct_fb_q4_41222a76">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;Correct!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Kashdan et al.&amp;#39;s research on differentiation applies to clinicians: a clinician must distinguish between professional interest (appropriate), fascination with an unusual case (potentially distorting), rescue fantasy (countertransference), and intellectual excitement (could bias toward preferred explanation). Dr. Powell&amp;#39;s investment creates risk because these distinct emotions might blend into undifferentiated &amp;quot;interest in Prot&amp;quot; that distorts judgment.&lt;/p&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+        <itemfeedback ident="incorrect_fb_q4_41222a76">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;The correct answer is C.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Kashdan et al.&amp;#39;s research on differentiation applies to clinicians: a clinician must distinguish between professional interest (appropriate), fascination with an unusual case (potentially distorting), rescue fantasy (countertransference), and intellectual excitement (could bias toward preferred explanation). Dr. Powell&amp;#39;s investment creates risk because these distinct emotions might blend into undifferentiated &amp;quot;interest in Prot&amp;quot; that distorts judgment.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why other answers are incorrect:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;A:&lt;/strong&gt; Investment can bias as well as motivate; it&amp;#39;s not uniformly positive.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;B:&lt;/strong&gt; Emotions clearly affect judgment; claiming no effect is naive.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;D:&lt;/strong&gt; Some investment is necessary for engagement; the issue is differentiated investment.&lt;/li&gt;&lt;/ul&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+      </item>
+      <item ident="q5_afe99f1b" title="Question 5">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>10</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>q5_afe99f1b</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;Charlie transforms from exploiting Raymond to genuinely caring for him. According to McKnight &amp;amp; Kashdan (2009), this transformation illustrates which characteristic of purpose as a &amp;quot;self-organizing system&amp;quot;?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response_q5_afe99f1b" rcardinality="Single">
+            <render_choice>
+              <response_label ident="A">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Purpose is externally imposed by circumstances&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="B">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Purpose creates conditions that sustain and strengthen itself - Charlie&amp;#39;s initial positive experiences with Raymond generated further investment that became self-perpetuating&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="C">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Purpose develops independently of experience&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="D">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Purpose cannot emerge from selfish beginnings&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response_q5_afe99f1b">B</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+        <itemfeedback ident="correct_fb_q5_afe99f1b">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;Correct!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;McKnight &amp;amp; Kashdan describe purpose as self-organizing - it creates conditions that sustain itself. Charlie&amp;#39;s transformation shows this: initial positive moments with Raymond (the casino, shared jokes, physical affection) generated further investment. Each positive experience created motivation for more engagement, which created more positive experiences. Purpose didn&amp;#39;t appear suddenly; it organized itself gradually through accumulating experiences.&lt;/p&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+        <itemfeedback ident="incorrect_fb_q5_afe99f1b">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;The correct answer is B.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;McKnight &amp;amp; Kashdan describe purpose as self-organizing - it creates conditions that sustain itself. Charlie&amp;#39;s transformation shows this: initial positive moments with Raymond (the casino, shared jokes, physical affection) generated further investment. Each positive experience created motivation for more engagement, which created more positive experiences. Purpose didn&amp;#39;t appear suddenly; it organized itself gradually through accumulating experiences.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why other answers are incorrect:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;A:&lt;/strong&gt; Charlie&amp;#39;s purpose emerged from internal experience, not external imposition.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;C:&lt;/strong&gt; Purpose clearly developed THROUGH experience with Raymond.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;D:&lt;/strong&gt; Charlie&amp;#39;s selfish start didn&amp;#39;t prevent authentic purpose from developing.&lt;/li&gt;&lt;/ul&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

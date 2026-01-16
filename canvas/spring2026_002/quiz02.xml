@@ -1,0 +1,377 @@
+<?xml version="1.0" ?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2">
+  <assessment ident="quiz2_f0db6059" title="Quiz 2: The Machinist">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>qmd_timelimit</fieldlabel>
+        <fieldentry/>
+      </qtimetadatafield>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+    </qtimetadata>
+    <section ident="section_quiz2_f0db6059">
+      <item ident="q1_5e129adb" title="Question 1">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>10</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>q1_5e129adb</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;Trevor Reznik has not slept for a year, and his body shows extreme physical deterioration. According to research on sleep deprivation and psychosis, which cognitive process is most impaired by prolonged insomnia?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response_q1_5e129adb" rcardinality="Single">
+            <render_choice>
+              <response_label ident="A">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Long-term memory storage&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="B">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Basic motor function&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="C">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Reality monitoring - the ability to distinguish internally generated experiences from external events&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="D">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Language production&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response_q1_5e129adb">C</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+        <itemfeedback ident="correct_fb_q1_5e129adb">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;Correct!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Sleep deprivation research shows that reality monitoring is particularly vulnerable to sleep loss. Reality monitoring is the cognitive process that distinguishes between what we imagined, dreamed, or thought versus what actually happened externally. Trevor&amp;#39;s hallucinations of Ivan represent failed reality monitoring - he cannot distinguish between internal mental creations and external reality. This is why sleep deprivation can produce psychotic-like symptoms.&lt;/p&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+        <itemfeedback ident="incorrect_fb_q1_5e129adb">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;The correct answer is C.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Sleep deprivation research shows that reality monitoring is particularly vulnerable to sleep loss. Reality monitoring is the cognitive process that distinguishes between what we imagined, dreamed, or thought versus what actually happened externally. Trevor&amp;#39;s hallucinations of Ivan represent failed reality monitoring - he cannot distinguish between internal mental creations and external reality. This is why sleep deprivation can produce psychotic-like symptoms.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why other answers are incorrect:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;A:&lt;/strong&gt; Sleep affects memory consolidation, but this isn&amp;#39;t the central cognitive failure shown.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;B:&lt;/strong&gt; Trevor maintains motor skills enough to work; motor function is impaired but not the primary deficit.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;D:&lt;/strong&gt; Trevor communicates effectively; language production is relatively preserved.&lt;/li&gt;&lt;/ul&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+      </item>
+      <item ident="q2_298ee728" title="Question 2">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>10</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>q2_298ee728</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;Trevor creates &amp;quot;Ivan&amp;quot; as an external figure who embodies his repressed guilt. According to Gross (2015), which emotion regulation strategy does this externalization represent?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response_q2_298ee728" rcardinality="Single">
+            <render_choice>
+              <response_label ident="A">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Cognitive reappraisal (reinterpreting the meaning of events)&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="B">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Response modulation (suppressing emotional expression)&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="C">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Situation selection gone pathological - creating an alternative psychological &amp;quot;situation&amp;quot; to avoid the actual one&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="D">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Attentional deployment (focusing attention away from distress)&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response_q2_298ee728">C</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+        <itemfeedback ident="correct_fb_q2_298ee728">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;Correct!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Gross&amp;#39;s process model identifies situation selection as the earliest point of emotion regulation. Trevor&amp;#39;s creation of Ivan represents an extreme, pathological form of situation selection - rather than selecting which REAL situations to enter, he creates an entirely alternative psychological reality. Ivan IS the situation; by focusing on the external threat of Ivan, Trevor avoids the internal situation of his guilt. This is situation construction, not just selection.&lt;/p&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+        <itemfeedback ident="incorrect_fb_q2_298ee728">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;The correct answer is C.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Gross&amp;#39;s process model identifies situation selection as the earliest point of emotion regulation. Trevor&amp;#39;s creation of Ivan represents an extreme, pathological form of situation selection - rather than selecting which REAL situations to enter, he creates an entirely alternative psychological reality. Ivan IS the situation; by focusing on the external threat of Ivan, Trevor avoids the internal situation of his guilt. This is situation construction, not just selection.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why other answers are incorrect:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;A:&lt;/strong&gt; Reappraisal would change interpretation of EXISTING events; Trevor creates NEW events.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;B:&lt;/strong&gt; This operates after emotion is generated; Trevor&amp;#39;s mechanism operates earlier.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;D:&lt;/strong&gt; Redirecting attention within a situation; Trevor constructs a new situation entirely.&lt;/li&gt;&lt;/ul&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+      </item>
+      <item ident="q3_b80dd442" title="Question 3">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>10</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>q3_b80dd442</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;The film reveals that Trevor killed a child in a hit-and-run accident. His subsequent guilt manifests as elaborate delusion rather than conscious memory. According to Boudry &amp;amp; Braeckman (2012), why might the unconscious mind construct such elaborate alternative realities?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response_q3_b80dd442" rcardinality="Single">
+            <render_choice>
+              <response_label ident="A">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Delusions are random products of brain dysfunction&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="B">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Self-validating belief systems can serve protective functions, allowing the mind to process unbearable truth through symbolic displacement&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="C">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Guilt always produces delusions&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="D">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;The unconscious mind seeks entertainment&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response_q3_b80dd442">B</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+        <itemfeedback ident="correct_fb_q3_b80dd442">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;Correct!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Boudry &amp;amp; Braeckman describe how belief systems resist disconfirmation. Trevor&amp;#39;s delusion is a self-validating belief system that serves protective functions - it allows him to process guilt symbolically (through Ivan, the mysterious threat) without consciously acknowledging the unbearable truth. The delusion explains his distress without requiring him to accept responsibility. It&amp;#39;s psychologically protective even while being pathological.&lt;/p&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+        <itemfeedback ident="incorrect_fb_q3_b80dd442">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;The correct answer is B.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Boudry &amp;amp; Braeckman describe how belief systems resist disconfirmation. Trevor&amp;#39;s delusion is a self-validating belief system that serves protective functions - it allows him to process guilt symbolically (through Ivan, the mysterious threat) without consciously acknowledging the unbearable truth. The delusion explains his distress without requiring him to accept responsibility. It&amp;#39;s psychologically protective even while being pathological.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why other answers are incorrect:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;A:&lt;/strong&gt; The delusion has psychological meaning and function; it&amp;#39;s not random.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;C:&lt;/strong&gt; Most guilt doesn&amp;#39;t produce delusions; this is an extreme case.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;D:&lt;/strong&gt; Anthropomorphizes the unconscious without explanatory value.&lt;/li&gt;&lt;/ul&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+      </item>
+      <item ident="q4_7a1c2fa9" title="Question 4">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>10</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>q4_7a1c2fa9</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;Trevor interprets random events (a hangman game, license plates) as meaningful messages. This pattern represents which cognitive phenomenon relevant to belief formation?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response_q4_7a1c2fa9" rcardinality="Single">
+            <render_choice>
+              <response_label ident="A">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Normal pattern recognition&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="B">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Apophenia - perceiving meaningful connections in random information, enhanced by emotional distress and sleep deprivation&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="C">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Superior intelligence detecting hidden patterns&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="D">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Deliberate self-deception&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response_q4_7a1c2fa9">B</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+        <itemfeedback ident="correct_fb_q4_7a1c2fa9">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;Correct!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Apophenia is the tendency to perceive meaningful patterns in random data. Trevor&amp;#39;s interpretation of the hangman game, license plates, and other coincidences as meaningful messages reflects heightened apophenia, which is exacerbated by both emotional distress and sleep deprivation. His mind is seeking explanation for his diffuse sense of wrongness, and it finds &amp;quot;messages&amp;quot; everywhere - but these connections are created by his mind, not detected in reality.&lt;/p&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+        <itemfeedback ident="incorrect_fb_q4_7a1c2fa9">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;The correct answer is B.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Apophenia is the tendency to perceive meaningful patterns in random data. Trevor&amp;#39;s interpretation of the hangman game, license plates, and other coincidences as meaningful messages reflects heightened apophenia, which is exacerbated by both emotional distress and sleep deprivation. His mind is seeking explanation for his diffuse sense of wrongness, and it finds &amp;quot;messages&amp;quot; everywhere - but these connections are created by his mind, not detected in reality.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why other answers are incorrect:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;A:&lt;/strong&gt; The patterns Trevor sees aren&amp;#39;t real; this is pathological, not normal.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;C:&lt;/strong&gt; Trevor isn&amp;#39;t detecting real patterns through intelligence; he&amp;#39;s creating false patterns.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;D:&lt;/strong&gt; Apophenia is unconscious, not deliberate.&lt;/li&gt;&lt;/ul&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+      </item>
+      <item ident="q5_d949a4dc" title="Question 5">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>10</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>q5_d949a4dc</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;According to emotion differentiation research (Kashdan et al., 2015), Trevor&amp;#39;s inability to identify the source of his distress represents which deficit?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response_q5_d949a4dc" rcardinality="Single">
+            <render_choice>
+              <response_label ident="A">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Emotional flooding that overwhelms processing capacity&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="B">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Alexithymia (inability to identify emotions)&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="C">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Low emotion differentiation - experiencing undifferentiated negative affect without distinguishing guilt, fear, shame, and anxiety&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="D">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Complete emotional numbing&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response_q5_d949a4dc">C</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+        <itemfeedback ident="correct_fb_q5_d949a4dc">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;Correct!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Trevor experiences intense negative affect but cannot identify its source or distinguish its components. Is it guilt? Fear? Shame? Anxiety? His inability to differentiate these distinct emotions prevents him from addressing the actual cause (guilt about the hit-and-run). Low differentiation leads to undifferentiated coping - he addresses &amp;quot;something wrong&amp;quot; rather than the specific emotion, which is why his regulation attempts fail.&lt;/p&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+        <itemfeedback ident="incorrect_fb_q5_d949a4dc">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;The correct answer is C.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Trevor experiences intense negative affect but cannot identify its source or distinguish its components. Is it guilt? Fear? Shame? Anxiety? His inability to differentiate these distinct emotions prevents him from addressing the actual cause (guilt about the hit-and-run). Low differentiation leads to undifferentiated coping - he addresses &amp;quot;something wrong&amp;quot; rather than the specific emotion, which is why his regulation attempts fail.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why other answers are incorrect:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;A:&lt;/strong&gt; Flooding implies overwhelming intensity; Trevor shows more confusion than overwhelm.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;B:&lt;/strong&gt; Related but alexithymia is difficulty identifying ANY emotion; Trevor clearly has emotional experience.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;D:&lt;/strong&gt; Trevor shows emotional reactivity; he&amp;#39;s not numb.&lt;/li&gt;&lt;/ul&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

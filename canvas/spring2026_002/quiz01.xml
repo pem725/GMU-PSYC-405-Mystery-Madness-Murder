@@ -1,0 +1,377 @@
+<?xml version="1.0" ?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2">
+  <assessment ident="quiz1_c17278e6" title="Quiz 1: Course Introduction">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>qmd_timelimit</fieldlabel>
+        <fieldentry/>
+      </qtimetadatafield>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+    </qtimetadata>
+    <section ident="section_quiz1_c17278e6">
+      <item ident="q1_b2720e2f" title="Question 1">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>10</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>q1_b2720e2f</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;The course examines &amp;quot;Mystery, Madness, and Murder&amp;quot; through the lens of psychological science. According to Boudry et al. (2015), why do pseudoscientific explanations of human behavior persist despite scientific alternatives?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response_q1_b2720e2f" rcardinality="Single">
+            <render_choice>
+              <response_label ident="A">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Scientists fail to communicate effectively with the public&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="B">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Pseudoscience is more accurate than science&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="C">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Pseudoscientific beliefs have features that make them cognitively &amp;quot;sticky&amp;quot; - they appeal to intuition, provide simple explanations, and resist disconfirmation&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="D">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;The public intentionally rejects science&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response_q1_b2720e2f">C</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+        <itemfeedback ident="correct_fb_q1_b2720e2f">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;Correct!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Boudry et al.&amp;#39;s &amp;quot;epidemiology of pseudoscience&amp;quot; explains that certain beliefs spread because they have cognitive features that make them easy to acquire and hard to dislodge. These include: (1) intuitive appeal - matching existing cognitive biases, (2) simplicity - offering clear explanations for complex phenomena, and (3) self-validation - resisting disconfirmation through immunizing strategies. Science often lacks these &amp;quot;sticky&amp;quot; features, making it harder to spread even when more accurate.&lt;/p&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+        <itemfeedback ident="incorrect_fb_q1_b2720e2f">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;The correct answer is C.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Boudry et al.&amp;#39;s &amp;quot;epidemiology of pseudoscience&amp;quot; explains that certain beliefs spread because they have cognitive features that make them easy to acquire and hard to dislodge. These include: (1) intuitive appeal - matching existing cognitive biases, (2) simplicity - offering clear explanations for complex phenomena, and (3) self-validation - resisting disconfirmation through immunizing strategies. Science often lacks these &amp;quot;sticky&amp;quot; features, making it harder to spread even when more accurate.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why other answers are incorrect:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;A:&lt;/strong&gt; While sometimes true, this doesn&amp;#39;t explain WHY pseudoscience is &amp;quot;stickier&amp;quot; than science.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;B:&lt;/strong&gt; Empirically false; the question is why inaccurate beliefs persist.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;D:&lt;/strong&gt; People don&amp;#39;t consciously choose pseudoscience; cognitive features drive spread.&lt;/li&gt;&lt;/ul&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+      </item>
+      <item ident="q2_53388424" title="Question 2">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>10</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>q2_53388424</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;Shermer (2002) argues that intelligent people are not protected from irrational beliefs. What mechanism does he propose to explain this paradox?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response_q2_53388424" rcardinality="Single">
+            <render_choice>
+              <response_label ident="A">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Intelligence and rationality are negatively correlated&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="B">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Education exposes people to more false information&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="C">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Intelligent people are more skilled at constructing post-hoc rationalizations for beliefs acquired through non-rational means&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="D">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Smart people have more irrational beliefs overall&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response_q2_53388424">C</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+        <itemfeedback ident="correct_fb_q2_53388424">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;Correct!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Shermer&amp;#39;s key insight is that everyone acquires beliefs through similar non-rational processes (emotion, social influence, pattern-seeking). Intelligence doesn&amp;#39;t change HOW beliefs are acquired; it changes how well they&amp;#39;re DEFENDED. Smart people can construct more elaborate, sophisticated justifications for whatever they believe, making their irrational beliefs harder to challenge and more resistant to change.&lt;/p&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+        <itemfeedback ident="incorrect_fb_q2_53388424">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;The correct answer is C.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Shermer&amp;#39;s key insight is that everyone acquires beliefs through similar non-rational processes (emotion, social influence, pattern-seeking). Intelligence doesn&amp;#39;t change HOW beliefs are acquired; it changes how well they&amp;#39;re DEFENDED. Smart people can construct more elaborate, sophisticated justifications for whatever they believe, making their irrational beliefs harder to challenge and more resistant to change.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why other answers are incorrect:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;A:&lt;/strong&gt; Intelligence and rationality correlate positively; the paradox is that correlation doesn&amp;#39;t equal protection.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;B:&lt;/strong&gt; No evidence education increases pseudoscience exposure; typically the opposite.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;D:&lt;/strong&gt; Not the claim; they have EQUALLY irrational beliefs, just better defended.&lt;/li&gt;&lt;/ul&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+      </item>
+      <item ident="q3_a4c66c75" title="Question 3">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>10</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>q3_a4c66c75</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;The six &amp;quot;governing areas of inquiry&amp;quot; (BELIEF, PURPOSE, MOTIVATION, UNCERTAINTY, DISCOMFORT, EMOTION) represent overlapping psychological constructs. According to current research, which relationship is MOST supported by evidence?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response_q3_a4c66c75" rcardinality="Single">
+            <render_choice>
+              <response_label ident="A">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;These constructs are entirely independent&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="B">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;BELIEF determines all other constructs&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="C">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;These constructs interact bidirectionally - for example, emotion influences belief while belief shapes emotional interpretation&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="D">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Only EMOTION is scientifically measurable&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response_q3_a4c66c75">C</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+        <itemfeedback ident="correct_fb_q3_a4c66c75">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;Correct!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Contemporary psychological research emphasizes bidirectional relationships among these constructs. Emotions influence what we believe (confirmation bias, motivated reasoning); beliefs shape how we interpret emotional experiences (emotion concepts, appraisal). Purpose affects motivation; uncertainty triggers emotional responses; discomfort motivates belief change. These aren&amp;#39;t separate modules but an integrated system.&lt;/p&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+        <itemfeedback ident="incorrect_fb_q3_a4c66c75">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;The correct answer is C.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Contemporary psychological research emphasizes bidirectional relationships among these constructs. Emotions influence what we believe (confirmation bias, motivated reasoning); beliefs shape how we interpret emotional experiences (emotion concepts, appraisal). Purpose affects motivation; uncertainty triggers emotional responses; discomfort motivates belief change. These aren&amp;#39;t separate modules but an integrated system.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why other answers are incorrect:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;A:&lt;/strong&gt; Contradicts extensive research on interconnections.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;B:&lt;/strong&gt; No single construct is primary; relationships are bidirectional.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;D:&lt;/strong&gt; All constructs have valid measurement approaches.&lt;/li&gt;&lt;/ul&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+      </item>
+      <item ident="q4_04a5beb0" title="Question 4">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>10</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>q4_04a5beb0</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;McKnight &amp;amp; Kashdan (2009) propose that purpose in life functions as a &amp;quot;self-organizing system.&amp;quot; What does this theoretical framework predict about purpose?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response_q4_04a5beb0" rcardinality="Single">
+            <render_choice>
+              <response_label ident="A">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Purpose is fixed and unchangeable once established&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="B">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Purpose requires external validation to exist&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="C">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Purpose actively creates conditions that sustain itself, influencing perception, motivation, and behavior in self-perpetuating patterns&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="D">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Purpose is synonymous with happiness&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response_q4_04a5beb0">C</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+        <itemfeedback ident="correct_fb_q4_04a5beb0">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;Correct!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The &amp;quot;self-organizing system&amp;quot; concept means purpose doesn&amp;#39;t just exist passively - it actively shapes the person&amp;#39;s psychology to maintain itself. Purpose influences: (1) what we notice (perception), (2) what we want (motivation), (3) what we do (behavior). These effects, in turn, reinforce the purpose, creating a self-sustaining loop. Purpose organizes the psychological system around itself.&lt;/p&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+        <itemfeedback ident="incorrect_fb_q4_04a5beb0">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;The correct answer is C.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The &amp;quot;self-organizing system&amp;quot; concept means purpose doesn&amp;#39;t just exist passively - it actively shapes the person&amp;#39;s psychology to maintain itself. Purpose influences: (1) what we notice (perception), (2) what we want (motivation), (3) what we do (behavior). These effects, in turn, reinforce the purpose, creating a self-sustaining loop. Purpose organizes the psychological system around itself.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why other answers are incorrect:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;A:&lt;/strong&gt; Self-organizing systems can evolve and adapt; they&amp;#39;re not static.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;B:&lt;/strong&gt; Purpose can be entirely internal; external validation is not required.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;D:&lt;/strong&gt; Related but distinct constructs; McKnight et al. (2025) showed they have different temporal patterns.&lt;/li&gt;&lt;/ul&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+      </item>
+      <item ident="q5_a9c400e2" title="Question 5">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>10</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>q5_a9c400e2</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;When analyzing films depicting psychological phenomena, what methodological principle should guide interpretation?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response_q5_a9c400e2" rcardinality="Single">
+            <render_choice>
+              <response_label ident="A">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Fictional portrayals should be accepted as accurate representations&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="B">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Entertainment value invalidates psychological analysis&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="C">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Fictional portrayals should be evaluated against empirical evidence, recognizing that dramatic necessity often distorts psychological accuracy&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="D">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Only documentaries can inform psychological understanding&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response_q5_a9c400e2">C</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+        <itemfeedback ident="correct_fb_q5_a9c400e2">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;Correct!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The course method involves COMPARING fiction to research. Films are valuable precisely because they show popular understanding, which can be compared to scientific evidence. The comparison reveals: (1) what films get right, (2) where dramatic necessity creates distortion, and (3) how popular understanding differs from scientific knowledge. This comparison develops critical thinking about psychological claims.&lt;/p&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+        <itemfeedback ident="incorrect_fb_q5_a9c400e2">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;The correct answer is C.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The course method involves COMPARING fiction to research. Films are valuable precisely because they show popular understanding, which can be compared to scientific evidence. The comparison reveals: (1) what films get right, (2) where dramatic necessity creates distortion, and (3) how popular understanding differs from scientific knowledge. This comparison develops critical thinking about psychological claims.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why other answers are incorrect:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;A:&lt;/strong&gt; Films frequently distort for drama; uncritical acceptance would be error.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;B:&lt;/strong&gt; Entertainment value doesn&amp;#39;t preclude analytical value.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;D:&lt;/strong&gt; Fiction can illuminate psychological principles through contrast with research.&lt;/li&gt;&lt;/ul&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

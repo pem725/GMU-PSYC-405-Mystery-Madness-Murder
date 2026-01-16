@@ -1,0 +1,407 @@
+<?xml version="1.0" ?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2">
+  <assessment ident="quiz13_179d516b" title="Quiz 13: Course Integration">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>qmd_timelimit</fieldlabel>
+        <fieldentry/>
+      </qtimetadatafield>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+    </qtimetadata>
+    <section ident="section_quiz13_179d516b">
+      <item ident="q1_11be3611" title="Question 1">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>10</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>q1_11be3611</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;Across the films we studied (Shutter Island, North by Northwest, Sunset Boulevard, Black Swan, Good Will Hunting, What&amp;#39;s Eating Gilbert Grape, Primal Fear, The Hurricane), which psychological construct appeared most consistently as a source of character dysfunction?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response_q1_11be3611" rcardinality="Single">
+            <render_choice>
+              <response_label ident="A">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Low intelligence&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="B">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Genetic predisposition&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="C">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Disrupted or distorted self-representation - whether through delusion, trauma, or external misattribution&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="D">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Lack of financial resources&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response_q1_11be3611">C</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+        <itemfeedback ident="correct_fb_q1_11be3611">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;Correct!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Across all eight films, identity disturbance emerges as the central theme:
+- Shutter Island: Andrew creates Teddy identity
+- North by Northwest: Thornhill assigned Kaplan identity
+- Sunset Boulevard: Norma&amp;#39;s delusional star identity
+- Black Swan: Nina&amp;#39;s fragmented self
+- Good Will Hunting: Will&amp;#39;s defense-constructed identity
+- Gilbert Grape: Gilbert trapped in caregiver identity
+- Primal Fear: Aaron/Roy fabricated identity
+- The Hurricane: Carter&amp;#39;s identity defined by false conviction&lt;/p&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+        <itemfeedback ident="incorrect_fb_q1_11be3611">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;The correct answer is C.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Across all eight films, identity disturbance emerges as the central theme:
+- Shutter Island: Andrew creates Teddy identity
+- North by Northwest: Thornhill assigned Kaplan identity
+- Sunset Boulevard: Norma&amp;#39;s delusional star identity
+- Black Swan: Nina&amp;#39;s fragmented self
+- Good Will Hunting: Will&amp;#39;s defense-constructed identity
+- Gilbert Grape: Gilbert trapped in caregiver identity
+- Primal Fear: Aaron/Roy fabricated identity
+- The Hurricane: Carter&amp;#39;s identity defined by false conviction&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why other answers are incorrect:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;A:&lt;/strong&gt; Most characters are highly intelligent; intelligence doesn&amp;#39;t protect against dysfunction.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;B:&lt;/strong&gt; Genetics rarely mentioned; environmental factors predominate in these films.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;D:&lt;/strong&gt; Several characters have wealth (Norma, Thornhill); poverty isn&amp;#39;t the common factor.&lt;/li&gt;&lt;/ul&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+      </item>
+      <item ident="q2_f7869104" title="Question 2">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>10</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>q2_f7869104</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;Emotion differentiation research (Kashdan et al., 2015; Kalokerinos et al., 2019) predicts that low differentiators will show ineffective emotion regulation. Which film character best exemplifies this pattern?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response_q2_f7869104" rcardinality="Single">
+            <render_choice>
+              <response_label ident="A">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Roger Thornhill (competent adaptation to threat)&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="B">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Sean Maguire (effective therapeutic processing)&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="C">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Nina Sayers (all regulation attempts increase rather than decrease distress)&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="D">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Rubin Carter (sustained resistance under pressure)&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response_q2_f7869104">C</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+        <itemfeedback ident="correct_fb_q2_f7869104">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;Correct!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Kalokerinos et al.&amp;#39;s key finding is that low differentiators show REVERSED effects - all regulation strategies increase negative affect. Nina exemplifies this: she tries practice (increases anxiety), perfectionism (increases anxiety), isolation (increases anxiety), seeking help from Thomas (increases anxiety). Every strategy fails because she can&amp;#39;t identify what she&amp;#39;s actually feeling. Her regulation attempts make her worse, not better.&lt;/p&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+        <itemfeedback ident="incorrect_fb_q2_f7869104">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;The correct answer is C.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Kalokerinos et al.&amp;#39;s key finding is that low differentiators show REVERSED effects - all regulation strategies increase negative affect. Nina exemplifies this: she tries practice (increases anxiety), perfectionism (increases anxiety), isolation (increases anxiety), seeking help from Thomas (increases anxiety). Every strategy fails because she can&amp;#39;t identify what she&amp;#39;s actually feeling. Her regulation attempts make her worse, not better.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why other answers are incorrect:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;A:&lt;/strong&gt; Adapts effectively to changing situations; shows regulatory competence.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;B:&lt;/strong&gt; Demonstrates differentiated emotional processing and effective regulation.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;D:&lt;/strong&gt; Maintains regulation under extreme pressure; shows regulatory success, not failure.&lt;/li&gt;&lt;/ul&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+      </item>
+      <item ident="q3_48a9fc94" title="Question 3">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>10</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>q3_48a9fc94</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;According to the purpose literature (McKnight &amp;amp; Kashdan, 2009; Kashdan et al., 2024), authentic purpose requires self-concordance - alignment between goals and personal values. Which character&amp;#39;s arc best demonstrates the DEVELOPMENT of self-concordant purpose?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response_q3_48a9fc94" rcardinality="Single">
+            <render_choice>
+              <response_label ident="A">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Norma Desmond (maintained consistent goals)&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="B">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Will Hunting (moved from externally imposed expectations to self-chosen direction)&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="C">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Aaron Stampler (achieved his goals effectively)&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="D">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Teddy Daniels (pursued his mission relentlessly)&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response_q3_48a9fc94">B</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+        <itemfeedback ident="correct_fb_q3_48a9fc94">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;Correct!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Will&amp;#39;s arc shows purpose DEVELOPMENT. He starts with goals imposed by others (Lambeau&amp;#39;s career expectations, his friends&amp;#39; assumptions) and moves toward self-chosen direction (pursuing Skylar, embracing vulnerability). This transformation from external to internal motivation represents the development of self-concordant purpose. He&amp;#39;s not just achieving goals; he&amp;#39;s choosing goals that align with his authentic values.&lt;/p&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+        <itemfeedback ident="incorrect_fb_q3_48a9fc94">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;The correct answer is B.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Will&amp;#39;s arc shows purpose DEVELOPMENT. He starts with goals imposed by others (Lambeau&amp;#39;s career expectations, his friends&amp;#39; assumptions) and moves toward self-chosen direction (pursuing Skylar, embracing vulnerability). This transformation from external to internal motivation represents the development of self-concordant purpose. He&amp;#39;s not just achieving goals; he&amp;#39;s choosing goals that align with his authentic values.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why other answers are incorrect:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;A:&lt;/strong&gt; Norma&amp;#39;s goals are delusional and don&amp;#39;t develop; she maintains static dysfunction.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;C:&lt;/strong&gt; Aaron&amp;#39;s goals are manipulative; effectiveness isn&amp;#39;t the same as self-concordance.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;D:&lt;/strong&gt; Teddy pursues delusion, not authentic purpose; his mission is a defensive construct.&lt;/li&gt;&lt;/ul&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+      </item>
+      <item ident="q4_691e9532" title="Question 4">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>10</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>q4_691e9532</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;Shermer (2002) and Boudry &amp;amp; Braeckman (2012) both emphasize that intelligent people can construct sophisticated defenses for irrational beliefs. Which film most explicitly dramatizes this &amp;quot;smart person&amp;#39;s folly&amp;quot;?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response_q4_691e9532" rcardinality="Single">
+            <render_choice>
+              <response_label ident="A">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;What&amp;#39;s Eating Gilbert Grape&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="B">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;The Hurricane&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="C">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Shutter Island (Andrew constructs an elaborate, internally consistent delusional system)&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="D">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;North by Northwest&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response_q4_691e9532">C</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+        <itemfeedback ident="correct_fb_q4_691e9532">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;Correct!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Shutter Island most explicitly shows intelligent rationalization of irrational belief. Andrew is clearly intelligent - he constructs an elaborate, internally consistent delusional system complete with conspiracy theories, fake investigations, and interpretive frameworks. Every piece of contradictory evidence is reinterpreted to support the delusion. This is Shermer&amp;#39;s &amp;quot;smart person&amp;#39;s folly&amp;quot; dramatized: intelligence creating better defenses, not better truth-detection.&lt;/p&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+        <itemfeedback ident="incorrect_fb_q4_691e9532">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;The correct answer is C.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Shutter Island most explicitly shows intelligent rationalization of irrational belief. Andrew is clearly intelligent - he constructs an elaborate, internally consistent delusional system complete with conspiracy theories, fake investigations, and interpretive frameworks. Every piece of contradictory evidence is reinterpreted to support the delusion. This is Shermer&amp;#39;s &amp;quot;smart person&amp;#39;s folly&amp;quot; dramatized: intelligence creating better defenses, not better truth-detection.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why other answers are incorrect:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;A:&lt;/strong&gt; Characters aren&amp;#39;t particularly sophisticated in their belief defenses.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;B:&lt;/strong&gt; Carter maintains TRUE beliefs; this isn&amp;#39;t about defending irrationality.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;D:&lt;/strong&gt; Thornhill is confused by others&amp;#39; beliefs, not constructing elaborate defenses of his own.&lt;/li&gt;&lt;/ul&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+      </item>
+      <item ident="q5_620c72a5" title="Question 5">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>10</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>q5_620c72a5</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;The course examined six governing areas of inquiry: BELIEF, PURPOSE, MOTIVATION, UNCERTAINTY, DISCOMFORT, and EMOTION. According to the psychological research we reviewed, how do these areas relate to each other?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response_q5_620c72a5" rcardinality="Single">
+            <render_choice>
+              <response_label ident="A">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;They are independent, modular systems with no interaction&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="B">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;They form a strict hierarchy with belief at the top&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="C">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;They are reducible to a single underlying construct&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="D">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;They interact dynamically - uncertainty affects belief, emotion affects motivation, purpose organizes the others - forming an integrated psychological system&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response_q5_620c72a5">D</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+        <itemfeedback ident="correct_fb_q5_620c72a5">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;Correct!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The course emphasized interconnection among all six constructs:
+- Uncertainty strengthens certain beliefs (Boudry &amp;amp; Braeckman)
+- Emotion differentiation affects regulation and motivation (Kashdan et al.)
+- Purpose organizes behavior and provides meaning (McKnight &amp;amp; Kashdan)
+- Discomfort motivates belief change or defense
+- Motivation is shaped by emotional states
+
+These aren&amp;#39;t separate modules but an integrated system where changes in one area ripple through others.&lt;/p&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+        <itemfeedback ident="incorrect_fb_q5_620c72a5">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;The correct answer is D.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The course emphasized interconnection among all six constructs:
+- Uncertainty strengthens certain beliefs (Boudry &amp;amp; Braeckman)
+- Emotion differentiation affects regulation and motivation (Kashdan et al.)
+- Purpose organizes behavior and provides meaning (McKnight &amp;amp; Kashdan)
+- Discomfort motivates belief change or defense
+- Motivation is shaped by emotional states
+
+These aren&amp;#39;t separate modules but an integrated system where changes in one area ripple through others.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why other answers are incorrect:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;A:&lt;/strong&gt; Contradicts extensive evidence for interconnection.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;B:&lt;/strong&gt; No evidence for a single top construct; relationships are bidirectional.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;C:&lt;/strong&gt; The constructs are related but meaningfully distinct.&lt;/li&gt;&lt;/ul&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

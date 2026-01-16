@@ -1,0 +1,377 @@
+<?xml version="1.0" ?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2">
+  <assessment ident="quiz2_a389084f" title="Quiz 2: Shutter Island">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>qmd_timelimit</fieldlabel>
+        <fieldentry/>
+      </qtimetadatafield>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+    </qtimetadata>
+    <section ident="section_quiz2_a389084f">
+      <item ident="q1_aa01e183" title="Question 1">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>10</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>q1_aa01e183</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;Teddy Daniels constructs an elaborate delusional system to avoid confronting his role in his wife&amp;#39;s death. According to Gross&amp;#39;s (2015) emotion regulation framework, which strategy does this represent?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response_q1_aa01e183" rcardinality="Single">
+            <render_choice>
+              <response_label ident="A">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Cognitive reappraisal of the traumatic event&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="B">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Situation modification through complete reality reconstruction&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="C">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Attentional deployment to alternative stimuli&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="D">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Response-focused suppression of emotional expression&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response_q1_aa01e183">B</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+        <itemfeedback ident="correct_fb_q1_aa01e183">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;Correct!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Gross&amp;#39;s process model identifies five emotion regulation strategies occurring at different points in the emotion generation sequence. Teddy&amp;#39;s delusion represents an extreme form of situation modification - he literally constructs a new psychological situation (being a U.S. Marshal investigating) rather than inhabiting the actual situation (being a patient who killed his wife). This goes beyond cognitive reappraisal because he doesn&amp;#39;t just reinterpret events; he creates entirely new events.&lt;/p&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+        <itemfeedback ident="incorrect_fb_q1_aa01e183">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;The correct answer is B.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Gross&amp;#39;s process model identifies five emotion regulation strategies occurring at different points in the emotion generation sequence. Teddy&amp;#39;s delusion represents an extreme form of situation modification - he literally constructs a new psychological situation (being a U.S. Marshal investigating) rather than inhabiting the actual situation (being a patient who killed his wife). This goes beyond cognitive reappraisal because he doesn&amp;#39;t just reinterpret events; he creates entirely new events.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why other answers are incorrect:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;A:&lt;/strong&gt; Reappraisal changes the MEANING of an existing situation. Teddy creates an entirely NEW situation. Reappraisal would be: &amp;quot;I had to do it to end her suffering.&amp;quot; Teddy&amp;#39;s version is: &amp;quot;It never happened.&amp;quot;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;C:&lt;/strong&gt; Merely redirecting attention to different aspects of reality. Teddy constructs an alternative reality entirely.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;D:&lt;/strong&gt; Suppression operates on emotional expression AFTER emotion is generated. Teddy&amp;#39;s strategy operates earlier, preventing the emotion-generating situation from being acknowledged.&lt;/li&gt;&lt;/ul&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+      </item>
+      <item ident="q2_73e66114" title="Question 2">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>10</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>q2_73e66114</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;Dr. Cawley&amp;#39;s therapeutic approach on Shutter Island involves allowing Teddy to &amp;quot;play out&amp;quot; his delusion. This controversial technique most directly conflicts with which evidence-based principle?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response_q2_73e66114" rcardinality="Single">
+            <render_choice>
+              <response_label ident="A">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;The therapeutic alliance is essential for treatment outcomes&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="B">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Patients should be allowed autonomy in treatment decisions&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="C">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Reinforcing delusional content may strengthen rather than weaken false beliefs&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="D">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Insight-oriented therapy is superior to behavioral approaches&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response_q2_73e66114">C</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+        <itemfeedback ident="correct_fb_q2_73e66114">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;Correct!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Dr. Cawley&amp;#39;s &amp;quot;role-play&amp;quot; approach is ethically and clinically controversial because it risks reinforcing the delusion. Research on delusions (Freeman et al., 2015) suggests that engaging with delusional content without challenging it can strengthen the belief system. By allowing Andrew to fully inhabit the &amp;quot;Teddy&amp;quot; identity, Cawley may be making it harder, not easier, to return to reality.&lt;/p&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+        <itemfeedback ident="incorrect_fb_q2_73e66114">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;The correct answer is C.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Dr. Cawley&amp;#39;s &amp;quot;role-play&amp;quot; approach is ethically and clinically controversial because it risks reinforcing the delusion. Research on delusions (Freeman et al., 2015) suggests that engaging with delusional content without challenging it can strengthen the belief system. By allowing Andrew to fully inhabit the &amp;quot;Teddy&amp;quot; identity, Cawley may be making it harder, not easier, to return to reality.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why other answers are incorrect:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;A:&lt;/strong&gt; True in general, but the alliance can exist without role-playing delusions. Cawley maintains alliance throughout.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;B:&lt;/strong&gt; Cawley isn&amp;#39;t restricting autonomy; if anything, he&amp;#39;s allowing too much autonomy in choosing to inhabit the delusion.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;D:&lt;/strong&gt; This isn&amp;#39;t the relevant dimension. The question is about whether engaging with delusions helps or harms.&lt;/li&gt;&lt;/ul&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+      </item>
+      <item ident="q3_53e93d24" title="Question 3">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>10</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>q3_53e93d24</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;When Teddy experiences flashbacks to the Dachau liberation, these intrusive memories demonstrate which characteristic that distinguishes trauma-related intrusions from ordinary memories?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response_q3_53e93d24" rcardinality="Single">
+            <render_choice>
+              <response_label ident="A">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;They are stored in explicit declarative memory systems&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="B">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;They have a &amp;quot;here and now&amp;quot; quality with reduced temporal context&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="C">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;They are easily integrated into autobiographical narrative&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="D">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;They require conscious effort to retrieve&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response_q3_53e93d24">B</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+        <itemfeedback ident="correct_fb_q3_53e93d24">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;Correct!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Trauma memories differ from ordinary autobiographical memories in their phenomenology. They are experienced as happening NOW rather than as past events. Brewin&amp;#39;s dual-representation theory and van der Kolk&amp;#39;s work on trauma describe this &amp;quot;timeless&amp;quot; quality - the memory lacks temporal context, creating the experience of reliving rather than remembering. This is why Teddy experiences the Dachau memories as intrusions rather than recalled narratives.&lt;/p&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+        <itemfeedback ident="incorrect_fb_q3_53e93d24">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;The correct answer is B.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Trauma memories differ from ordinary autobiographical memories in their phenomenology. They are experienced as happening NOW rather than as past events. Brewin&amp;#39;s dual-representation theory and van der Kolk&amp;#39;s work on trauma describe this &amp;quot;timeless&amp;quot; quality - the memory lacks temporal context, creating the experience of reliving rather than remembering. This is why Teddy experiences the Dachau memories as intrusions rather than recalled narratives.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why other answers are incorrect:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;A:&lt;/strong&gt; Trauma memories often have significant IMPLICIT/sensory components. They&amp;#39;re not purely declarative.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;C:&lt;/strong&gt; The OPPOSITE is true. Trauma memories are fragmented and resist narrative integration - this is part of what makes them traumatic.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;D:&lt;/strong&gt; Intrusive trauma memories are definitionally INVOLUNTARY. They appear without conscious retrieval.&lt;/li&gt;&lt;/ul&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+      </item>
+      <item ident="q4_4d6d4714" title="Question 4">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>10</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>q4_4d6d4714</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;The film presents two possible &amp;quot;realities&amp;quot; - Teddy as U.S. Marshal or Andrew as patient. According to research on belief perseverance (Boudry &amp;amp; Braeckman, 2012), what makes the Marshal identity so resistant to disconfirmation?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response_q4_4d6d4714" rcardinality="Single">
+            <render_choice>
+              <response_label ident="A">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;The identity was formed before the traumatic event&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="B">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;External validators (Chuck/Dr. Sheehan) reinforce the belief&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="C">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;The belief system includes built-in explanations for contradictory evidence (conspiracy theories)&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="D">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Delusional identities are inherently more stable than accurate self-concepts&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response_q4_4d6d4714">C</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+        <itemfeedback ident="correct_fb_q4_4d6d4714">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;Correct!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The Marshal identity persists because it&amp;#39;s a self-validating belief system with what Boudry &amp;amp; Braeckman call &amp;quot;immunizing strategies.&amp;quot; When Teddy encounters evidence that he&amp;#39;s a patient (his real name on the gate, staff calling him &amp;quot;Andrew&amp;quot;), the belief system reinterprets this as PART OF THE CONSPIRACY. The more evidence against him, the bigger the conspiracy must be. This is the hallmark of self-validating beliefs - contradictory evidence strengthens rather than weakens the core belief.&lt;/p&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+        <itemfeedback ident="incorrect_fb_q4_4d6d4714">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;The correct answer is C.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The Marshal identity persists because it&amp;#39;s a self-validating belief system with what Boudry &amp;amp; Braeckman call &amp;quot;immunizing strategies.&amp;quot; When Teddy encounters evidence that he&amp;#39;s a patient (his real name on the gate, staff calling him &amp;quot;Andrew&amp;quot;), the belief system reinterprets this as PART OF THE CONSPIRACY. The more evidence against him, the bigger the conspiracy must be. This is the hallmark of self-validating beliefs - contradictory evidence strengthens rather than weakens the core belief.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why other answers are incorrect:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;A:&lt;/strong&gt; The Marshal identity was constructed AFTER the trauma as a defensive mechanism. Timeline is wrong.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;B:&lt;/strong&gt; Actually, Chuck/Dr. Sheehan is trying to CHALLENGE the belief through the role-play. He&amp;#39;s not reinforcing it.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;D:&lt;/strong&gt; No evidence for inherent stability. Stability comes from the immunizing strategies, not from delusion per se.&lt;/li&gt;&lt;/ul&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+      </item>
+      <item ident="q5_15e4a7ef" title="Question 5">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>10</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>q5_15e4a7ef</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;Teddy&amp;#39;s inability to accurately recall key details while simultaneously constructing elaborate false narratives illustrates which dissociation between memory systems?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response_q5_15e4a7ef" rcardinality="Single">
+            <render_choice>
+              <response_label ident="A">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Semantic memory preserved while procedural memory is impaired&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="B">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Working memory intact while long-term consolidation fails&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="C">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Reconstructive memory processes operating on fragmented episodic traces&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="D">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Implicit memory guiding behavior while explicit recall is absent&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response_q5_15e4a7ef">C</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+        <itemfeedback ident="correct_fb_q5_15e4a7ef">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;Correct!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Teddy demonstrates the reconstructive nature of memory - his mind takes fragmentary true elements (he was at Dachau, his wife died, there was water) and reconstructs them into coherent but false narratives. This reflects research showing memory isn&amp;#39;t like a video recording but an active reconstruction that can combine true elements into false configurations. The fragmented episodic traces (actual memories) are woven into a coherent but fictional story (the Marshal investigation).&lt;/p&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+        <itemfeedback ident="incorrect_fb_q5_15e4a7ef">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;The correct answer is C.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Teddy demonstrates the reconstructive nature of memory - his mind takes fragmentary true elements (he was at Dachau, his wife died, there was water) and reconstructs them into coherent but false narratives. This reflects research showing memory isn&amp;#39;t like a video recording but an active reconstruction that can combine true elements into false configurations. The fragmented episodic traces (actual memories) are woven into a coherent but fictional story (the Marshal investigation).&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why other answers are incorrect:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;A:&lt;/strong&gt; Wrong memory systems entirely. The issue is episodic/autobiographical memory, not semantic or procedural.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;B:&lt;/strong&gt; Doesn&amp;#39;t explain confabulation. Failed consolidation would produce amnesia, not false memories.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;D:&lt;/strong&gt; Partially relevant but doesn&amp;#39;t capture the RECONSTRUCTION process. This answer describes a dissociation but not the active construction of false memories.&lt;/li&gt;&lt;/ul&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

@@ -274,9 +274,97 @@ When creating quizzes for a new semester:
   - Films listed in the syllabus
   - Readings from Zotero library (https://www.zotero.org/groups/6375337/psyc_-mystery_madness_murder/library)
 
-### Canvas Integration
+### Canvas QTI Export Workflow
 
-Quizzes are also uploaded to Canvas for grading. The Markdown format allows easy copy/paste to Canvas quiz builder.
+Quizzes can be exported to Canvas using the QTI (Question & Test Interoperability) format, which preserves:
+- Question text and answer choices
+- Correct answer scoring (10 points per question)
+- Answer feedback (rationales from answer keys)
+- Single attempt setting
+
+#### Directory Structure
+```
+canvas/
+├── spring2026_001/                        # Section 001 QTI files
+│   ├── imsmanifest.xml                    # Canvas manifest
+│   ├── quiz01.xml                         # Quiz 1 QTI file
+│   ├── quiz02.xml
+│   └── ...
+├── spring2026_002/                        # Section 002 QTI files
+│   └── ...
+├── spring2026_001_canvas_quizzes.zip      # Ready-to-import ZIP
+└── spring2026_002_canvas_quizzes.zip
+```
+
+#### Converting Quizzes to Canvas Format
+
+Use the conversion script to generate QTI files:
+
+```bash
+# Convert a single section
+python scripts/convert_to_canvas_qti.py spring2026_001
+
+# Convert all sections
+python scripts/convert_to_canvas_qti.py --all
+
+# Convert all sections AND create ZIP packages for Canvas
+python scripts/convert_to_canvas_qti.py --all --zip
+```
+
+The script:
+1. Reads quiz questions from `quizzes/{section}/quiz*.qmd`
+2. Reads correct answers and rationales from `quizzes/answer_keys/{section}_quiz*.md`
+3. Generates QTI XML files in `canvas/{section}/`
+4. Creates a manifest file for Canvas import
+5. Optionally packages everything into a ZIP file
+
+#### Importing to Canvas
+
+1. Go to your Canvas course
+2. Navigate to **Settings > Import Course Content**
+3. Select **QTI .zip file**
+4. Upload the ZIP file (e.g., `spring2026_001_canvas_quizzes.zip`)
+5. Select **All quizzes** during import
+6. Review imported quizzes in **Quizzes** section
+
+#### Quiz Settings in Canvas
+
+After import, verify these settings for each quiz:
+- **Points:** 50 total (10 points × 5 questions)
+- **Attempts:** 1
+- **Time limit:** None (students can access ahead of time)
+- **Availability:** Set due date after in-class discussion
+- **Show correct answers:** After due date (answers discussed in class first)
+
+#### Semester Workflow
+
+When preparing quizzes for a new semester:
+
+1. **Create quiz source files** in `quizzes/{semester}{year}_{section}/`
+2. **Create answer keys** in `quizzes/answer_keys/`
+3. **Run conversion script:**
+   ```bash
+   python scripts/convert_to_canvas_qti.py --all --zip
+   ```
+4. **Import to Canvas** using the generated ZIP files
+5. **Commit Canvas files** to version control:
+   ```bash
+   git add canvas/
+   git commit -m "Generate Canvas QTI files for {semester}"
+   ```
+
+#### Regenerating After Quiz Changes
+
+If you edit quiz questions or answer keys, regenerate the Canvas files:
+
+```bash
+# Regenerate specific section
+python scripts/convert_to_canvas_qti.py spring2026_001 --zip
+
+# Re-import to Canvas (will create new quizzes, not update existing)
+```
+
+**Note:** Canvas imports create NEW quizzes. Delete old versions after re-importing.
 
 ## Movie Metadata Standards
 
@@ -448,9 +536,10 @@ All external links should include `{target="_blank"}` to open in new tabs:
 - Develop new questions as films are rotated
 
 ### 5. Canvas Integration Improvements
-- Streamline quiz import to Canvas
-- Consider developing automated Canvas quiz generation
-- Track quiz performance data to improve question quality
+- ✅ **COMPLETED:** Automated QTI generation via `scripts/convert_to_canvas_qti.py`
+- ✅ **COMPLETED:** ZIP packaging for easy Canvas import
+- Future: Track quiz performance data to improve question quality
+- Future: Consider Canvas API integration for direct quiz creation (if needed)
 
 ### 6. Syllabus Streamlining (Future Semesters)
 - **Goal:** Shorten syllabi by linking to policies instead of including full text
@@ -482,6 +571,11 @@ When preparing syllabi for a new semester:
 5. Create new quiz directory: `quizzes/{semester}{year}_{section}/`
 6. Generate new quizzes integrating updated films and readings
 7. Create answer keys in `quizzes/answer_keys/` (gitignored)
-8. Verify GMU policy links still work
-9. Render and test all pages locally before pushing
-10. Update `_quarto.yml` navigation if pages changed
+8. **Convert quizzes to Canvas format:**
+   ```bash
+   python scripts/convert_to_canvas_qti.py --all --zip
+   ```
+9. Import ZIP files to Canvas and configure quiz settings
+10. Verify GMU policy links still work
+11. Render and test all pages locally before pushing
+12. Update `_quarto.yml` navigation if pages changed

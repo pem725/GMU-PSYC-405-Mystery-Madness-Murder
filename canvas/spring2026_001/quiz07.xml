@@ -1,0 +1,377 @@
+<?xml version="1.0" ?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2">
+  <assessment ident="quiz7_82ba155a" title="Quiz 7: Black Swan / Good Will Hunting">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>qmd_timelimit</fieldlabel>
+        <fieldentry/>
+      </qtimetadatafield>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+    </qtimetadata>
+    <section ident="section_quiz7_82ba155a">
+      <item ident="q1_e71eab15" title="Question 1">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>10</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>q1_e71eab15</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;Both Nina Sayers and Will Hunting experience profound resistance to authentic emotional connection. According to Gross (2015), how do their primary emotion regulation strategies differ?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response_q1_e71eab15" rcardinality="Single">
+            <render_choice>
+              <response_label ident="A">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Both primarily use cognitive reappraisal&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="B">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Nina suppresses while Will reappraises&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="C">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Nina uses maladaptive situation selection (isolation, control) while Will uses maladaptive response modulation (aggression, withdrawal)&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="D">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Will suppresses while Nina floods&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response_q1_e71eab15">C</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+        <itemfeedback ident="correct_fb_q1_e71eab15">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;Correct!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Gross&amp;#39;s process model distinguishes WHERE in the emotion generation sequence regulation occurs. Nina regulates early through situation selection - she controls her environment obsessively, isolates from spontaneous social contact, and avoids any situation that might produce unexpected emotions. Will regulates late through response modulation - he allows situations to occur but then modulates his response through aggression (picking fights) or withdrawal (pushing people away). Same goal (avoiding vulnerability), different mechanisms.&lt;/p&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+        <itemfeedback ident="incorrect_fb_q1_e71eab15">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;The correct answer is C.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Gross&amp;#39;s process model distinguishes WHERE in the emotion generation sequence regulation occurs. Nina regulates early through situation selection - she controls her environment obsessively, isolates from spontaneous social contact, and avoids any situation that might produce unexpected emotions. Will regulates late through response modulation - he allows situations to occur but then modulates his response through aggression (picking fights) or withdrawal (pushing people away). Same goal (avoiding vulnerability), different mechanisms.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why other answers are incorrect:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;A:&lt;/strong&gt; Neither primarily uses cognitive reappraisal. Reappraisal would involve changing the meaning of situations, not avoiding them or attacking.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;B:&lt;/strong&gt; Will doesn&amp;#39;t show much reappraisal; his &amp;quot;not your fault&amp;quot; breakthrough wouldn&amp;#39;t be necessary if he were successfully reappraising.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;D:&lt;/strong&gt; Nina doesn&amp;#39;t flood; she maintains rigid control until she breaks down.&lt;/li&gt;&lt;/ul&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+      </item>
+      <item ident="q2_1400abd0" title="Question 2">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>10</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>q2_1400abd0</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;Nina&amp;#39;s transformation occurs through art; Will&amp;#39;s through therapy. McKnight &amp;amp; Kashdan (2009) propose that purpose functions as a &amp;quot;self-organizing system.&amp;quot; What does the contrast between these characters reveal about purpose development?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response_q2_1400abd0" rcardinality="Single">
+            <render_choice>
+              <response_label ident="A">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Artistic purpose is superior to interpersonal purpose&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="B">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Purpose can only develop through professional achievement&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="C">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Therapy is ineffective for purpose development&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="D">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Purpose requires integration of multiple life domains; Nina&amp;#39;s exclusive focus on ballet and Will&amp;#39;s avoidance of intimacy both represent fragmented rather than integrated purpose&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response_q2_1400abd0">D</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+        <itemfeedback ident="correct_fb_q2_1400abd0">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;Correct!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;McKnight &amp;amp; Kashdan describe purpose as a self-organizing system that coordinates multiple life domains. Neither Nina nor Will has integrated purpose. Nina&amp;#39;s purpose is exclusively artistic - she has no interpersonal purpose, no identity outside ballet. Will has intellectual gifts but avoids relationships that would give his abilities meaning. Both represent fragmented purpose that can&amp;#39;t fully organize their lives because key domains are excluded.&lt;/p&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+        <itemfeedback ident="incorrect_fb_q2_1400abd0">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;The correct answer is D.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;McKnight &amp;amp; Kashdan describe purpose as a self-organizing system that coordinates multiple life domains. Neither Nina nor Will has integrated purpose. Nina&amp;#39;s purpose is exclusively artistic - she has no interpersonal purpose, no identity outside ballet. Will has intellectual gifts but avoids relationships that would give his abilities meaning. Both represent fragmented purpose that can&amp;#39;t fully organize their lives because key domains are excluded.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why other answers are incorrect:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;A:&lt;/strong&gt; The framework doesn&amp;#39;t rank purpose types; it emphasizes integration across domains.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;B:&lt;/strong&gt; Purpose can develop in any domain; professional achievement isn&amp;#39;t privileged.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;C:&lt;/strong&gt; Will&amp;#39;s transformation through therapy contradicts this claim directly.&lt;/li&gt;&lt;/ul&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+      </item>
+      <item ident="q3_6f1603ff" title="Question 3">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>10</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>q3_6f1603ff</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;Sean Maguire tells Will &amp;quot;It&amp;#39;s not your fault&amp;quot; repeatedly until Will breaks down. From an emotion differentiation perspective (Kashdan et al., 2015), why is this intervention effective?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response_q3_6f1603ff" rcardinality="Single">
+            <render_choice>
+              <response_label ident="A">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Repetition overwhelms cognitive defenses&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="B">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Sean&amp;#39;s authority makes the message believable&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="C">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;The intervention helps Will differentiate between shame (deserved) and guilt (undeserved), enabling more adaptive emotional processing&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="D">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Simple messages are easier to accept than complex ones&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response_q3_6f1603ff">C</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+        <itemfeedback ident="correct_fb_q3_6f1603ff">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;Correct!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Will&amp;#39;s undifferentiated negative affect includes both shame (I am bad) and guilt (I did something bad). But his guilt is misplaced - he didn&amp;#39;t CAUSE his abuse. Sean&amp;#39;s intervention helps Will differentiate: he can release the guilt (undeserved) while processing the shame (his identity formed under abuse). This differentiation enables more targeted emotional processing than the undifferentiated &amp;quot;I am damaged&amp;quot; belief he carried.&lt;/p&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+        <itemfeedback ident="incorrect_fb_q3_6f1603ff">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;The correct answer is C.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Will&amp;#39;s undifferentiated negative affect includes both shame (I am bad) and guilt (I did something bad). But his guilt is misplaced - he didn&amp;#39;t CAUSE his abuse. Sean&amp;#39;s intervention helps Will differentiate: he can release the guilt (undeserved) while processing the shame (his identity formed under abuse). This differentiation enables more targeted emotional processing than the undifferentiated &amp;quot;I am damaged&amp;quot; belief he carried.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why other answers are incorrect:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;A:&lt;/strong&gt; Repetition alone doesn&amp;#39;t produce therapeutic change. It&amp;#39;s the CONTENT being repeated that matters.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;B:&lt;/strong&gt; Will doesn&amp;#39;t respect authority generally. His relationship with Sean is based on mutual respect, not authority.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;D:&lt;/strong&gt; The message is simple but the processing isn&amp;#39;t. The intervention works because of differentiation, not simplicity.&lt;/li&gt;&lt;/ul&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+      </item>
+      <item ident="q4_89ad85ca" title="Question 4">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>10</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>q4_89ad85ca</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;Thomas Leroy sexually manipulates Nina while claiming to help her artistry. What concept from social dominance theory (Pratto et al., 1994) best explains the power dynamic?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response_q4_89ad85ca" rcardinality="Single">
+            <render_choice>
+              <response_label ident="A">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Out-group derogation&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="B">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;System justification theory&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="C">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Realistic group conflict&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="D">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Legitimizing exploitation through hierarchy-maintaining myths about artistic necessity&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response_q4_89ad85ca">D</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+        <itemfeedback ident="correct_fb_q4_89ad85ca">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;Correct!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Pratto et al. describe how &amp;quot;legitimizing myths&amp;quot; justify hierarchical exploitation. Thomas uses the myth that artistic greatness requires suffering and sexual awakening to justify his exploitation of Nina. The ballet hierarchy (director over dancer) is maintained through beliefs about what artistic development &amp;quot;requires.&amp;quot; Nina accepts the exploitation because the myth frames it as necessary for her art, not as abuse.&lt;/p&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+        <itemfeedback ident="incorrect_fb_q4_89ad85ca">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;The correct answer is D.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Pratto et al. describe how &amp;quot;legitimizing myths&amp;quot; justify hierarchical exploitation. Thomas uses the myth that artistic greatness requires suffering and sexual awakening to justify his exploitation of Nina. The ballet hierarchy (director over dancer) is maintained through beliefs about what artistic development &amp;quot;requires.&amp;quot; Nina accepts the exploitation because the myth frames it as necessary for her art, not as abuse.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why other answers are incorrect:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;A:&lt;/strong&gt; There&amp;#39;s no out-group here; Nina and Thomas are in the same artistic community.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;B:&lt;/strong&gt; This is about why people support systems that disadvantage them, but doesn&amp;#39;t capture the specific exploitation mechanism.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;C:&lt;/strong&gt; No intergroup conflict is involved in this dyadic exploitation.&lt;/li&gt;&lt;/ul&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+      </item>
+      <item ident="q5_3640b6e2" title="Question 5">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>10</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>q5_3640b6e2</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;Will&amp;#39;s genius makes him valuable to institutions (MIT, NSA) that want to use his abilities. Nina&amp;#39;s talent makes her valuable to the ballet company. According to research on purpose (Kashdan et al., 2024), what distinguishes authentic purpose from instrumental use?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response_q5_3640b6e2" rcardinality="Single">
+            <render_choice>
+              <response_label ident="A">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Authentic purpose requires financial independence&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="B">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;External recognition invalidates internal purpose&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="C">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Authentic purpose involves self-concordance - goals aligned with one&amp;#39;s own values rather than imposed by external systems&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="D">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Purpose cannot develop within institutional contexts&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response_q5_3640b6e2">C</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+        <itemfeedback ident="correct_fb_q5_3640b6e2">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;Correct!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Kashdan et al. (2024) emphasize self-concordance - the alignment between one&amp;#39;s goals and one&amp;#39;s authentic values. Both Will and Nina are being used by institutions that value their abilities for the institution&amp;#39;s purposes. Authentic purpose would involve THEM choosing goals that align with THEIR values. Will begins moving toward self-concordance when he chooses Skylar over NSA career paths. Nina never achieves self-concordance because her goals remain her mother&amp;#39;s and Thomas&amp;#39;s, not her own.&lt;/p&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+        <itemfeedback ident="incorrect_fb_q5_3640b6e2">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;The correct answer is C.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Kashdan et al. (2024) emphasize self-concordance - the alignment between one&amp;#39;s goals and one&amp;#39;s authentic values. Both Will and Nina are being used by institutions that value their abilities for the institution&amp;#39;s purposes. Authentic purpose would involve THEM choosing goals that align with THEIR values. Will begins moving toward self-concordance when he chooses Skylar over NSA career paths. Nina never achieves self-concordance because her goals remain her mother&amp;#39;s and Thomas&amp;#39;s, not her own.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why other answers are incorrect:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;A:&lt;/strong&gt; Purpose can exist regardless of financial status. The key is value alignment, not financial freedom.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;B:&lt;/strong&gt; Recognition doesn&amp;#39;t invalidate purpose; it&amp;#39;s whether the goal itself is self-chosen that matters.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;D:&lt;/strong&gt; Purpose can develop within institutions if the individual&amp;#39;s values align with institutional goals authentically.&lt;/li&gt;&lt;/ul&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

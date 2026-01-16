@@ -1,0 +1,377 @@
+<?xml version="1.0" ?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2">
+  <assessment ident="quiz8_86cafdf8" title="Quiz 8: K-PAX">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>qmd_timelimit</fieldlabel>
+        <fieldentry/>
+      </qtimetadatafield>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+    </qtimetadata>
+    <section ident="section_quiz8_86cafdf8">
+      <item ident="q1_06691e9c" title="Question 1">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>10</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>q1_06691e9c</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;The film deliberately maintains ambiguity about whether Prot is an alien or a man with trauma-induced delusion. According to Shermer (2002), why might viewers PREFER the alien explanation despite its implausibility?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response_q1_06691e9c" rcardinality="Single">
+            <render_choice>
+              <response_label ident="A">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Alien explanations are scientifically more defensible&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="B">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Viewers are unintelligent&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="C">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;The alien explanation is more emotionally satisfying and cognitively simpler than the complex trauma narrative - characteristics that make beliefs &amp;quot;sticky&amp;quot;&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="D">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Psychiatric explanations are always wrong&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response_q1_06691e9c">C</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+        <itemfeedback ident="correct_fb_q1_06691e9c">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;Correct!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Shermer describes how &amp;quot;sticky&amp;quot; beliefs appeal to emotion and provide cognitive simplicity. The alien explanation: (1) is emotionally satisfying (magic is more fun than mental illness), (2) is cognitively simpler (he&amp;#39;s from K-PAX, end of story, vs. complex trauma history), and (3) fits narrative expectations (sci-fi is a recognized genre). The trauma explanation is more likely but less emotionally and cognitively appealing.&lt;/p&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+        <itemfeedback ident="incorrect_fb_q1_06691e9c">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;The correct answer is C.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Shermer describes how &amp;quot;sticky&amp;quot; beliefs appeal to emotion and provide cognitive simplicity. The alien explanation: (1) is emotionally satisfying (magic is more fun than mental illness), (2) is cognitively simpler (he&amp;#39;s from K-PAX, end of story, vs. complex trauma history), and (3) fits narrative expectations (sci-fi is a recognized genre). The trauma explanation is more likely but less emotionally and cognitively appealing.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why other answers are incorrect:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;A:&lt;/strong&gt; Scientifically, the simpler explanation (delusion) is more defensible.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;B:&lt;/strong&gt; The appeal isn&amp;#39;t about intelligence; it&amp;#39;s about cognitive features.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;D:&lt;/strong&gt; Psychiatric explanations have strong scientific support.&lt;/li&gt;&lt;/ul&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+      </item>
+      <item ident="q2_f73e2d9e" title="Question 2">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>10</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>q2_f73e2d9e</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;Prot describes K-PAX as a planet without families, laws, or violence. According to research on belief systems (Boudry &amp;amp; Braeckman, 2012), what psychological function might this utopian vision serve?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response_q2_f73e2d9e" rcardinality="Single">
+            <render_choice>
+              <response_label ident="A">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Accurate memory of alien society&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="B">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Random confabulation without meaning&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="C">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;A self-validating alternative reality that provides escape from the trauma of his actual life - the &amp;quot;K-PAX&amp;quot; belief immunizes against unbearable earthly truths&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="D">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Deliberate deception of the psychiatrist&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response_q2_f73e2d9e">C</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+        <itemfeedback ident="correct_fb_q2_f73e2d9e">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;Correct!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;If Robert Porter&amp;#39;s family was murdered (the trauma hypothesis), then K-PAX as a concept serves psychological protection. The K-PAX identity allows him to: (1) escape the pain of his actual history, (2) explain his disconnection from human relationships, (3) provide meaning for his existence. The belief is self-validating because any evidence against it can be dismissed (&amp;quot;you humans wouldn&amp;#39;t understand&amp;quot;). It immunizes against the trauma he can&amp;#39;t face.&lt;/p&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+        <itemfeedback ident="incorrect_fb_q2_f73e2d9e">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;The correct answer is C.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;If Robert Porter&amp;#39;s family was murdered (the trauma hypothesis), then K-PAX as a concept serves psychological protection. The K-PAX identity allows him to: (1) escape the pain of his actual history, (2) explain his disconnection from human relationships, (3) provide meaning for his existence. The belief is self-validating because any evidence against it can be dismissed (&amp;quot;you humans wouldn&amp;#39;t understand&amp;quot;). It immunizes against the trauma he can&amp;#39;t face.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why other answers are incorrect:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;A:&lt;/strong&gt; Within the film&amp;#39;s ambiguity, this can&amp;#39;t be confirmed; psychologically, the protective function is more relevant.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;B:&lt;/strong&gt; The K-PAX details are too coherent and functionally meaningful to be random.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;D:&lt;/strong&gt; If Prot genuinely believes he&amp;#39;s from K-PAX, he&amp;#39;s not deliberately deceiving.&lt;/li&gt;&lt;/ul&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+      </item>
+      <item ident="q3_e86e87e9" title="Question 3">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>10</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>q3_e86e87e9</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;The other psychiatric patients improve when interacting with Prot. According to emotion research (Gross, 2015), what mechanism might explain this effect?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response_q3_e86e87e9" rcardinality="Single">
+            <render_choice>
+              <response_label ident="A">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Prot has supernatural healing powers&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="B">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Mental illness spontaneously remits&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="C">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Prot provides a form of cognitive reappraisal - his alternative perspective helps patients reinterpret their situations, and his apparent belief models hope&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="D">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;The patients are faking improvement&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response_q3_e86e87e9">C</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+        <itemfeedback ident="correct_fb_q3_e86e87e9">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;Correct!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Gross identifies cognitive reappraisal as an effective emotion regulation strategy. Prot offers patients alternative frameworks for understanding their situations: the depressed patient sees new possibilities, the anxious patient gains perspective, the isolated patient feels connection. Prot&amp;#39;s certainty about K-PAX, regardless of its truth, models hope and conviction that patients can borrow. He provides reappraisal resources they lacked.&lt;/p&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+        <itemfeedback ident="incorrect_fb_q3_e86e87e9">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;The correct answer is C.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Gross identifies cognitive reappraisal as an effective emotion regulation strategy. Prot offers patients alternative frameworks for understanding their situations: the depressed patient sees new possibilities, the anxious patient gains perspective, the isolated patient feels connection. Prot&amp;#39;s certainty about K-PAX, regardless of its truth, models hope and conviction that patients can borrow. He provides reappraisal resources they lacked.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why other answers are incorrect:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;A:&lt;/strong&gt; Even if Prot were alien, the mechanism would still be psychological, not supernatural.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;B:&lt;/strong&gt; The improvements are too synchronized with Prot&amp;#39;s presence to be random remission.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;D:&lt;/strong&gt; The improvements appear genuine within the film&amp;#39;s narrative.&lt;/li&gt;&lt;/ul&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+      </item>
+      <item ident="q4_139926f1" title="Question 4">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>10</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>q4_139926f1</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;Dr. Powell eventually uncovers evidence that &amp;quot;Prot&amp;quot; may be Robert Porter, a man whose family was murdered. According to Kalokerinos et al. (2019), how might trauma contribute to identity fragmentation?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response_q4_139926f1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="A">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;All trauma survivors develop alternate identities&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="B">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Trauma has no effect on identity&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="C">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Low negative emotion differentiation following trauma may make adaptive processing impossible, leading to maladaptive strategies including dissociation and identity transformation&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="D">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Only childhood trauma affects identity&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response_q4_139926f1">C</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+        <itemfeedback ident="correct_fb_q4_139926f1">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;Correct!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Kalokerinos et al.&amp;#39;s research on differentiation and regulation suggests a pathway: when overwhelming trauma produces undifferentiated negative affect, adaptive regulation strategies fail (all strategies increase rather than decrease distress). Identity fragmentation or transformation may emerge as a last-resort mechanism - create a new identity that isn&amp;#39;t experiencing the trauma. &amp;quot;Prot&amp;quot; may be Robert Porter&amp;#39;s solution when Robert Porter&amp;#39;s emotions became unprocessable.&lt;/p&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+        <itemfeedback ident="incorrect_fb_q4_139926f1">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;The correct answer is C.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Kalokerinos et al.&amp;#39;s research on differentiation and regulation suggests a pathway: when overwhelming trauma produces undifferentiated negative affect, adaptive regulation strategies fail (all strategies increase rather than decrease distress). Identity fragmentation or transformation may emerge as a last-resort mechanism - create a new identity that isn&amp;#39;t experiencing the trauma. &amp;quot;Prot&amp;quot; may be Robert Porter&amp;#39;s solution when Robert Porter&amp;#39;s emotions became unprocessable.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why other answers are incorrect:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;A:&lt;/strong&gt; Most trauma survivors don&amp;#39;t develop alternate identities; this is extreme.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;B:&lt;/strong&gt; Trauma clearly can affect identity construction and stability.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;D:&lt;/strong&gt; Adult trauma (like family murder) can also produce identity effects.&lt;/li&gt;&lt;/ul&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+      </item>
+      <item ident="q5_e90d08c9" title="Question 5">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>10</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>q5_e90d08c9</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;Prot claims he will return to K-PAX at a specific time, and another patient disappears at that moment. The film does not resolve whether this is coincidence, suggestion, or proof of alien nature. According to Matthews (2005), what does this ambiguity illustrate about &amp;quot;rational&amp;quot; belief?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response_q5_e90d08c9" rcardinality="Single">
+            <render_choice>
+              <response_label ident="A">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;The audience should conclude Prot is definitely an alien&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="B">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;The audience should conclude Prot is definitely human&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="C">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Given ambiguous evidence, multiple interpretations can be rationally defended; &amp;quot;irrationality&amp;quot; often reflects different prior beliefs rather than cognitive defects&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="D">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;The film&amp;#39;s ambiguity is a narrative flaw&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response_q5_e90d08c9">C</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+        <itemfeedback ident="correct_fb_q5_e90d08c9">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;Correct!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Matthews&amp;#39; framework for &amp;quot;rational inference from weird evidence&amp;quot; applies: given the ambiguous evidence (Prot&amp;#39;s knowledge, the patient&amp;#39;s disappearance, the timing), multiple interpretations are rationally defensible. Those who start with &amp;quot;aliens don&amp;#39;t exist&amp;quot; priors will interpret differently than those with non-zero alien priors. The film demonstrates that &amp;quot;rationality&amp;quot; depends on prior beliefs; two people can reach different conclusions, both reasoning validly from different starting points.&lt;/p&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+        <itemfeedback ident="incorrect_fb_q5_e90d08c9">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;The correct answer is C.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Matthews&amp;#39; framework for &amp;quot;rational inference from weird evidence&amp;quot; applies: given the ambiguous evidence (Prot&amp;#39;s knowledge, the patient&amp;#39;s disappearance, the timing), multiple interpretations are rationally defensible. Those who start with &amp;quot;aliens don&amp;#39;t exist&amp;quot; priors will interpret differently than those with non-zero alien priors. The film demonstrates that &amp;quot;rationality&amp;quot; depends on prior beliefs; two people can reach different conclusions, both reasoning validly from different starting points.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why other answers are incorrect:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;A:&lt;/strong&gt; The evidence is deliberately ambiguous; certain conclusion isn&amp;#39;t supported.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;B:&lt;/strong&gt; Equally, certain human conclusion isn&amp;#39;t forced by the evidence.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;D:&lt;/strong&gt; The ambiguity is intentional and serves the film&amp;#39;s themes about certainty and belief.&lt;/li&gt;&lt;/ul&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

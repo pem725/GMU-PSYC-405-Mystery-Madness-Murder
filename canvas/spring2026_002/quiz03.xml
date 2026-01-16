@@ -1,0 +1,377 @@
+<?xml version="1.0" ?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2">
+  <assessment ident="quiz3_be7ee5f2" title="Quiz 3: The Machinist / Identity">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>qmd_timelimit</fieldlabel>
+        <fieldentry/>
+      </qtimetadatafield>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+    </qtimetadata>
+    <section ident="section_quiz3_be7ee5f2">
+      <item ident="q1_84cd7b84" title="Question 1">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>10</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>q1_84cd7b84</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;Both Trevor Reznik and Malcolm Rivers (Identity) experience fragmented identity, but the films portray this differently. What is the KEY diagnostic distinction?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response_q1_84cd7b84" rcardinality="Single">
+            <render_choice>
+              <response_label ident="A">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Trevor is psychotic; Malcolm is neurotic&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="B">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Trevor&amp;#39;s fragment is external hallucination; Malcolm&amp;#39;s fragments are alternate personalities&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="C">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Trevor creates one externalized guilt projection; Malcolm&amp;#39;s &amp;quot;personalities&amp;quot; are portrayed as separate identities within one mind - the latter represents dissociative identity disorder&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="D">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Only Malcolm&amp;#39;s condition is real; Trevor is simply sleep deprived&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response_q1_84cd7b84">C</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+        <itemfeedback ident="correct_fb_q1_84cd7b84">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;Correct!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The key distinction is the TYPE of fragmentation. Trevor creates ONE external projection (Ivan) that represents his repressed guilt - this is closer to psychotic projection or hallucination. Malcolm is portrayed as having MULTIPLE distinct identities (the motel guests) existing within one mind - this is the film&amp;#39;s depiction of dissociative identity disorder. Trevor&amp;#39;s self remains intact while projecting; Malcolm&amp;#39;s self is depicted as actually fragmented into separate personalities.&lt;/p&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+        <itemfeedback ident="incorrect_fb_q1_84cd7b84">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;The correct answer is C.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The key distinction is the TYPE of fragmentation. Trevor creates ONE external projection (Ivan) that represents his repressed guilt - this is closer to psychotic projection or hallucination. Malcolm is portrayed as having MULTIPLE distinct identities (the motel guests) existing within one mind - this is the film&amp;#39;s depiction of dissociative identity disorder. Trevor&amp;#39;s self remains intact while projecting; Malcolm&amp;#39;s self is depicted as actually fragmented into separate personalities.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why other answers are incorrect:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;A:&lt;/strong&gt; Both conditions are more severe than neurosis; the distinction is about fragmentation TYPE.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;B:&lt;/strong&gt; Partially correct but doesn&amp;#39;t capture the full distinction between projection and dissociation.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;D:&lt;/strong&gt; Both characters have genuine psychological conditions, just different types.&lt;/li&gt;&lt;/ul&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+      </item>
+      <item ident="q2_c0f05037" title="Question 2">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>10</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>q2_c0f05037</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;Identity depicts dissociative identity disorder (DID) with multiple distinct &amp;quot;alters.&amp;quot; According to current scientific understanding, what does the film get MOST wrong about DID?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response_q2_c0f05037" rcardinality="Single">
+            <render_choice>
+              <response_label ident="A">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;DID never involves multiple personalities&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="B">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Trauma is unrelated to DID&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="C">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;DID rarely presents with dramatically distinct personalities aware of each other; the &amp;quot;host knows nothing&amp;quot; trope is cinematically convenient but clinically uncommon&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="D">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;DID cannot involve violence&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response_q2_c0f05037">C</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+        <itemfeedback ident="correct_fb_q2_c0f05037">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;Correct!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Clinical DID typically involves subtle personality shifts rather than dramatically distinct personalities. Alters in actual DID often share some awareness of each other, and complete amnesia between states is less common than portrayed. The film&amp;#39;s depiction of alters as completely separate people with no overlap, meeting in a motel, dramatically overstates the separateness for narrative purposes. The &amp;quot;host knows nothing&amp;quot; trope serves plot but misrepresents typical presentation.&lt;/p&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+        <itemfeedback ident="incorrect_fb_q2_c0f05037">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;The correct answer is C.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Clinical DID typically involves subtle personality shifts rather than dramatically distinct personalities. Alters in actual DID often share some awareness of each other, and complete amnesia between states is less common than portrayed. The film&amp;#39;s depiction of alters as completely separate people with no overlap, meeting in a motel, dramatically overstates the separateness for narrative purposes. The &amp;quot;host knows nothing&amp;quot; trope serves plot but misrepresents typical presentation.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why other answers are incorrect:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;A:&lt;/strong&gt; DID does involve alternate identity states; the issue is HOW they&amp;#39;re portrayed.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;B:&lt;/strong&gt; Trauma is strongly associated with DID; the film correctly includes traumatic history.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;D:&lt;/strong&gt; Violence is possible; the issue isn&amp;#39;t whether violence occurs but how DID is portrayed.&lt;/li&gt;&lt;/ul&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+      </item>
+      <item ident="q3_54934069" title="Question 3">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>10</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>q3_54934069</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;In Identity, psychiatrists attempt to &amp;quot;integrate&amp;quot; Malcolm&amp;#39;s personalities by eliminating the dangerous ones. According to research on belief systems (Boudry &amp;amp; Braeckman, 2012), what problem does this approach face?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response_q3_54934069" rcardinality="Single">
+            <render_choice>
+              <response_label ident="A">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Integration is always impossible&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="B">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Dangerous personalities cannot be eliminated&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="C">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;The assumption that &amp;quot;bad&amp;quot; alters can be simply removed reflects a self-validating belief about treatment that may not match the complexity of dissociative systems&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="D">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Only medication can treat DID&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response_q3_54934069">C</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+        <itemfeedback ident="correct_fb_q3_54934069">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;Correct!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The psychiatrists in the film operate from a self-validating belief: they assume that identifying and eliminating &amp;quot;bad&amp;quot; personalities will cure Malcolm. This belief is self-validating because: (1) it provides a clear treatment plan, (2) any failure can be attributed to incomplete elimination, and (3) it doesn&amp;#39;t require questioning the underlying theory. However, dissociative systems are more complex than this model assumes; alters often serve protective functions that can&amp;#39;t be simply eliminated.&lt;/p&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+        <itemfeedback ident="incorrect_fb_q3_54934069">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;The correct answer is C.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The psychiatrists in the film operate from a self-validating belief: they assume that identifying and eliminating &amp;quot;bad&amp;quot; personalities will cure Malcolm. This belief is self-validating because: (1) it provides a clear treatment plan, (2) any failure can be attributed to incomplete elimination, and (3) it doesn&amp;#39;t require questioning the underlying theory. However, dissociative systems are more complex than this model assumes; alters often serve protective functions that can&amp;#39;t be simply eliminated.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why other answers are incorrect:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;A:&lt;/strong&gt; Integration IS sometimes achieved; the issue is the oversimplified approach.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;B:&lt;/strong&gt; The issue isn&amp;#39;t impossibility but conceptual oversimplification.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;D:&lt;/strong&gt; Therapy is the primary treatment; medication is adjunctive at best.&lt;/li&gt;&lt;/ul&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+      </item>
+      <item ident="q4_d4eea88a" title="Question 4">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>10</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>q4_d4eea88a</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;Both films use unreliable narration - viewers cannot trust what they see. According to Shermer (2002), how does this narrative technique parallel the psychology of belief?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response_q4_d4eea88a" rcardinality="Single">
+            <render_choice>
+              <response_label ident="A">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Unreliable narration is simply a storytelling trick&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="B">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Viewers are too easily deceived&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="C">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Just as film viewers construct coherent narratives from incomplete information, people construct beliefs from limited evidence and resist revising them even when contradicted&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="D">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Unreliable narration prevents psychological analysis&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response_q4_d4eea88a">C</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+        <itemfeedback ident="correct_fb_q4_d4eea88a">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;Correct!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Shermer describes how people construct beliefs from limited evidence and then defend these beliefs even when contradicted. The films replicate this experience: viewers construct a coherent narrative (Trevor is being stalked; the motel guests are separate people), then resist revising this understanding even as contradictory evidence mounts. The twist reveals that their constructed belief was wrong - just as real-world beliefs can be confidently held yet mistaken.&lt;/p&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+        <itemfeedback ident="incorrect_fb_q4_d4eea88a">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;The correct answer is C.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Shermer describes how people construct beliefs from limited evidence and then defend these beliefs even when contradicted. The films replicate this experience: viewers construct a coherent narrative (Trevor is being stalked; the motel guests are separate people), then resist revising this understanding even as contradictory evidence mounts. The twist reveals that their constructed belief was wrong - just as real-world beliefs can be confidently held yet mistaken.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why other answers are incorrect:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;A:&lt;/strong&gt; It&amp;#39;s a technique that parallels real cognitive processes, not just a gimmick.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;B:&lt;/strong&gt; The point isn&amp;#39;t about viewer gullibility but about normal cognitive processes.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;D:&lt;/strong&gt; Unreliable narration actually enables analysis of belief formation.&lt;/li&gt;&lt;/ul&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+      </item>
+      <item ident="q5_7af388b7" title="Question 5">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>10</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>q5_7af388b7</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;Trevor eventually confesses to the police, achieving relief. Malcolm&amp;#39;s &amp;quot;cure&amp;quot; is ambiguous (the surviving personality may also be murderous). According to McKnight &amp;amp; Kashdan (2009), what does Trevor&amp;#39;s confession achieve that Malcolm&amp;#39;s treatment does not?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response_q5_7af388b7" rcardinality="Single">
+            <render_choice>
+              <response_label ident="A">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Legal punishment as moral cleansing&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="B">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Authentic integration of traumatic experience into identity, allowing purpose and meaning to resume - versus continued fragmentation&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="C">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;External validation of innocence&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="D">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Nothing - both outcomes are equally therapeutic&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response_q5_7af388b7">B</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+        <itemfeedback ident="correct_fb_q5_7af388b7">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;Correct!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;McKnight &amp;amp; Kashdan&amp;#39;s purpose framework requires integrated identity for purpose to function. Trevor&amp;#39;s confession achieves integration - he acknowledges the trauma, accepts responsibility, and can rebuild identity around this truth. His purpose system can reorganize around authentic experience. Malcolm&amp;#39;s treatment doesn&amp;#39;t achieve integration; the fragmentation continues (possibly with a still-dangerous alter). Without authentic integration, purpose cannot develop.&lt;/p&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+        <itemfeedback ident="incorrect_fb_q5_7af388b7">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;The correct answer is B.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;McKnight &amp;amp; Kashdan&amp;#39;s purpose framework requires integrated identity for purpose to function. Trevor&amp;#39;s confession achieves integration - he acknowledges the trauma, accepts responsibility, and can rebuild identity around this truth. His purpose system can reorganize around authentic experience. Malcolm&amp;#39;s treatment doesn&amp;#39;t achieve integration; the fragmentation continues (possibly with a still-dangerous alter). Without authentic integration, purpose cannot develop.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why other answers are incorrect:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;A:&lt;/strong&gt; The therapeutic value isn&amp;#39;t punishment but integration of experience.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;C:&lt;/strong&gt; Trevor isn&amp;#39;t innocent; he confesses to guilt. The value is in accepting truth.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;D:&lt;/strong&gt; The outcomes are explicitly different in the films; Trevor achieves peace while Malcolm&amp;#39;s fate is ominous.&lt;/li&gt;&lt;/ul&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

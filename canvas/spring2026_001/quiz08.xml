@@ -1,0 +1,377 @@
+<?xml version="1.0" ?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2">
+  <assessment ident="quiz8_84d17d3a" title="Quiz 8: Good Will Hunting">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>qmd_timelimit</fieldlabel>
+        <fieldentry/>
+      </qtimetadatafield>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+    </qtimetadata>
+    <section ident="section_quiz8_84d17d3a">
+      <item ident="q1_fd26895f" title="Question 1">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>10</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>q1_fd26895f</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;Will Hunting pushes away everyone who gets close - Skylar, his friends, and initially Sean. According to attachment theory and emotion regulation research (Gross, 2015), which regulatory strategy does this pattern represent?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response_q1_fd26895f" rcardinality="Single">
+            <render_choice>
+              <response_label ident="A">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Cognitive reappraisal of relationship value&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="B">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Situation selection that avoids emotional contexts entirely&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="C">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Expressive suppression of positive emotions&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="D">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Attentional deployment toward threat cues&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response_q1_fd26895f">B</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+        <itemfeedback ident="correct_fb_q1_fd26895f">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;Correct!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Will&amp;#39;s pattern is consistent with situation selection - he prevents emotionally demanding situations from occurring in the first place. By pushing people away before they get close, he avoids the situation of being vulnerable. This is an antecedent-focused strategy in Gross&amp;#39;s model - it operates before the emotional response is fully generated. Will doesn&amp;#39;t just suppress emotions that arise; he prevents the situations that would generate them.&lt;/p&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+        <itemfeedback ident="incorrect_fb_q1_fd26895f">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;The correct answer is B.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Will&amp;#39;s pattern is consistent with situation selection - he prevents emotionally demanding situations from occurring in the first place. By pushing people away before they get close, he avoids the situation of being vulnerable. This is an antecedent-focused strategy in Gross&amp;#39;s model - it operates before the emotional response is fully generated. Will doesn&amp;#39;t just suppress emotions that arise; he prevents the situations that would generate them.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why other answers are incorrect:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;A:&lt;/strong&gt; Reappraisal would involve changing how he thinks about relationships, not avoiding them entirely.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;C:&lt;/strong&gt; Suppression occurs AFTER emotions arise. Will prevents the relationship situations that would generate emotions.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;D:&lt;/strong&gt; Will doesn&amp;#39;t redirect attention within situations; he eliminates the situations entirely.&lt;/li&gt;&lt;/ul&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+      </item>
+      <item ident="q2_783d2623" title="Question 2">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>10</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>q2_783d2623</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;Will&amp;#39;s foster father burned him with cigarettes, yet Will questions whether he &amp;quot;deserved&amp;quot; the abuse. According to Boudry and Braeckman (2012), why might abuse victims develop self-blaming beliefs despite evidence to the contrary?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response_q2_783d2623" rcardinality="Single">
+            <render_choice>
+              <response_label ident="A">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Children lack cognitive capacity to assign blame appropriately&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="B">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Self-blame provides an illusion of control and predictability&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="C">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Self-validating belief systems develop where self-blame is more psychologically tolerable than acknowledging complete powerlessness&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="D">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Abusers explicitly teach victims to accept blame&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response_q2_783d2623">C</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+        <itemfeedback ident="correct_fb_q2_783d2623">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;Correct!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Boudry &amp;amp; Braeckman&amp;#39;s framework applies to any self-validating belief. Self-blame for abuse is &amp;quot;self-validating&amp;quot; because it serves psychological functions: if I caused the abuse, then I have some control (I could have prevented it by being &amp;quot;better&amp;quot;). Acknowledging complete powerlessness is more terrifying than accepting undeserved blame. The belief system validates itself by providing an explanatory framework, even if that framework is painful.&lt;/p&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+        <itemfeedback ident="incorrect_fb_q2_783d2623">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;The correct answer is C.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Boudry &amp;amp; Braeckman&amp;#39;s framework applies to any self-validating belief. Self-blame for abuse is &amp;quot;self-validating&amp;quot; because it serves psychological functions: if I caused the abuse, then I have some control (I could have prevented it by being &amp;quot;better&amp;quot;). Acknowledging complete powerlessness is more terrifying than accepting undeserved blame. The belief system validates itself by providing an explanatory framework, even if that framework is painful.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why other answers are incorrect:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;A:&lt;/strong&gt; Will is an adult still maintaining these beliefs. Cognitive capacity isn&amp;#39;t the issue.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;B:&lt;/strong&gt; This is partially correct but doesn&amp;#39;t capture the SELF-VALIDATING aspect - how the belief resists disconfirmation.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;D:&lt;/strong&gt; While abusers may do this, the question is about why victims MAINTAIN the belief. The self-validating nature explains persistence.&lt;/li&gt;&lt;/ul&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+      </item>
+      <item ident="q3_6dbe8b1a" title="Question 3">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>10</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>q3_6dbe8b1a</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;Sean shares his own pain with Will (his wife&amp;#39;s death, his imperfections). According to research on therapeutic relationships, why does this self-disclosure succeed where previous therapists failed?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response_q3_6dbe8b1a" rcardinality="Single">
+            <render_choice>
+              <response_label ident="A">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Professional boundaries should always be violated in effective therapy&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="B">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Shared suffering creates automatic rapport&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="C">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Will needed to feel superior to his therapist&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="D">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;The disclosure models emotional differentiation - acknowledging multiple simultaneous feelings - and demonstrates that vulnerability does not equal weakness&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response_q3_6dbe8b1a">D</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+        <itemfeedback ident="correct_fb_q3_6dbe8b1a">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;Correct!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Sean&amp;#39;s disclosure serves multiple functions: it MODELS differentiation (he can feel grief AND acceptance, love AND loss simultaneously) and demonstrates that vulnerability doesn&amp;#39;t destroy you (Sean is wounded but functional). Will has learned that showing pain means being weak and exploited. Sean&amp;#39;s example contradicts this by showing differentiated emotional experience combined with strength. This is more instructive than any cognitive technique.&lt;/p&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+        <itemfeedback ident="incorrect_fb_q3_6dbe8b1a">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;The correct answer is D.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Sean&amp;#39;s disclosure serves multiple functions: it MODELS differentiation (he can feel grief AND acceptance, love AND loss simultaneously) and demonstrates that vulnerability doesn&amp;#39;t destroy you (Sean is wounded but functional). Will has learned that showing pain means being weak and exploited. Sean&amp;#39;s example contradicts this by showing differentiated emotional experience combined with strength. This is more instructive than any cognitive technique.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why other answers are incorrect:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;A:&lt;/strong&gt; Too extreme. The self-disclosure is JUDICIOUS and therapeutic, not a general endorsement of boundary violation.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;B:&lt;/strong&gt; Superficial. Shared suffering might create connection, but it&amp;#39;s the MODELING of differentiation that creates change.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;C:&lt;/strong&gt; Contradicts what happens. Will doesn&amp;#39;t feel superior to Sean; he respects him.&lt;/li&gt;&lt;/ul&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+      </item>
+      <item ident="q4_cd79e461" title="Question 4">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>10</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>q4_cd79e461</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;Lambeau wants Will to use his mathematical genius for prestigious careers. Will resists, eventually choosing to pursue Skylar to California. According to McKnight et al. (2025), what does this choice suggest about the relationship between purpose and happiness?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response_q4_cd79e461" rcardinality="Single">
+            <render_choice>
+              <response_label ident="A">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Will sacrifices purpose for happiness&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="B">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Intellectual purpose is less valid than relational purpose&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="C">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Happiness (connection with Skylar) may be facilitating his emerging sense of purpose rather than competing with it&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="D">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Will&amp;#39;s choice demonstrates purpose avoidance&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response_q4_cd79e461">C</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+        <itemfeedback ident="correct_fb_q4_cd79e461">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;Correct!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;McKnight et al. (2025) found that happiness predicts subsequent purpose, not vice versa. Will&amp;#39;s positive emotional experiences with Skylar and Sean may be creating the conditions for purpose to develop. He&amp;#39;s not choosing happiness OVER purpose; he&amp;#39;s experiencing happiness that may ENABLE purpose. Following Skylar isn&amp;#39;t abandoning purpose - it&amp;#39;s pursuing the emotional experiences that facilitate purpose development.&lt;/p&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+        <itemfeedback ident="incorrect_fb_q4_cd79e461">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;The correct answer is C.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;McKnight et al. (2025) found that happiness predicts subsequent purpose, not vice versa. Will&amp;#39;s positive emotional experiences with Skylar and Sean may be creating the conditions for purpose to develop. He&amp;#39;s not choosing happiness OVER purpose; he&amp;#39;s experiencing happiness that may ENABLE purpose. Following Skylar isn&amp;#39;t abandoning purpose - it&amp;#39;s pursuing the emotional experiences that facilitate purpose development.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why other answers are incorrect:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;A:&lt;/strong&gt; Assumes purpose and happiness are in competition. The research suggests happiness facilitates purpose.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;B:&lt;/strong&gt; The framework doesn&amp;#39;t rank purpose types. Will may integrate intellectual purpose later.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;D:&lt;/strong&gt; Will isn&amp;#39;t avoiding purpose; he&amp;#39;s pursuing emotional experiences that may enable it.&lt;/li&gt;&lt;/ul&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+      </item>
+      <item ident="q5_cf01c156" title="Question 5">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>10</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>q5_cf01c156</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;Will can solve complex mathematical proofs but cannot solve his own psychological problems. This dissociation illustrates which limitation in the &amp;quot;smart people believe weird things&amp;quot; phenomenon (Shermer, 2002)?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response_q5_cf01c156" rcardinality="Single">
+            <render_choice>
+              <response_label ident="A">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Mathematical intelligence differs from emotional intelligence&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="B">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Intellectual sophistication enables rationalization of emotional avoidance, making smart people more effective at constructing defenses&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="C">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Genius exempts people from normal psychological processes&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="D">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Will&amp;#39;s problems are too complex for anyone to solve&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response_q5_cf01c156">B</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+        <itemfeedback ident="correct_fb_q5_cf01c156">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;Correct!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Shermer&amp;#39;s insight is that intelligence provides better tools for rationalization, not better outcomes. Will&amp;#39;s genius allows him to construct sophisticated justifications for his emotional avoidance. When challenged, he can argue circles around therapists. His intelligence doesn&amp;#39;t help him overcome his defenses - it strengthens them by providing better defensive arguments. Smart people aren&amp;#39;t protected from irrationality; they&amp;#39;re better at defending it.&lt;/p&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+        <itemfeedback ident="incorrect_fb_q5_cf01c156">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;The correct answer is B.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Shermer&amp;#39;s insight is that intelligence provides better tools for rationalization, not better outcomes. Will&amp;#39;s genius allows him to construct sophisticated justifications for his emotional avoidance. When challenged, he can argue circles around therapists. His intelligence doesn&amp;#39;t help him overcome his defenses - it strengthens them by providing better defensive arguments. Smart people aren&amp;#39;t protected from irrationality; they&amp;#39;re better at defending it.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why other answers are incorrect:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;A:&lt;/strong&gt; While this distinction exists, it doesn&amp;#39;t capture Shermer&amp;#39;s point about rationalization.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;C:&lt;/strong&gt; The opposite - Will is fully subject to psychological processes. His genius doesn&amp;#39;t protect him.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;D:&lt;/strong&gt; Will&amp;#39;s problems are solvable, as the film demonstrates. Complexity isn&amp;#39;t the issue.&lt;/li&gt;&lt;/ul&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

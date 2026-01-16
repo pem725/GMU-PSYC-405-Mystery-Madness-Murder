@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<manifest xmlns="http://www.imsglobal.org/xsd/imsccv1p1/imscp_v1p1" xmlns:lom="http://ltsc.ieee.org/xsd/imsccv1p1/LOM/resource" identifier="psyc405_26cee002">
+  <metadata>
+    <schema>IMS Content</schema>
+    <schemaversion>1.1.3</schemaversion>
+  </metadata>
+  <organizations/>
+  <resources>
+    <resource identifier="quiz1_c17278e6" type="imsqti_xmlv1p2">
+      <file href="quiz01.xml"/>
+    </resource>
+    <resource identifier="quiz2_f0db6059" type="imsqti_xmlv1p2">
+      <file href="quiz02.xml"/>
+    </resource>
+    <resource identifier="quiz3_be7ee5f2" type="imsqti_xmlv1p2">
+      <file href="quiz03.xml"/>
+    </resource>
+    <resource identifier="quiz4_323f2134" type="imsqti_xmlv1p2">
+      <file href="quiz04.xml"/>
+    </resource>
+    <resource identifier="quiz5_d01b789b" type="imsqti_xmlv1p2">
+      <file href="quiz05.xml"/>
+    </resource>
+    <resource identifier="quiz6_310dd4f9" type="imsqti_xmlv1p2">
+      <file href="quiz06.xml"/>
+    </resource>
+    <resource identifier="quiz7_5fdcfdae" type="imsqti_xmlv1p2">
+      <file href="quiz07.xml"/>
+    </resource>
+    <resource identifier="quiz8_86cafdf8" type="imsqti_xmlv1p2">
+      <file href="quiz08.xml"/>
+    </resource>
+    <resource identifier="quiz9_11879718" type="imsqti_xmlv1p2">
+      <file href="quiz09.xml"/>
+    </resource>
+    <resource identifier="quiz10_4e8ba556" type="imsqti_xmlv1p2">
+      <file href="quiz10.xml"/>
+    </resource>
+    <resource identifier="quiz11_11004695" type="imsqti_xmlv1p2">
+      <file href="quiz11.xml"/>
+    </resource>
+    <resource identifier="quiz12_b31e3141" type="imsqti_xmlv1p2">
+      <file href="quiz12.xml"/>
+    </resource>
+    <resource identifier="quiz13_2ac821c1" type="imsqti_xmlv1p2">
+      <file href="quiz13.xml"/>
+    </resource>
+    <resource identifier="quiz14_da1c57bc" type="imsqti_xmlv1p2">
+      <file href="quiz14.xml"/>
+    </resource>
+  </resources>
+</manifest>

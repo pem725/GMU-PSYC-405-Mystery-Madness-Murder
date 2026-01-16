@@ -1,0 +1,372 @@
+<?xml version="1.0" ?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2">
+  <assessment ident="quiz12_b31e3141" title="Quiz 12: Wind River">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>qmd_timelimit</fieldlabel>
+        <fieldentry/>
+      </qtimetadatafield>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+    </qtimetadata>
+    <section ident="section_quiz12_b31e3141">
+      <item ident="q1_194acb4c" title="Question 1">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>10</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>q1_194acb4c</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;Wind River depicts violence against Indigenous women, a crisis that receives minimal mainstream attention. According to Boudry et al. (2015), why might this issue remain &amp;quot;invisible&amp;quot; despite extensive documentation?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response_q1_194acb4c" rcardinality="Single">
+            <render_choice>
+              <response_label ident="A">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;The crisis is not actually serious&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="B">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Media coverage has been adequate&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="C">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Beliefs about which lives matter are socially transmitted; issues affecting low-status groups may fail to achieve the salience required for widespread attention and action&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="D">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Indigenous communities prefer privacy&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response_q1_194acb4c">C</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+        <itemfeedback ident="correct_fb_q1_194acb4c">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;Correct!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Boudry et al.&amp;#39;s epidemiology of belief applies: beliefs spread based on their cognitive &amp;quot;stickiness&amp;quot; and social transmission. Beliefs that &amp;quot;these victims matter&amp;quot; require social transmission through media, politics, and culture. When victims are low-status (Indigenous women in remote areas), the transmission mechanisms are weaker. The issue can be extensively documented yet fail to achieve salience because the belief &amp;quot;this matters&amp;quot; doesn&amp;#39;t spread effectively through dominant cultural channels.&lt;/p&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+        <itemfeedback ident="incorrect_fb_q1_194acb4c">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;The correct answer is C.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Boudry et al.&amp;#39;s epidemiology of belief applies: beliefs spread based on their cognitive &amp;quot;stickiness&amp;quot; and social transmission. Beliefs that &amp;quot;these victims matter&amp;quot; require social transmission through media, politics, and culture. When victims are low-status (Indigenous women in remote areas), the transmission mechanisms are weaker. The issue can be extensively documented yet fail to achieve salience because the belief &amp;quot;this matters&amp;quot; doesn&amp;#39;t spread effectively through dominant cultural channels.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why other answers are incorrect:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;A:&lt;/strong&gt; The crisis is well-documented as serious; the question is why it stays invisible despite this.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;B:&lt;/strong&gt; Coverage is demonstrably inadequate compared to similar crimes affecting high-status groups.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;D:&lt;/strong&gt; Indigenous advocacy groups actively seek attention; the issue isn&amp;#39;t victim preference.&lt;/li&gt;&lt;/ul&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+      </item>
+      <item ident="q2_80ad850c" title="Question 2">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>10</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>q2_80ad850c</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;Cory Lambert tracks predators both literally (as a hunter) and figuratively (as an investigator). According to Gross (2015), how might this dual role function as emotion regulation?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response_q2_80ad850c" rcardinality="Single">
+            <render_choice>
+              <response_label ident="A">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Hunting and investigation are unrelated activities&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="B">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Both activities channel grief and rage into controlled, purposeful action - a form of response modulation that transforms overwhelming emotion into directed behavior&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="C">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Lambert has no emotional investment in either activity&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="D">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Violence always represents failed regulation&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response_q2_80ad850c">B</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+        <itemfeedback ident="correct_fb_q2_80ad850c">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;Correct!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Gross&amp;#39;s response modulation involves changing emotional responses after they&amp;#39;ve been generated. Lambert&amp;#39;s overwhelming grief and rage (over his daughter&amp;#39;s death) are channeled into controlled, purposeful action. Hunting requires calm precision; investigation requires methodical thinking. Both activities transform raw emotion into directed behavior. This is adaptive response modulation - not suppression but transformation of emotion into action.&lt;/p&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+        <itemfeedback ident="incorrect_fb_q2_80ad850c">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;The correct answer is B.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Gross&amp;#39;s response modulation involves changing emotional responses after they&amp;#39;ve been generated. Lambert&amp;#39;s overwhelming grief and rage (over his daughter&amp;#39;s death) are channeled into controlled, purposeful action. Hunting requires calm precision; investigation requires methodical thinking. Both activities transform raw emotion into directed behavior. This is adaptive response modulation - not suppression but transformation of emotion into action.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why other answers are incorrect:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;A:&lt;/strong&gt; Both serve similar psychological functions of channeling emotion.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;C:&lt;/strong&gt; The film makes clear Lambert&amp;#39;s deep emotional connection to justice.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;D:&lt;/strong&gt; Controlled, purposeful action can represent successful regulation even when violent.&lt;/li&gt;&lt;/ul&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+      </item>
+      <item ident="q3_ebe36fb5" title="Question 3">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>10</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>q3_ebe36fb5</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;FBI Agent Banner initially underestimates the reservation environment. According to research on belief formation (Shermer, 2002), what does her learning curve illustrate?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response_q3_ebe36fb5" rcardinality="Single">
+            <render_choice>
+              <response_label ident="A">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;FBI training is inadequate&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="B">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Urban agents cannot work rural areas&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="C">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Prior beliefs based on different contexts (urban crime, federal jurisdiction) led to initially incorrect expectations - updating these beliefs required direct contradictory experience&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="D">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Banner is uniquely ignorant&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response_q3_ebe36fb5">C</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+        <itemfeedback ident="correct_fb_q3_ebe36fb5">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;Correct!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Shermer describes how beliefs form from experience and resist revision. Banner&amp;#39;s prior experience (urban FBI work) created expectations that didn&amp;#39;t match reservation reality. She believed normal investigative resources would be available; they weren&amp;#39;t. She believed jurisdiction would be clear; it wasn&amp;#39;t. Updating these prior beliefs required direct, contradictory experience - the kind of evidence that forces belief revision even in resistant systems.&lt;/p&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+        <itemfeedback ident="incorrect_fb_q3_ebe36fb5">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;The correct answer is C.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Shermer describes how beliefs form from experience and resist revision. Banner&amp;#39;s prior experience (urban FBI work) created expectations that didn&amp;#39;t match reservation reality. She believed normal investigative resources would be available; they weren&amp;#39;t. She believed jurisdiction would be clear; it wasn&amp;#39;t. Updating these prior beliefs required direct, contradictory experience - the kind of evidence that forces belief revision even in resistant systems.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why other answers are incorrect:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;A:&lt;/strong&gt; Training can&amp;#39;t prepare for every context; the issue is belief updating.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;B:&lt;/strong&gt; Banner adapts successfully; the issue is initial adjustment.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;D:&lt;/strong&gt; Banner represents typical urban law enforcement, not unique ignorance.&lt;/li&gt;&lt;/ul&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+      </item>
+      <item ident="q4_c17a2ae9" title="Question 4">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>10</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>q4_c17a2ae9</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;The film reveals that Natalie died running for help after being assaulted at a drilling camp. According to emotion research (Kashdan et al., 2015), what does the medical examiner&amp;#39;s difficulty in classifying her death illustrate?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response_q4_c17a2ae9" rcardinality="Single">
+            <render_choice>
+              <response_label ident="A">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Medical examiners lack training&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="B">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Systemic categories (homicide, exposure) may fail to capture deaths caused by multiple factors - just as low emotion differentiation fails to distinguish between multiple emotional causes of distress&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="D">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Classification is always straightforward&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response_q4_c17a2ae9">B</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+        <itemfeedback ident="correct_fb_q4_c17a2ae9">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;Correct!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The medical examiner struggles because Natalie technically died of exposure (cold) but was running from assault (violence). The categories &amp;quot;homicide&amp;quot; and &amp;quot;accident&amp;quot; don&amp;#39;t capture the multi-causal reality. This parallels Kashdan et al.&amp;#39;s work on differentiation: just as undifferentiated emotional experience fails to distinguish between multiple causes of distress, undifferentiated legal categories fail to capture complex causation. The system lacks the granularity to represent the truth.&lt;/p&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+        <itemfeedback ident="incorrect_fb_q4_c17a2ae9">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;The correct answer is B.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The medical examiner struggles because Natalie technically died of exposure (cold) but was running from assault (violence). The categories &amp;quot;homicide&amp;quot; and &amp;quot;accident&amp;quot; don&amp;#39;t capture the multi-causal reality. This parallels Kashdan et al.&amp;#39;s work on differentiation: just as undifferentiated emotional experience fails to distinguish between multiple causes of distress, undifferentiated legal categories fail to capture complex causation. The system lacks the granularity to represent the truth.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why other answers are incorrect:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;A:&lt;/strong&gt; The examiner is competent; the categories themselves are inadequate.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;C:&lt;/strong&gt; The film explicitly shows classification is NOT straightforward in this case.&lt;/li&gt;&lt;/ul&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+      </item>
+      <item ident="q5_7545b30a" title="Question 5">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>10</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>q5_7545b30a</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;The film ends without cathartic revenge - the surviving perpetrator is given &amp;quot;a fighting chance&amp;quot; to freeze to death. According to McKnight &amp;amp; Kashdan (2009), why might Lambert choose this ambiguous justice over clear execution?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response_q5_7545b30a" rcardinality="Single">
+            <render_choice>
+              <response_label ident="A">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Lambert lacks the capacity for violence&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="B">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;The choice is random without psychological meaning&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="C">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Allowing the perpetrator to experience what Natalie experienced may serve Lambert&amp;#39;s purpose more than simple revenge - justice through experiential symmetry rather than death&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="D">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Lambert is legally prohibited from killing&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response_q5_7545b30a">C</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+        <itemfeedback ident="correct_fb_q5_7545b30a">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;Correct!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;McKnight &amp;amp; Kashdan describe purpose as providing meaning and direction. Simple execution would be revenge; making the perpetrator experience what Natalie experienced serves deeper purpose. By forcing the man to run in the cold, Lambert creates experiential justice - the perpetrator now knows what Natalie knew in her final moments. This serves Lambert&amp;#39;s purpose (honoring Natalie, achieving justice) more meaningfully than simple death would.&lt;/p&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+        <itemfeedback ident="incorrect_fb_q5_7545b30a">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;The correct answer is C.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;McKnight &amp;amp; Kashdan describe purpose as providing meaning and direction. Simple execution would be revenge; making the perpetrator experience what Natalie experienced serves deeper purpose. By forcing the man to run in the cold, Lambert creates experiential justice - the perpetrator now knows what Natalie knew in her final moments. This serves Lambert&amp;#39;s purpose (honoring Natalie, achieving justice) more meaningfully than simple death would.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why other answers are incorrect:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;A:&lt;/strong&gt; Lambert demonstrates capacity for violence throughout the film.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;B:&lt;/strong&gt; The specific choice is highly meaningful and deliberate.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;D:&lt;/strong&gt; Lambert has already operated outside strict legal bounds; this isn&amp;#39;t about legal compliance.&lt;/li&gt;&lt;/ul&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

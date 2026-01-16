@@ -1,0 +1,377 @@
+<?xml version="1.0" ?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2">
+  <assessment ident="quiz10_4e8ba556" title="Quiz 10: Nuremberg">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>qmd_timelimit</fieldlabel>
+        <fieldentry/>
+      </qtimetadatafield>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+    </qtimetadata>
+    <section ident="section_quiz10_4e8ba556">
+      <item ident="q1_e230ac54" title="Question 1">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>10</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>q1_e230ac54</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;The Nuremberg trials established that &amp;quot;following orders&amp;quot; does not excuse atrocities. According to research on social dominance (Pratto et al., 1994), what psychological mechanism allows ordinary people to participate in extraordinary evil?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response_q1_e230ac54" rcardinality="Single">
+            <render_choice>
+              <response_label ident="A">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Only psychopaths commit atrocities&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="B">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Soldiers lack moral reasoning capacity&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="C">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;High SDO combined with legitimizing myths and hierarchical structure allows individuals to defer moral responsibility to authority, enabling atrocity participation without experiencing cognitive dissonance&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="D">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;War automatically eliminates moral judgment&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response_q1_e230ac54">C</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+        <itemfeedback ident="correct_fb_q1_e230ac54">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;Correct!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Pratto et al.&amp;#39;s SDO theory explains how ordinary people commit extraordinary acts. High SDO provides comfort with hierarchy and dominance. Legitimizing myths (racial superiority, state necessity) justify actions within the hierarchy. The combination allows individuals to commit atrocities while believing they&amp;#39;re fulfilling duties, not making moral choices. Responsibility is deferred upward to authority, protecting individual perpetrators from cognitive dissonance.&lt;/p&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+        <itemfeedback ident="incorrect_fb_q1_e230ac54">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;The correct answer is C.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Pratto et al.&amp;#39;s SDO theory explains how ordinary people commit extraordinary acts. High SDO provides comfort with hierarchy and dominance. Legitimizing myths (racial superiority, state necessity) justify actions within the hierarchy. The combination allows individuals to commit atrocities while believing they&amp;#39;re fulfilling duties, not making moral choices. Responsibility is deferred upward to authority, protecting individual perpetrators from cognitive dissonance.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why other answers are incorrect:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;A:&lt;/strong&gt; Most perpetrators weren&amp;#39;t psychopaths; normal psychological processes enabled their actions.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;B:&lt;/strong&gt; Soldiers have moral capacity; they defer rather than lack judgment.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;D:&lt;/strong&gt; War changes context but doesn&amp;#39;t eliminate moral reasoning.&lt;/li&gt;&lt;/ul&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+      </item>
+      <item ident="q2_6afda211" title="Question 2">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>10</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>q2_6afda211</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;Hannah Arendt famously described Eichmann as embodying &amp;quot;the banality of evil.&amp;quot; According to Marshall et al. (2018), what does research suggest about the moral understanding of those who commit atrocities?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response_q2_6afda211" rcardinality="Single">
+            <render_choice>
+              <response_label ident="A">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Perpetrators completely lack moral understanding&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="B">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Atrocity is always psychopathic&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="C">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Perpetrators often demonstrate intact moral understanding - they know their actions are wrong but compartmentalize or rationalize their behavior&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="D">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Moral judgment is irrelevant to mass violence&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response_q2_6afda211">C</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+        <itemfeedback ident="correct_fb_q2_6afda211">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;Correct!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Marshall et al.&amp;#39;s research shows that moral understanding is often INTACT in perpetrators; they know right from wrong. What&amp;#39;s disturbed is the connection between knowledge and action. Perpetrators compartmentalize (this is war, not normal life) or rationalize (necessity, obedience, greater good). The Nuremberg defendants demonstrated moral understanding when evaluating OTHERS&amp;#39; behavior while exempting their own. Understanding exists but is disconnected from self-evaluation.&lt;/p&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+        <itemfeedback ident="incorrect_fb_q2_6afda211">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;The correct answer is C.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Marshall et al.&amp;#39;s research shows that moral understanding is often INTACT in perpetrators; they know right from wrong. What&amp;#39;s disturbed is the connection between knowledge and action. Perpetrators compartmentalize (this is war, not normal life) or rationalize (necessity, obedience, greater good). The Nuremberg defendants demonstrated moral understanding when evaluating OTHERS&amp;#39; behavior while exempting their own. Understanding exists but is disconnected from self-evaluation.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why other answers are incorrect:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;A:&lt;/strong&gt; The defendants could articulate moral principles; they just didn&amp;#39;t apply them to themselves.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;B:&lt;/strong&gt; Most Nuremberg defendants weren&amp;#39;t clinical psychopaths.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;D:&lt;/strong&gt; Moral judgment is highly relevant; its disconnection from behavior is the puzzle.&lt;/li&gt;&lt;/ul&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+      </item>
+      <item ident="q3_f66a6805" title="Question 3">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>10</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>q3_f66a6805</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;The defendants at Nuremberg used various psychological defenses: denial, rationalization, and diffusion of responsibility. According to Boudry &amp;amp; Braeckman (2012), these represent which broader phenomenon?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response_q3_f66a6805" rcardinality="Single">
+            <render_choice>
+              <response_label ident="A">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Unique Nazi psychology&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="B">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Normal human confession-avoidance&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="C">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Self-validating belief systems that protect perpetrators from confronting the moral implications of their actions - &amp;quot;immunizing strategies&amp;quot; against guilt&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="D">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Deliberate legal strategy without psychological basis&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response_q3_f66a6805">C</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+        <itemfeedback ident="correct_fb_q3_f66a6805">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;Correct!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Boudry &amp;amp; Braeckman&amp;#39;s immunizing strategies apply: the defendants constructed belief systems that protected them from guilt. Denial (&amp;quot;I didn&amp;#39;t know&amp;quot;), rationalization (&amp;quot;I had no choice&amp;quot;), and diffusion (&amp;quot;I was just one small part&amp;quot;) all function as immunizing strategies - they reinterpret evidence of wrongdoing in ways that preserve self-image. These aren&amp;#39;t unique to Nazis but are general human psychological mechanisms for protecting against unbearable truths.&lt;/p&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+        <itemfeedback ident="incorrect_fb_q3_f66a6805">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;The correct answer is C.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Boudry &amp;amp; Braeckman&amp;#39;s immunizing strategies apply: the defendants constructed belief systems that protected them from guilt. Denial (&amp;quot;I didn&amp;#39;t know&amp;quot;), rationalization (&amp;quot;I had no choice&amp;quot;), and diffusion (&amp;quot;I was just one small part&amp;quot;) all function as immunizing strategies - they reinterpret evidence of wrongdoing in ways that preserve self-image. These aren&amp;#39;t unique to Nazis but are general human psychological mechanisms for protecting against unbearable truths.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why other answers are incorrect:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;A:&lt;/strong&gt; These mechanisms are universal, not unique to Nazis.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;B:&lt;/strong&gt; Too simplistic; the mechanisms involve complex belief maintenance.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;D:&lt;/strong&gt; The defenses had genuine psychological basis; they weren&amp;#39;t pure strategy.&lt;/li&gt;&lt;/ul&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+      </item>
+      <item ident="q4_20862573" title="Question 4">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>10</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>q4_20862573</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;Morse (1992) argues that mens rea (guilty mind) is central to criminal liability. What unique challenge did the Nuremberg trials face regarding criminal intent?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response_q4_20862573" rcardinality="Single">
+            <render_choice>
+              <response_label ident="A">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;The defendants lacked intent entirely&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="B">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;War crimes have no mens rea requirement&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="C">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;The defendants acted with intent but within systems that redefined murder as acceptable policy - raising questions about how institutional context shapes individual criminal responsibility&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="D">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;International law ignores psychological considerations&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response_q4_20862573">C</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+        <itemfeedback ident="correct_fb_q4_20862573">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;Correct!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Morse&amp;#39;s mens rea analysis is complicated at Nuremberg by institutional context. The defendants DID intend their actions - they weren&amp;#39;t accidents or unwitting. But they acted within systems that redefined mass murder as policy implementation. This raises questions: Can mens rea be assessed in isolation from institutional context? If the state says killing is legal, does individual intent become less &amp;quot;guilty&amp;quot;? Nuremberg answered that institutional context doesn&amp;#39;t eliminate individual responsibility.&lt;/p&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+        <itemfeedback ident="incorrect_fb_q4_20862573">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;The correct answer is C.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Morse&amp;#39;s mens rea analysis is complicated at Nuremberg by institutional context. The defendants DID intend their actions - they weren&amp;#39;t accidents or unwitting. But they acted within systems that redefined mass murder as policy implementation. This raises questions: Can mens rea be assessed in isolation from institutional context? If the state says killing is legal, does individual intent become less &amp;quot;guilty&amp;quot;? Nuremberg answered that institutional context doesn&amp;#39;t eliminate individual responsibility.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why other answers are incorrect:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;A:&lt;/strong&gt; They clearly intended their administrative actions; the issue is the moral framing.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;B:&lt;/strong&gt; War crimes do require mens rea; the question is how it&amp;#39;s assessed.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;D:&lt;/strong&gt; Nuremberg explicitly engaged with psychological questions.&lt;/li&gt;&lt;/ul&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+      </item>
+      <item ident="q5_b7a19c11" title="Question 5">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>10</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>q5_b7a19c11</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;According to Diamond (1961) on criminal responsibility of the mentally ill, what principle would argue AGAINST using &amp;quot;psychological pressure&amp;quot; as a defense for war crimes?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response_q5_b7a19c11" rcardinality="Single">
+            <render_choice>
+              <response_label ident="A">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Mental illness defenses are never valid&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="B">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Criminal responsibility requires only that the defendant understood the nature of their actions and could have chosen otherwise - ideological commitment does not eliminate this capacity&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="C">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;War creates automatic insanity&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="D">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Psychology has no relevance to law&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response_q5_b7a19c11">B</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+        <itemfeedback ident="correct_fb_q5_b7a19c11">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;Correct!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Diamond&amp;#39;s analysis of criminal responsibility requires: (1) understanding the nature of actions and (2) capacity to choose otherwise. The Nuremberg defendants understood what they were doing (organizing deportations, managing camps) and could have chosen otherwise (some Germans refused; some protected victims). Ideological commitment or &amp;quot;pressure&amp;quot; doesn&amp;#39;t eliminate cognitive capacity or choice capacity - it influences how that capacity is exercised, but doesn&amp;#39;t remove it.&lt;/p&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+        <itemfeedback ident="incorrect_fb_q5_b7a19c11">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;The correct answer is B.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Diamond&amp;#39;s analysis of criminal responsibility requires: (1) understanding the nature of actions and (2) capacity to choose otherwise. The Nuremberg defendants understood what they were doing (organizing deportations, managing camps) and could have chosen otherwise (some Germans refused; some protected victims). Ideological commitment or &amp;quot;pressure&amp;quot; doesn&amp;#39;t eliminate cognitive capacity or choice capacity - it influences how that capacity is exercised, but doesn&amp;#39;t remove it.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why other answers are incorrect:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;A:&lt;/strong&gt; Mental illness defenses can be valid; the issue is whether ideology qualifies.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;C:&lt;/strong&gt; War doesn&amp;#39;t automatically remove criminal responsibility.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;D:&lt;/strong&gt; Psychology IS relevant; that&amp;#39;s why the defendants tried psychological defenses.&lt;/li&gt;&lt;/ul&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

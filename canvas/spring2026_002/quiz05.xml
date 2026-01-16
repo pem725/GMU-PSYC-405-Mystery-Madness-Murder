@@ -1,0 +1,377 @@
+<?xml version="1.0" ?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2">
+  <assessment ident="quiz5_d01b789b" title="Quiz 5: Fight Club">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>qmd_timelimit</fieldlabel>
+        <fieldentry/>
+      </qtimetadatafield>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+    </qtimetadata>
+    <section ident="section_quiz5_d01b789b">
+      <item ident="q1_3ee69c24" title="Question 1">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>10</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>q1_3ee69c24</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;The Narrator creates Tyler Durden as an idealized alter ego embodying everything he wishes he could be. According to Gross (2015), what emotion regulation failure precipitates this dissociation?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response_q1_3ee69c24" rcardinality="Single">
+            <render_choice>
+              <response_label ident="A">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Excessive cognitive reappraisal&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="B">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Over-reliance on situation selection&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="C">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Chronic suppression of authentic emotional experience combined with alienation, leading to psychological fragmentation&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="D">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Attentional deployment to external stimuli&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response_q1_3ee69c24">C</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+        <itemfeedback ident="correct_fb_q1_3ee69c24">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;Correct!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The Narrator suppresses his authentic emotions while living an unfulfilling consumerist life. Gross&amp;#39;s research shows chronic suppression is costly and ultimately ineffective. The Narrator can&amp;#39;t express his rage, frustration, or authentic desires through normal channels, so they fragment off into Tyler - a persona who can express everything the Narrator suppresses. Alienation from authentic self, combined with chronic suppression, creates conditions for dissociation.&lt;/p&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+        <itemfeedback ident="incorrect_fb_q1_3ee69c24">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;The correct answer is C.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The Narrator suppresses his authentic emotions while living an unfulfilling consumerist life. Gross&amp;#39;s research shows chronic suppression is costly and ultimately ineffective. The Narrator can&amp;#39;t express his rage, frustration, or authentic desires through normal channels, so they fragment off into Tyler - a persona who can express everything the Narrator suppresses. Alienation from authentic self, combined with chronic suppression, creates conditions for dissociation.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why other answers are incorrect:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;A:&lt;/strong&gt; The Narrator doesn&amp;#39;t reappraise; he suppresses and denies.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;B:&lt;/strong&gt; He doesn&amp;#39;t select situations; he passively accepts his life.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;D:&lt;/strong&gt; Tyler represents MORE than redirected attention; he&amp;#39;s a fragmented identity.&lt;/li&gt;&lt;/ul&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+      </item>
+      <item ident="q2_5498ce39" title="Question 2">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>10</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>q2_5498ce39</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;The Narrator obsessively purchases IKEA furniture to feel &amp;quot;complete.&amp;quot; According to McKnight &amp;amp; Kashdan (2009), why does consumerism fail as a source of purpose?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response_q2_5498ce39" rcardinality="Single">
+            <render_choice>
+              <response_label ident="A">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Material goods are inherently meaningless&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="B">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;The Narrator&amp;#39;s specific choices are aesthetically poor&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="C">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Purpose requires self-organizing systems that create sustained meaning; consumption provides hedonic pleasure but not the enduring direction characteristic of purpose&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="D">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Only relationships can provide purpose&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response_q2_5498ce39">C</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+        <itemfeedback ident="correct_fb_q2_5498ce39">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;Correct!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;McKnight &amp;amp; Kashdan describe purpose as a self-organizing system that provides sustained direction. Consumption provides hedonic spikes (pleasure from acquiring) but not eudaimonic meaning (sense that life matters). Each purchase provides temporary satisfaction that fades, requiring more consumption. This differs from purpose, which generates sustained meaning and direction. The Narrator&amp;#39;s &amp;quot;nest&amp;quot; can never provide what purpose would.&lt;/p&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+        <itemfeedback ident="incorrect_fb_q2_5498ce39">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;The correct answer is C.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;McKnight &amp;amp; Kashdan describe purpose as a self-organizing system that provides sustained direction. Consumption provides hedonic spikes (pleasure from acquiring) but not eudaimonic meaning (sense that life matters). Each purchase provides temporary satisfaction that fades, requiring more consumption. This differs from purpose, which generates sustained meaning and direction. The Narrator&amp;#39;s &amp;quot;nest&amp;quot; can never provide what purpose would.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why other answers are incorrect:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;A:&lt;/strong&gt; Goods CAN have meaning in context; the issue is their failure to provide PURPOSE specifically.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;B:&lt;/strong&gt; The specific aesthetics are irrelevant to the psychological failure.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;D:&lt;/strong&gt; Purpose can come from many sources; relationships aren&amp;#39;t uniquely required.&lt;/li&gt;&lt;/ul&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+      </item>
+      <item ident="q3_d5c8da3e" title="Question 3">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>10</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>q3_d5c8da3e</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;Tyler Durden states: &amp;quot;It&amp;#39;s only after we&amp;#39;ve lost everything that we&amp;#39;re free to do anything.&amp;quot; According to Shermer&amp;#39;s (2002) analysis of belief formation, what makes this philosophy appealing despite its irrationality?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response_q3_d5c8da3e" rcardinality="Single">
+            <render_choice>
+              <response_label ident="A">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;The statement is actually rational&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="B">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Tyler is inherently charismatic&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="C">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;The philosophy offers a simple explanation for complex dissatisfaction and an actionable solution - characteristics that make beliefs &amp;quot;sticky&amp;quot; regardless of truth value&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="D">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Audiences are uniquely susceptible to nihilism&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response_q3_d5c8da3e">C</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+        <itemfeedback ident="correct_fb_q3_d5c8da3e">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;Correct!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Shermer describes &amp;quot;sticky&amp;quot; beliefs as those offering simple explanations and clear actions. Tyler&amp;#39;s philosophy: (1) explains why people are unhappy (possessions), (2) offers simple solution (destroy possessions), and (3) provides clear action (fight, destroy). This simplicity and actionability make the belief appealing regardless of whether it&amp;#39;s true. Complex dissatisfaction gets a simple diagnosis and treatment plan.&lt;/p&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+        <itemfeedback ident="incorrect_fb_q3_d5c8da3e">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;The correct answer is C.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Shermer describes &amp;quot;sticky&amp;quot; beliefs as those offering simple explanations and clear actions. Tyler&amp;#39;s philosophy: (1) explains why people are unhappy (possessions), (2) offers simple solution (destroy possessions), and (3) provides clear action (fight, destroy). This simplicity and actionability make the belief appealing regardless of whether it&amp;#39;s true. Complex dissatisfaction gets a simple diagnosis and treatment plan.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why other answers are incorrect:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;A:&lt;/strong&gt; The philosophy has logical problems; its appeal isn&amp;#39;t based on rationality.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;B:&lt;/strong&gt; Charisma helps spread the message but doesn&amp;#39;t explain WHY the message resonates.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;D:&lt;/strong&gt; The mechanisms apply to any appealing belief, not just nihilism.&lt;/li&gt;&lt;/ul&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+      </item>
+      <item ident="q4_e365c772" title="Question 4">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>10</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>q4_e365c772</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;The film suggests that chronic insomnia triggered the Narrator&amp;#39;s dissociation. According to research on sleep deprivation and reality testing, this portrayal is:&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response_q4_e365c772" rcardinality="Single">
+            <render_choice>
+              <response_label ident="A">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Completely inaccurate - sleep deprivation has no psychological effects&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="B">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Partially accurate - severe sleep deprivation impairs reality monitoring and can contribute to dissociative and psychotic symptoms&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="C">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Perfectly accurate - insomnia always causes DID&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="D">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Relevant only to the film&amp;#39;s narrative&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response_q4_e365c772">B</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+        <itemfeedback ident="correct_fb_q4_e365c772">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;Correct!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Sleep deprivation research shows impaired reality monitoring, increased susceptibility to hallucinations, and cognitive deficits that could contribute to dissociative experiences. The film&amp;#39;s portrayal is PARTIALLY accurate: chronic insomnia could contribute to reality testing failures and dissociative phenomena. However, it&amp;#39;s not PERFECTLY accurate because insomnia alone doesn&amp;#39;t typically cause full dissociative identity disorder; other factors (trauma, predisposition) typically contribute.&lt;/p&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+        <itemfeedback ident="incorrect_fb_q4_e365c772">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;The correct answer is B.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Sleep deprivation research shows impaired reality monitoring, increased susceptibility to hallucinations, and cognitive deficits that could contribute to dissociative experiences. The film&amp;#39;s portrayal is PARTIALLY accurate: chronic insomnia could contribute to reality testing failures and dissociative phenomena. However, it&amp;#39;s not PERFECTLY accurate because insomnia alone doesn&amp;#39;t typically cause full dissociative identity disorder; other factors (trauma, predisposition) typically contribute.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why other answers are incorrect:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;A:&lt;/strong&gt; Sleep deprivation has well-documented psychological effects.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;C:&lt;/strong&gt; DID is complex and multi-determined; insomnia alone isn&amp;#39;t sufficient.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;D:&lt;/strong&gt; The portrayal has scientific basis, not just narrative convenience.&lt;/li&gt;&lt;/ul&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+      </item>
+      <item ident="q5_67e96faa" title="Question 5">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>10</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>q5_67e96faa</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;Fight Club members follow increasingly destructive orders without question. According to social dominance research (Pratto et al., 1994), what does Project Mayhem reveal about the relationship between rejecting one hierarchy and creating another?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response_q5_67e96faa" rcardinality="Single">
+            <render_choice>
+              <response_label ident="A">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Anarchism prevents new hierarchies from forming&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="B">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Fight Club successfully eliminates social dominance&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="C">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Anti-hierarchy movements often reproduce dominance structures; SDO may manifest as rejection of some hierarchies while embracing others&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="D">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Only corporations create hierarchies&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response_q5_67e96faa">C</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+        <itemfeedback ident="correct_fb_q5_67e96faa">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;Correct!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Pratto et al.&amp;#39;s SDO framework predicts that dominance orientation is a stable trait that finds expression across contexts. Fight Club&amp;#39;s members reject corporate/consumer hierarchy but create a NEW hierarchy with Tyler at top. The anti-hierarchy rhetoric masks a new power structure. This illustrates how rejecting one hierarchy doesn&amp;#39;t eliminate the psychological tendency toward hierarchy; it redirects it. Project Mayhem has ranks, rules, and punishments - it&amp;#39;s a hierarchy denouncing hierarchy.&lt;/p&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+        <itemfeedback ident="incorrect_fb_q5_67e96faa">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;The correct answer is C.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Pratto et al.&amp;#39;s SDO framework predicts that dominance orientation is a stable trait that finds expression across contexts. Fight Club&amp;#39;s members reject corporate/consumer hierarchy but create a NEW hierarchy with Tyler at top. The anti-hierarchy rhetoric masks a new power structure. This illustrates how rejecting one hierarchy doesn&amp;#39;t eliminate the psychological tendency toward hierarchy; it redirects it. Project Mayhem has ranks, rules, and punishments - it&amp;#39;s a hierarchy denouncing hierarchy.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why other answers are incorrect:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;A:&lt;/strong&gt; The film directly contradicts this by showing new hierarchy emerging.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;B:&lt;/strong&gt; Project Mayhem IS an expression of SDO, just directed differently.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;D:&lt;/strong&gt; The film shows that anti-corporate movements can also create hierarchies.&lt;/li&gt;&lt;/ul&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

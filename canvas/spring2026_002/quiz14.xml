@@ -1,0 +1,377 @@
+<?xml version="1.0" ?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2">
+  <assessment ident="quiz14_da1c57bc" title="Quiz 14: Final Reflection">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>qmd_timelimit</fieldlabel>
+        <fieldentry/>
+      </qtimetadatafield>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+    </qtimetadata>
+    <section ident="section_quiz14_da1c57bc">
+      <item ident="q1_25ccf0aa" title="Question 1">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>10</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>q1_25ccf0aa</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;A colleague claims they can reliably detect when patients are lying based on body language. Based on Vrij et al. (2019) and the course material, what is the most scientifically accurate response?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response_q1_25ccf0aa" rcardinality="Single">
+            <render_choice>
+              <response_label ident="A">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Support their confidence - clinical experience develops this skill&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="B">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Express skepticism - nonverbal deception cues are &amp;quot;faint and unreliable,&amp;quot; and training does not significantly improve detection accuracy&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="C">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Recommend they take a lie detection course to improve further&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="D">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Accept that some individuals have innate lie detection ability&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response_q1_25ccf0aa">B</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+        <itemfeedback ident="correct_fb_q1_25ccf0aa">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;Correct!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Vrij et al.&amp;#39;s meta-analysis directly addresses this: detection accuracy is near chance (54%) regardless of training or experience. The colleague&amp;#39;s confidence is unjustified by research. Clinical experience may increase CONFIDENCE without increasing ACCURACY - a dangerous combination. Nonverbal cues are &amp;quot;faint and unreliable,&amp;quot; and no evidence supports innate superior detection ability or skill development through training.&lt;/p&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+        <itemfeedback ident="incorrect_fb_q1_25ccf0aa">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;The correct answer is B.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Vrij et al.&amp;#39;s meta-analysis directly addresses this: detection accuracy is near chance (54%) regardless of training or experience. The colleague&amp;#39;s confidence is unjustified by research. Clinical experience may increase CONFIDENCE without increasing ACCURACY - a dangerous combination. Nonverbal cues are &amp;quot;faint and unreliable,&amp;quot; and no evidence supports innate superior detection ability or skill development through training.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why other answers are incorrect:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;A:&lt;/strong&gt; Research contradicts this; experience increases confidence, not accuracy.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;C:&lt;/strong&gt; Training doesn&amp;#39;t significantly improve detection accuracy.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;D:&lt;/strong&gt; No evidence for individuals with reliably superior detection.&lt;/li&gt;&lt;/ul&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+      </item>
+      <item ident="q2_7f3fc531" title="Question 2">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>10</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>q2_7f3fc531</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;A friend expresses frustration that their search for &amp;quot;purpose&amp;quot; hasn&amp;#39;t made them happier. Based on McKnight et al. (2025), what empirically-supported advice would you offer?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response_q2_7f3fc531" rcardinality="Single">
+            <render_choice>
+              <response_label ident="A">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Search harder for the right purpose&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="B">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Purpose and happiness are unrelated&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="C">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Consider that the causal direction may be reversed - cultivating positive experiences might facilitate purpose development more effectively than directly pursuing purpose&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="D">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Accept that some people cannot have purpose&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response_q2_7f3fc531">C</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+        <itemfeedback ident="correct_fb_q2_7f3fc531">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;Correct!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;McKnight et al. (2025) found that happiness at Time 1 predicted purpose at Time 2, but not vice versa. This suggests the friend may be searching in the wrong direction: directly pursuing purpose may be less effective than cultivating positive emotional experiences that then facilitate purpose development. The research supports trying happiness-promoting activities first, with purpose potentially emerging from those experiences.&lt;/p&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+        <itemfeedback ident="incorrect_fb_q2_7f3fc531">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;The correct answer is C.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;McKnight et al. (2025) found that happiness at Time 1 predicted purpose at Time 2, but not vice versa. This suggests the friend may be searching in the wrong direction: directly pursuing purpose may be less effective than cultivating positive emotional experiences that then facilitate purpose development. The research supports trying happiness-promoting activities first, with purpose potentially emerging from those experiences.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why other answers are incorrect:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;A:&lt;/strong&gt; If the direction is reversed, more searching won&amp;#39;t help.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;B:&lt;/strong&gt; The research shows they ARE related; the question is about direction.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;D:&lt;/strong&gt; The research doesn&amp;#39;t support this conclusion.&lt;/li&gt;&lt;/ul&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+      </item>
+      <item ident="q3_b6019d57" title="Question 3">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>10</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>q3_b6019d57</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;You notice that an intelligent friend maintains a belief that contradicts scientific consensus. Based on Shermer (2002) and Boudry &amp;amp; Braeckman (2012), which approach is LEAST likely to change their mind?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response_q3_b6019d57" rcardinality="Single">
+            <render_choice>
+              <response_label ident="A">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Understanding the emotional needs the belief serves&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="B">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Exploring what evidence would convince them they were wrong&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="C">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Presenting more facts contradicting their belief - self-validating belief systems reinterpret contradictory evidence as confirmation&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="D">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Discussing the belief&amp;#39;s origins and development&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response_q3_b6019d57">C</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+        <itemfeedback ident="correct_fb_q3_b6019d57">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;Correct!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;This is a &amp;quot;least likely&amp;quot; question testing understanding of why fact-bombing fails. Boudry &amp;amp; Braeckman&amp;#39;s central insight is that self-validating beliefs REINTERPRET contradictory evidence as support. More facts don&amp;#39;t help; they feed the system. Options A, B, and D might work by addressing the belief&amp;#39;s function (A), testing falsifiability (B), or understanding its origins (D). Only C directly feeds the self-validating cycle.&lt;/p&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+        <itemfeedback ident="incorrect_fb_q3_b6019d57">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;The correct answer is C.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;This is a &amp;quot;least likely&amp;quot; question testing understanding of why fact-bombing fails. Boudry &amp;amp; Braeckman&amp;#39;s central insight is that self-validating beliefs REINTERPRET contradictory evidence as support. More facts don&amp;#39;t help; they feed the system. Options A, B, and D might work by addressing the belief&amp;#39;s function (A), testing falsifiability (B), or understanding its origins (D). Only C directly feeds the self-validating cycle.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why other answers are incorrect:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;A:&lt;/strong&gt; MIGHT help by addressing underlying motivations.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;B:&lt;/strong&gt; MIGHT help by testing whether belief is even disprovable.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;D:&lt;/strong&gt; MIGHT help by revealing how belief was acquired.&lt;/li&gt;&lt;/ul&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+      </item>
+      <item ident="q4_4177840c" title="Question 4">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>10</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>q4_4177840c</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;Based on emotion regulation research (Gross, 2015; Kashdan et al., 2015; Kalokerinos et al., 2019), which sequence represents the most adaptive response to overwhelming negative experience?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response_q4_4177840c" rcardinality="Single">
+            <render_choice>
+              <response_label ident="A">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Suppress → Avoid → Reappraise&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="B">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Act immediately → Reflect later → Repeat&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="C">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Differentiate (identify specific emotions) → Select appropriate strategy → Implement flexibly&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="D">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Reappraise everything → Never experience negative emotion&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response_q4_4177840c">C</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+        <itemfeedback ident="correct_fb_q4_4177840c">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;Correct!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The research synthesis suggests: First, differentiate - identify WHAT specifically you&amp;#39;re feeling (Kashdan et al.). Then, select strategy - choose the appropriate regulation approach for that specific emotion (Gross). Finally, implement flexibly - adapt based on context and effectiveness (Kalokerinos et al.). This sequence respects the research showing that differentiation must precede effective strategy selection and implementation.&lt;/p&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+        <itemfeedback ident="incorrect_fb_q4_4177840c">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;The correct answer is C.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The research synthesis suggests: First, differentiate - identify WHAT specifically you&amp;#39;re feeling (Kashdan et al.). Then, select strategy - choose the appropriate regulation approach for that specific emotion (Gross). Finally, implement flexibly - adapt based on context and effectiveness (Kalokerinos et al.). This sequence respects the research showing that differentiation must precede effective strategy selection and implementation.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why other answers are incorrect:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;A:&lt;/strong&gt; Order is wrong; suppression is generally least effective.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;B:&lt;/strong&gt; Acting without differentiation can worsen problems.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;D:&lt;/strong&gt; Rigid reappraisal isn&amp;#39;t always appropriate; flexibility is key.&lt;/li&gt;&lt;/ul&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+      </item>
+      <item ident="q5_325091e5" title="Question 5">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>10</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>q5_325091e5</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;The course analyzed fictional portrayals alongside empirical research. What is the BEST reason for this approach?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response_q5_325091e5" rcardinality="Single">
+            <render_choice>
+              <response_label ident="A">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Fiction is always psychologically accurate&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="B">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Research findings are too abstract without illustration&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="C">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Entertainment value increases student engagement&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="D">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Comparing dramatized portrayals to scientific evidence develops critical evaluation skills and illuminates both accurate representation and common misconceptions about psychological phenomena&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response_q5_325091e5">D</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+        <itemfeedback ident="correct_fb_q5_325091e5">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;Correct!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The course&amp;#39;s pedagogical value comes from COMPARISON. By analyzing fictional portrayals against empirical research, students develop: (1) critical evaluation skills - learning to assess accuracy claims, (2) understanding of accurate representation - seeing where fiction gets it right, and (3) awareness of misconceptions - recognizing where popular understanding diverges from science. The gap between fiction and research is itself instructive.&lt;/p&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+        <itemfeedback ident="incorrect_fb_q5_325091e5">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;The correct answer is D.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The course&amp;#39;s pedagogical value comes from COMPARISON. By analyzing fictional portrayals against empirical research, students develop: (1) critical evaluation skills - learning to assess accuracy claims, (2) understanding of accurate representation - seeing where fiction gets it right, and (3) awareness of misconceptions - recognizing where popular understanding diverges from science. The gap between fiction and research is itself instructive.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why other answers are incorrect:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;A:&lt;/strong&gt; The course showed fiction is often inaccurate; that&amp;#39;s part of the point.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;B:&lt;/strong&gt; While true, this misses the CRITICAL EVALUATION component.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;C:&lt;/strong&gt; While true, engagement isn&amp;#39;t the primary learning objective.&lt;/li&gt;&lt;/ul&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>
