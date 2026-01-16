@@ -1,0 +1,377 @@
+<?xml version="1.0" ?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2">
+  <assessment ident="quiz14_71a6d50f" title="Quiz 14: Final Reflection">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>qmd_timelimit</fieldlabel>
+        <fieldentry/>
+      </qtimetadatafield>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+    </qtimetadata>
+    <section ident="section_quiz14_71a6d50f">
+      <item ident="q1_ed7d6557" title="Question 1">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>10</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>q1_ed7d6557</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;You encounter a friend who believes in a conspiracy theory despite strong contrary evidence. Based on Boudry &amp;amp; Braeckman (2012) and Shermer (2002), which approach is LEAST likely to change their mind?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response_q1_ed7d6557" rcardinality="Single">
+            <render_choice>
+              <response_label ident="A">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Acknowledging emotional reasons why the belief might be appealing&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="B">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Exploring what evidence would, in principle, convince them otherwise&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="C">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Presenting more factual counter-evidence, as self-validating belief systems reinterpret contradictory evidence as confirmation&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="D">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Understanding the social context in which the belief developed&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response_q1_ed7d6557">C</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+        <itemfeedback ident="correct_fb_q1_ed7d6557">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;Correct!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;This is a &amp;quot;least likely&amp;quot; question testing whether students understand the MECHANISM of belief persistence. Boudry &amp;amp; Braeckman&amp;#39;s central insight is that self-validating beliefs REINTERPRET contradictory evidence as support. More facts don&amp;#39;t help; they&amp;#39;re absorbed into the belief system. Options A, B, and D might work because they address the belief&amp;#39;s function (A), its falsifiability (B), and its origins (D). Only C directly feeds the self-validating cycle.&lt;/p&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+        <itemfeedback ident="incorrect_fb_q1_ed7d6557">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;The correct answer is C.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;This is a &amp;quot;least likely&amp;quot; question testing whether students understand the MECHANISM of belief persistence. Boudry &amp;amp; Braeckman&amp;#39;s central insight is that self-validating beliefs REINTERPRET contradictory evidence as support. More facts don&amp;#39;t help; they&amp;#39;re absorbed into the belief system. Options A, B, and D might work because they address the belief&amp;#39;s function (A), its falsifiability (B), and its origins (D). Only C directly feeds the self-validating cycle.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why other answers are incorrect:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;A:&lt;/strong&gt; MIGHT help by addressing why the belief is held, not just what it claims.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;B:&lt;/strong&gt; MIGHT help by testing whether the belief is even theoretically disprovable.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;D:&lt;/strong&gt; MIGHT help by revealing how the belief was acquired and maintained.&lt;/li&gt;&lt;/ul&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+      </item>
+      <item ident="q2_b944fd9c" title="Question 2">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>10</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>q2_b944fd9c</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;A clinician must evaluate whether a defendant is malingering a mental disorder. According to Vrij et al. (2019) and the course material on Primal Fear, what should the clinician understand about their detection abilities?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response_q2_b944fd9c" rcardinality="Single">
+            <render_choice>
+              <response_label ident="A">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Clinical training provides excellent deception detection&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="B">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Behavioral cues reliably distinguish genuine from feigned symptoms&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="C">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Detection accuracy is likely near chance levels; systematic evaluation of symptom consistency and collateral information is more reliable than cue-based judgment&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="D">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Malingerers always eventually reveal themselves&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response_q2_b944fd9c">C</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+        <itemfeedback ident="correct_fb_q2_b944fd9c">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;Correct!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Vrij et al.&amp;#39;s meta-analysis shows detection accuracy near chance (54%) regardless of training. Primal Fear illustrates a sophisticated malingerer fooling trained evaluators. The clinician should understand their intuitions are unreliable and instead rely on systematic methods: checking symptom consistency over time, gathering collateral information, looking for impossible or rare symptom combinations. Process, not intuition, offers the best hope.&lt;/p&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+        <itemfeedback ident="incorrect_fb_q2_b944fd9c">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;The correct answer is C.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Vrij et al.&amp;#39;s meta-analysis shows detection accuracy near chance (54%) regardless of training. Primal Fear illustrates a sophisticated malingerer fooling trained evaluators. The clinician should understand their intuitions are unreliable and instead rely on systematic methods: checking symptom consistency over time, gathering collateral information, looking for impossible or rare symptom combinations. Process, not intuition, offers the best hope.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why other answers are incorrect:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;A:&lt;/strong&gt; Directly contradicted by Vrij et al.&amp;#39;s findings.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;B:&lt;/strong&gt; The core finding is that cues are &amp;quot;faint and unreliable.&amp;quot;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;D:&lt;/strong&gt; Aaron never revealed himself until he chose to gloat.&lt;/li&gt;&lt;/ul&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+      </item>
+      <item ident="q3_090f48fe" title="Question 3">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>10</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>q3_090f48fe</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;Based on the emotion regulation literature (Gross, 2015; Kashdan et al., 2015), which intervention approach would be most appropriate for someone like Nina Sayers (Black Swan)?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response_q3_090f48fe" rcardinality="Single">
+            <render_choice>
+              <response_label ident="A">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Encouraging more intense practice to achieve her goals&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="B">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Suppressing emotional responses to reduce distress&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="C">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Removing her from the ballet context entirely&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="D">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Building emotion differentiation skills before attempting cognitive reappraisal or situation modification&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response_q3_090f48fe">D</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+        <itemfeedback ident="correct_fb_q3_090f48fe">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;Correct!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Kalokerinos et al. (2019) showed that for low differentiators, ALL regulation strategies are ineffective. The implication is that differentiation must be developed FIRST before other strategies can work. Nina&amp;#39;s problem isn&amp;#39;t that she uses the wrong strategy; it&amp;#39;s that no strategy works because she can&amp;#39;t identify what she&amp;#39;s feeling. Building differentiation skills creates the foundation for effective regulation.&lt;/p&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+        <itemfeedback ident="incorrect_fb_q3_090f48fe">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;The correct answer is D.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Kalokerinos et al. (2019) showed that for low differentiators, ALL regulation strategies are ineffective. The implication is that differentiation must be developed FIRST before other strategies can work. Nina&amp;#39;s problem isn&amp;#39;t that she uses the wrong strategy; it&amp;#39;s that no strategy works because she can&amp;#39;t identify what she&amp;#39;s feeling. Building differentiation skills creates the foundation for effective regulation.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why other answers are incorrect:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;A:&lt;/strong&gt; Would intensify her destructive pattern without addressing the underlying issue.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;B:&lt;/strong&gt; Already failing for Nina; suppression doesn&amp;#39;t work for low differentiators.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;C:&lt;/strong&gt; Might remove triggers but doesn&amp;#39;t build the skills she needs for any context.&lt;/li&gt;&lt;/ul&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+      </item>
+      <item ident="q4_fc972cc2" title="Question 4">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>10</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>q4_fc972cc2</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;Research shows happiness may predict subsequent purpose rather than purpose predicting happiness (McKnight et al., 2025). Which implication for personal development is most supported by this finding?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response_q4_fc972cc2" rcardinality="Single">
+            <render_choice>
+              <response_label ident="A">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Pursuing purpose is futile&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="B">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Only happy people can have purpose&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="C">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Purpose is unrelated to well-being&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="D">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Cultivating positive emotional experiences may facilitate purpose development more effectively than directly pursuing purpose&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response_q4_fc972cc2">D</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+        <itemfeedback ident="correct_fb_q4_fc972cc2">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;Correct!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;McKnight et al. (2025) found that happiness at Time 1 predicted purpose at Time 2, but not vice versa. The implication isn&amp;#39;t that purpose is worthless (A), that unhappy people can&amp;#39;t have purpose (B), or that they&amp;#39;re unrelated (C). Rather, if happiness facilitates purpose development, then cultivating positive experiences may be a more effective path to purpose than directly pursuing meaning. Experience joy first; purpose may follow.&lt;/p&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+        <itemfeedback ident="incorrect_fb_q4_fc972cc2">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;The correct answer is D.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;McKnight et al. (2025) found that happiness at Time 1 predicted purpose at Time 2, but not vice versa. The implication isn&amp;#39;t that purpose is worthless (A), that unhappy people can&amp;#39;t have purpose (B), or that they&amp;#39;re unrelated (C). Rather, if happiness facilitates purpose development, then cultivating positive experiences may be a more effective path to purpose than directly pursuing meaning. Experience joy first; purpose may follow.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why other answers are incorrect:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;A:&lt;/strong&gt; The finding doesn&amp;#39;t say purpose is worthless, just that the causal direction may be reversed.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;B:&lt;/strong&gt; Too absolute; the research shows a predictive relationship, not an absolute requirement.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;C:&lt;/strong&gt; Contradicts the finding that they ARE related; the question is about direction.&lt;/li&gt;&lt;/ul&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+      </item>
+      <item ident="q5_3c484f0c" title="Question 5">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>10</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>q5_3c484f0c</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;The course examined psychological phenomena through both fictional films and scientific research. What is the primary VALUE of analyzing fictional portrayals alongside empirical findings?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response_q5_3c484f0c" rcardinality="Single">
+            <render_choice>
+              <response_label ident="A">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Films accurately represent psychological disorders&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="B">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Entertainment value makes learning more pleasant&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="C">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Film analysis develops observational and critical thinking skills; comparing fictional portrayals to research illuminates both the accuracy and the limitations of popular understanding&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="D">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;There is no value; fiction should be separated from science&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response_q5_3c484f0c">C</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+        <itemfeedback ident="correct_fb_q5_3c484f0c">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;Correct!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The course&amp;#39;s pedagogical value comes from the COMPARISON between fiction and research. Films show how psychological phenomena are popularly understood (often inaccurately), while research shows what science actually knows. Analyzing both develops critical thinking: students learn to observe behavior, apply theoretical frameworks, evaluate accuracy, and understand why popular portrayals differ from scientific evidence. The gap between fiction and fact is itself instructive.&lt;/p&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+        <itemfeedback ident="incorrect_fb_q5_3c484f0c">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;The correct answer is C.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The course&amp;#39;s pedagogical value comes from the COMPARISON between fiction and research. Films show how psychological phenomena are popularly understood (often inaccurately), while research shows what science actually knows. Analyzing both develops critical thinking: students learn to observe behavior, apply theoretical frameworks, evaluate accuracy, and understand why popular portrayals differ from scientific evidence. The gap between fiction and fact is itself instructive.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why other answers are incorrect:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;A:&lt;/strong&gt; Films are often inaccurate; the value is in analyzing the inaccuracy.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;B:&lt;/strong&gt; While true, entertainment isn&amp;#39;t the PRIMARY pedagogical value.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;D:&lt;/strong&gt; The entire course demonstrates substantial pedagogical value.&lt;/li&gt;&lt;/ul&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

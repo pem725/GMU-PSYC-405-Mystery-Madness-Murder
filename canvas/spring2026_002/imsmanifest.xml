@@ -1,52 +1,421 @@
 <?xml version="1.0" ?>
-<manifest xmlns="http://www.imsglobal.org/xsd/imsccv1p1/imscp_v1p1" xmlns:lom="http://ltsc.ieee.org/xsd/imsccv1p1/LOM/resource" identifier="psyc405_26cee002">
+<manifest xmlns:ns0="http://ltsc.ieee.org/xsd/imsccv1p3/LOM/manifest" xmlns="http://www.imsglobal.org/xsd/imsccv1p3/imscp_v1p1" xmlns:lom="http://ltsc.ieee.org/xsd/imsccv1p3/LOM/resource" xmlns:lomimscc="http://ltsc.ieee.org/xsd/imsccv1p3/LOM/manifest" identifier="psyc405_spring2026_002">
   <metadata>
-    <schema>IMS Content</schema>
-    <schemaversion>1.1.3</schemaversion>
+    <schema>IMS Common Cartridge</schema>
+    <schemaversion>1.3.0</schemaversion>
+    <ns0:lom>
+      <ns0:general>
+        <ns0:title>
+          <ns0:string>Syllabus for PSYC 405: Mystery, Madness &amp; Murder - Section 002</ns0:string>
+        </ns0:title>
+      </ns0:general>
+    </ns0:lom>
   </metadata>
-  <organizations/>
+  <organizations>
+    <organization identifier="org_1" structure="rooted-hierarchy">
+      <item identifier="root">
+        <item identifier="week_01_module">
+          <title>Week 1: Intro</title>
+          <item identifier="week_01_overview" identifierref="res_week_01_overview">
+            <title>Week 1 Overview</title>
+          </item>
+          <item identifier="week_01_readings" identifierref="res_week_01_readings">
+            <title>Readings</title>
+          </item>
+          <item identifier="week_01_quiz" identifierref="res_quiz_01">
+            <title>Quiz 1</title>
+          </item>
+        </item>
+        <item identifier="week_02_module">
+          <title>Week 2: Mystery</title>
+          <item identifier="week_02_overview" identifierref="res_week_02_overview">
+            <title>Week 2 Overview</title>
+          </item>
+          <item identifier="week_02_the_machinist" identifierref="res_the_machinist">
+            <title>The Machinist (2004)</title>
+          </item>
+          <item identifier="week_02_discussion" identifierref="res_week_02_discussion">
+            <title>Discussion Questions</title>
+          </item>
+          <item identifier="week_02_readings" identifierref="res_week_02_readings">
+            <title>Readings</title>
+          </item>
+          <item identifier="week_02_quiz" identifierref="res_quiz_02">
+            <title>Quiz 2</title>
+          </item>
+        </item>
+        <item identifier="week_03_module">
+          <title>Week 3: Mystery</title>
+          <item identifier="week_03_overview" identifierref="res_week_03_overview">
+            <title>Week 3 Overview</title>
+          </item>
+          <item identifier="week_03_identity" identifierref="res_identity">
+            <title>Identity (2003)</title>
+          </item>
+          <item identifier="week_03_discussion" identifierref="res_week_03_discussion">
+            <title>Discussion Questions</title>
+          </item>
+          <item identifier="week_03_readings" identifierref="res_week_03_readings">
+            <title>Readings</title>
+          </item>
+          <item identifier="week_03_quiz" identifierref="res_quiz_03">
+            <title>Quiz 3</title>
+          </item>
+        </item>
+        <item identifier="week_04_module">
+          <title>Week 4: Mystery</title>
+          <item identifier="week_04_overview" identifierref="res_week_04_overview">
+            <title>Week 4 Overview</title>
+          </item>
+          <item identifier="week_04_readings" identifierref="res_week_04_readings">
+            <title>Readings</title>
+          </item>
+          <item identifier="week_04_quiz" identifierref="res_quiz_04">
+            <title>Quiz 4</title>
+          </item>
+        </item>
+        <item identifier="week_05_module">
+          <title>Week 5: Mystery</title>
+          <item identifier="week_05_overview" identifierref="res_week_05_overview">
+            <title>Week 5 Overview</title>
+          </item>
+          <item identifier="week_05_fight_club" identifierref="res_fight_club">
+            <title>Fight Club (1999)</title>
+          </item>
+          <item identifier="week_05_discussion" identifierref="res_week_05_discussion">
+            <title>Discussion Questions</title>
+          </item>
+          <item identifier="week_05_readings" identifierref="res_week_05_readings">
+            <title>Readings</title>
+          </item>
+          <item identifier="week_05_quiz" identifierref="res_quiz_05">
+            <title>Quiz 5</title>
+          </item>
+        </item>
+        <item identifier="week_06_module">
+          <title>Week 6: Madness</title>
+          <item identifier="week_06_overview" identifierref="res_week_06_overview">
+            <title>Week 6 Overview</title>
+          </item>
+          <item identifier="week_06_rain_man" identifierref="res_rain_man">
+            <title>Rain Man (1988)</title>
+          </item>
+          <item identifier="week_06_discussion" identifierref="res_week_06_discussion">
+            <title>Discussion Questions</title>
+          </item>
+          <item identifier="week_06_readings" identifierref="res_week_06_readings">
+            <title>Readings</title>
+          </item>
+          <item identifier="week_06_quiz" identifierref="res_quiz_06">
+            <title>Quiz 6</title>
+          </item>
+        </item>
+        <item identifier="week_07_module">
+          <title>Week 7: Madness</title>
+          <item identifier="week_07_overview" identifierref="res_week_07_overview">
+            <title>Week 7 Overview</title>
+          </item>
+          <item identifier="week_07_k_pax" identifierref="res_k_pax">
+            <title>K-PAX (2001)</title>
+          </item>
+          <item identifier="week_07_discussion" identifierref="res_week_07_discussion">
+            <title>Discussion Questions</title>
+          </item>
+          <item identifier="week_07_readings" identifierref="res_week_07_readings">
+            <title>Readings</title>
+          </item>
+          <item identifier="week_07_quiz" identifierref="res_quiz_07">
+            <title>Quiz 7</title>
+          </item>
+        </item>
+        <item identifier="week_08_module">
+          <title>Week 8: SPRING BREAK</title>
+          <item identifier="week_08_overview" identifierref="res_week_08_overview">
+            <title>Week 8 Overview</title>
+          </item>
+        </item>
+        <item identifier="week_09_module">
+          <title>Week 9: Madness</title>
+          <item identifier="week_09_overview" identifierref="res_week_09_overview">
+            <title>Week 9 Overview</title>
+          </item>
+          <item identifier="week_09_readings" identifierref="res_week_09_readings">
+            <title>Readings</title>
+          </item>
+          <item identifier="week_09_quiz" identifierref="res_quiz_08">
+            <title>Quiz 8</title>
+          </item>
+        </item>
+        <item identifier="week_10_module">
+          <title>Week 10: Madness</title>
+          <item identifier="week_10_overview" identifierref="res_week_10_overview">
+            <title>Week 10 Overview</title>
+          </item>
+          <item identifier="week_10_leaving_las_vegas" identifierref="res_leaving_las_vegas">
+            <title>Leaving Las Vegas (1995)</title>
+          </item>
+          <item identifier="week_10_discussion" identifierref="res_week_10_discussion">
+            <title>Discussion Questions</title>
+          </item>
+          <item identifier="week_10_readings" identifierref="res_week_10_readings">
+            <title>Readings</title>
+          </item>
+          <item identifier="week_10_quiz" identifierref="res_quiz_09">
+            <title>Quiz 9</title>
+          </item>
+        </item>
+        <item identifier="week_11_module">
+          <title>Week 11: Murder</title>
+          <item identifier="week_11_overview" identifierref="res_week_11_overview">
+            <title>Week 11 Overview</title>
+          </item>
+          <item identifier="week_11_nuremberg" identifierref="res_nuremberg">
+            <title>Nuremberg (2025)</title>
+          </item>
+          <item identifier="week_11_discussion" identifierref="res_week_11_discussion">
+            <title>Discussion Questions</title>
+          </item>
+          <item identifier="week_11_readings" identifierref="res_week_11_readings">
+            <title>Readings</title>
+          </item>
+          <item identifier="week_11_quiz" identifierref="res_quiz_10">
+            <title>Quiz 10</title>
+          </item>
+        </item>
+        <item identifier="week_12_module">
+          <title>Week 12: Murder</title>
+          <item identifier="week_12_overview" identifierref="res_week_12_overview">
+            <title>Week 12 Overview</title>
+          </item>
+          <item identifier="week_12_wind_river" identifierref="res_wind_river">
+            <title>Wind River (2017)</title>
+          </item>
+          <item identifier="week_12_discussion" identifierref="res_week_12_discussion">
+            <title>Discussion Questions</title>
+          </item>
+          <item identifier="week_12_readings" identifierref="res_week_12_readings">
+            <title>Readings</title>
+          </item>
+          <item identifier="week_12_quiz" identifierref="res_quiz_11">
+            <title>Quiz 11</title>
+          </item>
+        </item>
+        <item identifier="week_13_module">
+          <title>Week 13: Murder</title>
+          <item identifier="week_13_overview" identifierref="res_week_13_overview">
+            <title>Week 13 Overview</title>
+          </item>
+          <item identifier="week_13_readings" identifierref="res_week_13_readings">
+            <title>Readings</title>
+          </item>
+          <item identifier="week_13_quiz" identifierref="res_quiz_12">
+            <title>Quiz 12</title>
+          </item>
+        </item>
+        <item identifier="week_14_module">
+          <title>Week 14: Murder</title>
+          <item identifier="week_14_overview" identifierref="res_week_14_overview">
+            <title>Week 14 Overview</title>
+          </item>
+          <item identifier="week_14_readings" identifierref="res_week_14_readings">
+            <title>Readings</title>
+          </item>
+          <item identifier="week_14_quiz" identifierref="res_quiz_13">
+            <title>Quiz 13</title>
+          </item>
+        </item>
+        <item identifier="week_15_module">
+          <title>Week 15: Epilogue (FINAL)</title>
+          <item identifier="week_15_overview" identifierref="res_week_15_overview">
+            <title>Week 15 Overview</title>
+          </item>
+          <item identifier="week_15_readings" identifierref="res_week_15_readings">
+            <title>Readings</title>
+          </item>
+          <item identifier="week_15_quiz" identifierref="res_quiz_14">
+            <title>Quiz 14</title>
+          </item>
+        </item>
+      </item>
+    </organization>
+  </organizations>
   <resources>
-    <resource identifier="quiz1_c17278e6" type="imsqti_xmlv1p2">
-      <file href="quiz01.xml"/>
+    <resource identifier="res_week_01_overview" type="webcontent" href="week01/overview.html">
+      <file href="week01/overview.html"/>
     </resource>
-    <resource identifier="quiz2_f0db6059" type="imsqti_xmlv1p2">
-      <file href="quiz02.xml"/>
+    <resource identifier="res_week_01_readings" type="webcontent" href="week01/readings.html">
+      <file href="week01/readings.html"/>
     </resource>
-    <resource identifier="quiz3_be7ee5f2" type="imsqti_xmlv1p2">
-      <file href="quiz03.xml"/>
+    <resource identifier="res_quiz_01" type="imsqti_xmlv1p2" href="quizzes/quiz01.xml">
+      <file href="quizzes/quiz01.xml"/>
     </resource>
-    <resource identifier="quiz4_323f2134" type="imsqti_xmlv1p2">
-      <file href="quiz04.xml"/>
+    <resource identifier="res_week_02_overview" type="webcontent" href="week02/overview.html">
+      <file href="week02/overview.html"/>
     </resource>
-    <resource identifier="quiz5_d01b789b" type="imsqti_xmlv1p2">
-      <file href="quiz05.xml"/>
+    <resource identifier="res_the_machinist" type="webcontent" href="week02/the_machinist.html">
+      <file href="week02/the_machinist.html"/>
     </resource>
-    <resource identifier="quiz6_310dd4f9" type="imsqti_xmlv1p2">
-      <file href="quiz06.xml"/>
+    <resource identifier="res_week_02_discussion" type="webcontent" href="week02/discussion.html">
+      <file href="week02/discussion.html"/>
     </resource>
-    <resource identifier="quiz7_5fdcfdae" type="imsqti_xmlv1p2">
-      <file href="quiz07.xml"/>
+    <resource identifier="res_week_02_readings" type="webcontent" href="week02/readings.html">
+      <file href="week02/readings.html"/>
     </resource>
-    <resource identifier="quiz8_86cafdf8" type="imsqti_xmlv1p2">
-      <file href="quiz08.xml"/>
+    <resource identifier="res_quiz_02" type="imsqti_xmlv1p2" href="quizzes/quiz02.xml">
+      <file href="quizzes/quiz02.xml"/>
     </resource>
-    <resource identifier="quiz9_11879718" type="imsqti_xmlv1p2">
-      <file href="quiz09.xml"/>
+    <resource identifier="res_week_03_overview" type="webcontent" href="week03/overview.html">
+      <file href="week03/overview.html"/>
     </resource>
-    <resource identifier="quiz10_4e8ba556" type="imsqti_xmlv1p2">
-      <file href="quiz10.xml"/>
+    <resource identifier="res_identity" type="webcontent" href="week03/identity.html">
+      <file href="week03/identity.html"/>
     </resource>
-    <resource identifier="quiz11_11004695" type="imsqti_xmlv1p2">
-      <file href="quiz11.xml"/>
+    <resource identifier="res_week_03_discussion" type="webcontent" href="week03/discussion.html">
+      <file href="week03/discussion.html"/>
     </resource>
-    <resource identifier="quiz12_b31e3141" type="imsqti_xmlv1p2">
-      <file href="quiz12.xml"/>
+    <resource identifier="res_week_03_readings" type="webcontent" href="week03/readings.html">
+      <file href="week03/readings.html"/>
     </resource>
-    <resource identifier="quiz13_2ac821c1" type="imsqti_xmlv1p2">
-      <file href="quiz13.xml"/>
+    <resource identifier="res_quiz_03" type="imsqti_xmlv1p2" href="quizzes/quiz03.xml">
+      <file href="quizzes/quiz03.xml"/>
     </resource>
-    <resource identifier="quiz14_da1c57bc" type="imsqti_xmlv1p2">
-      <file href="quiz14.xml"/>
+    <resource identifier="res_week_04_overview" type="webcontent" href="week04/overview.html">
+      <file href="week04/overview.html"/>
+    </resource>
+    <resource identifier="res_week_04_readings" type="webcontent" href="week04/readings.html">
+      <file href="week04/readings.html"/>
+    </resource>
+    <resource identifier="res_quiz_04" type="imsqti_xmlv1p2" href="quizzes/quiz04.xml">
+      <file href="quizzes/quiz04.xml"/>
+    </resource>
+    <resource identifier="res_week_05_overview" type="webcontent" href="week05/overview.html">
+      <file href="week05/overview.html"/>
+    </resource>
+    <resource identifier="res_fight_club" type="webcontent" href="week05/fight_club.html">
+      <file href="week05/fight_club.html"/>
+    </resource>
+    <resource identifier="res_week_05_discussion" type="webcontent" href="week05/discussion.html">
+      <file href="week05/discussion.html"/>
+    </resource>
+    <resource identifier="res_week_05_readings" type="webcontent" href="week05/readings.html">
+      <file href="week05/readings.html"/>
+    </resource>
+    <resource identifier="res_quiz_05" type="imsqti_xmlv1p2" href="quizzes/quiz05.xml">
+      <file href="quizzes/quiz05.xml"/>
+    </resource>
+    <resource identifier="res_week_06_overview" type="webcontent" href="week06/overview.html">
+      <file href="week06/overview.html"/>
+    </resource>
+    <resource identifier="res_rain_man" type="webcontent" href="week06/rain_man.html">
+      <file href="week06/rain_man.html"/>
+    </resource>
+    <resource identifier="res_week_06_discussion" type="webcontent" href="week06/discussion.html">
+      <file href="week06/discussion.html"/>
+    </resource>
+    <resource identifier="res_week_06_readings" type="webcontent" href="week06/readings.html">
+      <file href="week06/readings.html"/>
+    </resource>
+    <resource identifier="res_quiz_06" type="imsqti_xmlv1p2" href="quizzes/quiz06.xml">
+      <file href="quizzes/quiz06.xml"/>
+    </resource>
+    <resource identifier="res_week_07_overview" type="webcontent" href="week07/overview.html">
+      <file href="week07/overview.html"/>
+    </resource>
+    <resource identifier="res_k_pax" type="webcontent" href="week07/k_pax.html">
+      <file href="week07/k_pax.html"/>
+    </resource>
+    <resource identifier="res_week_07_discussion" type="webcontent" href="week07/discussion.html">
+      <file href="week07/discussion.html"/>
+    </resource>
+    <resource identifier="res_week_07_readings" type="webcontent" href="week07/readings.html">
+      <file href="week07/readings.html"/>
+    </resource>
+    <resource identifier="res_quiz_07" type="imsqti_xmlv1p2" href="quizzes/quiz07.xml">
+      <file href="quizzes/quiz07.xml"/>
+    </resource>
+    <resource identifier="res_week_08_overview" type="webcontent" href="week08/overview.html">
+      <file href="week08/overview.html"/>
+    </resource>
+    <resource identifier="res_week_09_overview" type="webcontent" href="week09/overview.html">
+      <file href="week09/overview.html"/>
+    </resource>
+    <resource identifier="res_week_09_readings" type="webcontent" href="week09/readings.html">
+      <file href="week09/readings.html"/>
+    </resource>
+    <resource identifier="res_quiz_08" type="imsqti_xmlv1p2" href="quizzes/quiz08.xml">
+      <file href="quizzes/quiz08.xml"/>
+    </resource>
+    <resource identifier="res_week_10_overview" type="webcontent" href="week10/overview.html">
+      <file href="week10/overview.html"/>
+    </resource>
+    <resource identifier="res_leaving_las_vegas" type="webcontent" href="week10/leaving_las_vegas.html">
+      <file href="week10/leaving_las_vegas.html"/>
+    </resource>
+    <resource identifier="res_week_10_discussion" type="webcontent" href="week10/discussion.html">
+      <file href="week10/discussion.html"/>
+    </resource>
+    <resource identifier="res_week_10_readings" type="webcontent" href="week10/readings.html">
+      <file href="week10/readings.html"/>
+    </resource>
+    <resource identifier="res_quiz_09" type="imsqti_xmlv1p2" href="quizzes/quiz09.xml">
+      <file href="quizzes/quiz09.xml"/>
+    </resource>
+    <resource identifier="res_week_11_overview" type="webcontent" href="week11/overview.html">
+      <file href="week11/overview.html"/>
+    </resource>
+    <resource identifier="res_nuremberg" type="webcontent" href="week11/nuremberg.html">
+      <file href="week11/nuremberg.html"/>
+    </resource>
+    <resource identifier="res_week_11_discussion" type="webcontent" href="week11/discussion.html">
+      <file href="week11/discussion.html"/>
+    </resource>
+    <resource identifier="res_week_11_readings" type="webcontent" href="week11/readings.html">
+      <file href="week11/readings.html"/>
+    </resource>
+    <resource identifier="res_quiz_10" type="imsqti_xmlv1p2" href="quizzes/quiz10.xml">
+      <file href="quizzes/quiz10.xml"/>
+    </resource>
+    <resource identifier="res_week_12_overview" type="webcontent" href="week12/overview.html">
+      <file href="week12/overview.html"/>
+    </resource>
+    <resource identifier="res_wind_river" type="webcontent" href="week12/wind_river.html">
+      <file href="week12/wind_river.html"/>
+    </resource>
+    <resource identifier="res_week_12_discussion" type="webcontent" href="week12/discussion.html">
+      <file href="week12/discussion.html"/>
+    </resource>
+    <resource identifier="res_week_12_readings" type="webcontent" href="week12/readings.html">
+      <file href="week12/readings.html"/>
+    </resource>
+    <resource identifier="res_quiz_11" type="imsqti_xmlv1p2" href="quizzes/quiz11.xml">
+      <file href="quizzes/quiz11.xml"/>
+    </resource>
+    <resource identifier="res_week_13_overview" type="webcontent" href="week13/overview.html">
+      <file href="week13/overview.html"/>
+    </resource>
+    <resource identifier="res_week_13_readings" type="webcontent" href="week13/readings.html">
+      <file href="week13/readings.html"/>
+    </resource>
+    <resource identifier="res_quiz_12" type="imsqti_xmlv1p2" href="quizzes/quiz12.xml">
+      <file href="quizzes/quiz12.xml"/>
+    </resource>
+    <resource identifier="res_week_14_overview" type="webcontent" href="week14/overview.html">
+      <file href="week14/overview.html"/>
+    </resource>
+    <resource identifier="res_week_14_readings" type="webcontent" href="week14/readings.html">
+      <file href="week14/readings.html"/>
+    </resource>
+    <resource identifier="res_quiz_13" type="imsqti_xmlv1p2" href="quizzes/quiz13.xml">
+      <file href="quizzes/quiz13.xml"/>
+    </resource>
+    <resource identifier="res_week_15_overview" type="webcontent" href="week15/overview.html">
+      <file href="week15/overview.html"/>
+    </resource>
+    <resource identifier="res_week_15_readings" type="webcontent" href="week15/readings.html">
+      <file href="week15/readings.html"/>
+    </resource>
+    <resource identifier="res_quiz_14" type="imsqti_xmlv1p2" href="quizzes/quiz14.xml">
+      <file href="quizzes/quiz14.xml"/>
     </resource>
   </resources>
 </manifest>

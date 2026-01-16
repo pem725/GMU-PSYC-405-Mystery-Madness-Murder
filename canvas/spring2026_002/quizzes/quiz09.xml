@@ -1,0 +1,377 @@
+<?xml version="1.0" ?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2">
+  <assessment ident="quiz9_11879718" title="Quiz 9: Leaving Las Vegas">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>qmd_timelimit</fieldlabel>
+        <fieldentry/>
+      </qtimetadatafield>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+    </qtimetadata>
+    <section ident="section_quiz9_11879718">
+      <item ident="q1_9ac7d4e2" title="Question 1">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>10</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>q1_9ac7d4e2</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;Ben Sanderson has made a deliberate decision to drink himself to death. According to Gross (2015), how should we understand this as an emotion regulation choice?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response_q1_9ac7d4e2" rcardinality="Single">
+            <render_choice>
+              <response_label ident="A">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Ben is successfully regulating his emotions&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="B">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Suicide is never related to emotion regulation&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="C">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Ben has abandoned adaptive regulation entirely; chronic alcohol use represents a maladaptive response-modulation strategy that provides temporary relief while ensuring long-term destruction&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="D">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Ben&amp;#39;s choice is purely rational without emotional components&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response_q1_9ac7d4e2">C</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+        <itemfeedback ident="correct_fb_q1_9ac7d4e2">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;Correct!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Gross&amp;#39;s framework includes response modulation - changing emotional responses after they occur. Alcohol provides temporary dampening of negative affect, making it a response-modulation strategy. However, Ben&amp;#39;s use is so extreme it&amp;#39;s abandoned adaptation entirely - he&amp;#39;s not modulating to function better but to end functioning. This represents complete regulatory failure: short-term relief pursued at the cost of life itself.&lt;/p&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+        <itemfeedback ident="incorrect_fb_q1_9ac7d4e2">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;The correct answer is C.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Gross&amp;#39;s framework includes response modulation - changing emotional responses after they occur. Alcohol provides temporary dampening of negative affect, making it a response-modulation strategy. However, Ben&amp;#39;s use is so extreme it&amp;#39;s abandoned adaptation entirely - he&amp;#39;s not modulating to function better but to end functioning. This represents complete regulatory failure: short-term relief pursued at the cost of life itself.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why other answers are incorrect:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;A:&lt;/strong&gt; Success implies functionality; Ben is pursuing death.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;B:&lt;/strong&gt; Suicide often relates to escape from unbearable emotional states.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;D:&lt;/strong&gt; Ben&amp;#39;s choice emerges from emotional despair, not pure reason.&lt;/li&gt;&lt;/ul&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+      </item>
+      <item ident="q2_6d894ea5" title="Question 2">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>10</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>q2_6d894ea5</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;Sera agrees not to ask Ben to stop drinking. According to research on purpose (McKnight &amp;amp; Kashdan, 2009), what does this acceptance represent?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response_q2_6d894ea5" rcardinality="Single">
+            <render_choice>
+              <response_label ident="A">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Healthy unconditional love&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="B">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Standard codependency without complexity&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="C">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Sera&amp;#39;s acceptance may reflect her own disrupted purpose system - lacking direction for herself, she organizes around Ben&amp;#39;s death rather than challenging it&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="D">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Optimal therapeutic support&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response_q2_6d894ea5">C</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+        <itemfeedback ident="correct_fb_q2_6d894ea5">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;Correct!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;McKnight &amp;amp; Kashdan describe purpose as providing direction and meaning. Sera lacks clear purpose before meeting Ben - her life as a prostitute controlled by a violent pimp offers little self-concordant direction. When Ben appears, she organizes her life around him, but this &amp;quot;purpose&amp;quot; is directed toward facilitating his death rather than preserving life. Her acceptance reflects her own purposelessness as much as love for Ben.&lt;/p&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+        <itemfeedback ident="incorrect_fb_q2_6d894ea5">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;The correct answer is C.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;McKnight &amp;amp; Kashdan describe purpose as providing direction and meaning. Sera lacks clear purpose before meeting Ben - her life as a prostitute controlled by a violent pimp offers little self-concordant direction. When Ben appears, she organizes her life around him, but this &amp;quot;purpose&amp;quot; is directed toward facilitating his death rather than preserving life. Her acceptance reflects her own purposelessness as much as love for Ben.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why other answers are incorrect:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;A:&lt;/strong&gt; Facilitating death isn&amp;#39;t healthy expression of love.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;B:&lt;/strong&gt; While codependent elements exist, the purpose framework adds depth.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;D:&lt;/strong&gt; Supporting suicide isn&amp;#39;t therapeutically optimal.&lt;/li&gt;&lt;/ul&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+      </item>
+      <item ident="q3_32cd850f" title="Question 3">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>10</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>q3_32cd850f</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;Ben lost his family, his career, and his identity before the film begins. According to Kashdan et al. (2024), what does his subsequent inability to form new purpose suggest about purpose development?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response_q3_32cd850f" rcardinality="Single">
+            <render_choice>
+              <response_label ident="A">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Purpose can only be developed once&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="B">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Career success is required for purpose&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="C">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Purpose requires some degree of positive emotional experience; profound anhedonia and depression may prevent the happiness that facilitates purpose formation&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="D">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Ben has chosen purpose-rejection deliberately&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response_q3_32cd850f">C</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+        <itemfeedback ident="correct_fb_q3_32cd850f">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;Correct!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Kashdan et al.&amp;#39;s work on purpose connects to McKnight et al. (2025) findings that happiness may facilitate purpose. Ben&amp;#39;s profound depression and anhedonia (inability to experience pleasure) may prevent the positive emotional experiences needed to develop new purpose. He can&amp;#39;t rebuild because he can&amp;#39;t experience the positive emotions that would make rebuilding feel worthwhile. The emotional foundation for purpose is absent.&lt;/p&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+        <itemfeedback ident="incorrect_fb_q3_32cd850f">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;The correct answer is C.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Kashdan et al.&amp;#39;s work on purpose connects to McKnight et al. (2025) findings that happiness may facilitate purpose. Ben&amp;#39;s profound depression and anhedonia (inability to experience pleasure) may prevent the positive emotional experiences needed to develop new purpose. He can&amp;#39;t rebuild because he can&amp;#39;t experience the positive emotions that would make rebuilding feel worthwhile. The emotional foundation for purpose is absent.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why other answers are incorrect:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;A:&lt;/strong&gt; People can develop new purpose after loss; Ben&amp;#39;s case is extreme.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;B:&lt;/strong&gt; Purpose can develop outside career contexts.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;D:&lt;/strong&gt; Ben&amp;#39;s inability seems driven by depression, not philosophical rejection.&lt;/li&gt;&lt;/ul&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+      </item>
+      <item ident="q4_4b4ce36f" title="Question 4">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>10</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>q4_4b4ce36f</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;The film refuses to offer hope for Ben&amp;#39;s recovery. According to Boudry &amp;amp; Braeckman (2012), why might audiences find this refusal uncomfortable despite its realism?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response_q4_4b4ce36f" rcardinality="Single">
+            <render_choice>
+              <response_label ident="A">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Audiences are inherently optimistic&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="B">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;The film is poorly made&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="C">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;We have self-validating beliefs about redemption narratives; stories without hope violate these schemas and create cognitive dissonance&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="D">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;All films should have happy endings&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response_q4_4b4ce36f">C</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+        <itemfeedback ident="correct_fb_q4_4b4ce36f">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;Correct!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Boudry &amp;amp; Braeckman describe how cultural belief systems resist disconfirmation. Western culture has strong redemption schemas: people should be redeemable, love should save, rock bottom leads to recovery. The film violates these expectations, creating cognitive dissonance. Audiences hold self-validating beliefs that stories SHOULD offer hope; when they don&amp;#39;t, the discomfort isn&amp;#39;t just about the characters but about challenged beliefs.&lt;/p&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+        <itemfeedback ident="incorrect_fb_q4_4b4ce36f">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;The correct answer is C.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Boudry &amp;amp; Braeckman describe how cultural belief systems resist disconfirmation. Western culture has strong redemption schemas: people should be redeemable, love should save, rock bottom leads to recovery. The film violates these expectations, creating cognitive dissonance. Audiences hold self-validating beliefs that stories SHOULD offer hope; when they don&amp;#39;t, the discomfort isn&amp;#39;t just about the characters but about challenged beliefs.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why other answers are incorrect:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;A:&lt;/strong&gt; Too general; the mechanism involves specific cultural narratives.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;B:&lt;/strong&gt; The film is critically acclaimed; the discomfort is intentional.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;D:&lt;/strong&gt; This is a prescription, not an explanation of psychological mechanism.&lt;/li&gt;&lt;/ul&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+      </item>
+      <item ident="q5_3f7daf02" title="Question 5">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>10</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>q5_3f7daf02</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;Ben and Sera form a genuine connection despite his self-destruction. According to emotion differentiation research (Kashdan et al., 2015), what does their relationship suggest about intimacy and emotional granularity?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response_q5_3f7daf02" rcardinality="Single">
+            <render_choice>
+              <response_label ident="A">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;True connection requires sobriety&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="B">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Their relationship is not genuine&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="C">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Moments of differentiated emotional experience (tenderness, gratitude, acceptance) can exist alongside chronic dysregulation - connection does not require overall emotional health&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="D">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Alcoholism enhances emotional connection&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response_q5_3f7daf02">C</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+        <itemfeedback ident="correct_fb_q5_3f7daf02">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;Correct!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Kashdan et al.&amp;#39;s differentiation research suggests that emotional granularity isn&amp;#39;t all-or-nothing. Ben, despite massive dysregulation, can still experience differentiated moments: tenderness toward Sera, gratitude for acceptance, genuine connection. These differentiated moments enable real intimacy even amid chaos. The relationship is genuine not because Ben is healthy but because moments of genuine emotional clarity punctuate the dysfunction.&lt;/p&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+        <itemfeedback ident="incorrect_fb_q5_3f7daf02">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;The correct answer is C.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Kashdan et al.&amp;#39;s differentiation research suggests that emotional granularity isn&amp;#39;t all-or-nothing. Ben, despite massive dysregulation, can still experience differentiated moments: tenderness toward Sera, gratitude for acceptance, genuine connection. These differentiated moments enable real intimacy even amid chaos. The relationship is genuine not because Ben is healthy but because moments of genuine emotional clarity punctuate the dysfunction.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why other answers are incorrect:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;A:&lt;/strong&gt; Ben and Sera&amp;#39;s connection suggests otherwise.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;B:&lt;/strong&gt; The film portrays their connection as authentic despite dysfunction.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;D:&lt;/strong&gt; Alcoholism destroys more than it enables; the connection exists despite, not because of, addiction.&lt;/li&gt;&lt;/ul&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

@@ -1,0 +1,377 @@
+<?xml version="1.0" ?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2">
+  <assessment ident="quiz12_9f17ca62" title="Quiz 12: The Hurricane">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>qmd_timelimit</fieldlabel>
+        <fieldentry/>
+      </qtimetadatafield>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+    </qtimetadata>
+    <section ident="section_quiz12_9f17ca62">
+      <item ident="q1_15e11957" title="Question 1">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>10</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>q1_15e11957</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;Rubin Carter was convicted largely based on eyewitness testimony that was later discredited. According to research on belief formation (Matthews, 2005), why might juries rationally accept flawed testimony?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response_q1_15e11957" rcardinality="Single">
+            <render_choice>
+              <response_label ident="A">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Juries are inherently irrational&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="B">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Eyewitnesses are always believed over defendants&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="C">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Given the information available at trial (without knowledge of eyewitness memory limitations), accepting confident testimony may have been statistically reasonable inference&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="D">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Racial bias explains all wrongful convictions&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response_q1_15e11957">C</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+        <itemfeedback ident="correct_fb_q1_15e11957">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;Correct!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Matthews&amp;#39; argument about rational inference from &amp;quot;weird evidence&amp;quot; applies here. Without contemporary knowledge of eyewitness memory limitations, confident eyewitness testimony seemed like strong evidence. Juries in 1967 didn&amp;#39;t know that confidence doesn&amp;#39;t correlate with accuracy, that memory is reconstructive, or that cross-racial identification is particularly error-prone. Given their available knowledge, accepting the testimony was reasonable, even though it led to error.&lt;/p&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+        <itemfeedback ident="incorrect_fb_q1_15e11957">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;The correct answer is C.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Matthews&amp;#39; argument about rational inference from &amp;quot;weird evidence&amp;quot; applies here. Without contemporary knowledge of eyewitness memory limitations, confident eyewitness testimony seemed like strong evidence. Juries in 1967 didn&amp;#39;t know that confidence doesn&amp;#39;t correlate with accuracy, that memory is reconstructive, or that cross-racial identification is particularly error-prone. Given their available knowledge, accepting the testimony was reasonable, even though it led to error.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why other answers are incorrect:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;A:&lt;/strong&gt; Too broad. The point is they were rational given LIMITED information.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;B:&lt;/strong&gt; Not universal; the specific context matters.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;D:&lt;/strong&gt; Racial bias was a factor, but the question focuses on the epistemic process.&lt;/li&gt;&lt;/ul&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+      </item>
+      <item ident="q2_c4bca82c" title="Question 2">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>10</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>q2_c4bca82c</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;Detective Vincent Della Pesca pursues Carter with obsessive intensity. According to Pratto et al. (1994), which aspect of social dominance orientation best explains his behavior?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response_q2_c4bca82c" rcardinality="Single">
+            <render_choice>
+              <response_label ident="A">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Low SDO seeking to protect victims&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="B">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;In-group loyalty to fellow officers&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="C">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;High SDO combined with legitimizing beliefs about Black criminality, making Carter&amp;#39;s guilt a foregone conclusion requiring evidence to confirm rather than test&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="D">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Personal animosity unrelated to social dominance&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response_q2_c4bca82c">C</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+        <itemfeedback ident="correct_fb_q2_c4bca82c">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;Correct!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Pratto et al. describe how high SDO operates through &amp;quot;legitimizing myths&amp;quot; that justify hierarchy. Della Pesca&amp;#39;s pursuit of Carter reflects beliefs that Black men are inherently criminal, making Carter&amp;#39;s guilt presumed rather than investigated. The investigation sought evidence to CONFIRM the presumption rather than objectively TEST it. This is how high SDO combines with legitimizing myths to produce injustice while feeling justified.&lt;/p&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+        <itemfeedback ident="incorrect_fb_q2_c4bca82c">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;The correct answer is C.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Pratto et al. describe how high SDO operates through &amp;quot;legitimizing myths&amp;quot; that justify hierarchy. Della Pesca&amp;#39;s pursuit of Carter reflects beliefs that Black men are inherently criminal, making Carter&amp;#39;s guilt presumed rather than investigated. The investigation sought evidence to CONFIRM the presumption rather than objectively TEST it. This is how high SDO combines with legitimizing myths to produce injustice while feeling justified.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why other answers are incorrect:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;A:&lt;/strong&gt; The victims&amp;#39; families were not Della Pesca&amp;#39;s primary motivation based on film evidence.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;B:&lt;/strong&gt; This doesn&amp;#39;t explain the obsessive focus on Carter specifically.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;D:&lt;/strong&gt; While personal animosity existed, it was SHAPED by racial beliefs, not independent of them.&lt;/li&gt;&lt;/ul&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+      </item>
+      <item ident="q3_b15baa03" title="Question 3">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>10</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>q3_b15baa03</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;Carter maintained his innocence for 19 years despite enormous pressure to confess in exchange for parole. According to McKnight et al. (2025), what does this suggest about the relationship between purpose and happiness?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response_q3_b15baa03" rcardinality="Single">
+            <render_choice>
+              <response_label ident="A">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Purpose requires happiness to sustain itself&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="B">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Happiness must precede purpose chronologically&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="C">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Purpose can sustain behavior even in the absence of happiness; however, research suggests that purpose alone may not be self-sustaining indefinitely&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="D">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Purpose and happiness are identical constructs&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response_q3_b15baa03">C</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+        <itemfeedback ident="correct_fb_q3_b15baa03">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;Correct!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;McKnight et al. (2025) found that happiness predicts subsequent purpose, raising questions about whether purpose can sustain itself without positive emotional experience. Carter maintained purpose (proving innocence) for 19 years despite minimal happiness. This suggests purpose CAN drive behavior without happiness, but the finding that happiness facilitates purpose suggests this state may not be indefinitely sustainable without external support (like the Canadians who eventually helped him).&lt;/p&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+        <itemfeedback ident="incorrect_fb_q3_b15baa03">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;The correct answer is C.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;McKnight et al. (2025) found that happiness predicts subsequent purpose, raising questions about whether purpose can sustain itself without positive emotional experience. Carter maintained purpose (proving innocence) for 19 years despite minimal happiness. This suggests purpose CAN drive behavior without happiness, but the finding that happiness facilitates purpose suggests this state may not be indefinitely sustainable without external support (like the Canadians who eventually helped him).&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why other answers are incorrect:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;A:&lt;/strong&gt; Carter&amp;#39;s case shows purpose CAN persist without happiness, though perhaps not forever.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;B:&lt;/strong&gt; This is the McKnight et al. finding, but Carter&amp;#39;s case shows purpose CAN exist without prior happiness.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;D:&lt;/strong&gt; Research shows they&amp;#39;re related but distinct; Carter had purpose without happiness.&lt;/li&gt;&lt;/ul&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+      </item>
+      <item ident="q4_c43f8f01" title="Question 4">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>10</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>q4_c43f8f01</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;Lesra Martin and the Canadian activists become invested in Carter&amp;#39;s freedom despite having no prior connection to him. According to purpose research (Kashdan et al., 2024), what distinguishes their motivation from simple altruism?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response_q4_c43f8f01" rcardinality="Single">
+            <render_choice>
+              <response_label ident="A">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Financial incentives drove their involvement&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="B">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Guilt motivated their action&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="C">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Their involvement became self-concordant - aligned with deeply held values - transforming from external interest to integrated purpose&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="D">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Altruism and purpose are synonymous&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response_q4_c43f8f01">C</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+        <itemfeedback ident="correct_fb_q4_c43f8f01">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;Correct!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Kashdan et al. (2024) emphasize self-concordance - goals aligned with authentic personal values. The Canadians&amp;#39; involvement began as interest in a book but became integrated purpose when it aligned with their values about justice, truth, and human dignity. This transforms simple helping into purpose: the activity becomes central to who they are and what they&amp;#39;re about, not just something they&amp;#39;re doing.&lt;/p&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+        <itemfeedback ident="incorrect_fb_q4_c43f8f01">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;The correct answer is C.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Kashdan et al. (2024) emphasize self-concordance - goals aligned with authentic personal values. The Canadians&amp;#39; involvement began as interest in a book but became integrated purpose when it aligned with their values about justice, truth, and human dignity. This transforms simple helping into purpose: the activity becomes central to who they are and what they&amp;#39;re about, not just something they&amp;#39;re doing.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why other answers are incorrect:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;A:&lt;/strong&gt; No evidence for financial motivation; they spent their own resources.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;B:&lt;/strong&gt; No indication of guilt-driven motivation in the film.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;D:&lt;/strong&gt; Purpose involves integration with identity; altruism can be momentary.&lt;/li&gt;&lt;/ul&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+      </item>
+      <item ident="q5_d089e308" title="Question 5">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>10</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>q5_d089e308</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;The film depicts how confirmation bias affected the investigation - evidence supporting Carter&amp;#39;s guilt was emphasized while exculpatory evidence was dismissed. According to Boudry et al. (2015), this pattern represents which broader phenomenon?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response_q5_d089e308" rcardinality="Single">
+            <render_choice>
+              <response_label ident="A">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Individual investigator incompetence&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="B">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Deliberate conspiracy to frame Carter&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="C">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;The epidemiology of belief - how false beliefs can spread through institutions via normal cognitive processes without requiring malicious intent&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="D">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Standard investigative procedure&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response_q5_d089e308">C</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+        <itemfeedback ident="correct_fb_q5_d089e308">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;Correct!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Boudry et al.&amp;#39;s &amp;quot;epidemiology of pseudoscience&amp;quot; framework explains how false beliefs spread through normal cognitive mechanisms. The investigation&amp;#39;s confirmation bias wasn&amp;#39;t necessarily deliberate conspiracy or individual incompetence - it was how NORMAL cognitive processes operated within an institutional context. Each person processed information through their existing beliefs, and these biased interpretations accumulated into institutional conviction. No single villain; just cognitive normalcy producing injustice.&lt;/p&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+        <itemfeedback ident="incorrect_fb_q5_d089e308">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;The correct answer is C.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Boudry et al.&amp;#39;s &amp;quot;epidemiology of pseudoscience&amp;quot; framework explains how false beliefs spread through normal cognitive mechanisms. The investigation&amp;#39;s confirmation bias wasn&amp;#39;t necessarily deliberate conspiracy or individual incompetence - it was how NORMAL cognitive processes operated within an institutional context. Each person processed information through their existing beliefs, and these biased interpretations accumulated into institutional conviction. No single villain; just cognitive normalcy producing injustice.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why other answers are incorrect:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;A:&lt;/strong&gt; The process operated through normal cognition, not exceptional failure.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;B:&lt;/strong&gt; While some may have acted with malice, the framework explains how injustice can occur without conspiracy.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;D:&lt;/strong&gt; This critique: these ARE standard procedures, which is the problem.&lt;/li&gt;&lt;/ul&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

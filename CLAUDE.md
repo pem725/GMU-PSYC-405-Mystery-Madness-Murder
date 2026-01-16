@@ -366,6 +366,70 @@ python scripts/convert_to_canvas_qti.py spring2026_001 --zip
 
 **Note:** Canvas imports create NEW quizzes. Delete old versions after re-importing.
 
+### Canvas Course Website (Common Cartridge)
+
+In addition to quizzes, the entire course website can be exported as IMS Common Cartridge packages for Canvas import. This creates 15 weekly modules with film information, discussion questions, and readings.
+
+#### Directory Structure (Course Website)
+```
+canvas/
+├── spring2026_001/
+│   ├── imsmanifest.xml              # CC manifest
+│   ├── week01/ ... week15/          # Weekly module pages
+│   │   ├── overview.html            # Week overview
+│   │   ├── {film_title}.html        # Film info page
+│   │   ├── discussion.html          # Discussion questions
+│   │   └── readings.html            # Weekly readings
+│   └── quizzes/                     # If --include-quizzes
+├── spring2026_001_course.imscc      # Ready-to-import package
+└── spring2026_002_course.imscc
+```
+
+#### Converting Syllabus to Canvas Modules
+
+```bash
+# Convert single section
+python scripts/convert_to_canvas_cc.py spring2026_001
+
+# Convert all sections
+python scripts/convert_to_canvas_cc.py --all
+
+# Include quiz QTI files in the package
+python scripts/convert_to_canvas_cc.py --all --include-quizzes
+```
+
+#### What Gets Generated
+
+Each of the 15 weekly modules contains:
+- **Overview page** - Week introduction, module name, activities list
+- **Film page(s)** - Title, year, IMDB/RT/Wiki links, psychological themes
+- **Discussion page** - 4 read-only discussion questions per film
+- **Readings page** - Links to Zotero library for relevant themes
+
+#### Importing Course Website to Canvas
+
+1. Go to Canvas course → **Settings** → **Import Course Content**
+2. Select **Common Cartridge 1.x Package**
+3. Upload the `.imscc` file (e.g., `spring2026_001_course.imscc`)
+4. Select **All content** or choose specific modules
+5. Modules appear under **Modules** tab with proper hierarchy
+
+#### Combined Workflow (Quizzes + Course Website)
+
+For a complete Canvas course setup:
+
+```bash
+# 1. Generate QTI quizzes
+python scripts/convert_to_canvas_qti.py --all --zip
+
+# 2. Generate course website with quizzes included
+python scripts/convert_to_canvas_cc.py --all --include-quizzes
+
+# 3. Import to Canvas:
+#    - First: Import spring2026_001_course.imscc (modules + quizzes)
+#    - Or: Import quizzes separately, then course website
+```
+
 ## Movie Metadata Standards
 
 ### Required Information for Each Film

@@ -1,0 +1,377 @@
+<?xml version="1.0" ?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2">
+  <assessment ident="quiz3_105a0115" title="Quiz 3: Shutter Island / North by Northwest">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>qmd_timelimit</fieldlabel>
+        <fieldentry/>
+      </qtimetadatafield>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+    </qtimetadata>
+    <section ident="section_quiz3_105a0115">
+      <item ident="q1_027646d2" title="Question 1">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>10</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>q1_027646d2</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;At the end of Shutter Island, Andrew asks: &amp;quot;Which would be worse - to live as a monster, or to die as a good man?&amp;quot; This question most directly engages which psychological construct from the purpose literature (McKnight &amp;amp; Kashdan, 2009)?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response_q1_027646d2" rcardinality="Single">
+            <render_choice>
+              <response_label ident="A">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Self-efficacy and competence beliefs&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="B">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;The relationship between identity coherence and meaningful existence&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="C">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Hedonic versus eudaimonic well-being&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="D">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Goal-directed behavior and motivation&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response_q1_027646d2">B</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+        <itemfeedback ident="correct_fb_q1_027646d2">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;Correct!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Andrew&amp;#39;s question goes to the heart of purpose: can life be meaningful when identity is fragmented or monstrous? McKnight &amp;amp; Kashdan&amp;#39;s model of purpose as a self-organizing system requires coherent identity - the system needs a stable &amp;quot;self&amp;quot; to organize around. Andrew recognizes that living as a &amp;quot;monster&amp;quot; (his true self) might preclude meaningful existence, while dying as a &amp;quot;good man&amp;quot; (the delusional Teddy) preserves narrative coherence at the cost of truth.&lt;/p&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+        <itemfeedback ident="incorrect_fb_q1_027646d2">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;The correct answer is B.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Andrew&amp;#39;s question goes to the heart of purpose: can life be meaningful when identity is fragmented or monstrous? McKnight &amp;amp; Kashdan&amp;#39;s model of purpose as a self-organizing system requires coherent identity - the system needs a stable &amp;quot;self&amp;quot; to organize around. Andrew recognizes that living as a &amp;quot;monster&amp;quot; (his true self) might preclude meaningful existence, while dying as a &amp;quot;good man&amp;quot; (the delusional Teddy) preserves narrative coherence at the cost of truth.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why other answers are incorrect:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;A:&lt;/strong&gt; This is about believing you CAN do things. Andrew&amp;#39;s question is about whether you SHOULD exist, not whether you&amp;#39;re capable.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;C:&lt;/strong&gt; While relevant, this distinction doesn&amp;#39;t capture the identity coherence issue. Both monster and good man could experience either type of well-being.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;D:&lt;/strong&gt; Too narrow. Andrew isn&amp;#39;t asking about goals but about the fundamental worth of existence under different identity conditions.&lt;/li&gt;&lt;/ul&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+      </item>
+      <item ident="q2_22795d44" title="Question 2">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>10</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>q2_22795d44</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;Roger Thornhill in North by Northwest is mistaken for &amp;quot;George Kaplan,&amp;quot; who doesn&amp;#39;t actually exist. According to Shermer&amp;#39;s analysis of belief formation, what makes this false identity so readily accepted by others?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response_q2_22795d44" rcardinality="Single">
+            <render_choice>
+              <response_label ident="A">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;People inherently trust government agencies&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="B">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Thornhill&amp;#39;s behavior confirms their pre-existing expectations&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="C">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;The identity fills a cognitive schema that observers already possess, making confirmation bias more powerful than contradictory evidence&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="D">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Mistaken identity is statistically common in espionage contexts&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response_q2_22795d44">C</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+        <itemfeedback ident="correct_fb_q2_22795d44">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;Correct!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Shermer&amp;#39;s analysis emphasizes that beliefs are often adopted because they fit existing cognitive schemas. The villains already BELIEVE Kaplan exists (the CIA created that belief). When Thornhill appears where they expect Kaplan, their pre-existing schema interprets his presence as confirmation. Shermer notes that once a belief exists, evidence is interpreted to support it - this is exactly what happens with the &amp;quot;Kaplan&amp;quot; identity.&lt;/p&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+        <itemfeedback ident="incorrect_fb_q2_22795d44">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;The correct answer is C.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Shermer&amp;#39;s analysis emphasizes that beliefs are often adopted because they fit existing cognitive schemas. The villains already BELIEVE Kaplan exists (the CIA created that belief). When Thornhill appears where they expect Kaplan, their pre-existing schema interprets his presence as confirmation. Shermer notes that once a belief exists, evidence is interpreted to support it - this is exactly what happens with the &amp;quot;Kaplan&amp;quot; identity.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why other answers are incorrect:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;A:&lt;/strong&gt; The villains are OPPOSING the government, not trusting it. This reverses the dynamic.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;B:&lt;/strong&gt; Partially true but misses the key point. It&amp;#39;s the SCHEMA that drives interpretation, not specific behaviors.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;D:&lt;/strong&gt; No evidence for this claim, and it doesn&amp;#39;t explain the psychological mechanism.&lt;/li&gt;&lt;/ul&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+      </item>
+      <item ident="q3_f574bff0" title="Question 3">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>10</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>q3_f574bff0</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;Both Teddy Daniels and Roger Thornhill experience profound uncertainty about their identities, but the psychological source differs. What is the KEY distinction?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response_q3_f574bff0" rcardinality="Single">
+            <render_choice>
+              <response_label ident="A">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Teddy&amp;#39;s uncertainty is externally imposed; Roger&amp;#39;s is internally generated&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="B">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Roger experiences identity confusion; Teddy experiences identity delusion&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="C">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Teddy&amp;#39;s identity crisis stems from motivated self-deception; Roger&amp;#39;s stems from others&amp;#39; misattribution&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="D">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Both represent equivalent forms of dissociative experience&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response_q3_f574bff0">C</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+        <itemfeedback ident="correct_fb_q3_f574bff0">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;Correct!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The critical distinction is the source of the identity confusion. Teddy/Andrew actively constructs a false identity to protect himself from unbearable truth - this is MOTIVATED self-deception serving psychological protection. Roger is ASSIGNED a false identity by others - he knows who he really is but cannot convince anyone else. One is internal defensive mechanism; the other is external misattribution.&lt;/p&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+        <itemfeedback ident="incorrect_fb_q3_f574bff0">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;The correct answer is C.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The critical distinction is the source of the identity confusion. Teddy/Andrew actively constructs a false identity to protect himself from unbearable truth - this is MOTIVATED self-deception serving psychological protection. Roger is ASSIGNED a false identity by others - he knows who he really is but cannot convince anyone else. One is internal defensive mechanism; the other is external misattribution.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why other answers are incorrect:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;A:&lt;/strong&gt; Reverses the correct direction. Teddy&amp;#39;s is internally generated (self-deception); Roger&amp;#39;s is externally imposed (others&amp;#39; beliefs).&lt;/li&gt;&lt;li&gt;&lt;strong&gt;B:&lt;/strong&gt; Imprecise. &amp;quot;Confusion&amp;quot; doesn&amp;#39;t capture Teddy&amp;#39;s state, which is delusional certainty, not confusion.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;D:&lt;/strong&gt; Clinically incorrect. Roger doesn&amp;#39;t have a dissociative condition; he has a communication problem.&lt;/li&gt;&lt;/ul&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+      </item>
+      <item ident="q4_98031f66" title="Question 4">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>10</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>q4_98031f66</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;Hitchcock deliberately sets the famous crop-duster scene in an open, mundane environment. According to research on emotion and context (Kashdan et al., 2015), why does this setting intensify rather than diminish fear?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response_q4_98031f66" rcardinality="Single">
+            <render_choice>
+              <response_label ident="A">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Rural settings activate evolutionary threat detection systems&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="B">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;The contrast between mundane context and lethal threat creates emotional differentiation difficulties, amplifying distress&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="C">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Isolation increases objective danger levels&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="D">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Audiences have learned associations between fields and violence&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response_q4_98031f66">B</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+        <itemfeedback ident="correct_fb_q4_98031f66">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;Correct!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Kashdan et al.&amp;#39;s research on emotion differentiation suggests that unexpected emotional situations create processing difficulties. The open field SHOULD be safe - our schemas tell us danger lurks in dark alleys, not sunny cornfields. When lethal threat appears in a &amp;quot;safe&amp;quot; context, the mismatch between expected and actual emotional significance creates confusion that amplifies the fear response. The audience can&amp;#39;t rely on contextual cues to calibrate their emotional response.&lt;/p&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+        <itemfeedback ident="incorrect_fb_q4_98031f66">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;The correct answer is B.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Kashdan et al.&amp;#39;s research on emotion differentiation suggests that unexpected emotional situations create processing difficulties. The open field SHOULD be safe - our schemas tell us danger lurks in dark alleys, not sunny cornfields. When lethal threat appears in a &amp;quot;safe&amp;quot; context, the mismatch between expected and actual emotional significance creates confusion that amplifies the fear response. The audience can&amp;#39;t rely on contextual cues to calibrate their emotional response.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why other answers are incorrect:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;A:&lt;/strong&gt; No evidence that rural settings specifically activate threat detection. Dark, enclosed spaces are more evolutionarily associated with predators.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;C:&lt;/strong&gt; Objectively, isolation might reduce help availability, but this doesn&amp;#39;t explain the EMOTIONAL intensification, which is the question&amp;#39;s focus.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;D:&lt;/strong&gt; No such learned association exists; this is exactly why the scene is surprising.&lt;/li&gt;&lt;/ul&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+      </item>
+      <item ident="q5_c85f0384" title="Question 5">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>10</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>q5_c85f0384</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;The psychiatric institution in Shutter Island and the government conspiracy in North by Northwest both represent external systems that control individual reality. Which concept from social dominance research (Pratto et al., 1994) is most relevant?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response_q5_c85f0384" rcardinality="Single">
+            <render_choice>
+              <response_label ident="A">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;In-group favoritism and out-group derogation&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="B">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Legitimizing myths that justify hierarchical systems&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="C">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Institutional power&amp;#39;s capacity to define and enforce what counts as &amp;quot;truth&amp;quot;&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="D">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Individual differences in preference for equality&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response_q5_c85f0384">C</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+        <itemfeedback ident="correct_fb_q5_c85f0384">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;Correct!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Both films dramatize how powerful institutions can define reality for individuals. In Shutter Island, the psychiatric institution determines what is &amp;quot;sane&amp;quot; and &amp;quot;insane.&amp;quot; In North by Northwest, the CIA and Vandamm&amp;#39;s organization both construct &amp;quot;realities&amp;quot; (Kaplan exists/doesn&amp;#39;t exist) that override individual truth. This connects to SDO research showing how dominant groups control not just resources but the frameworks for interpreting reality.&lt;/p&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+        <itemfeedback ident="incorrect_fb_q5_c85f0384">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;The correct answer is C.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Both films dramatize how powerful institutions can define reality for individuals. In Shutter Island, the psychiatric institution determines what is &amp;quot;sane&amp;quot; and &amp;quot;insane.&amp;quot; In North by Northwest, the CIA and Vandamm&amp;#39;s organization both construct &amp;quot;realities&amp;quot; (Kaplan exists/doesn&amp;#39;t exist) that override individual truth. This connects to SDO research showing how dominant groups control not just resources but the frameworks for interpreting reality.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why other answers are incorrect:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;A:&lt;/strong&gt; While present in both films, this doesn&amp;#39;t capture the reality-defining function of institutional power.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;B:&lt;/strong&gt; Partially relevant but focuses on justification rather than active reality construction.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;D:&lt;/strong&gt; The question is about institutional power, not individual differences in dominance orientation.&lt;/li&gt;&lt;/ul&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

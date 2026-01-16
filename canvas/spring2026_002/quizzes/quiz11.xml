@@ -1,0 +1,377 @@
+<?xml version="1.0" ?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2">
+  <assessment ident="quiz11_11004695" title="Quiz 11: Nuremberg / Wind River">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>qmd_timelimit</fieldlabel>
+        <fieldentry/>
+      </qtimetadatafield>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+    </qtimetadata>
+    <section ident="section_quiz11_11004695">
+      <item ident="q1_3f37d36b" title="Question 1">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>10</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>q1_3f37d36b</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;Nuremberg addressed systematic state-sponsored violence; Wind River addresses violence against marginalized communities that falls through jurisdictional cracks. According to Pratto et al. (1994), what do both cases reveal about social dominance?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response_q1_3f37d36b" rcardinality="Single">
+            <render_choice>
+              <response_label ident="A">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Violence is equally distributed across social groups&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="B">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Only states commit violence&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="C">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Both represent hierarchy-maintaining patterns - whether through active state violence or through neglect of violence against low-status groups&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="D">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;SDO is irrelevant to violence against marginalized groups&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response_q1_3f37d36b">C</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+        <itemfeedback ident="correct_fb_q1_3f37d36b">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;Correct!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Pratto et al.&amp;#39;s SDO theory predicts that violence follows hierarchical patterns. Nuremberg shows active state violence against designated &amp;quot;inferior&amp;quot; groups. Wind River shows passive neglect - violence against Indigenous women isn&amp;#39;t prevented, investigated, or punished. Both maintain hierarchy: one through commission, one through omission. High-status groups are protected; low-status groups are victimized or neglected. Different mechanisms, same hierarchical outcome.&lt;/p&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+        <itemfeedback ident="incorrect_fb_q1_3f37d36b">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;The correct answer is C.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Pratto et al.&amp;#39;s SDO theory predicts that violence follows hierarchical patterns. Nuremberg shows active state violence against designated &amp;quot;inferior&amp;quot; groups. Wind River shows passive neglect - violence against Indigenous women isn&amp;#39;t prevented, investigated, or punished. Both maintain hierarchy: one through commission, one through omission. High-status groups are protected; low-status groups are victimized or neglected. Different mechanisms, same hierarchical outcome.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why other answers are incorrect:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;A:&lt;/strong&gt; Both films show violence concentrated against low-status groups.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;B:&lt;/strong&gt; Wind River shows non-state violence that the state fails to address.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;D:&lt;/strong&gt; SDO directly predicts differential treatment by status.&lt;/li&gt;&lt;/ul&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+      </item>
+      <item ident="q2_cd65b620" title="Question 2">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>10</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>q2_cd65b620</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;The Nuremberg defendants claimed they were following a legitimate government&amp;#39;s orders. Violence on reservations often involves perpetrators who face no consequences due to jurisdictional confusion. According to research on belief (Matthews, 2005), what common factor enables both situations?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response_q2_cd65b620" rcardinality="Single">
+            <render_choice>
+              <response_label ident="A">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Criminal personality traits&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="B">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Deliberate evil intent&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="C">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Systems that allow individuals to diffuse responsibility create conditions where violence becomes &amp;quot;no one&amp;#39;s fault&amp;quot; - whether through hierarchy or through jurisdictional gaps&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="D">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Random chance&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response_q2_cd65b620">C</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+        <itemfeedback ident="correct_fb_q2_cd65b620">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;Correct!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Matthews&amp;#39; analysis of reasoning under uncertainty extends to moral responsibility. Both cases involve systems that allow responsibility diffusion. At Nuremberg: &amp;quot;I was following orders; someone above me made the decision.&amp;quot; On reservations: &amp;quot;It&amp;#39;s not my jurisdiction; someone else should handle it.&amp;quot; In both cases, the system creates gaps where violence can occur without anyone bearing clear responsibility. The violence becomes systemic, not attributed to individuals.&lt;/p&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+        <itemfeedback ident="incorrect_fb_q2_cd65b620">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;The correct answer is C.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Matthews&amp;#39; analysis of reasoning under uncertainty extends to moral responsibility. Both cases involve systems that allow responsibility diffusion. At Nuremberg: &amp;quot;I was following orders; someone above me made the decision.&amp;quot; On reservations: &amp;quot;It&amp;#39;s not my jurisdiction; someone else should handle it.&amp;quot; In both cases, the system creates gaps where violence can occur without anyone bearing clear responsibility. The violence becomes systemic, not attributed to individuals.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why other answers are incorrect:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;A:&lt;/strong&gt; The perpetrators aren&amp;#39;t unusually criminal; the systems enable normal people.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;B:&lt;/strong&gt; Individual evil intent isn&amp;#39;t required when systems enable violence.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;D:&lt;/strong&gt; The patterns are systematic, not random.&lt;/li&gt;&lt;/ul&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+      </item>
+      <item ident="q3_54b8ba34" title="Question 3">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>10</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>q3_54b8ba34</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;Both films involve investigators seeking truth against institutional resistance. According to Vrij et al. (2019), what does research suggest about deception in institutional contexts?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response_q3_54b8ba34" rcardinality="Single">
+            <render_choice>
+              <response_label ident="A">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Institutions cannot deceive&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="B">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Only individuals lie; institutions are truthful&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="C">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Institutional deception often involves withholding and misdirection rather than active lying - making traditional &amp;quot;lie detection&amp;quot; approaches inadequate&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="D">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Investigators always succeed against institutional resistance&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response_q3_54b8ba34">C</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+        <itemfeedback ident="correct_fb_q3_54b8ba34">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;Correct!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Vrij et al.&amp;#39;s research focuses on individual deception cues, but institutional deception operates differently. Institutions deceive through omission (not collecting data), misdirection (focusing on wrong questions), and bureaucratic obstruction (making information hard to access). These don&amp;#39;t produce the individual behavioral cues that lie detection research examines. Investigators in both films face institutional resistance that can&amp;#39;t be detected through traditional cue-based methods.&lt;/p&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+        <itemfeedback ident="incorrect_fb_q3_54b8ba34">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;The correct answer is C.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Vrij et al.&amp;#39;s research focuses on individual deception cues, but institutional deception operates differently. Institutions deceive through omission (not collecting data), misdirection (focusing on wrong questions), and bureaucratic obstruction (making information hard to access). These don&amp;#39;t produce the individual behavioral cues that lie detection research examines. Investigators in both films face institutional resistance that can&amp;#39;t be detected through traditional cue-based methods.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why other answers are incorrect:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;A:&lt;/strong&gt; Both films show institutional deception clearly.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;B:&lt;/strong&gt; Institutions can lie through their representatives and systems.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;D:&lt;/strong&gt; Success requires overcoming institutional resistance, which isn&amp;#39;t guaranteed.&lt;/li&gt;&lt;/ul&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+      </item>
+      <item ident="q4_a6857f5f" title="Question 4">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>10</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>q4_a6857f5f</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;Nuremberg established international human rights law; Wind River depicts how domestic law fails to protect Indigenous women. According to Diamantis (2015) on corporate criminal minds, what parallel exists?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response_q4_a6857f5f" rcardinality="Single">
+            <render_choice>
+              <response_label ident="A">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Corporations and governments are identical&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="B">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Only individuals can commit crimes&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="C">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Both cases raise questions about how systems (governments, corporations) can possess criminal intent - and how individuals within systems can escape responsibility for systemic harm&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="D">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Legal systems always succeed at assigning responsibility&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response_q4_a6857f5f">C</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+        <itemfeedback ident="correct_fb_q4_a6857f5f">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;Correct!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Diamantis asks whether corporations can have &amp;quot;criminal minds&amp;quot; - can a system possess mens rea? The same question applies: Can a government have criminal intent? Can a jurisdictional system be criminally negligent? Both films show harm caused by systems, not just individuals. Nuremberg tried to hold individuals responsible for systemic harm; Wind River shows how systemic failures prevent any individual accountability. The legal challenge is attributing responsibility when harm is systemic.&lt;/p&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+        <itemfeedback ident="incorrect_fb_q4_a6857f5f">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;The correct answer is C.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Diamantis asks whether corporations can have &amp;quot;criminal minds&amp;quot; - can a system possess mens rea? The same question applies: Can a government have criminal intent? Can a jurisdictional system be criminally negligent? Both films show harm caused by systems, not just individuals. Nuremberg tried to hold individuals responsible for systemic harm; Wind River shows how systemic failures prevent any individual accountability. The legal challenge is attributing responsibility when harm is systemic.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why other answers are incorrect:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;A:&lt;/strong&gt; They differ but face similar legal-philosophical questions.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;B:&lt;/strong&gt; Systems can cause harm beyond individual actions.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;D:&lt;/strong&gt; Wind River shows failure to assign responsibility.&lt;/li&gt;&lt;/ul&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+      </item>
+      <item ident="q5_aff17eb1" title="Question 5">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>10</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>q5_aff17eb1</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;Ben Ferencz (Nuremberg prosecutor) was haunted by what he witnessed. Cory Lambert (Wind River) is driven by his own daughter&amp;#39;s death. According to McKnight &amp;amp; Kashdan (2009), how does trauma relate to purpose in these characters?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response_q5_aff17eb1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="A">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Trauma always destroys purpose&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="B">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Purpose requires trauma to develop&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="C">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Trauma can reorganize purpose systems - directing energy toward preventing similar harm to others while potentially providing meaning from otherwise senseless suffering&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="D">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Purpose and trauma are unrelated&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response_q5_aff17eb1">C</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+        <itemfeedback ident="correct_fb_q5_aff17eb1">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;Correct!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;McKnight &amp;amp; Kashdan&amp;#39;s self-organizing purpose framework suggests purpose can develop or reorganize around any significant experience, including trauma. Ferencz organized his life around preventing future atrocities; Lambert organized his around protecting others from what happened to his daughter. Neither trauma destroyed nor required purpose, but both reorganized existing purpose systems. Trauma provides something to organize around: preventing recurrence, finding meaning in suffering.&lt;/p&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+        <itemfeedback ident="incorrect_fb_q5_aff17eb1">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;The correct answer is C.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;McKnight &amp;amp; Kashdan&amp;#39;s self-organizing purpose framework suggests purpose can develop or reorganize around any significant experience, including trauma. Ferencz organized his life around preventing future atrocities; Lambert organized his around protecting others from what happened to his daughter. Neither trauma destroyed nor required purpose, but both reorganized existing purpose systems. Trauma provides something to organize around: preventing recurrence, finding meaning in suffering.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why other answers are incorrect:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;A:&lt;/strong&gt; Both characters developed stronger, clearer purpose after trauma.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;B:&lt;/strong&gt; Purpose can develop without trauma; trauma is one possible catalyst.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;D:&lt;/strong&gt; The characters clearly demonstrate relationship between trauma and purpose.&lt;/li&gt;&lt;/ul&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

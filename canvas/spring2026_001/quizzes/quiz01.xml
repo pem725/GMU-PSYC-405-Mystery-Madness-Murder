@@ -1,0 +1,377 @@
+<?xml version="1.0" ?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2">
+  <assessment ident="quiz1_ef466dfd" title="Quiz 1: Course Introduction">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>qmd_timelimit</fieldlabel>
+        <fieldentry/>
+      </qtimetadatafield>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+    </qtimetadata>
+    <section ident="section_quiz1_ef466dfd">
+      <item ident="q1_5fd6c1b6" title="Question 1">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>10</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>q1_5fd6c1b6</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;According to Shermer&amp;#39;s research on belief formation, why might highly intelligent individuals be *more* susceptible to believing &amp;quot;weird things&amp;quot; rather than less?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response_q1_5fd6c1b6" rcardinality="Single">
+            <render_choice>
+              <response_label ident="A">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Intelligence correlates negatively with critical thinking skills&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="B">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Smart people are better at constructing sophisticated rationalizations for beliefs they arrived at for non-smart reasons&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="C">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Higher education exposes people to more pseudoscientific content&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="D">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Intelligent people have less need for empirical evidence&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response_q1_5fd6c1b6">B</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+        <itemfeedback ident="correct_fb_q1_5fd6c1b6">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;Correct!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Shermer&amp;#39;s (2002) key insight is that intelligence doesn&amp;#39;t protect against irrational belief - it actually enhances the ability to defend such beliefs. Smart people don&amp;#39;t arrive at beliefs more rationally; they arrive at them for the same emotional and social reasons as everyone else. However, their cognitive sophistication allows them to construct more elaborate and convincing post-hoc justifications. This is the &amp;quot;smart people rationalization&amp;quot; phenomenon: intelligence is a tool that can be used to defend any position, not just accurate ones.&lt;/p&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+        <itemfeedback ident="incorrect_fb_q1_5fd6c1b6">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;The correct answer is B.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Shermer&amp;#39;s (2002) key insight is that intelligence doesn&amp;#39;t protect against irrational belief - it actually enhances the ability to defend such beliefs. Smart people don&amp;#39;t arrive at beliefs more rationally; they arrive at them for the same emotional and social reasons as everyone else. However, their cognitive sophistication allows them to construct more elaborate and convincing post-hoc justifications. This is the &amp;quot;smart people rationalization&amp;quot; phenomenon: intelligence is a tool that can be used to defend any position, not just accurate ones.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why other answers are incorrect:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;A:&lt;/strong&gt; Empirically false. Intelligence and critical thinking correlate positively (r ≈ 0.30-0.50). This option appeals because it offers a simple inverse relationship.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;C:&lt;/strong&gt; Reverses the actual relationship. Education generally reduces pseudoscientific belief through exposure to scientific methodology.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;D:&lt;/strong&gt; Contradicts research showing intelligent people often demand MORE evidence. The problem is they then use that evidence selectively.&lt;/li&gt;&lt;/ul&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+      </item>
+      <item ident="q2_eec64985" title="Question 2">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>10</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>q2_eec64985</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;The course explores six &amp;quot;governing areas of inquiry.&amp;quot; Which of the following accurately describes the relationship between UNCERTAINTY and BELIEF as psychological constructs?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response_q2_eec64985" rcardinality="Single">
+            <render_choice>
+              <response_label ident="A">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Uncertainty always leads to stronger beliefs as a compensatory mechanism&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="B">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Belief and uncertainty are independent constructs with no psychological relationship&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="C">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Uncertainty can paradoxically strengthen beliefs when evidence is ambiguous, as people seek cognitive closure&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="D">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;High certainty eliminates the need for belief systems entirely&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response_q2_eec64985">C</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+        <itemfeedback ident="correct_fb_q2_eec64985">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;Correct!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Research on need for closure (Kruglanski &amp;amp; Webster, 1996) and uncertainty management (Van den Bos, 2009) demonstrates that uncertainty is aversive and motivates belief adoption. When evidence is ambiguous, people often become MORE committed to existing beliefs rather than revising them - a paradoxical effect. This connects to Boudry &amp;amp; Braeckman&amp;#39;s work on how self-validating belief systems exploit uncertainty to maintain adherence.&lt;/p&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+        <itemfeedback ident="incorrect_fb_q2_eec64985">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;The correct answer is C.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Research on need for closure (Kruglanski &amp;amp; Webster, 1996) and uncertainty management (Van den Bos, 2009) demonstrates that uncertainty is aversive and motivates belief adoption. When evidence is ambiguous, people often become MORE committed to existing beliefs rather than revising them - a paradoxical effect. This connects to Boudry &amp;amp; Braeckman&amp;#39;s work on how self-validating belief systems exploit uncertainty to maintain adherence.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why other answers are incorrect:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;A:&lt;/strong&gt; Too absolute. Sometimes uncertainty leads to belief revision, especially when disconfirmation is clear and personally relevant.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;B:&lt;/strong&gt; Empirically incorrect. Extensive research shows bidirectional relationships between uncertainty tolerance and belief rigidity.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;D:&lt;/strong&gt; Logically flawed. Certainty IS a belief state; you can&amp;#39;t have certainty without believing something.&lt;/li&gt;&lt;/ul&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+      </item>
+      <item ident="q3_deb3c6a4" title="Question 3">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>10</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>q3_deb3c6a4</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;Boudry and Braeckman (2012) argue that &amp;quot;weird&amp;quot; belief systems exhibit surprising resilience because they are &amp;quot;self-validating.&amp;quot; Which psychological mechanism does NOT contribute to this self-validation?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response_q3_deb3c6a4" rcardinality="Single">
+            <render_choice>
+              <response_label ident="A">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Confirmation bias in seeking supporting evidence&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="B">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Motivated reasoning to preserve existing beliefs&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="C">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Systematic falsification testing of core assumptions&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="D">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Immunizing strategies that reinterpret contradictory evidence&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response_q3_deb3c6a4">C</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+        <itemfeedback ident="correct_fb_q3_deb3c6a4">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;Correct!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;This is a &amp;quot;reverse&amp;quot; question testing whether students understand what self-validation IS by identifying what it is NOT. Systematic falsification testing (Popper&amp;#39;s scientific method) would UNDERMINE self-validation by exposing beliefs to genuine disconfirmation. Self-validating belief systems specifically AVOID falsification by using confirmation bias (A), motivated reasoning (B), and immunizing strategies (D). The correct answer is the one that breaks the self-validation cycle.&lt;/p&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+        <itemfeedback ident="incorrect_fb_q3_deb3c6a4">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;The correct answer is C.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;This is a &amp;quot;reverse&amp;quot; question testing whether students understand what self-validation IS by identifying what it is NOT. Systematic falsification testing (Popper&amp;#39;s scientific method) would UNDERMINE self-validation by exposing beliefs to genuine disconfirmation. Self-validating belief systems specifically AVOID falsification by using confirmation bias (A), motivated reasoning (B), and immunizing strategies (D). The correct answer is the one that breaks the self-validation cycle.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why other answers are incorrect:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;A:&lt;/strong&gt; DOES contribute to self-validation. Seeking confirming evidence while ignoring disconfirming evidence protects beliefs.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;B:&lt;/strong&gt; DOES contribute. The desire to maintain beliefs shapes how evidence is processed.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;D:&lt;/strong&gt; DOES contribute. Boudry &amp;amp; Braeckman explicitly identify these as key to self-validation.&lt;/li&gt;&lt;/ul&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+      </item>
+      <item ident="q4_45bb5b95" title="Question 4">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>10</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>q4_45bb5b95</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;When analyzing fictional portrayals of human behavior in film, which methodological consideration from psychological science is MOST critical?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response_q4_45bb5b95" rcardinality="Single">
+            <render_choice>
+              <response_label ident="A">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Films accurately represent base rates of psychological disorders in the population&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="B">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Dramatic necessity often conflicts with psychological accuracy, requiring viewers to distinguish artistic license from scientific validity&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="C">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Both the ecological validity of portrayed behaviors AND the theoretical mechanisms driving those behaviors must be evaluated&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="D">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Film portrayals should be dismissed entirely as entertainment with no psychological relevance&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response_q4_45bb5b95">C</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+        <itemfeedback ident="correct_fb_q4_45bb5b95">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;Correct!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;This answer captures the dual evaluation required for scientific film analysis: (1) ecological validity - does the behavior look realistic in context? and (2) theoretical mechanism - does the portrayed psychological process match what research tells us? Neither alone is sufficient. A behavior might look realistic but operate through fictional mechanisms, or might accurately portray mechanisms in unrealistic contexts.&lt;/p&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+        <itemfeedback ident="incorrect_fb_q4_45bb5b95">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;The correct answer is C.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;This answer captures the dual evaluation required for scientific film analysis: (1) ecological validity - does the behavior look realistic in context? and (2) theoretical mechanism - does the portrayed psychological process match what research tells us? Neither alone is sufficient. A behavior might look realistic but operate through fictional mechanisms, or might accurately portray mechanisms in unrealistic contexts.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why other answers are incorrect:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;A:&lt;/strong&gt; Empirically false. Films dramatically over-represent rare conditions (DID, violent psychosis) and under-represent common ones (depression, anxiety).&lt;/li&gt;&lt;li&gt;&lt;strong&gt;B:&lt;/strong&gt; Partially correct but incomplete. It notes the conflict without specifying HOW to evaluate films productively.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;D:&lt;/strong&gt; Throws away valuable data. Fiction can illuminate psychological processes even when specific details are inaccurate - this is the value of the course.&lt;/li&gt;&lt;/ul&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+      </item>
+      <item ident="q5_c29c66c0" title="Question 5">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>10</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>q5_c29c66c0</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;The Mason Apex learning objectives emphasize &amp;quot;integrating skills, abilities, theories, or methodologies.&amp;quot; In the context of this course, integration means:&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response_q5_c29c66c0" rcardinality="Single">
+            <render_choice>
+              <response_label ident="A">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Memorizing psychological terminology to apply to film analysis&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="B">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Accepting film portrayals as accurate representations of psychological phenomena&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="C">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Separating entertainment value from scientific analysis&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="D">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Synthesizing observational skills, theoretical frameworks, and critical evaluation to analyze complex human behavior in context&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response_q5_c29c66c0">D</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+        <itemfeedback ident="correct_fb_q5_c29c66c0">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;Correct!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Integration in the Mason Apex context means combining multiple skills into a coherent analytical approach. This answer correctly identifies three components that must work together: (1) observational skills - noticing details of behavior in film, (2) theoretical frameworks - psychological science from readings, and (3) critical evaluation - assessing accuracy and relevance. The word &amp;quot;synthesizing&amp;quot; is key - not just using these skills separately but combining them.&lt;/p&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+        <itemfeedback ident="incorrect_fb_q5_c29c66c0">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;The correct answer is D.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Integration in the Mason Apex context means combining multiple skills into a coherent analytical approach. This answer correctly identifies three components that must work together: (1) observational skills - noticing details of behavior in film, (2) theoretical frameworks - psychological science from readings, and (3) critical evaluation - assessing accuracy and relevance. The word &amp;quot;synthesizing&amp;quot; is key - not just using these skills separately but combining them.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why other answers are incorrect:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;A:&lt;/strong&gt; Rote learning, not integration. Knowing terms without applying them misses the point.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;B:&lt;/strong&gt; Uncritical acceptance contradicts the critical evaluation component.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;C:&lt;/strong&gt; False dichotomy. The course shows how entertainment and analysis can enhance each other.&lt;/li&gt;&lt;/ul&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

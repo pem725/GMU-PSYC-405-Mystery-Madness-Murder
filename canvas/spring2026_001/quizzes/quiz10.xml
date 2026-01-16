@@ -1,0 +1,377 @@
+<?xml version="1.0" ?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2">
+  <assessment ident="quiz10_8c3c1cbb" title="Quiz 10: Primal Fear">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>qmd_timelimit</fieldlabel>
+        <fieldentry/>
+      </qtimetadatafield>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+    </qtimetadata>
+    <section ident="section_quiz10_8c3c1cbb">
+      <item ident="q1_2b2d3b38" title="Question 1">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>10</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>q1_2b2d3b38</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;Aaron Stampler convincingly presents with apparent dissociative identity disorder (DID). According to the meta-analytic findings in Marshall et al. (2018), what does research suggest about the relationship between psychopathy and moral understanding?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response_q1_2b2d3b38" rcardinality="Single">
+            <render_choice>
+              <response_label ident="A">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Psychopaths completely lack moral understanding&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="B">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Psychopaths have inverted moral values&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="C">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;The relationship between psychopathy and moral judgment is smaller than commonly believed; psychopaths often understand morality but are unmoved by it&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="D">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Psychopathy and moral judgment are unrelated constructs&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response_q1_2b2d3b38">C</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+        <itemfeedback ident="correct_fb_q1_2b2d3b38">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;Correct!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Marshall et al.&amp;#39;s meta-analysis revealed that psychopaths generally UNDERSTAND moral distinctions - they know what&amp;#39;s right and wrong. The deficit is in caring about these distinctions. Aaron/Roy demonstrates this: he understands that murder is wrong (he constructs an elaborate defense), understands what would be convincing to others (including feigned DID), but is emotionally unmoved by moral considerations. The problem isn&amp;#39;t moral knowledge; it&amp;#39;s moral motivation.&lt;/p&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+        <itemfeedback ident="incorrect_fb_q1_2b2d3b38">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;The correct answer is C.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Marshall et al.&amp;#39;s meta-analysis revealed that psychopaths generally UNDERSTAND moral distinctions - they know what&amp;#39;s right and wrong. The deficit is in caring about these distinctions. Aaron/Roy demonstrates this: he understands that murder is wrong (he constructs an elaborate defense), understands what would be convincing to others (including feigned DID), but is emotionally unmoved by moral considerations. The problem isn&amp;#39;t moral knowledge; it&amp;#39;s moral motivation.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why other answers are incorrect:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;A:&lt;/strong&gt; The research shows moral understanding is present. Complete lack would make Aaron&amp;#39;s manipulation impossible.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;B:&lt;/strong&gt; Psychopaths don&amp;#39;t value the opposite of normal morality; they&amp;#39;re indifferent to moral considerations.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;D:&lt;/strong&gt; The constructs ARE related; the relationship is just smaller than assumed.&lt;/li&gt;&lt;/ul&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+      </item>
+      <item ident="q2_5e9e786d" title="Question 2">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>10</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>q2_5e9e786d</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;Martin Vail accepts Aaron&amp;#39;s case initially for publicity and career advancement. His motivation transforms throughout the trial. According to Pratto et al. (1994), what does Vail&amp;#39;s initial motivation reveal about social dominance orientation?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response_q2_5e9e786d" rcardinality="Single">
+            <render_choice>
+              <response_label ident="A">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;High SDO individuals avoid legal professions&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="B">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Vail demonstrates low SDO through his defense of the accused&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="C">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Defense attorneys may be motivated by hierarchy-enhancing goals (fame, status) while using hierarchy-attenuating rhetoric (defending the powerless)&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="D">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;SDO is irrelevant to legal practice&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response_q2_5e9e786d">C</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+        <itemfeedback ident="correct_fb_q2_5e9e786d">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;Correct!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Pratto et al. describe how SDO can manifest through various career choices. Defense work APPEARS to challenge hierarchy by defending those accused by the state. But Vail&amp;#39;s motivation is hierarchy-enhancing: he wants fame, status, and career advancement. He uses the rhetoric of justice while pursuing personal power. This illustrates how hierarchy-challenging work can serve hierarchy-enhancing goals.&lt;/p&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+        <itemfeedback ident="incorrect_fb_q2_5e9e786d">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;The correct answer is C.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Pratto et al. describe how SDO can manifest through various career choices. Defense work APPEARS to challenge hierarchy by defending those accused by the state. But Vail&amp;#39;s motivation is hierarchy-enhancing: he wants fame, status, and career advancement. He uses the rhetoric of justice while pursuing personal power. This illustrates how hierarchy-challenging work can serve hierarchy-enhancing goals.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why other answers are incorrect:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;A:&lt;/strong&gt; No evidence for this. High SDO individuals might be drawn to law for its power and status.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;B:&lt;/strong&gt; Defending the accused doesn&amp;#39;t automatically indicate low SDO; motivation matters.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;D:&lt;/strong&gt; SDO is relevant to understanding motivations in any profession involving power.&lt;/li&gt;&lt;/ul&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+      </item>
+      <item ident="q3_0a657e8d" title="Question 3">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>10</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>q3_0a657e8d</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;The film&amp;#39;s forensic psychiatrist must distinguish between genuine DID and malingering. According to Vrij et al. (2019), why is this distinction so difficult?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response_q3_0a657e8d" rcardinality="Single">
+            <render_choice>
+              <response_label ident="A">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;DID and malingering produce identical brain scans&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="B">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Psychiatrists receive no training in deception detection&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="C">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Behavioral cues to deception are &amp;quot;faint and unreliable,&amp;quot; and clinical training does not significantly improve detection accuracy&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="D">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Malingerers always eventually confess&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response_q3_0a657e8d">C</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+        <itemfeedback ident="correct_fb_q3_0a657e8d">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;Correct!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Vrij et al.&amp;#39;s research shows that deception detection accuracy is near chance for everyone, including trained professionals. Psychiatrists may believe they can detect malingering, but research doesn&amp;#39;t support this confidence. Aaron succeeds in fooling the psychiatrist because there are no reliable behavioral cues to distinguish genuine symptoms from convincing performance, and clinical training doesn&amp;#39;t improve detection.&lt;/p&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+        <itemfeedback ident="incorrect_fb_q3_0a657e8d">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;The correct answer is C.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Vrij et al.&amp;#39;s research shows that deception detection accuracy is near chance for everyone, including trained professionals. Psychiatrists may believe they can detect malingering, but research doesn&amp;#39;t support this confidence. Aaron succeeds in fooling the psychiatrist because there are no reliable behavioral cues to distinguish genuine symptoms from convincing performance, and clinical training doesn&amp;#39;t improve detection.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why other answers are incorrect:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;A:&lt;/strong&gt; The issue isn&amp;#39;t neuroimaging; it&amp;#39;s behavioral assessment.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;B:&lt;/strong&gt; Psychiatrists DO receive training in malingering assessment; it just doesn&amp;#39;t significantly improve accuracy.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;D:&lt;/strong&gt; No evidence for this claim; Aaron only reveals the truth when he chooses to.&lt;/li&gt;&lt;/ul&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+      </item>
+      <item ident="q4_0c5edefc" title="Question 4">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>10</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>q4_0c5edefc</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;Morse (1992) describes *mens rea* (guilty mind) as central to criminal liability. If Aaron truly had DID, which legal concept would be most relevant to his defense?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response_q4_0c5edefc" rcardinality="Single">
+            <render_choice>
+              <response_label ident="A">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Not guilty by reason of insanity (complete defense)&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="B">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Diminished capacity - the argument that mental illness prevented formation of specific intent required for first-degree murder&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="C">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Automatism (involuntary action)&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="D">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Self-defense (justification)&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response_q4_0c5edefc">B</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+        <itemfeedback ident="correct_fb_q4_0c5edefc">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;Correct!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Diminished capacity is the legal doctrine that mental illness can prevent the formation of the specific intent required for certain crimes. First-degree murder requires premeditation and specific intent to kill. If an alter personality committed the crime without the host personality&amp;#39;s knowledge, the argument would be that the defendant couldn&amp;#39;t form the required specific intent. This reduces (diminishes) culpability without eliminating it entirely.&lt;/p&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+        <itemfeedback ident="incorrect_fb_q4_0c5edefc">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;The correct answer is B.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Diminished capacity is the legal doctrine that mental illness can prevent the formation of the specific intent required for certain crimes. First-degree murder requires premeditation and specific intent to kill. If an alter personality committed the crime without the host personality&amp;#39;s knowledge, the argument would be that the defendant couldn&amp;#39;t form the required specific intent. This reduces (diminishes) culpability without eliminating it entirely.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why other answers are incorrect:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;A:&lt;/strong&gt; Insanity is a complete defense, but DID doesn&amp;#39;t automatically meet insanity standards (must not understand wrongfulness).&lt;/li&gt;&lt;li&gt;&lt;strong&gt;C:&lt;/strong&gt; Automatism involves involuntary physical actions. DID involves separate conscious entities, not involuntary action.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;D:&lt;/strong&gt; No evidence in the film supports a self-defense claim.&lt;/li&gt;&lt;/ul&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+      </item>
+      <item ident="q5_8919941a" title="Question 5">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>10</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>q5_8919941a</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;The film&amp;#39;s twist reveals that &amp;quot;Aaron&amp;quot; was the performance and &amp;quot;Roy&amp;quot; was the true personality. This revelation challenges which assumption about deception?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response_q5_8919941a" rcardinality="Single">
+            <render_choice>
+              <response_label ident="A">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Deception requires conscious effort and shows behavioral leakage&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="B">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;The most effective deception involves becoming the deceptive persona, making traditional cue-based detection impossible&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="C">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Psychiatric evaluation can always detect deception&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="D">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Multiple personalities cannot be fabricated&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response_q5_8919941a">B</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+        <itemfeedback ident="correct_fb_q5_8919941a">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;Correct!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Aaron&amp;#39;s deception succeeds because he doesn&amp;#39;t show &amp;quot;deception cues&amp;quot; - he fully inhabits the innocent persona. Traditional deception detection assumes liars experience cognitive load and emotional leakage. But if the deceiver fully BECOMES the persona, these cues don&amp;#39;t appear. Aaron isn&amp;#39;t lying about being innocent; he&amp;#39;s performing a character so completely that the performance IS his reality during examination.&lt;/p&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+        <itemfeedback ident="incorrect_fb_q5_8919941a">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;The correct answer is B.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Aaron&amp;#39;s deception succeeds because he doesn&amp;#39;t show &amp;quot;deception cues&amp;quot; - he fully inhabits the innocent persona. Traditional deception detection assumes liars experience cognitive load and emotional leakage. But if the deceiver fully BECOMES the persona, these cues don&amp;#39;t appear. Aaron isn&amp;#39;t lying about being innocent; he&amp;#39;s performing a character so completely that the performance IS his reality during examination.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why other answers are incorrect:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;A:&lt;/strong&gt; This is exactly what the twist contradicts. Aaron shows no leakage because his deception is complete immersion.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;C:&lt;/strong&gt; The film directly contradicts this by showing successful deception of psychiatrists.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;D:&lt;/strong&gt; The film suggests DID CAN be fabricated convincingly, which raises real clinical concerns.&lt;/li&gt;&lt;/ul&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>
