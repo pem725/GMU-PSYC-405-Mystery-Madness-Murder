@@ -430,6 +430,100 @@ python scripts/convert_to_canvas_cc.py --all --include-quizzes
 #    - Or: Import quizzes separately, then course website
 ```
 
+## Teaching Notes Workflow
+
+The course maintains confidential teaching notes for instructor use only. These files are tracked in git but NOT published to the website or Canvas.
+
+### Directory Structure
+
+```
+teaching_notes/
+├── README.md                          # Confidentiality notice
+├── TEACHING_NOTES_S2026_001.md        # Section 001 teaching notes
+└── TEACHING_NOTES_S2026_002.md        # Section 002 teaching notes
+```
+
+### File Naming Convention
+Format: `TEACHING_NOTES_{semester}{year}_{section}.md`
+- Examples: `TEACHING_NOTES_S2026_001.md`, `TEACHING_NOTES_F2026_002.md`
+
+### What's Included in Teaching Notes
+
+Each teaching notes file contains:
+
+1. **Quick Reference Schedule** - All class dates mapped to weeks, films, and quizzes
+2. **Class-by-Class Notes** with:
+   - Exact dates and times
+   - Topics to cover with time allocations
+   - Film viewing segments (where to start/stop each class)
+   - Discussion prompts
+3. **Quiz Concepts (MUST COVER)** - Critical material that must be discussed before each quiz:
+   - Specific researchers and concepts
+   - How concepts connect to film content
+   - Marked as "ESSENTIAL" when required for quiz questions
+4. **Key Readings Reference** - Quick lookup table of authors, concepts, and relevant films
+5. **Instructor Reminders** - Quiz logistics, engagement tracking, common student questions
+
+### Privacy Mechanism
+
+Teaching notes are excluded from website publication because:
+- `_quarto.yml` uses an explicit `render:` list (whitelist approach)
+- `teaching_notes/` is NOT in that list
+- Only explicitly listed files are rendered to `_site/`
+
+To verify exclusion: Run `quarto render` and confirm no files appear in `_site/teaching_notes/`
+
+### Creating Teaching Notes for a New Semester
+
+When preparing teaching notes for a new semester:
+
+1. **Calculate class dates:**
+   - Identify first/last day from academic calendar
+   - Map M/W or T/Th schedule to 28 class sessions
+   - Account for spring/fall break
+
+2. **Extract quiz concepts from answer keys:**
+   - Read each `quizzes/answer_keys/{section}_quiz*.md`
+   - Identify key researchers and concepts
+   - Note which concepts are ESSENTIAL for quiz questions
+
+3. **Create teaching notes file:**
+   ```bash
+   # Create from template or previous semester
+   cp teaching_notes/TEACHING_NOTES_S2026_001.md teaching_notes/TEACHING_NOTES_{new_semester}_001.md
+   ```
+
+4. **Update content:**
+   - Replace all dates with new semester dates
+   - Update film schedule if films have changed
+   - Update quiz concepts if questions have changed
+   - Add content warnings for films with sensitive material
+
+5. **Commit (but NOT to website):**
+   ```bash
+   git add teaching_notes/
+   git commit -m "Add teaching notes for {semester}"
+   git push
+   ```
+
+### Using Teaching Notes During the Semester
+
+**Before each class:**
+1. Review the relevant class session notes
+2. Check which quiz concepts need to be covered (marked MUST COVER)
+3. Prepare discussion questions
+4. Queue film to correct timestamp
+
+**Quiz administration:**
+- Announce quiz availability randomly during class
+- Typical window: Announce Tuesday, close Friday
+- Remind students: Best 10 of 14 quizzes count
+
+**Engagement tracking:**
+- Note students who participate
+- Follow up with quiet students via Canvas
+- Engagement = 20% of grade
+
 ## Movie Metadata Standards
 
 ### Required Information for Each Film
@@ -634,12 +728,21 @@ When preparing syllabi for a new semester:
 4. Sync Zotero library and update readings if needed
 5. Create new quiz directory: `quizzes/{semester}{year}_{section}/`
 6. Generate new quizzes integrating updated films and readings
-7. Create answer keys in `quizzes/answer_keys/` (gitignored)
+7. Create answer keys in `quizzes/answer_keys/`
 8. **Convert quizzes to Canvas format:**
    ```bash
    python scripts/convert_to_canvas_qti.py --all --zip
    ```
-9. Import ZIP files to Canvas and configure quiz settings
-10. Verify GMU policy links still work
-11. Render and test all pages locally before pushing
-12. Update `_quarto.yml` navigation if pages changed
+9. **Generate Canvas course website:**
+   ```bash
+   python scripts/convert_to_canvas_cc.py --all --include-quizzes
+   ```
+10. Import `.imscc` and quiz ZIP files to Canvas
+11. **Create teaching notes for both sections:**
+    - Calculate all class dates (28 sessions per section)
+    - Extract quiz concepts from answer keys
+    - Create `teaching_notes/TEACHING_NOTES_{semester}_{section}.md`
+12. Verify GMU policy links still work
+13. Render and test all pages locally before pushing
+14. Update `_quarto.yml` navigation if pages changed
+15. Commit all changes including teaching notes (not published to website)
