@@ -524,6 +524,96 @@ When preparing teaching notes for a new semester:
 - Follow up with quiet students via Canvas
 - Engagement = 20% of grade
 
+## Quiz Performance Analytics Workflow
+
+The course uses an automated system to analyze quiz performance data and identify questions needing revision.
+
+### Directory Structure
+
+```
+quiz_analytics/
+├── scripts/
+│   ├── fetch_canvas_data.py         # Pull data from Canvas API
+│   ├── analyze_quiz_performance.py  # Calculate item statistics
+│   ├── generate_reports.py          # Create Markdown + HTML reports
+│   └── import_survey.py             # Process student feedback
+├── data/                            # Gitignored - local only
+│   ├── raw/                         # Canvas API exports
+│   ├── surveys/                     # Student feedback
+│   └── processed/                   # Analysis results
+├── reports/                         # Generated reports
+│   ├── {section}/                   # Per-quiz Markdown reports
+│   ├── dashboards/                  # Interactive HTML dashboards
+│   └── flagged_questions/           # Summary of issues
+├── config.yaml                      # Thresholds and settings
+└── README.md                        # Quick reference
+```
+
+### Metrics Calculated
+
+| Metric | Description | Flag Threshold |
+|--------|-------------|----------------|
+| **Difficulty (p)** | % of students correct | <30% or >90% |
+| **Discrimination (D)** | Top 27% - Bottom 27% | D < 0.20 |
+| **Point-Biserial r** | Correlation with final grade | r < 0.15 |
+| **Distractor Analysis** | Wrong answer selection rates | <5% or >50% |
+
+### End-of-Semester Workflow
+
+```bash
+# 1. Set Canvas API token
+export CANVAS_TOKEN="your_token_here"
+
+# 2. Fetch all quiz data
+python quiz_analytics/scripts/fetch_canvas_data.py spring2026_001
+
+# 3. Run full analysis and generate reports
+python quiz_analytics/scripts/analyze_quiz_performance.py spring2026_001 --full
+
+# 4. (After survey closes) Import student feedback
+python quiz_analytics/scripts/import_survey.py spring2026_001 survey_export.csv --regenerate
+```
+
+### Output Files
+
+- **Per-quiz reports:** `reports/{section}/quiz_*_analysis.md`
+  - Detailed item statistics for each question
+  - Distractor analysis tables
+  - Flags with specific recommendations
+
+- **Flagged questions summary:** `reports/flagged_questions/{section}_flagged.md`
+  - Critical issues requiring immediate revision
+  - Warnings for next semester review
+  - Excellent questions to use as models
+
+- **Interactive dashboard:** `reports/dashboards/{section}_dashboard.html`
+  - Plotly charts for visual analysis
+  - Difficulty vs. discrimination scatter plot
+  - Quiz-by-quiz score trends
+
+### Student Survey Integration
+
+At semester end, create a Canvas survey with these questions:
+1. "Rate the overall clarity of quiz questions" (1-5 scale)
+2. "Which quiz questions did you find confusing?" (open text)
+3. "Which quiz questions seemed unfair?" (open text)
+4. "Any suggestions for improving quizzes?" (open text)
+
+Export responses as CSV and import with the survey script.
+
+### Configuration
+
+Edit `quiz_analytics/config.yaml` to adjust:
+- Difficulty/discrimination thresholds
+- Course IDs for each section
+- Grouping method (top/bottom 27%, thirds, median)
+
+### Privacy
+
+- Raw data stored locally only (gitignored)
+- All student IDs anonymized (student_001, student_002, etc.)
+- Only aggregated reports tracked in git
+
 ## Movie Metadata Standards
 
 ### Required Information for Each Film
@@ -696,7 +786,7 @@ All external links should include `{target="_blank"}` to open in new tabs:
 ### 5. Canvas Integration Improvements
 - ✅ **COMPLETED:** Automated QTI generation via `scripts/convert_to_canvas_qti.py`
 - ✅ **COMPLETED:** ZIP packaging for easy Canvas import
-- Future: Track quiz performance data to improve question quality
+- ✅ **COMPLETED:** Quiz performance tracking via `quiz_analytics/` (see workflow below)
 - Future: Consider Canvas API integration for direct quiz creation (if needed)
 
 ### 6. Syllabus Streamlining (Future Semesters)
@@ -746,3 +836,25 @@ When preparing syllabi for a new semester:
 13. Render and test all pages locally before pushing
 14. Update `_quarto.yml` navigation if pages changed
 15. Commit all changes including teaching notes (not published to website)
+
+### 8. End-of-Semester Analytics Checklist
+After final grades are submitted:
+1. **Fetch quiz data from Canvas:**
+   ```bash
+   export CANVAS_TOKEN="your_token"
+   python quiz_analytics/scripts/fetch_canvas_data.py spring2026_001
+   python quiz_analytics/scripts/fetch_canvas_data.py spring2026_002
+   ```
+2. **Run performance analysis:**
+   ```bash
+   python quiz_analytics/scripts/analyze_quiz_performance.py --all --full
+   ```
+3. **Create and distribute student survey** via Canvas
+4. **Import survey responses:**
+   ```bash
+   python quiz_analytics/scripts/import_survey.py spring2026_001 survey.csv --regenerate
+   ```
+5. **Review flagged questions** in `quiz_analytics/reports/flagged_questions/`
+6. **Open dashboard** in browser: `quiz_analytics/reports/dashboards/*_dashboard.html`
+7. **Update answer keys** with notes on questions to revise
+8. **Archive analytics** for semester comparison

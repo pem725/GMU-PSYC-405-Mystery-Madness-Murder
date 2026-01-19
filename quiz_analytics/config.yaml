@@ -1,0 +1,97 @@
+# Quiz Performance Analysis Configuration
+# PSYC 405: Mystery, Madness & Murder
+
+# Canvas API Configuration
+canvas:
+  base_url: "https://canvas.gmu.edu"
+  # API token should be set via environment variable: CANVAS_TOKEN
+  # export CANVAS_TOKEN="your_token_here"
+
+# Item Analysis Thresholds (Conservative settings)
+thresholds:
+  difficulty:
+    # p-value thresholds (proportion correct)
+    too_easy: 0.90      # Flag if >90% get it right
+    too_hard: 0.30      # Flag if <30% get it right
+    ideal_min: 0.40     # Ideal difficulty range
+    ideal_max: 0.70     # for multiple choice
+
+  discrimination:
+    # D-index thresholds (top 27% - bottom 27%)
+    excellent: 0.40     # D >= 0.40 is excellent
+    good: 0.30          # D >= 0.30 is good
+    acceptable: 0.20    # D >= 0.20 is acceptable
+    flag_below: 0.20    # Flag if D < 0.20
+    critical: 0.00      # Flag as CRITICAL if D < 0 (negative discrimination)
+
+  distractor:
+    # Wrong answer selection rates
+    min_plausible: 0.05   # Distractor chosen by <5% isn't plausible
+    max_ambiguous: 0.50   # Distractor chosen by >50% may indicate ambiguity
+
+  point_biserial:
+    # Correlation with final grade
+    flag_below: 0.15      # Flag if r_pb < 0.15
+
+# Student grouping for discrimination analysis
+grouping:
+  method: "top_bottom_27"   # Options: top_bottom_27, thirds, median
+  # top_bottom_27: Classical test theory standard - compare top and bottom 27%
+  # thirds: Compare top third vs bottom third
+  # median: Compare above vs below median
+
+# Course definitions
+courses:
+  spring2026_001:
+    course_id: 65049
+    section: "001"
+    semester: "Spring 2026"
+    meeting_time: "M/W 9:00-10:15 AM"
+    num_quizzes: 14
+    points_per_quiz: 50
+    questions_per_quiz: 5
+
+  spring2026_002:
+    course_id: 65050
+    section: "002"
+    semester: "Spring 2026"
+    meeting_time: "M/W 10:30-11:45 AM"
+    num_quizzes: 14
+    points_per_quiz: 50
+    questions_per_quiz: 5
+
+# Report settings
+reports:
+  include_student_ids: false     # Always use anonymous IDs
+  include_timestamps: true       # Include submission times in analysis
+  flag_colors:
+    critical: "#dc3545"          # Red
+    warning: "#ffc107"           # Yellow
+    good: "#28a745"              # Green
+    excellent: "#007bff"         # Blue
+
+# Survey configuration
+survey:
+  questions:
+    - id: "clarity"
+      text: "Rate the overall clarity of quiz questions this semester"
+      type: "scale"
+      scale: [1, 5]
+    - id: "confusing"
+      text: "Which quiz questions did you find confusing or unclear?"
+      type: "open_text"
+    - id: "unfair"
+      text: "Which quiz questions seemed unfair or unrelated to class content?"
+      type: "open_text"
+    - id: "suggestions"
+      text: "Any specific suggestions for improving quizzes?"
+      type: "open_text"
+
+# File paths (relative to quiz_analytics/)
+paths:
+  raw_data: "data/raw"
+  surveys: "data/surveys"
+  processed: "data/processed"
+  reports: "reports"
+  dashboards: "reports/dashboards"
+  flagged: "reports/flagged_questions"

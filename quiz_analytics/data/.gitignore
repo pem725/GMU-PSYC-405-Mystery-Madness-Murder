@@ -1,0 +1,9 @@
+# Keep raw Canvas data local only (contains student response patterns)
+raw/
+surveys/
+
+# Keep processed analysis local (aggregated but still sensitive)
+processed/
+
+# Keep this .gitignore
+!.gitignore
