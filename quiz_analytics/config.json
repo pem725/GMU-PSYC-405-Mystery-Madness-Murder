@@ -1,0 +1,68 @@
+{
+  "canvas": {
+    "base_url": "https://canvas.gmu.edu"
+  },
+  "thresholds": {
+    "difficulty": {
+      "too_easy": 0.90,
+      "too_hard": 0.30,
+      "ideal_min": 0.40,
+      "ideal_max": 0.70
+    },
+    "discrimination": {
+      "excellent": 0.40,
+      "good": 0.30,
+      "acceptable": 0.20,
+      "flag_below": 0.20,
+      "critical": 0.00
+    },
+    "distractor": {
+      "min_plausible": 0.05,
+      "max_ambiguous": 0.50
+    },
+    "point_biserial": {
+      "flag_below": 0.15
+    }
+  },
+  "grouping": {
+    "method": "top_bottom_27"
+  },
+  "courses": {
+    "spring2026_001": {
+      "course_id": 65049,
+      "section": "001",
+      "semester": "Spring 2026",
+      "meeting_time": "M/W 9:00-10:15 AM",
+      "num_quizzes": 14,
+      "points_per_quiz": 50,
+      "questions_per_quiz": 5
+    },
+    "spring2026_002": {
+      "course_id": 65050,
+      "section": "002",
+      "semester": "Spring 2026",
+      "meeting_time": "M/W 10:30-11:45 AM",
+      "num_quizzes": 14,
+      "points_per_quiz": 50,
+      "questions_per_quiz": 5
+    }
+  },
+  "reports": {
+    "include_student_ids": false,
+    "include_timestamps": true,
+    "flag_colors": {
+      "critical": "#dc3545",
+      "warning": "#ffc107",
+      "good": "#28a745",
+      "excellent": "#007bff"
+    }
+  },
+  "paths": {
+    "raw_data": "data/raw",
+    "surveys": "data/surveys",
+    "processed": "data/processed",
+    "reports": "reports",
+    "dashboards": "reports/dashboards",
+    "flagged": "reports/flagged_questions"
+  }
+}

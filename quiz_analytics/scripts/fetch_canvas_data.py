@@ -20,14 +20,28 @@ from urllib.error import HTTPError, URLError
 # Add parent directory to path for imports
 sys.path.insert(0, str(Path(__file__).parent.parent))
 
-import yaml
-
 
 def load_config():
-    """Load configuration from config.yaml."""
-    config_path = Path(__file__).parent.parent / "config.yaml"
-    with open(config_path) as f:
-        return yaml.safe_load(f)
+    """Load configuration from config.json (or config.yaml if available)."""
+    base_path = Path(__file__).parent.parent
+
+    # Try JSON first (no dependencies)
+    json_path = base_path / "config.json"
+    if json_path.exists():
+        with open(json_path) as f:
+            return json.load(f)
+
+    # Fall back to YAML if available
+    yaml_path = base_path / "config.yaml"
+    if yaml_path.exists():
+        try:
+            import yaml
+            with open(yaml_path) as f:
+                return yaml.safe_load(f)
+        except ImportError:
+            pass
+
+    raise FileNotFoundError("No config.json or config.yaml found")
 
 
 def get_canvas_token():
@@ -171,8 +185,20 @@ def process_quiz_data(base_url, course_id, quiz, token, id_map):
     # Fetch submissions
     submissions_raw = fetch_quiz_submissions(base_url, course_id, quiz_id, token)
 
+    # Extract submissions list from various possible response formats
+    submissions_list = []
+    if isinstance(submissions_raw, dict):
+        # Canvas may return {"quiz_submissions": [...]} or {"submissions": [...]}
+        submissions_list = submissions_raw.get("quiz_submissions",
+                          submissions_raw.get("submissions", []))
+    elif isinstance(submissions_raw, list):
+        submissions_list = submissions_raw
+
     submissions = []
-    for sub in submissions_raw.get("quiz_submissions", submissions_raw) if isinstance(submissions_raw, dict) else submissions_raw:
+    for sub in submissions_list:
+        # Skip non-dict elements (Canvas sometimes includes metadata strings)
+        if not isinstance(sub, dict):
+            continue
         if not sub.get("user_id"):
             continue
 

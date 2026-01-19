@@ -19,14 +19,28 @@ from collections import defaultdict
 
 sys.path.insert(0, str(Path(__file__).parent.parent))
 
-import yaml
-
 
 def load_config():
-    """Load configuration from config.yaml."""
-    config_path = Path(__file__).parent.parent / "config.yaml"
-    with open(config_path) as f:
-        return yaml.safe_load(f)
+    """Load configuration from config.json (or config.yaml if available)."""
+    base_path = Path(__file__).parent.parent
+
+    # Try JSON first (no dependencies)
+    json_path = base_path / "config.json"
+    if json_path.exists():
+        with open(json_path) as f:
+            return json.load(f)
+
+    # Fall back to YAML if available
+    yaml_path = base_path / "config.yaml"
+    if yaml_path.exists():
+        try:
+            import yaml
+            with open(yaml_path) as f:
+                return yaml.safe_load(f)
+        except ImportError:
+            pass
+
+    raise FileNotFoundError("No config.json or config.yaml found")
 
 
 def parse_question_references(text):
