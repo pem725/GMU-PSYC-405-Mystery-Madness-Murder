@@ -1,0 +1,5 @@
+# Environment variables (contains API tokens)
+.env
+
+# Keep this .gitignore
+!.gitignore

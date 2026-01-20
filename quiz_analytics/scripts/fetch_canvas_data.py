@@ -44,12 +44,31 @@ def load_config():
     raise FileNotFoundError("No config.json or config.yaml found")
 
 
+def load_env_file():
+    """Load environment variables from .env file if it exists."""
+    env_path = Path(__file__).parent.parent / ".env"
+    if env_path.exists():
+        with open(env_path) as f:
+            for line in f:
+                line = line.strip()
+                if line and not line.startswith("#") and "=" in line:
+                    key, value = line.split("=", 1)
+                    # Remove quotes if present
+                    value = value.strip().strip("'\"")
+                    os.environ[key.strip()] = value
+
+
 def get_canvas_token():
-    """Get Canvas API token from environment variable."""
+    """Get Canvas API token from .env file or environment variable."""
+    # Try loading from .env first
+    load_env_file()
+
     token = os.environ.get("CANVAS_TOKEN")
     if not token:
-        print("Error: CANVAS_TOKEN environment variable not set.")
-        print("Set it with: export CANVAS_TOKEN='your_token_here'")
+        print("Error: CANVAS_TOKEN not found.")
+        print("Either:")
+        print("  1. Create quiz_analytics/.env with: CANVAS_TOKEN='your_token'")
+        print("  2. Or set: export CANVAS_TOKEN='your_token_here'")
         sys.exit(1)
     return token
 
