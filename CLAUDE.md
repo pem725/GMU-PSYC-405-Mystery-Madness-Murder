@@ -528,10 +528,14 @@ When preparing teaching notes for a new semester:
 
 The course uses an automated system to analyze quiz performance data and identify questions needing revision.
 
+**Status:** ✅ COMPLETE - System tested and operational as of January 2026
+
 ### Directory Structure
 
 ```
 quiz_analytics/
+├── .env                             # Canvas API token (gitignored)
+├── .gitignore                       # Excludes .env and data/
 ├── scripts/
 │   ├── fetch_canvas_data.py         # Pull data from Canvas API
 │   ├── analyze_quiz_performance.py  # Calculate item statistics
@@ -545,7 +549,7 @@ quiz_analytics/
 │   ├── {section}/                   # Per-quiz Markdown reports
 │   ├── dashboards/                  # Interactive HTML dashboards
 │   └── flagged_questions/           # Summary of issues
-├── config.yaml                      # Thresholds and settings
+├── config.json                      # Thresholds and settings
 └── README.md                        # Quick reference
 ```
 
@@ -558,20 +562,30 @@ quiz_analytics/
 | **Point-Biserial r** | Correlation with final grade | r < 0.15 |
 | **Distractor Analysis** | Wrong answer selection rates | <5% or >50% |
 
+### Canvas API Token Setup
+
+The Canvas API token is stored in `quiz_analytics/.env` (gitignored, never committed):
+
+```bash
+# One-time setup: Create .env file
+echo "CANVAS_TOKEN='your_token_here'" > quiz_analytics/.env
+
+# Token is auto-loaded by all scripts - no need to export
+```
+
+To get a new token: Canvas → Account → Settings → New Access Token
+
 ### End-of-Semester Workflow
 
 ```bash
-# 1. Set Canvas API token
-export CANVAS_TOKEN="your_token_here"
+# 1. Fetch all quiz data (token auto-loaded from .env)
+python3 quiz_analytics/scripts/fetch_canvas_data.py spring2026_001
 
-# 2. Fetch all quiz data
-python quiz_analytics/scripts/fetch_canvas_data.py spring2026_001
+# 2. Run full analysis and generate reports
+python3 quiz_analytics/scripts/analyze_quiz_performance.py spring2026_001 --full
 
-# 3. Run full analysis and generate reports
-python quiz_analytics/scripts/analyze_quiz_performance.py spring2026_001 --full
-
-# 4. (After survey closes) Import student feedback
-python quiz_analytics/scripts/import_survey.py spring2026_001 survey_export.csv --regenerate
+# 3. (After survey closes) Import student feedback
+python3 quiz_analytics/scripts/import_survey.py spring2026_001 survey_export.csv --regenerate
 ```
 
 ### Output Files
@@ -839,22 +853,28 @@ When preparing syllabi for a new semester:
 
 ### 8. End-of-Semester Analytics Checklist
 After final grades are submitted:
-1. **Fetch quiz data from Canvas:**
+1. **Verify Canvas token is set** (one-time setup in `quiz_analytics/.env`)
+2. **Fetch quiz data from Canvas:**
    ```bash
-   export CANVAS_TOKEN="your_token"
-   python quiz_analytics/scripts/fetch_canvas_data.py spring2026_001
-   python quiz_analytics/scripts/fetch_canvas_data.py spring2026_002
+   python3 quiz_analytics/scripts/fetch_canvas_data.py spring2026_001
+   python3 quiz_analytics/scripts/fetch_canvas_data.py spring2026_002
    ```
-2. **Run performance analysis:**
+3. **Run performance analysis:**
    ```bash
-   python quiz_analytics/scripts/analyze_quiz_performance.py --all --full
+   python3 quiz_analytics/scripts/analyze_quiz_performance.py --all --full
    ```
-3. **Create and distribute student survey** via Canvas
-4. **Import survey responses:**
+4. **Create and distribute student survey** via Canvas
+5. **Import survey responses:**
    ```bash
-   python quiz_analytics/scripts/import_survey.py spring2026_001 survey.csv --regenerate
+   python3 quiz_analytics/scripts/import_survey.py spring2026_001 survey.csv --regenerate
    ```
-5. **Review flagged questions** in `quiz_analytics/reports/flagged_questions/`
-6. **Open dashboard** in browser: `quiz_analytics/reports/dashboards/*_dashboard.html`
-7. **Update answer keys** with notes on questions to revise
-8. **Archive analytics** for semester comparison
+6. **Review flagged questions** in `quiz_analytics/reports/flagged_questions/`
+7. **Open dashboard** in browser: `quiz_analytics/reports/dashboards/*_dashboard.html`
+8. **Update answer keys** with notes on questions to revise
+9. **Archive analytics data** for semester-to-semester comparison
+
+### 9. Mid-Semester Checkpoints
+During the semester, consider these periodic checks:
+1. **Week 4-5:** Quick grades fetch to verify API token still works
+2. **Week 8:** Preliminary analysis on early quizzes (if enough submissions)
+3. **Week 12:** Reminder to prepare end-of-semester survey questions

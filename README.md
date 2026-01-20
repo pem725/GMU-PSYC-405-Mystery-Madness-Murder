@@ -111,6 +111,27 @@ These are not simple recall questions. Each quiz item requires students to:
 - [Case Study: Diabolique](Diabolique.md) - Movie data scraper tool and analysis
 - [Course Readings](https://gmu-psyc405.netlify.app/READINGS.html) - Psychological science literature
 
+## Quiz Performance Analytics
+
+An automated system for analyzing quiz performance data to improve question quality.
+
+### What It Does
+- **Fetches** quiz submission data from Canvas API
+- **Calculates** item statistics (difficulty, discrimination, point-biserial correlation)
+- **Identifies** problematic questions needing revision
+- **Integrates** student survey feedback
+
+### Quick Start
+```bash
+# Token is stored in quiz_analytics/.env (gitignored)
+python3 quiz_analytics/scripts/fetch_canvas_data.py spring2026_001
+python3 quiz_analytics/scripts/analyze_quiz_performance.py spring2026_001 --full
+```
+
+See [`quiz_analytics/README.md`](quiz_analytics/README.md) for full documentation.
+
+---
+
 ## For Instructors
 
 ### Auto-Publishing
@@ -127,6 +148,26 @@ See [SEMESTER_WORKFLOW.md](SEMESTER_WORKFLOW.md) for the complete guide to creat
 - Workflow diagram
 - File naming conventions
 - Movie selection process
+
+### Semester Workflow Summary
+
+#### Start of Semester
+1. Create syllabi: `PSYC405_{semester}{year}_{section}.qmd`
+2. Create quizzes: `quizzes/{semester}{year}_{section}/quiz*.qmd`
+3. Create answer keys: `quizzes/answer_keys/` (gitignored)
+4. Export to Canvas: `python scripts/convert_to_canvas_qti.py --all --zip`
+5. Create teaching notes: `teaching_notes/TEACHING_NOTES_{semester}_{section}.md`
+
+#### During Semester
+- Use teaching notes for class preparation
+- Administer quizzes via Canvas (best 10 of 14 count)
+- Track student engagement (20% of grade)
+
+#### End of Semester
+1. Run quiz analytics: `python3 quiz_analytics/scripts/analyze_quiz_performance.py --all --full`
+2. Distribute student survey via Canvas
+3. Import survey feedback: `python3 quiz_analytics/scripts/import_survey.py {section} survey.csv`
+4. Review flagged questions for next semester
 
 ## Instructor
 

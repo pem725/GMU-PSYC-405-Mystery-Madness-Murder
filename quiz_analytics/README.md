@@ -2,6 +2,8 @@
 
 Automated system for analyzing quiz performance data to improve question quality.
 
+**Status:** ✅ Operational (January 2026)
+
 ## Overview
 
 This system:
@@ -10,23 +12,31 @@ This system:
 3. **Generates** reports identifying questions needing revision
 4. **Integrates** student survey feedback
 
+## Setup (One-Time)
+
+Create a `.env` file with your Canvas API token:
+
+```bash
+# Get token from: Canvas → Account → Settings → New Access Token
+echo "CANVAS_TOKEN='your_token_here'" > .env
+```
+
+The `.env` file is gitignored and will never be committed.
+
 ## Quick Start
 
 ```bash
-# Set Canvas API token
-export CANVAS_TOKEN="your_token_here"
-
-# Fetch all quiz data for a section
-python scripts/fetch_canvas_data.py spring2026_001
+# Fetch all quiz data for a section (token auto-loaded from .env)
+python3 scripts/fetch_canvas_data.py spring2026_001
 
 # Run analysis
-python scripts/analyze_quiz_performance.py spring2026_001
+python3 scripts/analyze_quiz_performance.py spring2026_001
 
 # Generate reports
-python scripts/generate_reports.py spring2026_001
+python3 scripts/generate_reports.py spring2026_001
 
 # Or do everything at once
-python scripts/analyze_quiz_performance.py spring2026_001 --full
+python3 scripts/analyze_quiz_performance.py spring2026_001 --full
 ```
 
 ## Metrics Calculated
@@ -53,10 +63,14 @@ reports/
 
 ## Configuration
 
-Edit `config.yaml` to adjust:
+Edit `config.json` (or `config.yaml`) to adjust:
 - Flag thresholds (difficulty, discrimination)
 - Course IDs and semester info
 - Grouping method (top/bottom 27%, thirds, median)
+
+Current sections configured:
+- `spring2026_001` - Course ID 65049
+- `spring2026_002` - Course ID 65050
 
 ## Student Survey Integration
 
