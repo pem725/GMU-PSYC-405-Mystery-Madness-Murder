@@ -37,11 +37,11 @@ library(tidyverse)  # for data manipulation if needed
 
 ### Weeks 2-3: Diabolique {#diabolique}
 
-The film introduces the concept of "weird beliefs" and their formation, serving as a foundation for understanding belief manipulation and critical thinking.
+We start here because Diabolique shows how easily beliefs can be manipulated—and how we fall for it.
 
 #### Key Sources and Applications
 
-Diamond's[@diamond1961] work on psychiatric examination connects with the film's portrayal of perception versus reality, while Shermer's[@shermer2002, @shermer2003] analysis of thinking fallacies provides a framework for understanding the characters' belief systems.
+Diamond's[@diamond1961] work on psychiatric examination pairs well with the film's perception-versus-reality tension. Shermer[@shermer2002, @shermer2003] helps explain why the characters believe what they believe.
 
 #### Learning Activities
 
@@ -49,11 +49,11 @@ Students analyze the film using Shermer's[@shermer2003] fallacies and apply Troc
 
 ### Weeks 4-5: Hoodwinked! {#hoodwinked}
 
-This section explores narrative influence on beliefs and the nature of deception.
+How does who's telling the story change what we believe?
 
 #### Key Sources and Applications
 
-Vrij et al.'s[@vrij2019] work on deception detection provides a framework for analyzing the multiple perspectives presented in the film. Shermer's[@shermer2003] insights on media manipulation complement the film's narrative structure.
+Vrij et al.[@vrij2019] on deception detection helps us analyze the multiple perspectives in the film. Shermer[@shermer2003] on media manipulation fits the film's narrative structure.
 
 #### Learning Activities
 
@@ -63,7 +63,7 @@ Students examine deception methods and narrator reliability using Vrij's[@vrij20
 
 ### Weeks 6-7: A Beautiful Mind {#beautiful-mind}
 
-Examines mental illness, perception versus reality, and diagnostic challenges.
+What happens when you can't trust your own mind? Nash's story raises hard questions about diagnosis and treatment.
 
 #### Key Sources and Applications
 
@@ -77,7 +77,7 @@ Students apply emotion regulation concepts to character analysis and evaluate tr
 
 ### Weeks 9-10: Jacob's Ladder {#jacobs-ladder}
 
-Explores trauma's effect on perception and the nature of reality.
+What's real when trauma rewrites your experience?
 
 #### Key Sources and Applications
 
@@ -93,7 +93,7 @@ Students analyze rehabilitation approaches and apply Gross's[@gross2015] emotion
 
 ### Weeks 11-12: The Hound of the Baskervilles {#hound}
 
-Examines fear, superstition, and cultural narrative influence on belief.
+Fear spreads through stories. The Baskerville legend shows how superstition takes root.
 
 #### Key Sources and Applications
 
@@ -107,7 +107,7 @@ Students compare the Baskerville legend to Shermer's[@shermer2003] "witch craze"
 
 ### Weeks 13-14: Murder by Death {#murder}
 
-Analyzes motivation, expectation effects on perception, and psychological approaches to crime.
+When everyone's a detective, whose version of events do we trust?
 
 #### Key Sources and Applications
 

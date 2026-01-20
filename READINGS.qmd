@@ -13,7 +13,7 @@ nocite: |
 
 ## Overview
 
-This page provides access to academic readings and resources that support our course discussions. These materials are curated to deepen your understanding of the psychological concepts we explore through film.
+These readings support the psychological concepts we discuss through film.
 
 ::: {.callout-tip}
 ## Zotero Library Access
@@ -23,7 +23,7 @@ All references are available in our public Zotero group library. You can:
 - **Subscribe:** Add this library to your own Zotero account to stay updated as new readings are added
 - **Download:** Export references in any citation format (APA, MLA, Chicago, etc.)
 
-The library is continuously updated throughout the semester with new relevant materials.
+I add new readings as the semester progresses.
 :::
 
 ---
@@ -69,15 +69,15 @@ What gives life meaning? How does purpose relate to happiness and well-being? Th
 
 **McKnight, P. E., Kashdan, T. B., MacKay, A., Kelso, K., & Gross, M.** (2025). Purpose and happiness: A comparison. *The Journal of Positive Psychology*. [DOI](https://doi.org/10.1080/17439760.2025.2515942){target="_blank"}
 
-- Groundbreaking longitudinal study showing that **happiness predicts purpose**, not the other way around. Challenges conventional assumptions about the relationship between these constructs.
+- Longitudinal study showing that **happiness predicts purpose**, not the other way around. Challenges conventional assumptions about this relationship.
 
 **Kashdan, T. B., Goodman, F. R., McKnight, P. E., Brown, B., & Rum, R.** (2024). Purpose in life: A resolution on the definition, conceptual model, and optimal measurement. *American Psychologist, 79*(6), 838-853.
 
-- Definitive article resolving decades of confusion about what "purpose in life" actually means and how to measure it properly.
+- Clarifies what "purpose in life" actually means and how to measure it properly.
 
 **McKnight, P. E., & Kashdan, T. B.** (2009). Purpose in life as a system that creates and sustains health and well-being: An integrative, testable theory. *Review of General Psychology, 13*(3), 242-251.
 
-- The foundational theory paper proposing purpose as a self-organizing system that promotes health. Essential background for understanding how purpose functions psychologically.
+- The original theory paper proposing purpose as a self-organizing system that promotes health.
 :::
 
 ---
@@ -103,7 +103,7 @@ Understanding how we manage our emotional responses is central to many of the ps
 
 **Gross, J. J.** (2015). Emotion regulation: Current status and future prospects. *Psychological Inquiry, 26*(1), 1-26. [DOI](https://doi.org/10.1080/1047840X.2014.940781){target="_blank"}
 
-- The definitive overview of emotion regulation research. Gross introduces the process model that distinguishes between different regulation strategies (suppression vs. reappraisal).
+- Gross introduces the process model that distinguishes suppression from reappraisal—two very different ways of managing emotions.
 :::
 
 ---
@@ -131,7 +131,7 @@ Can we really tell when someone is lying? These readings challenge common assump
 
 **Vrij, A., Hartwig, M., & Granhag, P. A.** (2019). Reading lies: Nonverbal communication and deception. *Annual Review of Psychology, 70*, 295-317. [DOI](https://doi.org/10.1146/annurev-psych-010418-103135){target="_blank"}
 
-- A comprehensive review showing that nonverbal cues to deception are "faint and unreliable" and that people are mediocre lie detectors. Challenges the popular belief in body language as a lie detection tool.
+- Nonverbal cues to deception are "faint and unreliable" and people are mediocre lie detectors. Bad news for anyone who thinks they can read body language.
 :::
 
 ---
@@ -168,7 +168,7 @@ These readings explore the intersection of psychology and law, particularly rega
 Before we discuss a film, consider skimming the relevant readings. They provide theoretical frameworks for understanding character motivations, psychological phenomena, and the realism (or lack thereof) in film portrayals.
 
 ### For Your Own Learning
-These readings go deeper than our class discussions can. If a topic sparks your interest, dive into the primary sources.
+Want more depth? Start with the primary sources.
 
 ### Citation
 All references are available in proper citation format through the Zotero library. Export in APA, MLA, or any format you need.
