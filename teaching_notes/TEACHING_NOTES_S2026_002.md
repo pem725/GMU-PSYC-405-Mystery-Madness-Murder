@@ -20,8 +20,8 @@
 | 5 | Feb 16, 18 | Mystery | Identity | 4 |
 | 6 | Feb 23, 25 | Mystery | Fight Club | 5 |
 | 7 | Mar 2, 4 | Madness | Rain Man | 6 |
-| 8 | Mar 9-15 | Madness | Rain Man / K-PAX | 7 |
-| 9 | Mar 16-20 | **SPRING BREAK** | No Class | - |
+| 8 | Mar 9-15 | **SPRING BREAK** | **R-E-L-A-X** (No Class) | - |
+| 9 | Mar 16, 18 | Madness | Rain Man / K-PAX | 7 |
 | 10 | Mar 23, 25 | Madness | K-PAX | 8 |
 | 11 | Mar 30, Apr 1 | Madness | Leaving Las Vegas | 9 |
 | 12 | Apr 6, 8 | Murder | Nuremberg | 10 |

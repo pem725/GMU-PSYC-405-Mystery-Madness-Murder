@@ -20,8 +20,8 @@
 | 5 | Feb 16, 18 | Mystery | North by Northwest | 4 |
 | 6 | Feb 23, 25 | Mystery | Sunset Boulevard | 5 |
 | 7 | Mar 2, 4 | Madness | Black Swan | 6 |
-| 8 | Mar 9-15 | Madness | Black Swan / Good Will Hunting | 7 |
-| 9 | Mar 16-20 | **SPRING BREAK** | No Class | - |
+| 8 | Mar 9-15 | **SPRING BREAK** | **R-E-L-A-X** (No Class) | - |
+| 9 | Mar 16, 18 | Madness | Black Swan / Good Will Hunting | 7 |
 | 10 | Mar 23, 25 | Madness | Good Will Hunting | 8 |
 | 11 | Mar 30, Apr 1 | Madness | What's Eating Gilbert Grape | 9 |
 | 12 | Apr 6, 8 | Murder | Primal Fear | 10 |

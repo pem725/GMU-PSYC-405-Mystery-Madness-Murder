@@ -120,27 +120,27 @@
           </item>
         </item>
         <item identifier="week_08_module">
-          <title>Week 8: Madness</title>
+          <title>Week 8: SPRING BREAK</title>
           <item identifier="week_08_overview" identifierref="res_week_08_overview">
             <title>Week 8 Overview</title>
           </item>
-          <item identifier="week_08_k_pax" identifierref="res_k_pax">
-            <title>K-PAX (2001)</title>
-          </item>
-          <item identifier="week_08_discussion" identifierref="res_week_08_discussion">
-            <title>Discussion Questions</title>
-          </item>
-          <item identifier="week_08_readings" identifierref="res_week_08_readings">
-            <title>Readings</title>
-          </item>
-          <item identifier="week_08_quiz" identifierref="res_quiz_07">
-            <title>Quiz 7</title>
-          </item>
         </item>
         <item identifier="week_09_module">
-          <title>Week 9: SPRING BREAK</title>
+          <title>Week 9: Madness</title>
           <item identifier="week_09_overview" identifierref="res_week_09_overview">
             <title>Week 9 Overview</title>
+          </item>
+          <item identifier="week_09_k_pax" identifierref="res_k_pax">
+            <title>K-PAX (2001)</title>
+          </item>
+          <item identifier="week_09_discussion" identifierref="res_week_09_discussion">
+            <title>Discussion Questions</title>
+          </item>
+          <item identifier="week_09_readings" identifierref="res_week_09_readings">
+            <title>Readings</title>
+          </item>
+          <item identifier="week_09_quiz" identifierref="res_quiz_07">
+            <title>Quiz 7</title>
           </item>
         </item>
         <item identifier="week_10_module">
@@ -324,20 +324,20 @@
     <resource identifier="res_week_08_overview" type="webcontent" href="week08/overview.html">
       <file href="week08/overview.html"/>
     </resource>
-    <resource identifier="res_k_pax" type="webcontent" href="week08/k_pax.html">
-      <file href="week08/k_pax.html"/>
+    <resource identifier="res_week_09_overview" type="webcontent" href="week09/overview.html">
+      <file href="week09/overview.html"/>
     </resource>
-    <resource identifier="res_week_08_discussion" type="webcontent" href="week08/discussion.html">
-      <file href="week08/discussion.html"/>
+    <resource identifier="res_k_pax" type="webcontent" href="week09/k_pax.html">
+      <file href="week09/k_pax.html"/>
     </resource>
-    <resource identifier="res_week_08_readings" type="webcontent" href="week08/readings.html">
-      <file href="week08/readings.html"/>
+    <resource identifier="res_week_09_discussion" type="webcontent" href="week09/discussion.html">
+      <file href="week09/discussion.html"/>
+    </resource>
+    <resource identifier="res_week_09_readings" type="webcontent" href="week09/readings.html">
+      <file href="week09/readings.html"/>
     </resource>
     <resource identifier="res_quiz_07" type="imsqti_xmlv1p2" href="quizzes/quiz07.xml">
       <file href="quizzes/quiz07.xml"/>
-    </resource>
-    <resource identifier="res_week_09_overview" type="webcontent" href="week09/overview.html">
-      <file href="week09/overview.html"/>
     </resource>
     <resource identifier="res_week_10_overview" type="webcontent" href="week10/overview.html">
       <file href="week10/overview.html"/>
