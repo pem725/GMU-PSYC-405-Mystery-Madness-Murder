@@ -5,25 +5,29 @@
 
 ---
 
+> ⚠️ **SCHEDULE CHANGE (Snow Storm):** Week 2 was lost due to severe weather/university closure. All content shifted one week later. Weeks 14 and 15 combined into single final week. **Total quizzes: 13 (not 14). Best 10 still count.** Total classes: 26 (not 28).
+
+---
+
 ## Quick Reference
 
 | Week | Dates | Module | Film(s) | Quiz |
 |:----:|:------|:------:|:--------|:----:|
 | 1 | Jan 21 | Intro | Welcome & Course Overview | 1 |
-| 2 | Jan 26, 28 | Mystery | The Machinist | 2 |
-| 3 | Feb 2, 4 | Mystery | The Machinist / Identity | 3 |
-| 4 | Feb 9, 11 | Mystery | Identity | 4 |
-| 5 | Feb 16, 18 | Mystery | Fight Club | 5 |
-| 6 | Feb 23, 25 | Madness | Rain Man | 6 |
-| 7 | Mar 2, 4 | Madness | Rain Man / K-PAX | 7 |
-| 8 | Mar 9-15 | **SPRING BREAK** | No Class | - |
-| 9 | Mar 16, 18 | Madness | K-PAX | 8 |
-| 10 | Mar 23, 25 | Madness | Leaving Las Vegas | 9 |
-| 11 | Mar 30, Apr 1 | Murder | Nuremberg | 10 |
-| 12 | Apr 6, 8 | Murder | Nuremberg / Wind River | 11 |
-| 13 | Apr 13, 15 | Murder | Wind River | 12 |
-| 14 | Apr 20, 22 | Murder | Wrap-up & Review | 13 |
-| 15 | Apr 27, 29, May 4 | Epilogue | Final Discussion | 14 |
+| 2 | Jan 26, 28 | **SNOW WEEK** | **University Closed - No Classes** | - |
+| 3 | Feb 2, 4 | Mystery | The Machinist | 2 |
+| 4 | Feb 9, 11 | Mystery | The Machinist / Identity | 3 |
+| 5 | Feb 16, 18 | Mystery | Identity | 4 |
+| 6 | Feb 23, 25 | Mystery | Fight Club | 5 |
+| 7 | Mar 2, 4 | Madness | Rain Man | 6 |
+| 8 | Mar 9-15 | Madness | Rain Man / K-PAX | 7 |
+| 9 | Mar 16-20 | **SPRING BREAK** | No Class | - |
+| 10 | Mar 23, 25 | Madness | K-PAX | 8 |
+| 11 | Mar 30, Apr 1 | Madness | Leaving Las Vegas | 9 |
+| 12 | Apr 6, 8 | Murder | Nuremberg | 10 |
+| 13 | Apr 13, 15 | Murder | Nuremberg / Wind River | 11 |
+| 14 | Apr 20, 22 | Murder | Wind River | 12 |
+| 15 | Apr 27, 29, May 4 | Epilogue | Wrap-up, Review & Final Reflections | 13 |
 
 ---
 
@@ -73,9 +77,15 @@
 
 ---
 
-## Week 2: The Machinist (Part I)
+## Week 2: SNOW WEEK (University Closed)
 
-### Class 2 - Monday, January 26
+> ⚠️ **No classes held.** University closed due to severe snow storm. All content originally planned for Week 2 has been shifted to Week 3.
+
+---
+
+## Week 3: The Machinist (Part I)
+
+### Class 2 - Monday, February 2
 **Time:** 10:30-11:45 AM
 
 #### Pre-Class Preparation
@@ -935,7 +945,7 @@ Both examine how systems - through action or inaction - enable harm.
 ### Quiz Administration
 - Announce quiz availability randomly during class
 - Typical window: Announce Tuesday, close Friday
-- Remind students: Best 10 of 14 quizzes count
+- Remind students: Best 10 of 13 quizzes count (reduced from 14 due to snow week)
 
 ### Engagement Tracking
 - Note students who participate
@@ -955,5 +965,5 @@ Both examine how systems - through action or inaction - enable harm.
 
 ---
 
-*Last Updated: January 2026*
+*Last Updated: January 2026 (Revised for snow week schedule change)*
 *CONFIDENTIAL TEACHING NOTES - Section 002*
