@@ -10,6 +10,11 @@ format:
 
 ## Overview
 
+::: {.callout-warning icon="snowflake"}
+## Schedule Change Notice (Snow Storm)
+Due to university closure during Week 2 from a severe snow storm, the course has been reduced to **13 quizzes** (from 14). Everyone receives automatic 100% credit for the eliminated quiz - you start with one perfect score in the bank! You only need your best 9 additional quiz scores to complete your grade.
+:::
+
 Weekly quizzes test your integration of **film content** AND **psychological science**. These are not simple recall questions - they require you to connect what you observe in films with the theoretical frameworks from our [course readings](READINGS.qmd).
 
 ::: {.callout-tip}
@@ -43,8 +48,7 @@ The questions are intentionally difficult. To succeed:
 | [Quiz 10](quizzes/spring2026_001/quiz10_primal_fear.html){target="_blank"} | Primal Fear (Part I) | Primal Fear | Psychopathy, deception, mens rea |
 | [Quiz 11](quizzes/spring2026_001/quiz11_primal_fear_hurricane.html){target="_blank"} | Primal Fear / The Hurricane | Both | Justice, belief systems, institutional bias |
 | [Quiz 12](quizzes/spring2026_001/quiz12_hurricane.html){target="_blank"} | The Hurricane | The Hurricane | Wrongful conviction, SDO, purpose |
-| [Quiz 13](quizzes/spring2026_001/quiz13_wrapup.html){target="_blank"} | Course Integration | All films | Synthesis across all themes |
-| [Quiz 14](quizzes/spring2026_001/quiz14_final.html){target="_blank"} | Final Reflection | All films | Applied psychological science |
+| [Quiz 13](quizzes/spring2026_001/quiz13_wrapup.html){target="_blank"} | Final Integration | All films | Synthesis across all themes |
 
 ---
 
@@ -66,8 +70,7 @@ The questions are intentionally difficult. To succeed:
 | [Quiz 10](quizzes/spring2026_002/quiz10_nuremberg.html){target="_blank"} | Nuremberg (Part I) | Nuremberg | War crimes, SDO, moral judgment |
 | [Quiz 11](quizzes/spring2026_002/quiz11_nuremberg_wind_river.html){target="_blank"} | Nuremberg / Wind River | Both | Systemic injustice, responsibility |
 | [Quiz 12](quizzes/spring2026_002/quiz12_wind_river.html){target="_blank"} | Wind River | Wind River | Marginalized communities, grief, purpose |
-| [Quiz 13](quizzes/spring2026_002/quiz13_wrapup.html){target="_blank"} | Course Integration | All films | Synthesis across all themes |
-| [Quiz 14](quizzes/spring2026_002/quiz14_final.html){target="_blank"} | Final Reflection | All films | Applied psychological science |
+| [Quiz 13](quizzes/spring2026_002/quiz13_wrapup.html){target="_blank"} | Final Integration | All films | Synthesis across all themes |
 
 ---
 
@@ -117,4 +120,4 @@ Quiz availability is announced in class. Come to class to know when quizzes open
 
 *Questions integrate film content with psychological science from our [course readings](READINGS.qmd).*
 
-*Last updated: January 2026*
+*Last updated: January 31, 2026 (Revised for snow week schedule - 13 quizzes total)*
