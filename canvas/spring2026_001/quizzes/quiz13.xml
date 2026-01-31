@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2">
-  <assessment ident="quiz13_179d516b" title="Quiz 13: Course Integration">
+  <assessment ident="quiz13_c807ca64" title="Quiz 13: Course Integration">
     <qtimetadata>
       <qtimetadatafield>
         <fieldlabel>qmd_timelimit</fieldlabel>
@@ -11,8 +11,8 @@
         <fieldentry>1</fieldentry>
       </qtimetadatafield>
     </qtimetadata>
-    <section ident="section_quiz13_179d516b">
-      <item ident="q1_11be3611" title="Question 1">
+    <section ident="section_quiz13_c807ca64">
+      <item ident="q1_0f59db79" title="Question 1">
         <itemmetadata>
           <qtimetadata>
             <qtimetadatafield>
@@ -25,7 +25,7 @@
             </qtimetadatafield>
             <qtimetadatafield>
               <fieldlabel>assessment_question_identifierref</fieldlabel>
-              <fieldentry>q1_11be3611</fieldentry>
+              <fieldentry>q1_0f59db79</fieldentry>
             </qtimetadatafield>
           </qtimetadata>
         </itemmetadata>
@@ -33,7 +33,7 @@
           <material>
             <mattext texttype="text/html">&lt;p&gt;Across the films we studied (Shutter Island, North by Northwest, Sunset Boulevard, Black Swan, Good Will Hunting, What&amp;#39;s Eating Gilbert Grape, Primal Fear, The Hurricane), which psychological construct appeared most consistently as a source of character dysfunction?&lt;/p&gt;</mattext>
           </material>
-          <response_lid ident="response_q1_11be3611" rcardinality="Single">
+          <response_lid ident="response_q1_0f59db79" rcardinality="Single">
             <render_choice>
               <response_label ident="A">
                 <material>
@@ -64,12 +64,12 @@
           </outcomes>
           <respcondition continue="No">
             <conditionvar>
-              <varequal respident="response_q1_11be3611">C</varequal>
+              <varequal respident="response_q1_0f59db79">C</varequal>
             </conditionvar>
             <setvar action="Set" varname="SCORE">100</setvar>
           </respcondition>
         </resprocessing>
-        <itemfeedback ident="correct_fb_q1_11be3611">
+        <itemfeedback ident="correct_fb_q1_0f59db79">
           <flow_mat>
             <material>
               <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;Correct!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Across all eight films, identity disturbance emerges as the central theme:
@@ -84,7 +84,7 @@
             </material>
           </flow_mat>
         </itemfeedback>
-        <itemfeedback ident="incorrect_fb_q1_11be3611">
+        <itemfeedback ident="incorrect_fb_q1_0f59db79">
           <flow_mat>
             <material>
               <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;The correct answer is C.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Across all eight films, identity disturbance emerges as the central theme:
@@ -100,7 +100,7 @@
           </flow_mat>
         </itemfeedback>
       </item>
-      <item ident="q2_f7869104" title="Question 2">
+      <item ident="q2_c3c409dd" title="Question 2">
         <itemmetadata>
           <qtimetadata>
             <qtimetadatafield>
@@ -113,7 +113,7 @@
             </qtimetadatafield>
             <qtimetadatafield>
               <fieldlabel>assessment_question_identifierref</fieldlabel>
-              <fieldentry>q2_f7869104</fieldentry>
+              <fieldentry>q2_c3c409dd</fieldentry>
             </qtimetadatafield>
           </qtimetadata>
         </itemmetadata>
@@ -121,7 +121,7 @@
           <material>
             <mattext texttype="text/html">&lt;p&gt;Emotion differentiation research (Kashdan et al., 2015; Kalokerinos et al., 2019) predicts that low differentiators will show ineffective emotion regulation. Which film character best exemplifies this pattern?&lt;/p&gt;</mattext>
           </material>
-          <response_lid ident="response_q2_f7869104" rcardinality="Single">
+          <response_lid ident="response_q2_c3c409dd" rcardinality="Single">
             <render_choice>
               <response_label ident="A">
                 <material>
@@ -152,19 +152,19 @@
           </outcomes>
           <respcondition continue="No">
             <conditionvar>
-              <varequal respident="response_q2_f7869104">C</varequal>
+              <varequal respident="response_q2_c3c409dd">C</varequal>
             </conditionvar>
             <setvar action="Set" varname="SCORE">100</setvar>
           </respcondition>
         </resprocessing>
-        <itemfeedback ident="correct_fb_q2_f7869104">
+        <itemfeedback ident="correct_fb_q2_c3c409dd">
           <flow_mat>
             <material>
               <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;Correct!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Kalokerinos et al.&amp;#39;s key finding is that low differentiators show REVERSED effects - all regulation strategies increase negative affect. Nina exemplifies this: she tries practice (increases anxiety), perfectionism (increases anxiety), isolation (increases anxiety), seeking help from Thomas (increases anxiety). Every strategy fails because she can&amp;#39;t identify what she&amp;#39;s actually feeling. Her regulation attempts make her worse, not better.&lt;/p&gt;</mattext>
             </material>
           </flow_mat>
         </itemfeedback>
-        <itemfeedback ident="incorrect_fb_q2_f7869104">
+        <itemfeedback ident="incorrect_fb_q2_c3c409dd">
           <flow_mat>
             <material>
               <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;The correct answer is C.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Kalokerinos et al.&amp;#39;s key finding is that low differentiators show REVERSED effects - all regulation strategies increase negative affect. Nina exemplifies this: she tries practice (increases anxiety), perfectionism (increases anxiety), isolation (increases anxiety), seeking help from Thomas (increases anxiety). Every strategy fails because she can&amp;#39;t identify what she&amp;#39;s actually feeling. Her regulation attempts make her worse, not better.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why other answers are incorrect:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;A:&lt;/strong&gt; Adapts effectively to changing situations; shows regulatory competence.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;B:&lt;/strong&gt; Demonstrates differentiated emotional processing and effective regulation.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;D:&lt;/strong&gt; Maintains regulation under extreme pressure; shows regulatory success, not failure.&lt;/li&gt;&lt;/ul&gt;</mattext>
@@ -172,7 +172,7 @@
           </flow_mat>
         </itemfeedback>
       </item>
-      <item ident="q3_48a9fc94" title="Question 3">
+      <item ident="q3_3a28435a" title="Question 3">
         <itemmetadata>
           <qtimetadata>
             <qtimetadatafield>
@@ -185,7 +185,7 @@
             </qtimetadatafield>
             <qtimetadatafield>
               <fieldlabel>assessment_question_identifierref</fieldlabel>
-              <fieldentry>q3_48a9fc94</fieldentry>
+              <fieldentry>q3_3a28435a</fieldentry>
             </qtimetadatafield>
           </qtimetadata>
         </itemmetadata>
@@ -193,7 +193,7 @@
           <material>
             <mattext texttype="text/html">&lt;p&gt;According to the purpose literature (McKnight &amp;amp; Kashdan, 2009; Kashdan et al., 2024), authentic purpose requires self-concordance - alignment between goals and personal values. Which character&amp;#39;s arc best demonstrates the DEVELOPMENT of self-concordant purpose?&lt;/p&gt;</mattext>
           </material>
-          <response_lid ident="response_q3_48a9fc94" rcardinality="Single">
+          <response_lid ident="response_q3_3a28435a" rcardinality="Single">
             <render_choice>
               <response_label ident="A">
                 <material>
@@ -224,19 +224,19 @@
           </outcomes>
           <respcondition continue="No">
             <conditionvar>
-              <varequal respident="response_q3_48a9fc94">B</varequal>
+              <varequal respident="response_q3_3a28435a">B</varequal>
             </conditionvar>
             <setvar action="Set" varname="SCORE">100</setvar>
           </respcondition>
         </resprocessing>
-        <itemfeedback ident="correct_fb_q3_48a9fc94">
+        <itemfeedback ident="correct_fb_q3_3a28435a">
           <flow_mat>
             <material>
               <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;Correct!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Will&amp;#39;s arc shows purpose DEVELOPMENT. He starts with goals imposed by others (Lambeau&amp;#39;s career expectations, his friends&amp;#39; assumptions) and moves toward self-chosen direction (pursuing Skylar, embracing vulnerability). This transformation from external to internal motivation represents the development of self-concordant purpose. He&amp;#39;s not just achieving goals; he&amp;#39;s choosing goals that align with his authentic values.&lt;/p&gt;</mattext>
             </material>
           </flow_mat>
         </itemfeedback>
-        <itemfeedback ident="incorrect_fb_q3_48a9fc94">
+        <itemfeedback ident="incorrect_fb_q3_3a28435a">
           <flow_mat>
             <material>
               <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;The correct answer is B.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Will&amp;#39;s arc shows purpose DEVELOPMENT. He starts with goals imposed by others (Lambeau&amp;#39;s career expectations, his friends&amp;#39; assumptions) and moves toward self-chosen direction (pursuing Skylar, embracing vulnerability). This transformation from external to internal motivation represents the development of self-concordant purpose. He&amp;#39;s not just achieving goals; he&amp;#39;s choosing goals that align with his authentic values.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why other answers are incorrect:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;A:&lt;/strong&gt; Norma&amp;#39;s goals are delusional and don&amp;#39;t develop; she maintains static dysfunction.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;C:&lt;/strong&gt; Aaron&amp;#39;s goals are manipulative; effectiveness isn&amp;#39;t the same as self-concordance.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;D:&lt;/strong&gt; Teddy pursues delusion, not authentic purpose; his mission is a defensive construct.&lt;/li&gt;&lt;/ul&gt;</mattext>
@@ -244,7 +244,7 @@
           </flow_mat>
         </itemfeedback>
       </item>
-      <item ident="q4_691e9532" title="Question 4">
+      <item ident="q4_0296d8c5" title="Question 4">
         <itemmetadata>
           <qtimetadata>
             <qtimetadatafield>
@@ -257,7 +257,7 @@
             </qtimetadatafield>
             <qtimetadatafield>
               <fieldlabel>assessment_question_identifierref</fieldlabel>
-              <fieldentry>q4_691e9532</fieldentry>
+              <fieldentry>q4_0296d8c5</fieldentry>
             </qtimetadatafield>
           </qtimetadata>
         </itemmetadata>
@@ -265,7 +265,7 @@
           <material>
             <mattext texttype="text/html">&lt;p&gt;Shermer (2002) and Boudry &amp;amp; Braeckman (2012) both emphasize that intelligent people can construct sophisticated defenses for irrational beliefs. Which film most explicitly dramatizes this &amp;quot;smart person&amp;#39;s folly&amp;quot;?&lt;/p&gt;</mattext>
           </material>
-          <response_lid ident="response_q4_691e9532" rcardinality="Single">
+          <response_lid ident="response_q4_0296d8c5" rcardinality="Single">
             <render_choice>
               <response_label ident="A">
                 <material>
@@ -296,19 +296,19 @@
           </outcomes>
           <respcondition continue="No">
             <conditionvar>
-              <varequal respident="response_q4_691e9532">C</varequal>
+              <varequal respident="response_q4_0296d8c5">C</varequal>
             </conditionvar>
             <setvar action="Set" varname="SCORE">100</setvar>
           </respcondition>
         </resprocessing>
-        <itemfeedback ident="correct_fb_q4_691e9532">
+        <itemfeedback ident="correct_fb_q4_0296d8c5">
           <flow_mat>
             <material>
               <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;Correct!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Shutter Island most explicitly shows intelligent rationalization of irrational belief. Andrew is clearly intelligent - he constructs an elaborate, internally consistent delusional system complete with conspiracy theories, fake investigations, and interpretive frameworks. Every piece of contradictory evidence is reinterpreted to support the delusion. This is Shermer&amp;#39;s &amp;quot;smart person&amp;#39;s folly&amp;quot; dramatized: intelligence creating better defenses, not better truth-detection.&lt;/p&gt;</mattext>
             </material>
           </flow_mat>
         </itemfeedback>
-        <itemfeedback ident="incorrect_fb_q4_691e9532">
+        <itemfeedback ident="incorrect_fb_q4_0296d8c5">
           <flow_mat>
             <material>
               <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;The correct answer is C.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Shutter Island most explicitly shows intelligent rationalization of irrational belief. Andrew is clearly intelligent - he constructs an elaborate, internally consistent delusional system complete with conspiracy theories, fake investigations, and interpretive frameworks. Every piece of contradictory evidence is reinterpreted to support the delusion. This is Shermer&amp;#39;s &amp;quot;smart person&amp;#39;s folly&amp;quot; dramatized: intelligence creating better defenses, not better truth-detection.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why other answers are incorrect:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;A:&lt;/strong&gt; Characters aren&amp;#39;t particularly sophisticated in their belief defenses.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;B:&lt;/strong&gt; Carter maintains TRUE beliefs; this isn&amp;#39;t about defending irrationality.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;D:&lt;/strong&gt; Thornhill is confused by others&amp;#39; beliefs, not constructing elaborate defenses of his own.&lt;/li&gt;&lt;/ul&gt;</mattext>
@@ -316,7 +316,7 @@
           </flow_mat>
         </itemfeedback>
       </item>
-      <item ident="q5_620c72a5" title="Question 5">
+      <item ident="q5_1e6c0d07" title="Question 5">
         <itemmetadata>
           <qtimetadata>
             <qtimetadatafield>
@@ -329,7 +329,7 @@
             </qtimetadatafield>
             <qtimetadatafield>
               <fieldlabel>assessment_question_identifierref</fieldlabel>
-              <fieldentry>q5_620c72a5</fieldentry>
+              <fieldentry>q5_1e6c0d07</fieldentry>
             </qtimetadatafield>
           </qtimetadata>
         </itemmetadata>
@@ -337,7 +337,7 @@
           <material>
             <mattext texttype="text/html">&lt;p&gt;The course examined six governing areas of inquiry: BELIEF, PURPOSE, MOTIVATION, UNCERTAINTY, DISCOMFORT, and EMOTION. According to the psychological research we reviewed, how do these areas relate to each other?&lt;/p&gt;</mattext>
           </material>
-          <response_lid ident="response_q5_620c72a5" rcardinality="Single">
+          <response_lid ident="response_q5_1e6c0d07" rcardinality="Single">
             <render_choice>
               <response_label ident="A">
                 <material>
@@ -368,12 +368,12 @@
           </outcomes>
           <respcondition continue="No">
             <conditionvar>
-              <varequal respident="response_q5_620c72a5">D</varequal>
+              <varequal respident="response_q5_1e6c0d07">D</varequal>
             </conditionvar>
             <setvar action="Set" varname="SCORE">100</setvar>
           </respcondition>
         </resprocessing>
-        <itemfeedback ident="correct_fb_q5_620c72a5">
+        <itemfeedback ident="correct_fb_q5_1e6c0d07">
           <flow_mat>
             <material>
               <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;Correct!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The course emphasized interconnection among all six constructs:
@@ -387,7 +387,7 @@ These aren&amp;#39;t separate modules but an integrated system where changes in 
             </material>
           </flow_mat>
         </itemfeedback>
-        <itemfeedback ident="incorrect_fb_q5_620c72a5">
+        <itemfeedback ident="incorrect_fb_q5_1e6c0d07">
           <flow_mat>
             <material>
               <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;The correct answer is D.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The course emphasized interconnection among all six constructs:

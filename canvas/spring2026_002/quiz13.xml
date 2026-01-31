@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2">
-  <assessment ident="quiz13_2ac821c1" title="Quiz 13: Course Integration">
+  <assessment ident="quiz13_60948224" title="Quiz 13: Course Integration">
     <qtimetadata>
       <qtimetadatafield>
         <fieldlabel>qmd_timelimit</fieldlabel>
@@ -11,8 +11,8 @@
         <fieldentry>1</fieldentry>
       </qtimetadatafield>
     </qtimetadata>
-    <section ident="section_quiz13_2ac821c1">
-      <item ident="q1_a04633e8" title="Question 1">
+    <section ident="section_quiz13_60948224">
+      <item ident="q1_971fd4c6" title="Question 1">
         <itemmetadata>
           <qtimetadata>
             <qtimetadatafield>
@@ -25,7 +25,7 @@
             </qtimetadatafield>
             <qtimetadatafield>
               <fieldlabel>assessment_question_identifierref</fieldlabel>
-              <fieldentry>q1_a04633e8</fieldentry>
+              <fieldentry>q1_971fd4c6</fieldentry>
             </qtimetadatafield>
           </qtimetadata>
         </itemmetadata>
@@ -33,7 +33,7 @@
           <material>
             <mattext texttype="text/html">&lt;p&gt;Across the films we studied (The Machinist, Identity, Fight Club, Rain Man, K-PAX, Leaving Las Vegas, Nuremberg, Wind River), which psychological theme appeared most consistently?&lt;/p&gt;</mattext>
           </material>
-          <response_lid ident="response_q1_a04633e8" rcardinality="Single">
+          <response_lid ident="response_q1_971fd4c6" rcardinality="Single">
             <render_choice>
               <response_label ident="A">
                 <material>
@@ -64,12 +64,12 @@
           </outcomes>
           <respcondition continue="No">
             <conditionvar>
-              <varequal respident="response_q1_a04633e8">B</varequal>
+              <varequal respident="response_q1_971fd4c6">B</varequal>
             </conditionvar>
             <setvar action="Set" varname="SCORE">100</setvar>
           </respcondition>
         </resprocessing>
-        <itemfeedback ident="correct_fb_q1_a04633e8">
+        <itemfeedback ident="correct_fb_q1_971fd4c6">
           <flow_mat>
             <material>
               <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;Correct!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Across all eight films, identity disturbance is the central theme:
@@ -84,7 +84,7 @@
             </material>
           </flow_mat>
         </itemfeedback>
-        <itemfeedback ident="incorrect_fb_q1_a04633e8">
+        <itemfeedback ident="incorrect_fb_q1_971fd4c6">
           <flow_mat>
             <material>
               <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;The correct answer is B.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Across all eight films, identity disturbance is the central theme:
@@ -100,7 +100,7 @@
           </flow_mat>
         </itemfeedback>
       </item>
-      <item ident="q2_fed33d7c" title="Question 2">
+      <item ident="q2_e8172fc5" title="Question 2">
         <itemmetadata>
           <qtimetadata>
             <qtimetadatafield>
@@ -113,7 +113,7 @@
             </qtimetadatafield>
             <qtimetadatafield>
               <fieldlabel>assessment_question_identifierref</fieldlabel>
-              <fieldentry>q2_fed33d7c</fieldentry>
+              <fieldentry>q2_e8172fc5</fieldentry>
             </qtimetadatafield>
           </qtimetadata>
         </itemmetadata>
@@ -121,7 +121,7 @@
           <material>
             <mattext texttype="text/html">&lt;p&gt;According to emotion differentiation research (Kashdan et al., 2015; Kalokerinos et al., 2019), which character demonstrated the MOST impaired emotion differentiation?&lt;/p&gt;</mattext>
           </material>
-          <response_lid ident="response_q2_fed33d7c" rcardinality="Single">
+          <response_lid ident="response_q2_e8172fc5" rcardinality="Single">
             <render_choice>
               <response_label ident="A">
                 <material>
@@ -152,19 +152,19 @@
           </outcomes>
           <respcondition continue="No">
             <conditionvar>
-              <varequal respident="response_q2_fed33d7c">C</varequal>
+              <varequal respident="response_q2_e8172fc5">C</varequal>
             </conditionvar>
             <setvar action="Set" varname="SCORE">100</setvar>
           </respcondition>
         </resprocessing>
-        <itemfeedback ident="correct_fb_q2_fed33d7c">
+        <itemfeedback ident="correct_fb_q2_e8172fc5">
           <flow_mat>
             <material>
               <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;Correct!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Kalokerinos et al.&amp;#39;s research shows low differentiators struggle to identify what they&amp;#39;re feeling and show ineffective regulation. Trevor exemplifies this: he experiences overwhelming negative affect but cannot identify its source (guilt about the hit-and-run). This undifferentiated distress led to maladaptive regulation (insomnia, delusion, projection). He literally cannot tell what he&amp;#39;s feeling, which is why he creates Ivan - a concrete, external &amp;quot;cause&amp;quot; for his nameless distress.&lt;/p&gt;</mattext>
             </material>
           </flow_mat>
         </itemfeedback>
-        <itemfeedback ident="incorrect_fb_q2_fed33d7c">
+        <itemfeedback ident="incorrect_fb_q2_e8172fc5">
           <flow_mat>
             <material>
               <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;The correct answer is C.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Kalokerinos et al.&amp;#39;s research shows low differentiators struggle to identify what they&amp;#39;re feeling and show ineffective regulation. Trevor exemplifies this: he experiences overwhelming negative affect but cannot identify its source (guilt about the hit-and-run). This undifferentiated distress led to maladaptive regulation (insomnia, delusion, projection). He literally cannot tell what he&amp;#39;s feeling, which is why he creates Ivan - a concrete, external &amp;quot;cause&amp;quot; for his nameless distress.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why other answers are incorrect:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;A:&lt;/strong&gt; Raymond&amp;#39;s routines suggest functional regulation, even if atypical.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;B:&lt;/strong&gt; He successfully channeled specific emotion (grief, outrage) into purpose.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;D:&lt;/strong&gt; Whether delusional or alien, Prot maintains coherent emotional presentation.&lt;/li&gt;&lt;/ul&gt;</mattext>
@@ -172,7 +172,7 @@
           </flow_mat>
         </itemfeedback>
       </item>
-      <item ident="q3_12227e9c" title="Question 3">
+      <item ident="q3_371aae8e" title="Question 3">
         <itemmetadata>
           <qtimetadata>
             <qtimetadatafield>
@@ -185,7 +185,7 @@
             </qtimetadatafield>
             <qtimetadatafield>
               <fieldlabel>assessment_question_identifierref</fieldlabel>
-              <fieldentry>q3_12227e9c</fieldentry>
+              <fieldentry>q3_371aae8e</fieldentry>
             </qtimetadatafield>
           </qtimetadata>
         </itemmetadata>
@@ -193,7 +193,7 @@
           <material>
             <mattext texttype="text/html">&lt;p&gt;McKnight &amp;amp; Kashdan (2009) propose that purpose functions as a self-organizing system. Which character&amp;#39;s trajectory best demonstrates how trauma can either destroy OR reorganize purpose?&lt;/p&gt;</mattext>
           </material>
-          <response_lid ident="response_q3_12227e9c" rcardinality="Single">
+          <response_lid ident="response_q3_371aae8e" rcardinality="Single">
             <render_choice>
               <response_label ident="A">
                 <material>
@@ -224,19 +224,19 @@
           </outcomes>
           <respcondition continue="No">
             <conditionvar>
-              <varequal respident="response_q3_12227e9c">C</varequal>
+              <varequal respident="response_q3_371aae8e">C</varequal>
             </conditionvar>
             <setvar action="Set" varname="SCORE">100</setvar>
           </respcondition>
         </resprocessing>
-        <itemfeedback ident="correct_fb_q3_12227e9c">
+        <itemfeedback ident="correct_fb_q3_371aae8e">
           <flow_mat>
             <material>
               <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;Correct!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The question asks about trauma reorganizing purpose, which implies successful (if painful) adaptation. Cory Lambert demonstrates this: his daughter&amp;#39;s death could have destroyed him (like Ben) or fragmented him (like Malcolm). Instead, the trauma reorganized his purpose system around justice - protecting other vulnerable people, honoring his daughter&amp;#39;s memory through action. His purpose is painful but functional, directed, and meaning-generating.&lt;/p&gt;</mattext>
             </material>
           </flow_mat>
         </itemfeedback>
-        <itemfeedback ident="incorrect_fb_q3_12227e9c">
+        <itemfeedback ident="incorrect_fb_q3_371aae8e">
           <flow_mat>
             <material>
               <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;The correct answer is C.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The question asks about trauma reorganizing purpose, which implies successful (if painful) adaptation. Cory Lambert demonstrates this: his daughter&amp;#39;s death could have destroyed him (like Ben) or fragmented him (like Malcolm). Instead, the trauma reorganized his purpose system around justice - protecting other vulnerable people, honoring his daughter&amp;#39;s memory through action. His purpose is painful but functional, directed, and meaning-generating.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why other answers are incorrect:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;A:&lt;/strong&gt; Shows purpose destruction, not reorganization.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;B:&lt;/strong&gt; Shows fragmentation, not reorganization into coherent new purpose.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;D:&lt;/strong&gt; Shows fragmentation and dysfunction, not reorganization.&lt;/li&gt;&lt;/ul&gt;</mattext>
@@ -244,7 +244,7 @@
           </flow_mat>
         </itemfeedback>
       </item>
-      <item ident="q4_0f3b0aae" title="Question 4">
+      <item ident="q4_26d664e1" title="Question 4">
         <itemmetadata>
           <qtimetadata>
             <qtimetadatafield>
@@ -257,7 +257,7 @@
             </qtimetadatafield>
             <qtimetadatafield>
               <fieldlabel>assessment_question_identifierref</fieldlabel>
-              <fieldentry>q4_0f3b0aae</fieldentry>
+              <fieldentry>q4_26d664e1</fieldentry>
             </qtimetadatafield>
           </qtimetadata>
         </itemmetadata>
@@ -265,7 +265,7 @@
           <material>
             <mattext texttype="text/html">&lt;p&gt;Boudry &amp;amp; Braeckman (2012) describe how self-validating belief systems resist disconfirmation. Which film most clearly demonstrated institutional (rather than individual) self-validating beliefs?&lt;/p&gt;</mattext>
           </material>
-          <response_lid ident="response_q4_0f3b0aae" rcardinality="Single">
+          <response_lid ident="response_q4_26d664e1" rcardinality="Single">
             <render_choice>
               <response_label ident="A">
                 <material>
@@ -296,19 +296,19 @@
           </outcomes>
           <respcondition continue="No">
             <conditionvar>
-              <varequal respident="response_q4_0f3b0aae">C</varequal>
+              <varequal respident="response_q4_26d664e1">C</varequal>
             </conditionvar>
             <setvar action="Set" varname="SCORE">100</setvar>
           </respcondition>
         </resprocessing>
-        <itemfeedback ident="correct_fb_q4_0f3b0aae">
+        <itemfeedback ident="correct_fb_q4_26d664e1">
           <flow_mat>
             <material>
               <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;Correct!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Nuremberg most clearly shows INSTITUTIONAL self-validating beliefs. Nazi ideology wasn&amp;#39;t just individual delusion - it was a systematic belief system that operated at institutional level, with built-in immunizing strategies: racial science &amp;quot;proved&amp;quot; Aryan superiority, Jewish conspiracy theories explained any challenges, state legitimacy justified any action. The belief system was self-validating at the societal level, making individual resistance extremely difficult.&lt;/p&gt;</mattext>
             </material>
           </flow_mat>
         </itemfeedback>
-        <itemfeedback ident="incorrect_fb_q4_0f3b0aae">
+        <itemfeedback ident="incorrect_fb_q4_26d664e1">
           <flow_mat>
             <material>
               <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;The correct answer is C.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Nuremberg most clearly shows INSTITUTIONAL self-validating beliefs. Nazi ideology wasn&amp;#39;t just individual delusion - it was a systematic belief system that operated at institutional level, with built-in immunizing strategies: racial science &amp;quot;proved&amp;quot; Aryan superiority, Jewish conspiracy theories explained any challenges, state legitimacy justified any action. The belief system was self-validating at the societal level, making individual resistance extremely difficult.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why other answers are incorrect:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;A:&lt;/strong&gt; Individual delusion, not institutional.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;B:&lt;/strong&gt; Individual dissociation, not institutional belief.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;D:&lt;/strong&gt; Autism is neurological, not a belief system.&lt;/li&gt;&lt;/ul&gt;</mattext>
@@ -316,7 +316,7 @@
           </flow_mat>
         </itemfeedback>
       </item>
-      <item ident="q5_8f97c7a8" title="Question 5">
+      <item ident="q5_2a15a7c8" title="Question 5">
         <itemmetadata>
           <qtimetadata>
             <qtimetadatafield>
@@ -329,7 +329,7 @@
             </qtimetadatafield>
             <qtimetadatafield>
               <fieldlabel>assessment_question_identifierref</fieldlabel>
-              <fieldentry>q5_8f97c7a8</fieldentry>
+              <fieldentry>q5_2a15a7c8</fieldentry>
             </qtimetadatafield>
           </qtimetadata>
         </itemmetadata>
@@ -337,7 +337,7 @@
           <material>
             <mattext texttype="text/html">&lt;p&gt;The course examined six governing areas of inquiry: BELIEF, PURPOSE, MOTIVATION, UNCERTAINTY, DISCOMFORT, and EMOTION. Based on all films and readings, which statement best captures their relationship?&lt;/p&gt;</mattext>
           </material>
-          <response_lid ident="response_q5_8f97c7a8" rcardinality="Single">
+          <response_lid ident="response_q5_2a15a7c8" rcardinality="Single">
             <render_choice>
               <response_label ident="A">
                 <material>
@@ -368,12 +368,12 @@
           </outcomes>
           <respcondition continue="No">
             <conditionvar>
-              <varequal respident="response_q5_8f97c7a8">D</varequal>
+              <varequal respident="response_q5_2a15a7c8">D</varequal>
             </conditionvar>
             <setvar action="Set" varname="SCORE">100</setvar>
           </respcondition>
         </resprocessing>
-        <itemfeedback ident="correct_fb_q5_8f97c7a8">
+        <itemfeedback ident="correct_fb_q5_2a15a7c8">
           <flow_mat>
             <material>
               <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;Correct!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The course demonstrated interconnection throughout:
@@ -385,7 +385,7 @@ The six areas require integrated analysis because changes in one ripple through 
             </material>
           </flow_mat>
         </itemfeedback>
-        <itemfeedback ident="incorrect_fb_q5_8f97c7a8">
+        <itemfeedback ident="incorrect_fb_q5_2a15a7c8">
           <flow_mat>
             <material>
               <mattext texttype="text/html">&lt;p&gt;&lt;strong&gt;The correct answer is D.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The course demonstrated interconnection throughout:
