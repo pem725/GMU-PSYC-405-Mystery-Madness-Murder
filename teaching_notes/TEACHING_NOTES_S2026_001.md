@@ -5,7 +5,7 @@
 
 ---
 
-> ⚠️ **SCHEDULE CHANGE (Snow Storm):** Week 2 was lost due to severe weather/university closure. All content shifted one week later. Weeks 14 and 15 combined into single final week. **Total quizzes: 13 (not 14). Best 10 still count.** Total classes: 26 (not 28).
+> ⚠️ **SCHEDULE CHANGE (Snow Storm):** Week 2 was lost due to severe weather/university closure. All content shifted one week later. Weeks 14 and 15 combined into single final week. **Total quizzes: 13 (not 14). All students receive automatic 100% for eliminated quiz + best 9 of remaining 13.** Total classes: 26 (not 28).
 
 ---
 
@@ -903,7 +903,7 @@
 ### Quiz Administration
 - Announce quiz availability randomly during class
 - Typical window: Announce Tuesday, close Friday
-- Remind students: Best 10 of 13 quizzes count (reduced from 14 due to snow week)
+- Remind students: Automatic 100% on eliminated quiz + best 9 of 13 remaining quizzes count
 
 ### Engagement Tracking
 - Note students who participate
