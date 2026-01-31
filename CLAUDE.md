@@ -575,6 +575,73 @@ echo "CANVAS_TOKEN='your_token_here'" > quiz_analytics/.env
 
 To get a new token: Canvas → Account → Settings → New Access Token
 
+### Direct Canvas API Operations
+
+The Canvas API can be used directly to manage course content. Configuration is stored in `quiz_analytics/config.json`:
+
+```json
+{
+  "canvas": {
+    "base_url": "https://canvas.gmu.edu"
+  },
+  "courses": {
+    "spring2026_001": { "course_id": 65049 },
+    "spring2026_002": { "course_id": 65050 }
+  }
+}
+```
+
+#### Creating Announcements
+
+```bash
+TOKEN=$(grep CANVAS_TOKEN quiz_analytics/.env | cut -d"'" -f2)
+COURSE_ID=65049  # or 65050 for Section 002
+
+curl -s -X POST \
+  -H "Authorization: Bearer $TOKEN" \
+  -H "Content-Type: application/json" \
+  -d '{
+    "title": "Announcement Title",
+    "message": "<p>HTML content here</p>",
+    "is_announcement": true,
+    "published": true
+  }' \
+  "https://canvas.gmu.edu/api/v1/courses/$COURSE_ID/discussion_topics"
+```
+
+#### Updating Announcements
+
+```bash
+ANNOUNCEMENT_ID=3860253  # Get from creation response or Canvas URL
+
+curl -s -X PUT \
+  -H "Authorization: Bearer $TOKEN" \
+  -H "Content-Type: application/json" \
+  -d '{"message": "<p>Updated HTML content</p>"}' \
+  "https://canvas.gmu.edu/api/v1/courses/$COURSE_ID/discussion_topics/$ANNOUNCEMENT_ID"
+```
+
+#### Listing Quizzes
+
+```bash
+curl -s -H "Authorization: Bearer $TOKEN" \
+  "https://canvas.gmu.edu/api/v1/courses/$COURSE_ID/quizzes?per_page=50"
+```
+
+#### Deleting a Quiz
+
+```bash
+QUIZ_ID=56862  # Get from quiz listing
+
+curl -s -X DELETE \
+  -H "Authorization: Bearer $TOKEN" \
+  "https://canvas.gmu.edu/api/v1/courses/$COURSE_ID/quizzes/$QUIZ_ID"
+```
+
+#### Known Issues
+
+- **HTML Strikethrough:** The `<s>` tag may not render correctly in Canvas announcements. Manual editing in Canvas may be required for strikethrough text.
+
 ### End-of-Semester Workflow
 
 ```bash

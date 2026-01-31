@@ -83,3 +83,44 @@ Current sections configured:
 - Raw data stored locally only (gitignored)
 - All student IDs anonymized in reports
 - Only aggregated statistics committed to repo
+
+## Direct Canvas API Operations
+
+The `.env` token and `config.json` course IDs can also be used for direct Canvas management:
+
+### Announcements
+
+```bash
+# Load token
+TOKEN=$(grep CANVAS_TOKEN .env | cut -d"'" -f2)
+COURSE_ID=65049  # From config.json
+
+# Create announcement
+curl -X POST -H "Authorization: Bearer $TOKEN" \
+  -H "Content-Type: application/json" \
+  -d '{"title": "Title", "message": "<p>Content</p>", "is_announcement": true, "published": true}' \
+  "https://canvas.gmu.edu/api/v1/courses/$COURSE_ID/discussion_topics"
+
+# Update announcement
+curl -X PUT -H "Authorization: Bearer $TOKEN" \
+  -H "Content-Type: application/json" \
+  -d '{"message": "<p>Updated content</p>"}' \
+  "https://canvas.gmu.edu/api/v1/courses/$COURSE_ID/discussion_topics/$ANNOUNCEMENT_ID"
+```
+
+### Quiz Management
+
+```bash
+# List quizzes
+curl -H "Authorization: Bearer $TOKEN" \
+  "https://canvas.gmu.edu/api/v1/courses/$COURSE_ID/quizzes?per_page=50"
+
+# Delete quiz
+curl -X DELETE -H "Authorization: Bearer $TOKEN" \
+  "https://canvas.gmu.edu/api/v1/courses/$COURSE_ID/quizzes/$QUIZ_ID"
+```
+
+### Known Limitations
+
+- HTML `<s>` strikethrough tags may not render in Canvas announcements
+- Manual editing in Canvas UI may be needed for complex formatting
