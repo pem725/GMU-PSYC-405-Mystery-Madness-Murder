@@ -33,18 +33,20 @@
       "section": "001",
       "semester": "Spring 2026",
       "meeting_time": "M/W 9:00-10:15 AM",
-      "num_quizzes": 14,
+      "num_quizzes": 13,
       "points_per_quiz": 50,
-      "questions_per_quiz": 5
+      "questions_per_quiz": 5,
+      "notes": "Reduced from 14 quizzes due to snow week. Students get automatic 100% on eliminated quiz."
     },
     "spring2026_002": {
       "course_id": 65050,
       "section": "002",
       "semester": "Spring 2026",
       "meeting_time": "M/W 10:30-11:45 AM",
-      "num_quizzes": 14,
+      "num_quizzes": 13,
       "points_per_quiz": 50,
-      "questions_per_quiz": 5
+      "questions_per_quiz": 5,
+      "notes": "Reduced from 14 quizzes due to snow week. Students get automatic 100% on eliminated quiz."
     }
   },
   "reports": {
