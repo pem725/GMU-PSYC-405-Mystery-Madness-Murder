@@ -1,5 +1,5 @@
 # PSYC 405 Section 001 - Teaching Notes
-## Spring 2026 | M/W 9:00-10:15 AM | Art & Design Building L008
+## Spring 2026 | M/W 9:00-10:15 AM | Krug Hall 5 (Basement)
 
 **CONFIDENTIAL - NOT FOR STUDENT DISTRIBUTION**
 
@@ -34,7 +34,7 @@
 ## Week 1: Introduction
 
 ### Class 1 - Wednesday, January 21
-**Time:** 9:00-10:15 AM | **Location:** Art & Design L008
+**Time:** 9:00-10:15 AM | **Location:** Krug Hall 5 (Basement)
 
 #### Learning Objectives
 - Establish course expectations and grading schema

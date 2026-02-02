@@ -12,7 +12,7 @@ format:
 
 ## WHEN: Meeting Times
 
--   (Section 001): **9:00 AM - 10:15 AM** Mondays and Wednesdays (**Art and Design Building L008**) - IN PERSON
+-   (Section 001): **9:00 AM - 10:15 AM** Mondays and Wednesdays (**Krug Hall 5**) - IN PERSON
 -   **Semester Dates:** January 21 - May 4, 2026
 
 ### Important Dates (Spring 2026)
