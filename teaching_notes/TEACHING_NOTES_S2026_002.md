@@ -107,7 +107,7 @@
    - Initial observations about Trevor
    - What clues suggest his reality is distorted?
 
-### Class 3 - Wednesday, January 28
+### Class 3 - Wednesday, February 4
 **Time:** 10:30-11:45 AM
 
 #### Topics to Cover
@@ -159,9 +159,9 @@
 
 ---
 
-## Week 3: The Machinist (Part II) / Identity (Part I)
+## Week 4: The Machinist (Part II) / Identity (Part I)
 
-### Class 4 - Monday, February 2
+### Class 4 - Monday, February 9
 **Time:** 10:30-11:45 AM
 
 #### Topics to Cover
@@ -182,7 +182,7 @@
 4. **Begin Identity** (25 min)
    - Show opening 25 minutes
 
-### Class 5 - Wednesday, February 4
+### Class 5 - Wednesday, February 11
 **Time:** 10:30-11:45 AM
 
 #### Topics to Cover
@@ -225,9 +225,9 @@
 
 ---
 
-## Week 4: Identity (Part II)
+## Week 5: Identity (Part II)
 
-### Class 6 - Monday, February 9
+### Class 6 - Monday, February 16
 **Time:** 10:30-11:45 AM
 
 #### Topics to Cover
@@ -239,7 +239,7 @@
    - The motel = mind of Malcolm Rivers
    - All characters = his personalities
 
-### Class 7 - Wednesday, February 11
+### Class 7 - Wednesday, February 18
 **Time:** 10:30-11:45 AM
 
 #### Topics to Cover
@@ -271,9 +271,9 @@
 
 ---
 
-## Week 5: Fight Club
+## Week 6: Fight Club
 
-### Class 8 - Monday, February 16
+### Class 8 - Monday, February 23
 **Time:** 10:30-11:45 AM
 
 #### Topics to Cover
@@ -290,7 +290,7 @@
    - Initial observations
    - The narrator's life and dissatisfaction
 
-### Class 9 - Wednesday, February 18
+### Class 9 - Wednesday, February 25
 **Time:** 10:30-11:45 AM
 
 #### Topics to Cover
@@ -328,9 +328,9 @@
 
 ---
 
-## Week 6: Rain Man (Part I)
+## Week 7: Rain Man (Part I)
 
-### Class 10 - Monday, February 23
+### Class 10 - Monday, March 2
 **Time:** 10:30-11:45 AM
 
 #### Transition to Madness Module
@@ -352,7 +352,7 @@
    - First impressions of Raymond
    - Charlie's motivations
 
-### Class 11 - Wednesday, February 25
+### Class 11 - Wednesday, March 4
 **Time:** 10:30-11:45 AM
 
 #### Topics to Cover
@@ -398,9 +398,9 @@
 
 ---
 
-## Week 7: Rain Man (Part II) / K-PAX (Part I)
+## Week 9: Rain Man (Part II) / K-PAX (Part I)
 
-### Class 12 - Monday, March 2
+### Class 12 - Monday, March 16
 **Time:** 10:30-11:45 AM
 
 #### Topics to Cover
@@ -419,7 +419,7 @@
 
 4. **Begin K-PAX** (15 min)
 
-### Class 13 - Wednesday, March 4
+### Class 13 - Wednesday, March 18
 **Time:** 10:30-11:45 AM
 
 #### Topics to Cover
@@ -462,9 +462,9 @@
 
 ---
 
-## Week 9: K-PAX (Part II)
+## Week 10: K-PAX (Part II)
 
-### Class 14 - Monday, March 16
+### Class 14 - Monday, March 23
 **Time:** 10:30-11:45 AM
 
 **Welcome back from Spring Break!**
@@ -481,7 +481,7 @@
    - Powell's discoveries about Prot's past
    - The trauma revealed
 
-### Class 15 - Wednesday, March 18
+### Class 15 - Wednesday, March 25
 **Time:** 10:30-11:45 AM
 
 #### Topics to Cover
@@ -514,9 +514,9 @@
 
 ---
 
-## Week 10: Leaving Las Vegas
+## Week 11: Leaving Las Vegas
 
-### Class 16 - Monday, March 23
+### Class 16 - Monday, March 30
 **Time:** 10:30-11:45 AM
 
 #### Content Warning
@@ -538,7 +538,7 @@
    - Initial reactions to Ben's choice
    - Sera's situation
 
-### Class 17 - Wednesday, March 25
+### Class 17 - Wednesday, April 1
 **Time:** 10:30-11:45 AM
 
 #### Topics to Cover
@@ -580,9 +580,9 @@
 
 ---
 
-## Week 11: Nuremberg (Part I)
+## Week 12: Nuremberg (Part I)
 
-### Class 18 - Monday, March 30
+### Class 18 - Monday, April 6
 **Time:** 10:30-11:45 AM
 
 #### Transition to Murder Module
@@ -604,7 +604,7 @@
 3. **Film Viewing** (50 min)
    - Show first 50 minutes
 
-### Class 19 - Wednesday, April 1
+### Class 19 - Wednesday, April 8
 **Time:** 10:30-11:45 AM
 
 #### Topics to Cover
@@ -651,9 +651,9 @@
 
 ---
 
-## Week 12: Nuremberg (Part II) / Wind River (Part I)
+## Week 13: Nuremberg (Part II) / Wind River (Part I)
 
-### Class 20 - Monday, April 6
+### Class 20 - Monday, April 13
 **Time:** 10:30-11:45 AM
 
 #### Topics to Cover
@@ -672,7 +672,7 @@
 
 4. **Begin Wind River** (15 min)
 
-### Class 21 - Wednesday, April 8
+### Class 21 - Wednesday, April 15
 **Time:** 10:30-11:45 AM
 
 #### Topics to Cover
@@ -709,9 +709,9 @@
 
 ---
 
-## Week 13: Wind River (Part II)
+## Week 14: Wind River (Part II)
 
-### Class 22 - Monday, April 13
+### Class 22 - Monday, April 20
 **Time:** 10:30-11:45 AM
 
 #### Topics to Cover
@@ -722,7 +722,7 @@
    - Natalie's story revealed
    - Violence against Indigenous women
 
-### Class 23 - Wednesday, April 15
+### Class 23 - Wednesday, April 22
 **Time:** 10:30-11:45 AM
 
 #### Topics to Cover
@@ -759,9 +759,9 @@
 
 ---
 
-## Week 14: Wrap-up & Review
+## Week 15: Wrap-up, Review & Final Reflections (Combined)
 
-### Class 24 - Monday, April 20
+### Class 24 - Monday, April 27
 **Time:** 10:30-11:45 AM
 
 #### Topics to Cover
@@ -779,7 +779,7 @@
    - Nuremberg: Obedience, moral judgment, systemic evil
    - Wind River: Violence, marginalization, grief
 
-### Class 25 - Wednesday, April 22
+### Class 25 - Wednesday, April 29
 **Time:** 10:30-11:45 AM
 
 #### Topics to Cover
@@ -822,73 +822,30 @@
 
 ---
 
-## Week 15: Epilogue (Final)
-
-### Class 26 - Monday, April 27
+### Class 26 - Monday, May 4 (LAST DAY)
 **Time:** 10:30-11:45 AM
 
 #### Topics to Cover
-1. **Course Reflection** (30 min)
+1. **Course Reflection** (25 min)
    - What did you learn about psychology?
    - What did you learn about yourself?
    - How will you apply these concepts?
 
-2. **Film Analysis Skills** (20 min)
+2. **Film Analysis Skills** (15 min)
    - Tools for analyzing psychological content in media
    - Critical consumption of mental health portrayals
    - Responsibility of filmmakers
 
-3. **Discussion: Psychology in Everyday Life** (25 min)
-   - How do course concepts appear outside film?
-   - Recognizing psychological phenomena around us
-
-### Class 27 - Wednesday, April 29
-**Time:** 10:30-11:45 AM
-
-#### Topics to Cover
-1. **Open Forum** (40 min)
+3. **Open Forum** (20 min)
    - Student questions
    - Topics we didn't cover enough
    - What they want to explore further
 
-2. **Course Feedback** (20 min)
-   - What worked well?
-   - What could improve?
-
-3. **Final Quiz Prep** (15 min)
-   - Quiz 14 overview
-   - Final encouragement
-
-### Class 28 - Monday, May 4 (LAST DAY)
-**Time:** 10:30-11:45 AM
-
-#### Topics to Cover
-1. **Final Thoughts** (30 min)
-   - Closing remarks
-   - Psychology resources for continued learning
-   - Staying curious
-
-2. **Acknowledgments** (15 min)
+4. **Final Thoughts & Acknowledgments** (15 min)
    - Thank students for engagement
    - Recognize standout contributions
-
-3. **Quiz 14** (30 min)
-   - Final quiz administered in class
-
-#### Quiz 14 Concepts (Final Quiz)
-**Comprehensive - covers entire semester:**
-
-1. **Integration of Film and Research**
-   - Can students connect readings to specific scenes?
-   - Do they understand WHY certain findings matter?
-
-2. **Critical Analysis**
-   - Can they critique film portrayals using evidence?
-   - Do they recognize accurate vs. inaccurate depictions?
-
-3. **Application**
-   - Can they apply concepts to novel scenarios?
-   - Has their thinking about behavior changed?
+   - Psychology resources for continued learning
+   - Staying curious
 
 ---
 
@@ -961,7 +918,7 @@ Both examine how systems - through action or inaction - enable harm.
 ### Common Student Questions
 - "Do I need to watch the whole movie?" - Yes, quizzes require full viewing
 - "Can I use AI for quizzes?" - No, prohibited use
-- "What if I miss a quiz?" - Zero, no makeups, but best 10 count
+- "What if I miss a quiz?" - Zero, no makeups, but best 9 of 13 count
 
 ---
 

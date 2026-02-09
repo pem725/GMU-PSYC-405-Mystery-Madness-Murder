@@ -107,7 +107,7 @@
    - What seems "off" about the situation?
    - How does the film create unease?
 
-### Class 3 - Wednesday, January 28
+### Class 3 - Wednesday, February 4
 **Time:** 9:00-10:15 AM
 
 #### Topics to Cover
@@ -155,9 +155,9 @@
 
 ---
 
-## Week 3: Shutter Island (Part II) / North by Northwest (Part I)
+## Week 4: Shutter Island (Part II) / North by Northwest (Part I)
 
-### Class 4 - Monday, February 2
+### Class 4 - Monday, February 9
 **Time:** 9:00-10:15 AM
 
 #### Topics to Cover
@@ -174,7 +174,7 @@
    - Reality testing failures in grief
    - Institutional psychiatry in the 1950s vs. today
 
-### Class 5 - Wednesday, February 4
+### Class 5 - Wednesday, February 11
 **Time:** 9:00-10:15 AM
 
 #### Topics to Cover
@@ -215,9 +215,9 @@
 
 ---
 
-## Week 4: North by Northwest (Part II)
+## Week 5: North by Northwest (Part II)
 
-### Class 6 - Monday, February 9
+### Class 6 - Monday, February 16
 **Time:** 9:00-10:15 AM
 
 #### Topics to Cover
@@ -229,7 +229,7 @@
    - Eve's dual role and psychological manipulation
    - What motivates Vandamm?
 
-### Class 7 - Wednesday, February 11
+### Class 7 - Wednesday, February 18
 **Time:** 9:00-10:15 AM
 
 #### Topics to Cover
@@ -261,9 +261,9 @@
 
 ---
 
-## Week 5: Sunset Boulevard
+## Week 6: Sunset Boulevard
 
-### Class 8 - Monday, February 16
+### Class 8 - Monday, February 23
 **Time:** 9:00-10:15 AM
 
 #### Topics to Cover
@@ -280,7 +280,7 @@
    - First impressions of Norma Desmond
    - What "madness" do we see?
 
-### Class 9 - Wednesday, February 18
+### Class 9 - Wednesday, February 25
 **Time:** 9:00-10:15 AM
 
 #### Topics to Cover
@@ -320,9 +320,9 @@
 
 ---
 
-## Week 6: Black Swan (Part I)
+## Week 7: Black Swan (Part I)
 
-### Class 10 - Monday, February 23
+### Class 10 - Monday, March 2
 **Time:** 9:00-10:15 AM
 
 #### Transition to Madness Module
@@ -344,7 +344,7 @@
    - What symptoms do you observe?
    - Mother-daughter dynamics
 
-### Class 11 - Wednesday, February 25
+### Class 11 - Wednesday, March 4
 **Time:** 9:00-10:15 AM
 
 #### Topics to Cover
@@ -390,9 +390,9 @@
 
 ---
 
-## Week 7: Black Swan (Part II) / Good Will Hunting (Part I)
+## Week 9: Black Swan (Part II) / Good Will Hunting (Part I)
 
-### Class 12 - Monday, March 2
+### Class 12 - Monday, March 16
 **Time:** 9:00-10:15 AM
 
 #### Topics to Cover
@@ -411,7 +411,7 @@
 4. **Begin Good Will Hunting** (15 min)
    - Show opening sequence
 
-### Class 13 - Wednesday, March 4
+### Class 13 - Wednesday, March 18
 **Time:** 9:00-10:15 AM
 
 #### Topics to Cover
@@ -453,9 +453,9 @@
 
 ---
 
-## Week 9: Good Will Hunting (Part II)
+## Week 10: Good Will Hunting (Part II)
 
-### Class 14 - Monday, March 16
+### Class 14 - Monday, March 23
 **Time:** 9:00-10:15 AM
 
 **Welcome back from Spring Break!**
@@ -472,7 +472,7 @@
    - Will's relationship with Skylar developing
    - Sean's own grief emerging
 
-### Class 15 - Wednesday, March 18
+### Class 15 - Wednesday, March 25
 **Time:** 9:00-10:15 AM
 
 #### Topics to Cover
@@ -511,9 +511,9 @@
 
 ---
 
-## Week 10: What's Eating Gilbert Grape
+## Week 11: What's Eating Gilbert Grape
 
-### Class 16 - Monday, March 23
+### Class 16 - Monday, March 30
 **Time:** 9:00-10:15 AM
 
 #### Topics to Cover
@@ -529,7 +529,7 @@
    - Initial observations about family dynamics
    - Gilbert's emotional state
 
-### Class 17 - Wednesday, March 25
+### Class 17 - Wednesday, April 1
 **Time:** 9:00-10:15 AM
 
 #### Topics to Cover
@@ -565,9 +565,9 @@
 
 ---
 
-## Week 11: Primal Fear (Part I)
+## Week 12: Primal Fear (Part I)
 
-### Class 18 - Monday, March 30
+### Class 18 - Monday, April 6
 **Time:** 9:00-10:15 AM
 
 #### Transition to Murder Module
@@ -589,7 +589,7 @@
    - First impressions of Aaron
    - Martin Vail's motivations
 
-### Class 19 - Wednesday, April 1
+### Class 19 - Wednesday, April 8
 **Time:** 9:00-10:15 AM
 
 #### Topics to Cover
@@ -637,9 +637,9 @@
 
 ---
 
-## Week 12: Primal Fear (Part II) / The Hurricane (Part I)
+## Week 13: Primal Fear (Part II) / The Hurricane (Part I)
 
-### Class 20 - Monday, April 6
+### Class 20 - Monday, April 13
 **Time:** 9:00-10:15 AM
 
 #### Topics to Cover
@@ -659,7 +659,7 @@
 
 4. **Begin The Hurricane** (15 min)
 
-### Class 21 - Wednesday, April 8
+### Class 21 - Wednesday, April 15
 **Time:** 9:00-10:15 AM
 
 #### Topics to Cover
@@ -695,9 +695,9 @@
 
 ---
 
-## Week 13: The Hurricane (Part II)
+## Week 14: The Hurricane (Part II)
 
-### Class 22 - Monday, April 13
+### Class 22 - Monday, April 20
 **Time:** 9:00-10:15 AM
 
 #### Topics to Cover
@@ -708,7 +708,7 @@
    - Carter's prison defiance
    - The investigation reopening
 
-### Class 23 - Wednesday, April 15
+### Class 23 - Wednesday, April 22
 **Time:** 9:00-10:15 AM
 
 #### Topics to Cover
@@ -745,9 +745,9 @@
 
 ---
 
-## Week 14: Wrap-up & Review
+## Week 15: Wrap-up & Review
 
-### Class 24 - Monday, April 20
+### Class 24 - Monday, April 27
 **Time:** 9:00-10:15 AM
 
 #### Topics to Cover
@@ -765,7 +765,7 @@
    - Primal Fear: Forensic psychology, deception
    - The Hurricane: Wrongful conviction, resilience
 
-### Class 25 - Wednesday, April 22
+### Class 25 - Wednesday, April 29
 **Time:** 9:00-10:15 AM
 
 #### Topics to Cover
@@ -806,9 +806,9 @@
 
 ---
 
-## Week 15: Epilogue (Final)
+## Week 15: Epilogue (Final) - Combined with Wrap-up
 
-### Class 26 - Monday, April 27
+### Class 26 - Monday, May 4
 **Time:** 9:00-10:15 AM
 
 #### Topics to Cover
@@ -826,53 +826,7 @@
    - How do course concepts appear outside film?
    - Recognizing psychological phenomena around us
 
-### Class 27 - Wednesday, April 29
-**Time:** 9:00-10:15 AM
-
-#### Topics to Cover
-1. **Open Forum** (40 min)
-   - Student questions
-   - Topics we didn't cover enough
-   - What they want to explore further
-
-2. **Course Feedback** (20 min)
-   - What worked well?
-   - What could improve?
-
-3. **Final Quiz Prep** (15 min)
-   - Quiz 14 overview
-   - Final encouragement
-
-### Class 28 - Monday, May 4 (LAST DAY)
-**Time:** 9:00-10:15 AM
-
-#### Topics to Cover
-1. **Final Thoughts** (30 min)
-   - Closing remarks
-   - Psychology resources for continued learning
-   - Staying curious
-
-2. **Acknowledgments** (15 min)
-   - Thank students for engagement
-   - Recognize standout contributions
-
-3. **Quiz 14** (30 min)
-   - Final quiz administered in class
-
-#### Quiz 14 Concepts (Final Quiz)
-**Comprehensive - covers entire semester:**
-
-1. **Integration of Film and Research**
-   - Can students connect readings to specific scenes?
-   - Do they understand WHY certain findings matter?
-
-2. **Critical Analysis**
-   - Can they critique film portrayals using evidence?
-   - Do they recognize accurate vs. inaccurate depictions?
-
-3. **Application**
-   - Can they apply concepts to novel scenarios?
-   - Has their thinking about behavior changed?
+> **Note:** Due to snow week, Weeks 14 and 15 have been combined. Classes 24-26 cover wrap-up, review, and final reflection. Quiz 13 is the final quiz.
 
 ---
 
@@ -913,7 +867,7 @@
 ### Common Student Questions
 - "Do I need to watch the whole movie?" - Yes, quizzes require full viewing
 - "Can I use AI for quizzes?" - No, prohibited use
-- "What if I miss a quiz?" - Zero, no makeups, but best 10 count
+- "What if I miss a quiz?" - Zero, no makeups, but best 9 of 13 count
 
 ---
 
