@@ -17,7 +17,7 @@
 | 2 | Jan 26, 28 | **SNOW WEEK** | **University Closed - No Classes** | - |
 | 3 | Feb 2, 4 | Mystery | The Machinist | 2 |
 | 4 | Feb 9, 11 | Mystery | The Machinist / Identity | 3 |
-| 5 | Feb 16, 18 | Mystery | Identity | 4 |
+| 5 | Feb 16, 18 | Mystery | Identity / Fight Club (begins) | 4 |
 | 6 | Feb 23, 25 | Mystery | Fight Club | 5 |
 | 7 | Mar 2, 4 | Madness | Rain Man | 6 |
 | 8 | Mar 9-15 | **SPRING BREAK** | **R-E-L-A-X** (No Class) | - |
@@ -242,11 +242,30 @@
 ### Class 7 - Wednesday, February 18
 **Time:** 10:30-11:45 AM
 
-#### Topics to Cover
-1. **Complete Identity** (25 min)
-   - Final twist: The "good" personality isn't in control
+> ⚠️ **SCHEDULE CHANGE:** Fight Club begins today (one class early) due to its 139-minute runtime. Starting early gives us three full classes to screen it comfortably.
 
-2. **Post-Film Discussion** (50 min)
+#### Topics to Cover
+1. **Identity Wrap-Up** (15 min)
+   - Final twist: The "good" personality isn't in control
+   - Quick discussion: DID, integration therapy ethics, legal implications
+   - Transition: From fragmented identity to constructed alter ego
+
+2. **Fight Club Introduction/Preface** (15 min)
+   - David Fincher (1999), stars Brad Pitt, Edward Norton
+   - Based on Chuck Palahniuk novel
+   - Content warning: Violence, disturbing imagery
+   - Themes to watch for: Alienation, consumerism, identity, unreliable narrator
+   - Connection to Mystery module: Third film with fragmented identity
+
+3. **Begin Fight Club** (20 min)
+   - Show first 20 minutes
+   - Narrator's insomnia, support groups, Marla Singer introduction
+   - Stop at a natural break point (~20 min mark)
+
+4. **Brief Discussion** (15 min)
+   - First impressions of the narrator
+   - Why support groups? What need do they fill?
+   - How does this compare to Trevor (Machinist) and Malcolm Rivers (Identity)?
 
 #### Quiz 4 Concepts (MUST COVER)
 1. **Integration Therapy Ethics**
@@ -276,29 +295,32 @@
 ### Class 8 - Monday, February 23
 **Time:** 10:30-11:45 AM
 
-#### Topics to Cover
-1. **Film Introduction** (10 min)
-   - David Fincher (1999), stars Brad Pitt, Edward Norton
-   - Based on Chuck Palahniuk novel
-   - Controversial content warning
+> Note: Students have already seen the first 20 minutes (shown Feb 18 after Identity wrap-up).
 
-2. **Film Viewing** (55 min)
-   - Show first 55 minutes
-   - Note unnamed narrator and Tyler Durden
+#### Topics to Cover
+1. **Quick Recap** (5 min)
+   - Brief recap of the first 20 minutes shown last Wednesday
+   - Narrator's insomnia, support groups, Marla Singer
+
+2. **Film Viewing** (60 min)
+   - Resume Fight Club from ~20 min mark
+   - Show through ~80 min mark (Tyler Durden fully established, Fight Club growing)
 
 3. **Discussion** (10 min)
-   - Initial observations
-   - The narrator's life and dissatisfaction
+   - Tyler Durden's philosophy
+   - The narrator's transformation
 
 ### Class 9 - Wednesday, February 25
 **Time:** 10:30-11:45 AM
 
 #### Topics to Cover
-1. **Complete Fight Club** (80 min total - may need to extend or assign viewing)
-   - Note: Film is 139 minutes - will need efficient classroom showing
-   - Consider assigning final act for home viewing
+1. **Complete Fight Club** (60 min remaining)
+   - Resume from ~80 min mark through end (139 min total)
+   - Note: Starting Fight Club early on Feb 18 means we can show the full film in class
 
-2. **Discussion** (Remaining time)
+2. **Discussion** (15 min)
+   - The revelation and its impact
+   - Connecting all three Mystery films
 
 #### Quiz 5 Concepts (MUST COVER)
 1. **Tyler Durden as Suppressed Self**
@@ -922,5 +944,5 @@ Both examine how systems - through action or inaction - enable harm.
 
 ---
 
-*Last Updated: January 2026 (Revised for snow week schedule change)*
+*Last Updated: February 18, 2026 (Fight Club starts early due to runtime)*
 *CONFIDENTIAL TEACHING NOTES - Section 002*
