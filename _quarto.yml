@@ -14,6 +14,7 @@ project:
     - READINGS.qmd
     - PAST_REVIEWS.qmd
     - QUIZZES.qmd
+    - BOOKS.qmd
     - quizzes/spring2026_001/*.qmd
     - quizzes/spring2026_002/*.qmd
 
@@ -42,6 +43,8 @@ website:
         href: FILM_HISTORY.qmd
       - text: "Readings"
         href: READINGS.qmd
+      - text: "Books"
+        href: BOOKS.qmd
       - text: "Quizzes"
         href: QUIZZES.qmd
       - text: "Past Reviews"

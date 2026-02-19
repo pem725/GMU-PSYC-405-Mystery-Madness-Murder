@@ -1,0 +1,95 @@
+---
+title: "Recommended Books"
+subtitle: "Companion Readings for PSYC 405"
+author: "Patrick E. McKnight"
+format:
+  html:
+    toc: true
+    toc_float: true
+---
+
+## Why Books?
+
+A student suggested that we adopt a book for the class -- read it together throughout the semester and let it inform our discussions. I loved the idea. Rather than requiring one book, I'm offering a curated list of three books per section that complement our films and deepen the psychological science we explore each week. These are not required. They are invitations.
+
+Pick one. Read it at your own pace. If it changes how you see a film or a concept we discuss, tell me about it. That conversation -- where your reading meets our viewing -- is exactly the kind of integration this course is built on.
+
+::: {.callout-tip}
+## A Path to A+
+Want to go above and beyond? Read one of these books and share your thoughts with me -- how it connected to our films, where it challenged your thinking, what it made you notice. There's no formal assignment here, but that kind of engagement is what distinguishes excellent from outstanding.
+:::
+
+---
+
+## Section 001: Spring 2026
+
+*Films: Shutter Island, North by Northwest, Sunset Boulevard, Black Swan, Good Will Hunting, What's Eating Gilbert Grape, Primal Fear, The Hurricane*
+
+### *The Body Keeps the Score* -- Bessel van der Kolk (2014)
+
+**The thread:** Trauma runs through nearly every film in Section 001. Teddy Daniels in *Shutter Island* has constructed an entire reality to avoid confronting his past. Will Hunting flinches from intimacy because of childhood abuse. Nina in *Black Swan* lives in a body controlled by someone else's ambitions. Rubin Carter in *The Hurricane* endures decades of wrongful imprisonment. Van der Kolk's book is the definitive account of how trauma rewires the brain and the body -- and what it takes to heal.
+
+**What you'll gain:** A scientific framework for understanding why the characters in our films behave the way they do. When Will Hunting finally breaks down, when Teddy chooses lobotomy over truth, when Nina's body betrays her mind -- van der Kolk explains the mechanisms beneath the drama.
+
+**Connects to:** Shutter Island (PTSD, dissociation), Black Swan (embodied trauma, perfectionism), Good Will Hunting (childhood abuse, therapeutic process), The Hurricane (prolonged traumatic stress)
+
+---
+
+### *Mistakes Were Made (But Not by Me)* -- Carol Tavris & Elliot Aronson (2007, revised 2020)
+
+**The thread:** Self-deception. How do people maintain beliefs in the face of contradicting evidence? Norma Desmond in *Sunset Boulevard* believes she is still a great star despite years of irrelevance. The justice system in *The Hurricane* doubled down on a wrongful conviction rather than admit error. The defense in *Primal Fear* exploits our willingness to believe compelling narratives. Even Teddy in *Shutter Island* constructs an elaborate conspiracy rather than face an unbearable truth.
+
+**What you'll gain:** Tavris and Aronson map the cognitive machinery of self-justification -- confirmation bias, cognitive dissonance, memory distortion -- with real-world case studies from criminal justice, politics, and everyday life. You'll never watch a character rationalize the same way again.
+
+**Connects to:** Sunset Boulevard (delusion maintenance), The Hurricane (systemic self-justification), Primal Fear (deception and belief), Shutter Island (constructed reality), North by Northwest (mistaken identity and the rush to judgment)
+
+---
+
+### *Maybe You Should Talk to Someone* -- Lori Gottlieb (2019)
+
+**The thread:** What does therapy actually look like? *Good Will Hunting* dramatizes the therapeutic relationship beautifully -- but it's still Hollywood. Gottlieb, a practicing therapist, writes about being in therapy herself while treating her own patients. It's the inside view: what resistance looks like, why insight alone isn't enough, how change actually happens.
+
+**What you'll gain:** A deeply human understanding of the therapeutic process that will enrich your viewing of every film in which someone needs help they aren't getting. Nina in *Black Swan* needed a therapist, not a choreographer. Gilbert Grape's family needed support that never came. Will Hunting almost didn't let Sean in. Gottlieb shows why.
+
+**Connects to:** Good Will Hunting (therapeutic relationship, resistance, breakthrough), Black Swan (unmet mental health needs), What's Eating Gilbert Grape (caregiving without support), Shutter Island (institutional psychiatry)
+
+---
+
+## Section 002: Spring 2026
+
+*Films: The Machinist, Identity, Fight Club, Rain Man, K-PAX, Leaving Las Vegas, Nuremberg, Wind River*
+
+### *The Lucifer Effect* -- Philip Zimbardo (2007)
+
+**The thread:** How do ordinary people end up doing terrible things? This is the central question of the Murder module -- and Zimbardo spent his career studying it. The Nuremberg defendants were not monsters; many were bureaucrats who followed orders within systems that redefined murder as policy. *Wind River* shows how institutional neglect enables violence against the most vulnerable. Even *Fight Club*'s Project Mayhem illustrates how group dynamics can escalate alienation into destruction.
+
+**What you'll gain:** Zimbardo's framework for understanding situational forces -- how context shapes behavior more powerfully than character -- will transform how you watch every film in this section. When you see someone do something unconscionable, you'll ask not just "what's wrong with them?" but "what situation are they in?"
+
+**Connects to:** Nuremberg (obedience, moral disengagement, bureaucratic evil), Wind River (systemic neglect enabling violence), Fight Club (group dynamics, escalation), Identity (situational forces on fragmented identity)
+
+---
+
+### *Phantoms in the Brain* -- V.S. Ramachandran (1998)
+
+**The thread:** The Mystery module's unreliable narrator trilogy -- *The Machinist*, *Identity*, *Fight Club* -- all ask the same question: how does the brain construct reality, and what happens when that construction fails? Ramachandran's case studies of patients with neurological conditions that distort perception, identity, and self-awareness are real-world parallels to the fiction we watch. A patient who doesn't recognize his own arm. A woman who laughs uncontrollably. A man who sees his dead mother as an impostor.
+
+**What you'll gain:** A neuroscience foundation for understanding why Trevor Reznik hallucinates Ivan, why Malcolm Rivers' personalities feel real, and why the narrator in *Fight Club* doesn't know he is Tyler Durden. Also speaks to *Rain Man* (atypical cognition), *K-PAX* (the boundary between delusion and reality), and the broader question of how any of us know what's real.
+
+**Connects to:** The Machinist (hallucination, reality monitoring), Identity (dissociation, multiple selves), Fight Club (split identity), Rain Man (atypical cognition), K-PAX (what counts as "real"?)
+
+---
+
+### *In the Realm of Hungry Ghosts* -- Gabor Mate (2008)
+
+**The thread:** Why do people destroy themselves? *Leaving Las Vegas* puts this question at center stage -- Ben has chosen to drink himself to death, and the film refuses to look away. But Mate's book reaches beyond substance abuse to ask what pain people are medicating and why some suffering becomes unbearable. The narrator in *Fight Club* consumes to fill a void. The routines in *Rain Man* manage an internal world that would otherwise overwhelm. Even the defendants at Nuremberg numbed themselves to the consequences of their actions.
+
+**What you'll gain:** A compassionate, evidence-based understanding of addiction and self-destruction that will deepen your viewing of *Leaving Las Vegas* enormously -- but also shift how you think about compulsive behavior in every film we watch. Mate argues that the question is never "why the addiction?" but always "why the pain?"
+
+**Connects to:** Leaving Las Vegas (alcoholism, deliberate self-destruction), Fight Club (consumerism as self-medication), Rain Man (compulsive behavior and regulation), K-PAX (trauma and coping), Nuremberg (moral numbing)
+
+---
+
+::: {.callout-note}
+## Your Suggestions Welcome
+Have a book that changed how you think about psychology, behavior, or the human condition? Tell me about it. The best additions to this list will come from you.
+:::
