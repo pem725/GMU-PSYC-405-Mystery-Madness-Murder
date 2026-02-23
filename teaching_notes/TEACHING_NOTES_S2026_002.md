@@ -5,7 +5,9 @@
 
 ---
 
-> ⚠️ **SCHEDULE CHANGE (Snow Storm):** Week 2 was lost due to severe weather/university closure. All content shifted one week later. Weeks 14 and 15 combined into single final week. **Total quizzes: 13 (not 14). All students receive automatic 100% for eliminated quiz + best 9 of remaining 13.** Total classes: 26 (not 28).
+> ⚠️ **SCHEDULE CHANGE (Snow Storm):** Week 2 was lost due to severe weather/university closure. All content shifted one week later. Weeks 14 and 15 combined into single final week. **Total quizzes: 13 (not 14). All students receive automatic 100% for eliminated quiz + best 9 of remaining 13.** Total classes: 25 (not 28).
+>
+> ⚠️ **SECOND SNOW DAY (Feb 23):** Monday, February 23 cancelled due to snow. Week 6 has only one class (Wed Feb 25). Content cascades: Fight Club completion spills into Week 7, making Week 7 a combined "Fight Club / Rain Man" week.
 
 ---
 
@@ -18,8 +20,8 @@
 | 3 | Feb 2, 4 | Mystery | The Machinist | 2 |
 | 4 | Feb 9, 11 | Mystery | The Machinist / Identity | 3 |
 | 5 | Feb 16, 18 | Mystery | Identity / Fight Club (begins) | 4 |
-| 6 | Feb 23, 25 | Mystery | Fight Club | 5 |
-| 7 | Mar 2, 4 | Madness | Rain Man | 6 |
+| 6 | ~~Feb 23~~, 25 | Mystery | Fight Club (**snow day Mon**) | 5 |
+| 7 | Mar 2, 4 | Madness | Fight Club / Rain Man | 6 |
 | 8 | Mar 9-15 | **SPRING BREAK** | **R-E-L-A-X** (No Class) | - |
 | 9 | Mar 16, 18 | Madness | Rain Man / K-PAX | 7 |
 | 10 | Mar 23, 25 | Madness | K-PAX | 8 |
@@ -293,9 +295,12 @@
 ## Week 6: Fight Club
 
 ### Class 8 - Monday, February 23
+> ❄️ **CANCELLED - SNOW DAY.** Content shifts to Wednesday.
+
+### Class 8 (rescheduled) - Wednesday, February 25
 **Time:** 10:30-11:45 AM
 
-> Note: Students have already seen the first 20 minutes (shown Feb 18 after Identity wrap-up).
+> Note: Only class this week. Students have seen the first 20 minutes (Feb 18). Monday's content moves here; the remaining ~60 min of Fight Club moves to Monday of Week 7.
 
 #### Topics to Cover
 1. **Quick Recap** (5 min)
@@ -309,18 +314,6 @@
 3. **Discussion** (10 min)
    - Tyler Durden's philosophy
    - The narrator's transformation
-
-### Class 9 - Wednesday, February 25
-**Time:** 10:30-11:45 AM
-
-#### Topics to Cover
-1. **Complete Fight Club** (60 min remaining)
-   - Resume from ~80 min mark through end (139 min total)
-   - Note: Starting Fight Club early on Feb 18 means we can show the full film in class
-
-2. **Discussion** (15 min)
-   - The revelation and its impact
-   - Connecting all three Mystery films
 
 #### Quiz 5 Concepts (MUST COVER)
 1. **Tyler Durden as Suppressed Self**
@@ -350,41 +343,46 @@
 
 ---
 
-## Week 7: Rain Man (Part I)
+## Week 7: Fight Club (Completion) / Rain Man (Part I)
 
-### Class 10 - Monday, March 2
+### Class 9 - Monday, March 2
 **Time:** 10:30-11:45 AM
 
-#### Transition to Madness Module
-- Brief discussion: Moving from Mystery to Madness
-- Mystery explored identity and reality distortion
-- Madness focuses on neurodevelopmental and psychiatric conditions
+> Note: Due to Feb 23 snow day, this class completes Fight Club before transitioning to Rain Man.
 
 #### Topics to Cover
-1. **Film Introduction** (10 min)
+1. **Complete Fight Club** (60 min)
+   - Resume from ~80 min mark through end (139 min total)
+   - The revelation and its impact
+
+2. **Post-Film Discussion** (5 min)
+   - Quick reactions to the twist
+   - Connecting all three Mystery films: Machinist, Identity, Fight Club
+
+3. **Transition to Madness Module** (5 min)
+   - Moving from Mystery to Madness
+   - Mystery explored identity and reality distortion
+   - Madness focuses on neurodevelopmental and psychiatric conditions
+
+4. **Rain Man Introduction** (5 min)
    - Barry Levinson (1988), stars Dustin Hoffman, Tom Cruise
    - Hoffman's Oscar-winning performance
    - Note: Film is from 1988 - understanding of autism has evolved
 
-2. **Film Viewing** (55 min)
-   - Show first 55 minutes
-   - Charlie discovers he has a brother
+> **Quiz 5 timing:** Announce Quiz 5 availability after this class (students have now seen all of Fight Club).
 
-3. **Discussion** (10 min)
-   - First impressions of Raymond
-   - Charlie's motivations
-
-### Class 11 - Wednesday, March 4
+### Class 10 - Wednesday, March 4
 **Time:** 10:30-11:45 AM
 
 #### Topics to Cover
-1. **Film Viewing** (45 min)
-   - Continue Rain Man
-   - Road trip developing
+1. **Film Viewing** (60 min)
+   - Show first 60 minutes of Rain Man
+   - Charlie discovers he has a brother, road trip begins
 
-2. **Discussion** (30 min)
+2. **Discussion** (15 min)
+   - First impressions of Raymond
+   - Charlie's motivations
    - Raymond's routines and their function
-   - Charlie's transformation beginning
 
 #### Quiz 6 Concepts (MUST COVER)
 **Critical autism and emotion concepts:**
@@ -944,5 +942,5 @@ Both examine how systems - through action or inaction - enable harm.
 
 ---
 
-*Last Updated: February 18, 2026 (Fight Club starts early due to runtime)*
+*Last Updated: February 22, 2026 (Revised for second snow day - Feb 23)*
 *CONFIDENTIAL TEACHING NOTES - Section 002*

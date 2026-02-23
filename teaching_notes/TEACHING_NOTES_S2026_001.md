@@ -5,7 +5,9 @@
 
 ---
 
-> ⚠️ **SCHEDULE CHANGE (Snow Storm):** Week 2 was lost due to severe weather/university closure. All content shifted one week later. Weeks 14 and 15 combined into single final week. **Total quizzes: 13 (not 14). All students receive automatic 100% for eliminated quiz + best 9 of remaining 13.** Total classes: 26 (not 28).
+> ⚠️ **SCHEDULE CHANGE (Snow Storm):** Week 2 was lost due to severe weather/university closure. All content shifted one week later. Weeks 14 and 15 combined into single final week. **Total quizzes: 13 (not 14). All students receive automatic 100% for eliminated quiz + best 9 of remaining 13.** Total classes: 25 (not 28).
+>
+> ⚠️ **SECOND SNOW DAY (Feb 23):** Monday, February 23 cancelled due to snow. Week 6 has only one class (Wed Feb 25). Content cascades: Sunset Boulevard spills into Week 7, making Week 7 a combined "Sunset Boulevard / Black Swan" week.
 
 ---
 
@@ -18,8 +20,8 @@
 | 3 | Feb 2, 4 | Mystery | Shutter Island | 2 |
 | 4 | Feb 9, 11 | Mystery | Shutter Island / North by Northwest | 3 |
 | 5 | Feb 16, 18 | Mystery | North by Northwest | 4 |
-| 6 | Feb 23, 25 | Mystery | Sunset Boulevard | 5 |
-| 7 | Mar 2, 4 | Madness | Black Swan | 6 |
+| 6 | ~~Feb 23~~, 25 | Mystery | Sunset Boulevard (**snow day Mon**) | 5 |
+| 7 | Mar 2, 4 | Madness | Sunset Boulevard / Black Swan | 6 |
 | 8 | Mar 9-15 | **SPRING BREAK** | **R-E-L-A-X** (No Class) | - |
 | 9 | Mar 16, 18 | Madness | Black Swan / Good Will Hunting | 7 |
 | 10 | Mar 23, 25 | Madness | Good Will Hunting | 8 |
@@ -264,7 +266,12 @@
 ## Week 6: Sunset Boulevard
 
 ### Class 8 - Monday, February 23
+> ❄️ **CANCELLED - SNOW DAY.** Content shifts to Wednesday.
+
+### Class 8 (rescheduled) - Wednesday, February 25
 **Time:** 9:00-10:15 AM
+
+> Note: Only class this week. Monday's content moves here; Wednesday's original content (completing the film) moves to Monday of Week 7.
 
 #### Topics to Cover
 1. **Film Introduction** (10 min)
@@ -279,14 +286,6 @@
 3. **Discussion** (10 min)
    - First impressions of Norma Desmond
    - What "madness" do we see?
-
-### Class 9 - Wednesday, February 25
-**Time:** 9:00-10:15 AM
-
-#### Topics to Cover
-1. **Complete Sunset Boulevard** (50 min)
-
-2. **Psychological Analysis** (25 min)
 
 #### Quiz 5 Concepts (MUST COVER)
 1. **Delusion Maintenance**
@@ -320,41 +319,44 @@
 
 ---
 
-## Week 7: Black Swan (Part I)
+## Week 7: Sunset Boulevard (Completion) / Black Swan (Part I)
 
-### Class 10 - Monday, March 2
+### Class 9 - Monday, March 2
 **Time:** 9:00-10:15 AM
 
-#### Transition to Madness Module
-- Brief discussion: Moving from Mystery to Madness
-- What distinguishes these themes?
-- Madness focuses on internal psychological states
+> Note: Due to Feb 23 snow day, this class completes Sunset Boulevard before transitioning to Black Swan.
 
 #### Topics to Cover
-1. **Film Introduction** (10 min)
+1. **Complete Sunset Boulevard** (50 min)
+   - Resume from ~60 min mark through end
+
+2. **Psychological Analysis of Sunset Boulevard** (10 min)
+   - Quick discussion: Norma's delusion, Max's enabling, Joe's compromise
+   - Cover Quiz 5 concepts that require full film viewing
+
+3. **Transition to Madness Module** (5 min)
+   - Moving from Mystery to Madness
+   - What distinguishes these themes?
+
+4. **Black Swan Introduction** (10 min)
    - Darren Aronofsky (2010), stars Natalie Portman
    - Warning: Film contains disturbing imagery
    - Themes: Perfectionism, psychosis, identity
 
-2. **Film Viewing** (55 min)
-   - Show first 55 minutes
-   - Pay attention to mirror imagery
+> **Quiz 5 timing:** Announce Quiz 5 availability after this class (students have now seen all of Sunset Boulevard).
 
-3. **Discussion** (10 min)
-   - What symptoms do you observe?
-   - Mother-daughter dynamics
-
-### Class 11 - Wednesday, March 4
+### Class 10 - Wednesday, March 4
 **Time:** 9:00-10:15 AM
 
 #### Topics to Cover
-1. **Film Viewing** (45 min)
-   - Continue Black Swan
-   - End around the 100-minute mark
+1. **Film Viewing** (60 min)
+   - Show first 60 minutes of Black Swan
+   - Pay attention to mirror imagery
 
-2. **Discussion** (30 min)
-   - Nina's transformation - artistic or pathological?
-   - Lily as real person vs. projection
+2. **Discussion** (15 min)
+   - What symptoms do you observe?
+   - Mother-daughter dynamics
+   - Nina's transformation beginning
 
 #### Quiz 6 Concepts (MUST COVER)
 **Critical concepts from Feldman Barrett and Kalokerinos:**
@@ -871,5 +873,5 @@
 
 ---
 
-*Last Updated: January 2026 (Revised for snow week schedule change)*
+*Last Updated: February 22, 2026 (Revised for second snow day - Feb 23)*
 *CONFIDENTIAL TEACHING NOTES - Section 001*
