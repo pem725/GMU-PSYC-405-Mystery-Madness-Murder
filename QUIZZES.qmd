@@ -12,7 +12,7 @@ format:
 
 ::: {.callout-warning icon="snowflake"}
 ## Schedule Change Notice (Snow Storm)
-Due to university closure during Week 2 from a severe snow storm, the course has been reduced to **13 quizzes** (from 14). Everyone receives automatic 100% credit for the eliminated quiz - you start with one perfect score in the bank! You only need your best 9 additional quiz scores to complete your grade.
+Due to university closure during Week 2 from a severe snow storm and a mid-semester schedule revision, quizzes have been adjusted: **Section 001 has 12 quizzes** and **Section 002 has 11 quizzes**. Everyone receives automatic 100% credit for the eliminated quiz - you start with one perfect score in the bank! You only need your best 9 additional quiz scores to complete your grade.
 :::
 
 Weekly quizzes test your integration of **film content** AND **psychological science**. These are not simple recall questions - they require you to connect what you observe in films with the theoretical frameworks from our [course readings](READINGS.qmd).
@@ -32,7 +32,7 @@ The questions are intentionally difficult. To succeed:
 
 ## Section 001 Quizzes
 
-**Meeting Time:** Mon/Wed 9:00-10:15 AM | **Films:** Shutter Island, North by Northwest, Sunset Boulevard, Black Swan, Good Will Hunting, What's Eating Gilbert Grape, Primal Fear, The Hurricane
+**Meeting Time:** Mon/Wed 9:00-10:15 AM | **Films:** Shutter Island, North by Northwest, Sunset Boulevard, Black Swan, Good Will Hunting, Primal Fear, The Hurricane
 
 | Quiz | Topic | Film(s) | Key Concepts |
 |:----:|:------|:--------|:-------------|
@@ -44,17 +44,16 @@ The questions are intentionally difficult. To succeed:
 | [Quiz 6](quizzes/spring2026_001/quiz06_black_swan.html){target="_blank"} | Black Swan (Part I) | Black Swan | Perfectionism, emotion differentiation, regulation |
 | [Quiz 7](quizzes/spring2026_001/quiz07_black_swan_gwh.html){target="_blank"} | Black Swan / Good Will Hunting | Both | Therapy, purpose development, regulation strategies |
 | [Quiz 8](quizzes/spring2026_001/quiz08_good_will_hunting.html){target="_blank"} | Good Will Hunting | Good Will Hunting | Attachment, trauma, therapeutic process |
-| [Quiz 9](quizzes/spring2026_001/quiz09_gilbert_grape.html){target="_blank"} | What's Eating Gilbert Grape | Gilbert Grape | Caregiving burden, emotion regulation, purpose |
-| [Quiz 10](quizzes/spring2026_001/quiz10_primal_fear.html){target="_blank"} | Primal Fear (Part I) | Primal Fear | Psychopathy, deception, mens rea |
-| [Quiz 11](quizzes/spring2026_001/quiz11_primal_fear_hurricane.html){target="_blank"} | Primal Fear / The Hurricane | Both | Justice, belief systems, institutional bias |
-| [Quiz 12](quizzes/spring2026_001/quiz12_hurricane.html){target="_blank"} | The Hurricane | The Hurricane | Wrongful conviction, SDO, purpose |
-| [Quiz 13](quizzes/spring2026_001/quiz13_wrapup.html){target="_blank"} | Final Integration | All films | Synthesis across all themes |
+| [Quiz 9](quizzes/spring2026_001/quiz10_primal_fear.html){target="_blank"} | Primal Fear (Part I) | Primal Fear | Psychopathy, deception, mens rea |
+| [Quiz 10](quizzes/spring2026_001/quiz11_primal_fear_hurricane.html){target="_blank"} | Primal Fear / The Hurricane | Both | Justice, belief systems, institutional bias |
+| [Quiz 11](quizzes/spring2026_001/quiz12_hurricane.html){target="_blank"} | The Hurricane | The Hurricane | Wrongful conviction, SDO, purpose |
+| [Quiz 12](quizzes/spring2026_001/quiz13_wrapup.html){target="_blank"} | Final Integration | All films | Synthesis across all themes |
 
 ---
 
 ## Section 002 Quizzes
 
-**Meeting Time:** Mon/Wed 10:30-11:45 AM | **Films:** The Machinist, Identity, Fight Club, Rain Man, K-PAX, Leaving Las Vegas, Nuremberg, Wind River
+**Meeting Time:** Mon/Wed 10:30-11:45 AM | **Films:** The Machinist, Identity, Fight Club, K-PAX, Leaving Las Vegas, Nuremberg, Wind River
 
 | Quiz | Topic | Film(s) | Key Concepts |
 |:----:|:------|:--------|:-------------|
@@ -63,14 +62,12 @@ The questions are intentionally difficult. To succeed:
 | [Quiz 3](quizzes/spring2026_002/quiz03_machinist_identity.html){target="_blank"} | The Machinist / Identity | Both | Fragmented identity, DID, belief systems |
 | [Quiz 4](quizzes/spring2026_002/quiz04_identity.html){target="_blank"} | Identity | Identity | DID, moral judgment, mens rea |
 | [Quiz 5](quizzes/spring2026_002/quiz05_fight_club.html){target="_blank"} | Fight Club | Fight Club | Dissociation, purpose, SDO |
-| [Quiz 6](quizzes/spring2026_002/quiz06_rain_man.html){target="_blank"} | Rain Man (Part I) | Rain Man | Autism, emotion, scientific belief |
-| [Quiz 7](quizzes/spring2026_002/quiz07_rain_man_kpax.html){target="_blank"} | Rain Man / K-PAX | Both | Diagnosis, deception detection, purpose |
-| [Quiz 8](quizzes/spring2026_002/quiz08_kpax.html){target="_blank"} | K-PAX | K-PAX | Delusion vs. reality, belief formation |
-| [Quiz 9](quizzes/spring2026_002/quiz09_leaving_las_vegas.html){target="_blank"} | Leaving Las Vegas | Leaving Las Vegas | Self-destruction, emotion regulation, purpose |
-| [Quiz 10](quizzes/spring2026_002/quiz10_nuremberg.html){target="_blank"} | Nuremberg (Part I) | Nuremberg | War crimes, SDO, moral judgment |
-| [Quiz 11](quizzes/spring2026_002/quiz11_nuremberg_wind_river.html){target="_blank"} | Nuremberg / Wind River | Both | Systemic injustice, responsibility |
-| [Quiz 12](quizzes/spring2026_002/quiz12_wind_river.html){target="_blank"} | Wind River | Wind River | Marginalized communities, grief, purpose |
-| [Quiz 13](quizzes/spring2026_002/quiz13_wrapup.html){target="_blank"} | Final Integration | All films | Synthesis across all themes |
+| [Quiz 6](quizzes/spring2026_002/quiz08_kpax.html){target="_blank"} | K-PAX | K-PAX | Delusion vs. reality, belief formation |
+| [Quiz 7](quizzes/spring2026_002/quiz09_leaving_las_vegas.html){target="_blank"} | Leaving Las Vegas | Leaving Las Vegas | Self-destruction, emotion regulation, purpose |
+| [Quiz 8](quizzes/spring2026_002/quiz10_nuremberg.html){target="_blank"} | Nuremberg (Part I) | Nuremberg | War crimes, SDO, moral judgment |
+| [Quiz 9](quizzes/spring2026_002/quiz11_nuremberg_wind_river.html){target="_blank"} | Nuremberg / Wind River | Both | Systemic injustice, responsibility |
+| [Quiz 10](quizzes/spring2026_002/quiz12_wind_river.html){target="_blank"} | Wind River | Wind River | Marginalized communities, grief, purpose |
+| [Quiz 11](quizzes/spring2026_002/quiz13_wrapup.html){target="_blank"} | Final Integration | All films | Synthesis across all themes |
 
 ---
 
@@ -120,4 +117,4 @@ Quiz availability is announced in class. Come to class to know when quizzes open
 
 *Questions integrate film content with psychological science from our [course readings](READINGS.qmd).*
 
-*Last updated: January 31, 2026 (Revised for snow week schedule - 13 quizzes total)*
+*Last updated: March 3, 2026 (Revised: dropped Gilbert Grape from 001, Rain Man from 002)*

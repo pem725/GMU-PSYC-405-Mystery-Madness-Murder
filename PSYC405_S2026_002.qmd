@@ -97,6 +97,11 @@ During class, we shall all share in the viewing of a media snippet that depicts 
 Due to university closure during Week 2 from a severe snow storm, and a second snow day on Monday, February 23, the course schedule has been adjusted. All content has shifted accordingly, and Weeks 14 and 15 have been combined. **Good news:** To ensure no student is penalized, everyone receives automatic 100% credit for the eliminated quiz. You start the semester with one perfect quiz score already in the bank! You only need your best 9 additional quiz scores to complete your grade.
 :::
 
+::: {.callout-warning icon="calendar-check"}
+## Mid-Semester Schedule Revision
+After evaluating our timeline, *Rain Man* has been removed from the schedule to allow more time for in-depth discussion of remaining films. Quiz numbering has been updated accordingly. Your quiz policy remains generous: with 11 quizzes + 1 automatic 100% (snow week), your best 10 scores count — you only need 9 strong performances from 11 quizzes.
+:::
+
 | Week | Module | Film | Assessment |
 |:----:|:------:|:-----|:----------:|
 | 1 | Intro | Hello & Greetings | [Quiz 1](quizzes/spring2026_002/quiz01_intro.html){target="_blank"}[^1] |
@@ -105,15 +110,15 @@ Due to university closure during Week 2 from a severe snow storm, and a second s
 | 4 | Mystery | The Machinist / [Identity](https://www.imdb.com/title/tt0309698/){target="_blank"} (2003) 🎬 7.3 \| [🍅 63%](https://www.rottentomatoes.com/m/identity){target="_blank"} \| [📖](https://en.wikipedia.org/wiki/Identity_(2003_film)){target="_blank"} | [Quiz 3](quizzes/spring2026_002/quiz03_machinist_identity.html){target="_blank"} |
 | 5 | Mystery | Identity / [Fight Club](https://www.imdb.com/title/tt0137523/){target="_blank"} (1999) 🎬 8.8 \| [🍅 81%](https://www.rottentomatoes.com/m/fight_club){target="_blank"} \| [📖](https://en.wikipedia.org/wiki/Fight_Club){target="_blank"} | [Quiz 4](quizzes/spring2026_002/quiz04_identity.html){target="_blank"} |
 | 6 | Mystery | Fight Club | [Quiz 5](quizzes/spring2026_002/quiz05_fight_club.html){target="_blank"} |
-| 7 | Madness | Fight Club / [Rain Man](https://www.imdb.com/title/tt0095953/){target="_blank"} (1988) 🎬 8.0 \| [🍅 88%](https://www.rottentomatoes.com/m/rain_man){target="_blank"} \| [📖](https://en.wikipedia.org/wiki/Rain_Man){target="_blank"} | [Quiz 6](quizzes/spring2026_002/quiz06_rain_man.html){target="_blank"} |
+| 7 | Madness | Fight Club / [K-PAX](https://www.imdb.com/title/tt0272152/){target="_blank"} (2001) 🎬 7.4 \| [🍅 42%](https://www.rottentomatoes.com/m/kpax){target="_blank"} \| [📖](https://en.wikipedia.org/wiki/K-PAX_(film)){target="_blank"} | — |
 | 8 | SPRING BREAK | **R-E-L-A-X** (March 9-15) | NO QUIZ |
-| 9 | Madness | Rain Man / [K-PAX](https://www.imdb.com/title/tt0272152/){target="_blank"} (2001) 🎬 7.4 \| [🍅 42%](https://www.rottentomatoes.com/m/kpax){target="_blank"} \| [📖](https://en.wikipedia.org/wiki/K-PAX_(film)){target="_blank"} | [Quiz 7](quizzes/spring2026_002/quiz07_rain_man_kpax.html){target="_blank"} |
-| 10 | Madness | K-PAX | [Quiz 8](quizzes/spring2026_002/quiz08_kpax.html){target="_blank"} |
-| 11 | Madness | [Leaving Las Vegas](https://www.imdb.com/title/tt0113627/){target="_blank"} (1995) 🎬 7.5 \| [🍅 91%](https://www.rottentomatoes.com/m/leaving_las_vegas){target="_blank"} \| [📖](https://en.wikipedia.org/wiki/Leaving_Las_Vegas){target="_blank"} | [Quiz 9](quizzes/spring2026_002/quiz09_leaving_las_vegas.html){target="_blank"} |
-| 12 | Murder | [Nuremberg](https://www.imdb.com/title/tt29567915/){target="_blank"} (2025) 🎬 7.4 \| [🍅 71%](https://www.rottentomatoes.com/m/nuremberg_2025){target="_blank"} \| [📖](https://en.wikipedia.org/wiki/Nuremberg_(2025_film)){target="_blank"} | [Quiz 10](quizzes/spring2026_002/quiz10_nuremberg.html){target="_blank"} |
-| 13 | Murder | Nuremberg / [Wind River](https://www.imdb.com/title/tt5362988/){target="_blank"} (2017) 🎬 7.7 \| [🍅 87%](https://www.rottentomatoes.com/m/wind_river_2017){target="_blank"} \| [📖](https://en.wikipedia.org/wiki/Wind_River_(film)){target="_blank"} | [Quiz 11](quizzes/spring2026_002/quiz11_nuremberg_wind_river.html){target="_blank"} |
-| 14 | Murder | Wind River | [Quiz 12](quizzes/spring2026_002/quiz12_wind_river.html){target="_blank"} |
-| 15 | Epilogue (FINAL) | Wrap-up, Review & Final Reflections | [Quiz 13](quizzes/spring2026_002/quiz13_wrapup.html){target="_blank"} |
+| 9 | Madness | K-PAX | [Quiz 6](quizzes/spring2026_002/quiz08_kpax.html){target="_blank"} |
+| 10 | Madness | [Leaving Las Vegas](https://www.imdb.com/title/tt0113627/){target="_blank"} (1995) 🎬 7.5 \| [🍅 91%](https://www.rottentomatoes.com/m/leaving_las_vegas){target="_blank"} \| [📖](https://en.wikipedia.org/wiki/Leaving_Las_Vegas){target="_blank"} | — |
+| 11 | Madness | Leaving Las Vegas | [Quiz 7](quizzes/spring2026_002/quiz09_leaving_las_vegas.html){target="_blank"} |
+| 12 | Murder | [Nuremberg](https://www.imdb.com/title/tt29567915/){target="_blank"} (2025) 🎬 7.4 \| [🍅 71%](https://www.rottentomatoes.com/m/nuremberg_2025){target="_blank"} \| [📖](https://en.wikipedia.org/wiki/Nuremberg_(2025_film)){target="_blank"} | [Quiz 8](quizzes/spring2026_002/quiz10_nuremberg.html){target="_blank"} |
+| 13 | Murder | Nuremberg / [Wind River](https://www.imdb.com/title/tt5362988/){target="_blank"} (2017) 🎬 7.7 \| [🍅 87%](https://www.rottentomatoes.com/m/wind_river_2017){target="_blank"} \| [📖](https://en.wikipedia.org/wiki/Wind_River_(film)){target="_blank"} | [Quiz 9](quizzes/spring2026_002/quiz11_nuremberg_wind_river.html){target="_blank"} |
+| 14 | Murder | Wind River | [Quiz 10](quizzes/spring2026_002/quiz12_wind_river.html){target="_blank"} |
+| 15 | Epilogue (FINAL) | Wrap-up, Review & Final Reflections | [Quiz 11](quizzes/spring2026_002/quiz13_wrapup.html){target="_blank"} |
 
 [^1]: All quizzes are conducted on canvas. Please consult the canvas website for the course. You will have access to the quiz for the period that I announce every week (at random). Come to class. You won't have to wonder when I start the quiz. Just show up. Oh, and bring a computer or phone.
 
@@ -132,7 +137,6 @@ All quiz questions are available for study on our [Quiz Page](QUIZZES.qmd). Yes,
 
 **Madness Module (Weeks 7-11):**
 
-- **Rain Man** - Autism spectrum disorder, savant syndrome, relationship dynamics
 - **K-PAX** - Delusion versus reality, therapeutic relationship, diagnostic uncertainty
 - **Leaving Las Vegas** - Alcoholism, self-destruction, depression, unconventional relationships
 
@@ -184,17 +188,6 @@ Use these links to explore background information, reviews, and critical analyse
 :::
 
 ### Madness Module Films
-
-#### Rain Man (1988)
-**Links:** [🎬 IMDB](https://www.imdb.com/title/tt0095953/){target="_blank"} (8.0/10) | [🍅 Rotten Tomatoes](https://www.rottentomatoes.com/m/rain_man){target="_blank"} (88%) | [📖 Wikipedia](https://en.wikipedia.org/wiki/Rain_Man){target="_blank"}
-
-::: {.callout-tip}
-## Discussion Questions
-1. **BELIEF:** The film depicts autism and savant syndrome. How has our understanding of the autism spectrum changed since 1988? What did the film get right or wrong?
-2. **MOTIVATION:** Charlie's initial motivation is purely financial. How and why does his motivation transform over the course of the film?
-3. **EMOTION:** Raymond experiences emotions differently than neurotypical individuals. How does the film portray his emotional world, and is this portrayal respectful?
-4. **PURPOSE:** What does the relationship between Charlie and Raymond reveal about how we define "normal" functioning and human connection?
-:::
 
 #### K-PAX (2001)
 **Links:** [🎬 IMDB](https://www.imdb.com/title/tt0272152/){target="_blank"} (7.4/10) | [🍅 Rotten Tomatoes](https://www.rottentomatoes.com/m/kpax){target="_blank"} (42%) | [📖 Wikipedia](https://en.wikipedia.org/wiki/K-PAX_(film)){target="_blank"}
@@ -296,7 +289,7 @@ Those grades will be predicated on the follow complex formula:
 +:===================:+:================:+:==========================================================================================================================================================================================================================:+:========================================================================================================================================================================================================================================:+:====================================================================================================================================================================================================================================================================:+
 | Attendance          | 60%              | "80% of success in life is just showing up." – Woody Allen. For this class, showing up gives you 60%. Show up.                                                                                                             | Show up every day. You'll appreciate me, the course, learning, and your fellow students more if you do so.                                                                                                                               | 25 classes (adjusted for snow week and Feb 23 snow day). I expect everyone to attend at least 21 classes. Every class missed after those 4 means you lose 60%/21 or 2.9 percentage points per class.                                                                    |
 +---------------------+------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Quizzes             | 20%              | Show up and pay attention.  Weekly quizzes will be fun and easy but test your attendance (see above) and attention.                                                                                                        | Show up every day and listen to the discussion.  Go home and think.  Talk to your classmates.                                                                                                                                            | Weekly quizzes (N=13) + 1 automatic 100% for eliminated quiz. Best 10 total, so you need your best 9 from the 13. You start with one perfect score in the bank!                                                                                                      |
+| Quizzes             | 20%              | Show up and pay attention.  Weekly quizzes will be fun and easy but test your attendance (see above) and attention.                                                                                                        | Show up every day and listen to the discussion.  Go home and think.  Talk to your classmates.                                                                                                                                            | Weekly quizzes (N=11) + 1 automatic 100% for eliminated quiz. Best 10 total, so you need your best 9 from the 11. You start with one perfect score in the bank!                                                                                                      |
 +---------------------+------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | Engagement          | 20%              | Talk to me.  Show me that you are alive and engaged.  Shy?  Post questions or comments to me via canvas.  Stay engaged.  Extroverted?  Speak up in class.  Everyone has an opportunity and avenue to engage. Please do so. | Show up every day, listen to the discussion, and contribute to it.  Your contributions make all the difference between an OK class and a great class.  Let's make it great together.  I invite you in and you contribute.  Are you game? | Do I know you via voice, email, canvas, or any other medium used by GMU that I have access to and use?  Knowing you want a better grade is not knowing your thoughts or ideas.  Please, make yourself and ideas known to me (and the rest of the class if you wish). |
 +---------------------+------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+

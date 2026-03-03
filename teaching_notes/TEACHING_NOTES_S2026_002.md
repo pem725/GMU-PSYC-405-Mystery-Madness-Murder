@@ -5,9 +5,11 @@
 
 ---
 
-> ⚠️ **SCHEDULE CHANGE (Snow Storm):** Week 2 was lost due to severe weather/university closure. All content shifted one week later. Weeks 14 and 15 combined into single final week. **Total quizzes: 13 (not 14). All students receive automatic 100% for eliminated quiz + best 9 of remaining 13.** Total classes: 25 (not 28).
+> ⚠️ **SCHEDULE CHANGE (Snow Storm):** Week 2 was lost due to severe weather/university closure. All content shifted one week later. Weeks 14 and 15 combined into single final week. Total classes: 25 (not 28).
 >
-> ⚠️ **SECOND SNOW DAY (Feb 23):** Monday, February 23 cancelled due to snow. Week 6 has only one class (Wed Feb 25). Content cascades: Fight Club completion spills into Week 7, making Week 7 a combined "Fight Club / Rain Man" week.
+> ⚠️ **SECOND SNOW DAY (Feb 23):** Monday, February 23 cancelled due to snow. Week 6 has only one class (Wed Feb 25). Content cascades: Fight Club completion spills into Week 7.
+>
+> ⚠️ **MID-SEMESTER REVISION (Mar 3):** *Rain Man* dropped from schedule. Week 7 becomes "Fight Club / K-PAX". K-PAX gets more breathing room across Weeks 7-9. Leaving Las Vegas expands into Weeks 10-11. **Total quizzes: 11 (not 13). All students receive automatic 100% for eliminated quiz + best 9 of remaining 11.**
 
 ---
 
@@ -21,15 +23,15 @@
 | 4 | Feb 9, 11 | Mystery | The Machinist / Identity | 3 |
 | 5 | Feb 16, 18 | Mystery | Identity / Fight Club (begins) | 4 |
 | 6 | ~~Feb 23~~, 25 | Mystery | Fight Club (**snow day Mon**) | 5 |
-| 7 | Mar 2, 4 | Madness | Fight Club / Rain Man | 6 |
+| 7 | Mar 2, 4 | Madness | Fight Club / K-PAX | — |
 | 8 | Mar 9-15 | **SPRING BREAK** | **R-E-L-A-X** (No Class) | - |
-| 9 | Mar 16, 18 | Madness | Rain Man / K-PAX | 7 |
-| 10 | Mar 23, 25 | Madness | K-PAX | 8 |
-| 11 | Mar 30, Apr 1 | Madness | Leaving Las Vegas | 9 |
-| 12 | Apr 6, 8 | Murder | Nuremberg | 10 |
-| 13 | Apr 13, 15 | Murder | Nuremberg / Wind River | 11 |
-| 14 | Apr 20, 22 | Murder | Wind River | 12 |
-| 15 | Apr 27, 29, May 4 | Epilogue | Wrap-up, Review & Final Reflections | 13 |
+| 9 | Mar 16, 18 | Madness | K-PAX | 6 |
+| 10 | Mar 23, 25 | Madness | Leaving Las Vegas | — |
+| 11 | Mar 30, Apr 1 | Madness | Leaving Las Vegas | 7 |
+| 12 | Apr 6, 8 | Murder | Nuremberg | 8 |
+| 13 | Apr 13, 15 | Murder | Nuremberg / Wind River | 9 |
+| 14 | Apr 20, 22 | Murder | Wind River | 10 |
+| 15 | Apr 27, 29, May 4 | Epilogue | Wrap-up, Review & Final Reflections | 11 |
 
 ---
 
@@ -343,12 +345,12 @@
 
 ---
 
-## Week 7: Fight Club (Completion) / Rain Man (Part I)
+## Week 7: Fight Club (Completion) / K-PAX (Part I)
 
 ### Class 9 - Monday, March 2
 **Time:** 10:30-11:45 AM
 
-> Note: Due to Feb 23 snow day, this class completes Fight Club before transitioning to Rain Man.
+> Note: Due to Feb 23 snow day, this class completes Fight Club before transitioning to K-PAX.
 
 #### Topics to Cover
 1. **Complete Fight Club** (60 min)
@@ -362,12 +364,12 @@
 3. **Transition to Madness Module** (5 min)
    - Moving from Mystery to Madness
    - Mystery explored identity and reality distortion
-   - Madness focuses on neurodevelopmental and psychiatric conditions
+   - Madness focuses on diagnostic ambiguity and psychiatric conditions
 
-4. **Rain Man Introduction** (5 min)
-   - Barry Levinson (1988), stars Dustin Hoffman, Tom Cruise
-   - Hoffman's Oscar-winning performance
-   - Note: Film is from 1988 - understanding of autism has evolved
+4. **K-PAX Introduction** (5 min)
+   - Iain Softley (2001), stars Kevin Spacey, Jeff Bridges
+   - Man claims to be from planet K-PAX
+   - Is Prot an alien or delusional?
 
 > **Quiz 5 timing:** Announce Quiz 5 availability after this class (students have now seen all of Fight Club).
 
@@ -376,103 +378,16 @@
 
 #### Topics to Cover
 1. **Film Viewing** (60 min)
-   - Show first 60 minutes of Rain Man
-   - Charlie discovers he has a brother, road trip begins
+   - Show first 60 minutes of K-PAX
+   - Prot arrives at psychiatric hospital
+   - Dr. Powell begins investigation
 
 2. **Discussion** (15 min)
-   - First impressions of Raymond
-   - Charlie's motivations
-   - Raymond's routines and their function
-
-#### Quiz 6 Concepts (MUST COVER)
-**Critical autism and emotion concepts:**
-
-1. **Scientific Belief Evolution (Boudry et al., 2015)** (ESSENTIAL)
-   - Autism understanding: single condition → spectrum
-   - This change illustrates science updating through evidence
-   - Scientific beliefs differ from pseudoscience by responding to disconfirmation
-   - Science changes - that's a feature, not a bug
-
-2. **Emotional Experience in Autism (Feldman Barrett et al., 2001)**
-   - Raymond DOES experience emotions
-   - Processing and expression differ from neurotypical
-   - Shows distress (routine disruption), comfort (with Charlie), fear (airplanes)
-   - Emotions real but follow different patterns
-
-3. **Happiness → Purpose (McKnight et al., 2025)**
-   - Charlie's transformation: financial motivation → caring
-   - Positive emotional experiences PRECEDED purpose development
-   - He didn't decide to care then feel good; he felt good then began caring
-   - Research: Happiness predicts subsequent purpose
-
-4. **Routines as Situation Selection (Gross, 2015)**
-   - Raymond's routines create predictable environments
-   - Minimizes anxiety from unexpected events
-   - When routines disrupted → distress
-   - Adaptive regulation strategy for his psychology
-
-5. **Self-Validating Beliefs about Injustice (Boudry & Braeckman, 2012)**
-   - Charlie initially believes inheritance is unjust
-   - This belief protects self-concept (victim, not untrustworthy)
-   - The "cheated" narrative preserves positive self-view
-
----
-
-## Week 9: Rain Man (Part II) / K-PAX (Part I)
-
-### Class 12 - Monday, March 16
-**Time:** 10:30-11:45 AM
-
-#### Topics to Cover
-1. **Complete Rain Man** (45 min)
-   - Ending: Raymond returns to institution
-
-2. **Post-Film Discussion** (20 min)
-   - Charlie's transformation complete
-   - Bittersweet ending - connection but separation
-   - How portrayals of autism have evolved since 1988
-
-3. **K-PAX Introduction** (10 min)
-   - Iain Softley (2001), stars Kevin Spacey, Jeff Bridges
-   - Man claims to be from planet K-PAX
-   - Is Prot an alien or delusional?
-
-4. **Begin K-PAX** (15 min)
-
-### Class 13 - Wednesday, March 18
-**Time:** 10:30-11:45 AM
-
-#### Topics to Cover
-1. **Film Viewing** (55 min)
-   - Continue K-PAX
-   - Dr. Powell's investigation
-
-2. **Discussion** (20 min)
+   - First impressions of Prot
    - Evidence for alien vs. delusion interpretations
    - What makes this ambiguity interesting?
 
-#### Quiz 7 Concepts (MUST COVER)
-**Integration quiz - Rain Man + K-PAX:**
-
-1. **Different Minds: Autism vs. Possible Delusion**
-   - Raymond: Clear diagnosis, neurological basis
-   - Prot: Deliberately ambiguous, possible trauma
-   - Both: Professionals trying to understand atypical minds
-
-2. **Diagnostic Uncertainty**
-   - Dr. Powell struggles to diagnose Prot
-   - UNCERTAINTY: What are the limits of psychiatric diagnosis?
-   - When classification systems fail
-
-3. **Therapeutic Relationship**
-   - Raymond & Charlie: Brother bond, not therapeutic
-   - Prot & Powell: Professional but transformative for both
-   - Both show: Connection matters regardless of formal structure
-
-4. **Function of Alternative Beliefs**
-   - Raymond's routines function to regulate
-   - Prot's alien identity may function to protect from trauma
-   - PURPOSE: Why might someone adopt an "alien" identity?
+> **No quiz this week** — students are just beginning K-PAX. Quiz 6 (K-PAX) will be available after Week 9.
 
 ---
 
@@ -482,26 +397,27 @@
 
 ---
 
-## Week 10: K-PAX (Part II)
+## Week 9: K-PAX (Part II)
 
-### Class 14 - Monday, March 23
+### Class 12 - Monday, March 16
 **Time:** 10:30-11:45 AM
 
 **Welcome back from Spring Break!**
 
 #### Topics to Cover
 1. **Brief Reconnection** (10 min)
-   - Recap K-PAX developments
+   - Recap K-PAX developments from before break
    - Any reflections over break?
 
 2. **Film Viewing** (50 min)
    - Continue K-PAX
+   - Powell's discoveries about Prot's past
 
 3. **Discussion** (15 min)
-   - Powell's discoveries about Prot's past
    - The trauma revealed
+   - Powell's growing uncertainty
 
-### Class 15 - Wednesday, March 25
+### Class 13 - Wednesday, March 18
 **Time:** 10:30-11:45 AM
 
 #### Topics to Cover
@@ -509,8 +425,11 @@
    - The ending: Prot "leaves," another patient speaks
 
 2. **Post-Film Discussion** (45 min)
+   - Process the ending's ambiguity
+   - What does each interpretation mean psychologically?
+   - Prot's impact on other patients
 
-#### Quiz 8 Concepts (MUST COVER)
+#### Quiz 6 Concepts (MUST COVER)
 1. **Ambiguity and Evidence**
    - Film provides evidence for BOTH interpretations
    - BELIEF: Which is more compelling and why?
@@ -534,10 +453,12 @@
 
 ---
 
-## Week 11: Leaving Las Vegas
+## Week 10: Leaving Las Vegas (Part I)
 
-### Class 16 - Monday, March 30
+### Class 14 - Monday, March 23
 **Time:** 10:30-11:45 AM
+
+> **No quiz this week** — K-PAX already covered by Quiz 6. Leaving Las Vegas quiz (Quiz 7) after Week 11.
 
 #### Content Warning
 - This film depicts alcoholism, self-destruction, and sexual violence
@@ -558,17 +479,51 @@
    - Initial reactions to Ben's choice
    - Sera's situation
 
-### Class 17 - Wednesday, April 1
+### Class 15 - Wednesday, March 25
+**Time:** 10:30-11:45 AM
+
+#### Topics to Cover
+1. **Film Viewing** (55 min)
+   - Continue Leaving Las Vegas
+
+2. **Discussion** (20 min)
+   - Ben and Sera's relationship developing
+   - The absence of hope in this narrative
+
+---
+
+## Week 11: Leaving Las Vegas (Part II)
+
+### Class 16 - Monday, March 30
 **Time:** 10:30-11:45 AM
 
 #### Topics to Cover
 1. **Complete Leaving Las Vegas** (45 min)
+   - Final act
 
-2. **Discussion** (30 min)
+2. **Post-Film Discussion** (30 min)
    - Processing the ending
    - Why is this film so unsettling?
 
-#### Quiz 9 Concepts (MUST COVER)
+### Class 17 - Wednesday, April 1
+**Time:** 10:30-11:45 AM
+
+#### Topics to Cover
+1. **Leaving Las Vegas Deep Discussion** (40 min)
+   - Ben's deliberate choice vs. passive self-destruction
+   - Sera's unconditional acceptance: love or pathology?
+   - Compare with previous films: K-PAX's ambiguity, Fight Club's dissociation
+
+2. **Transition Preview** (15 min)
+   - Moving from Madness to Murder next week
+   - How do psychological concepts apply to extreme evil?
+   - Preview: Nuremberg (2025)
+
+3. **Open Discussion** (20 min)
+   - Student reflections on the Madness module
+   - Which film in this module resonated most?
+
+#### Quiz 7 Concepts (MUST COVER)
 1. **Deliberate Self-Destruction**
    - Ben chooses to drink himself to death
    - MOTIVATION: What psychological state leads to this decision?
@@ -635,7 +590,7 @@
    - Defendants' psychological defenses
    - "Just following orders" claim
 
-#### Quiz 10 Concepts (MUST COVER)
+#### Quiz 8 Concepts (MUST COVER)
 **Critical forensic and moral psychology concepts:**
 
 1. **Social Dominance Orientation (Pratto et al., 1994)** (ESSENTIAL)
@@ -704,7 +659,7 @@
    - Cory Lambert's character
    - The reservation setting and its significance
 
-#### Quiz 11 Concepts (MUST COVER)
+#### Quiz 9 Concepts (MUST COVER)
 **Integration quiz - Nuremberg + Wind River:**
 
 1. **Scale of Injustice: Systemic vs. Individual**
@@ -751,7 +706,7 @@
 
 2. **Post-Film Discussion** (40 min)
 
-#### Quiz 12 Concepts (MUST COVER)
+#### Quiz 10 Concepts (MUST COVER)
 1. **Violence Against Marginalized Communities**
    - MMIW (Missing and Murdered Indigenous Women) crisis
    - DISCOMFORT: How does isolation and lack of resources contribute?
@@ -791,7 +746,6 @@
    - Fight Club: Alienation, identity fragmentation
 
 2. **Module Review: Madness** (25 min)
-   - Rain Man: Autism, emotional experience, transformation
    - K-PAX: Diagnostic ambiguity, trauma, hope
    - Leaving Las Vegas: Self-destruction, unconditional acceptance
 
@@ -818,12 +772,12 @@
    - Most challenging concepts
    - How has thinking changed?
 
-#### Quiz 13 Concepts (MUST COVER)
+#### Quiz 11 Concepts (MUST COVER)
 **Comprehensive review quiz:**
 
 1. **Cross-Film Comparisons**
    - Compare reality distortion in Machinist vs. Identity vs. Fight Club
-   - Compare atypical minds in Rain Man vs. K-PAX
+   - Compare diagnostic ambiguity in K-PAX vs. Leaving Las Vegas
    - Compare injustice in Nuremberg vs. Wind River
 
 2. **Governing Areas Synthesis**
@@ -873,12 +827,11 @@
 
 | Author(s) | Year | Key Concept | Relevant Films |
 |-----------|------|-------------|----------------|
-| Gross | 2015 | Emotion regulation strategies | Machinist, Rain Man |
-| Feldman Barrett et al. | 2001 | Emotion construction | Rain Man, K-PAX |
+| Gross | 2015 | Emotion regulation strategies | Machinist, K-PAX |
+| Feldman Barrett et al. | 2001 | Emotion construction | K-PAX, Leaving Las Vegas |
 | Kashdan et al. | 2015 | Emotion differentiation | Machinist, Leaving Las Vegas |
 | Boudry & Braeckman | 2012 | Self-validating beliefs | Machinist, Identity, Nuremberg |
-| Boudry et al. | 2015 | Scientific vs. pseudoscientific belief | Rain Man |
-| McKnight et al. | 2025 | Happiness → Purpose | Rain Man |
+| McKnight et al. | 2025 | Happiness → Purpose | K-PAX, Leaving Las Vegas |
 | Pratto et al. | 1994 | Social dominance orientation | Nuremberg |
 | Marshall et al. | 2018 | Psychopathy and moral judgment | Nuremberg |
 | Morse | 1992 | Mens rea | Nuremberg |
@@ -896,12 +849,11 @@ All three Mystery films feature protagonists whose perception of reality is fund
 
 This creates a throughline students can track and compare.
 
-### Madness Module: Atypical Minds and Hope
-- **Rain Man**: Autism portrayed (1988 lens)
-- **K-PAX**: Is it delusion or something else?
-- **Leaving Las Vegas**: What happens without hope?
+### Madness Module: Ambiguity, Hope, and Despair
+- **K-PAX**: Is it delusion or something else? Can hope itself be therapeutic?
+- **Leaving Las Vegas**: What happens without hope? When recovery isn't the goal.
 
-Students confront different relationships to hope and recovery.
+Students confront different relationships to hope, despair, and recovery.
 
 ### Murder Module: Systems and Individual Responsibility
 - **Nuremberg**: State apparatus enabling genocide
@@ -922,7 +874,7 @@ Both examine how systems - through action or inaction - enable harm.
 ### Quiz Administration
 - Announce quiz availability randomly during class
 - Typical window: Announce Tuesday, close Friday
-- Remind students: Automatic 100% on eliminated quiz + best 9 of 13 remaining quizzes count
+- Remind students: Automatic 100% on eliminated quiz + best 9 of 11 remaining quizzes count
 
 ### Engagement Tracking
 - Note students who participate
@@ -938,9 +890,9 @@ Both examine how systems - through action or inaction - enable harm.
 ### Common Student Questions
 - "Do I need to watch the whole movie?" - Yes, quizzes require full viewing
 - "Can I use AI for quizzes?" - No, prohibited use
-- "What if I miss a quiz?" - Zero, no makeups, but best 9 of 13 count
+- "What if I miss a quiz?" - Zero, no makeups, but best 9 of 11 count
 
 ---
 
-*Last Updated: February 22, 2026 (Revised for second snow day - Feb 23)*
+*Last Updated: March 3, 2026 (Revised: dropped Rain Man, renumbered quizzes)*
 *CONFIDENTIAL TEACHING NOTES - Section 002*

@@ -5,9 +5,11 @@
 
 ---
 
-> ⚠️ **SCHEDULE CHANGE (Snow Storm):** Week 2 was lost due to severe weather/university closure. All content shifted one week later. Weeks 14 and 15 combined into single final week. **Total quizzes: 13 (not 14). All students receive automatic 100% for eliminated quiz + best 9 of remaining 13.** Total classes: 25 (not 28).
+> ⚠️ **SCHEDULE CHANGE (Snow Storm):** Week 2 was lost due to severe weather/university closure. All content shifted one week later. Weeks 14 and 15 combined into single final week. Total classes: 25 (not 28).
 >
 > ⚠️ **SECOND SNOW DAY (Feb 23):** Monday, February 23 cancelled due to snow. Week 6 has only one class (Wed Feb 25). Content cascades: Sunset Boulevard spills into Week 7, making Week 7 a combined "Sunset Boulevard / Black Swan" week.
+>
+> ⚠️ **MID-SEMESTER REVISION (Mar 3):** *What's Eating Gilbert Grape* dropped from schedule. Murder module moves to Week 11. Week 14 becomes Film Discussion & Module Review. **Total quizzes: 12 (not 13). All students receive automatic 100% for eliminated quiz + best 9 of remaining 12.**
 
 ---
 
@@ -25,11 +27,11 @@
 | 8 | Mar 9-15 | **SPRING BREAK** | **R-E-L-A-X** (No Class) | - |
 | 9 | Mar 16, 18 | Madness | Black Swan / Good Will Hunting | 7 |
 | 10 | Mar 23, 25 | Madness | Good Will Hunting | 8 |
-| 11 | Mar 30, Apr 1 | Madness | What's Eating Gilbert Grape | 9 |
-| 12 | Apr 6, 8 | Murder | Primal Fear | 10 |
-| 13 | Apr 13, 15 | Murder | Primal Fear / The Hurricane | 11 |
-| 14 | Apr 20, 22 | Murder | The Hurricane | 12 |
-| 15 | Apr 27, 29, May 4 | Epilogue | Wrap-up, Review & Final Reflections | 13 |
+| 11 | Mar 30, Apr 1 | Murder | Primal Fear | 9 |
+| 12 | Apr 6, 8 | Murder | Primal Fear / The Hurricane | 10 |
+| 13 | Apr 13, 15 | Murder | The Hurricane | 11 |
+| 14 | Apr 20, 22 | Murder | Film Discussion & Module Review | — |
+| 15 | Apr 27, 29, May 4 | Epilogue | Wrap-up, Review & Final Reflections | 12 |
 
 ---
 
@@ -513,63 +515,9 @@
 
 ---
 
-## Week 11: What's Eating Gilbert Grape
+## Week 11: Primal Fear (Part I)
 
 ### Class 16 - Monday, March 30
-**Time:** 9:00-10:15 AM
-
-#### Topics to Cover
-1. **Film Introduction** (10 min)
-   - Lasse Hallström (1993), stars Johnny Depp, Leonardo DiCaprio
-   - DiCaprio's breakthrough performance as Arnie
-   - Themes: Caregiving burden, family dysfunction, developmental disability
-
-2. **Film Viewing** (55 min)
-   - Show first 55 minutes
-
-3. **Discussion** (10 min)
-   - Initial observations about family dynamics
-   - Gilbert's emotional state
-
-### Class 17 - Wednesday, April 1
-**Time:** 9:00-10:15 AM
-
-#### Topics to Cover
-1. **Complete What's Eating Gilbert Grape** (55 min)
-
-2. **Discussion** (20 min)
-
-#### Quiz 9 Concepts (MUST COVER)
-1. **Caregiver Burden**
-   - Gilbert feels trapped by responsibilities
-   - Impact on mental health and personal development
-   - DISCOMFORT: Self-sacrifice vs. self-care
-
-2. **Psychological Needs and Infidelity**
-   - Gilbert's affair with Mrs. Carver
-   - What needs is he trying to meet?
-   - When legitimate needs go unmet → maladaptive solutions
-
-3. **Portrayal of Intellectual Disability**
-   - Is DiCaprio's Arnie accurate? Respectful?
-   - How have portrayals evolved since 1993?
-   - EMOTION: How does Arnie experience the world?
-
-4. **Family Secrets and Dysfunction**
-   - Mother's agoraphobia and weight
-   - Denial and shame in the family system
-   - PURPOSE: What keeps Gilbert there?
-
-5. **Liberation and Loss**
-   - The fire as both tragedy and liberation
-   - Can freedom come from destruction?
-   - Ambivalence in family relationships
-
----
-
-## Week 12: Primal Fear (Part I)
-
-### Class 18 - Monday, April 6
 **Time:** 9:00-10:15 AM
 
 #### Transition to Murder Module
@@ -591,7 +539,7 @@
    - First impressions of Aaron
    - Martin Vail's motivations
 
-### Class 19 - Wednesday, April 8
+### Class 17 - Wednesday, April 1
 **Time:** 9:00-10:15 AM
 
 #### Topics to Cover
@@ -603,7 +551,7 @@
    - DID presentation: Real or performance?
    - Forensic evaluation challenges
 
-#### Quiz 10 Concepts (MUST COVER)
+#### Quiz 9 Concepts (MUST COVER)
 **Critical forensic psychology concepts:**
 
 1. **Psychopathy and Moral Understanding (Marshall et al., 2018)** (ESSENTIAL)
@@ -639,9 +587,9 @@
 
 ---
 
-## Week 13: Primal Fear (Part II) / The Hurricane (Part I)
+## Week 12: Primal Fear (Part II) / The Hurricane (Part I)
 
-### Class 20 - Monday, April 13
+### Class 18 - Monday, April 6
 **Time:** 9:00-10:15 AM
 
 #### Topics to Cover
@@ -661,7 +609,7 @@
 
 4. **Begin The Hurricane** (15 min)
 
-### Class 21 - Wednesday, April 15
+### Class 19 - Wednesday, April 8
 **Time:** 9:00-10:15 AM
 
 #### Topics to Cover
@@ -672,7 +620,7 @@
    - Carter's psychological resilience
    - The role of Lesra and the Canadians
 
-#### Quiz 11 Concepts (MUST COVER)
+#### Quiz 10 Concepts (MUST COVER)
 **Integration quiz - Primal Fear + Hurricane:**
 
 1. **Contrasting Cases**
@@ -697,9 +645,9 @@
 
 ---
 
-## Week 14: The Hurricane (Part II)
+## Week 13: The Hurricane (Part II)
 
-### Class 22 - Monday, April 20
+### Class 20 - Monday, April 13
 **Time:** 9:00-10:15 AM
 
 #### Topics to Cover
@@ -710,7 +658,7 @@
    - Carter's prison defiance
    - The investigation reopening
 
-### Class 23 - Wednesday, April 22
+### Class 21 - Wednesday, April 15
 **Time:** 9:00-10:15 AM
 
 #### Topics to Cover
@@ -719,7 +667,7 @@
 
 2. **Post-Film Discussion** (35 min)
 
-#### Quiz 12 Concepts (MUST COVER)
+#### Quiz 11 Concepts (MUST COVER)
 1. **Maintaining Self Under Oppression**
    - Carter refuses prison clothes and programs
    - Psychological function of defiance
@@ -747,9 +695,9 @@
 
 ---
 
-## Week 15: Wrap-up & Review
+## Week 14: Film Discussion & Module Review
 
-### Class 24 - Monday, April 27
+### Class 22 - Monday, April 20
 **Time:** 9:00-10:15 AM
 
 #### Topics to Cover
@@ -761,13 +709,35 @@
 2. **Module Review: Madness** (25 min)
    - Black Swan: Perfectionism, emotion differentiation
    - Good Will Hunting: Therapeutic change, trauma
-   - Gilbert Grape: Caregiving, family dysfunction
 
 3. **Module Review: Murder** (25 min)
    - Primal Fear: Forensic psychology, deception
    - The Hurricane: Wrongful conviction, resilience
 
-### Class 25 - Wednesday, April 29
+### Class 23 - Wednesday, April 22
+**Time:** 9:00-10:15 AM
+
+#### Topics to Cover
+1. **Cross-Film Discussion** (35 min)
+   - Common themes across all three modules
+   - Student-led: Which films resonated most and why?
+   - Connections between governing areas and film content
+
+2. **Psychological Science Integration** (20 min)
+   - Key researchers and their contributions
+   - How theory illuminated film content
+   - How film illustrated theory
+
+3. **Looking Ahead** (20 min)
+   - Preview final wrap-up week
+   - Any topics students want revisited
+   - Encourage preparation for Quiz 12 (synthesis)
+
+---
+
+## Week 15: Wrap-up & Review
+
+### Class 24 - Monday, April 27
 **Time:** 9:00-10:15 AM
 
 #### Topics to Cover
@@ -786,7 +756,7 @@
    - Most challenging concepts
    - How has thinking changed?
 
-#### Quiz 13 Concepts (MUST COVER)
+#### Quiz 12 Concepts (MUST COVER)
 **Comprehensive review quiz:**
 
 1. **Cross-Film Comparisons**
@@ -808,7 +778,26 @@
 
 ---
 
-## Week 15: Epilogue (Final) - Combined with Wrap-up
+## Week 15: Epilogue (Final)
+
+### Class 25 - Wednesday, April 29
+**Time:** 9:00-10:15 AM
+
+#### Topics to Cover
+1. **Student-Led Discussion** (35 min)
+   - Favorite films and why
+   - Most challenging concepts
+   - How has thinking changed?
+
+2. **Film Analysis Skills** (20 min)
+   - Tools for analyzing psychological content in media
+   - Critical consumption of mental health portrayals
+
+3. **Looking Ahead to Final Class** (20 min)
+   - Preview Monday's final session
+   - Final reflections assignment or preparation
+
+---
 
 ### Class 26 - Monday, May 4
 **Time:** 9:00-10:15 AM
@@ -828,7 +817,7 @@
    - How do course concepts appear outside film?
    - Recognizing psychological phenomena around us
 
-> **Note:** Due to snow week, Weeks 14 and 15 have been combined. Classes 24-26 cover wrap-up, review, and final reflection. Quiz 13 is the final quiz.
+> **Note:** Due to snow week and mid-semester revision, the schedule has been reorganized. Week 14 is Film Discussion & Module Review. Classes 24-26 cover wrap-up, review, and final reflection. Quiz 12 is the final quiz.
 
 ---
 
@@ -837,7 +826,7 @@
 | Author(s) | Year | Key Concept | Relevant Films |
 |-----------|------|-------------|----------------|
 | Gross | 2015 | Emotion regulation strategies | Shutter Island, Machinist, Black Swan |
-| Feldman Barrett et al. | 2001 | Emotion differentiation | Black Swan, Rain Man |
+| Feldman Barrett et al. | 2001 | Emotion differentiation | Black Swan |
 | Kalokerinos et al. | 2019 | Low differentiation & regulation | Black Swan |
 | Boudry & Braeckman | 2012 | Self-validating beliefs, immunizing strategies | Shutter Island, Machinist, Nuremberg |
 | McKnight & Kashdan | 2009 | Autonomous vs. imposed purpose | Black Swan, Good Will Hunting |
@@ -859,7 +848,7 @@
 ### Quiz Administration
 - Announce quiz availability randomly during class
 - Typical window: Announce Tuesday, close Friday
-- Remind students: Automatic 100% on eliminated quiz + best 9 of 13 remaining quizzes count
+- Remind students: Automatic 100% on eliminated quiz + best 9 of 12 remaining quizzes count
 
 ### Engagement Tracking
 - Note students who participate
@@ -869,9 +858,9 @@
 ### Common Student Questions
 - "Do I need to watch the whole movie?" - Yes, quizzes require full viewing
 - "Can I use AI for quizzes?" - No, prohibited use
-- "What if I miss a quiz?" - Zero, no makeups, but best 9 of 13 count
+- "What if I miss a quiz?" - Zero, no makeups, but best 9 of 12 count
 
 ---
 
-*Last Updated: February 22, 2026 (Revised for second snow day - Feb 23)*
+*Last Updated: March 3, 2026 (Revised: dropped Gilbert Grape, renumbered quizzes)*
 *CONFIDENTIAL TEACHING NOTES - Section 001*
