@@ -10,6 +10,8 @@
 > ⚠️ **SECOND SNOW DAY (Feb 23):** Monday, February 23 cancelled due to snow. Week 6 has only one class (Wed Feb 25). Content cascades: Fight Club completion spills into Week 7.
 >
 > ⚠️ **MID-SEMESTER REVISION (Mar 3):** *Rain Man* dropped from schedule. Week 7 becomes "Fight Club / K-PAX". K-PAX gets more breathing room across Weeks 7-9. Leaving Las Vegas expands into Weeks 10-11. **Total quizzes: 11 (not 13). All students receive automatic 100% for eliminated quiz + best 9 of remaining 11.**
+>
+> ⚠️ **WEEK 7 DISCUSSION DAY (Mar 4):** Wednesday, March 4 (Class 10) became a full discussion day — no film started. Extended unreliable narrators trilogy synthesis and theoretical deep-dive instead. K-PAX begins Week 9 (March 16) after spring break. Madness module extends through Week 11. Murder module starts Week 12 (April 6) — unchanged.
 
 ---
 
@@ -23,10 +25,10 @@
 | 4 | Feb 9, 11 | Mystery | The Machinist / Identity | 3 |
 | 5 | Feb 16, 18 | Mystery | Identity / Fight Club (begins) | 4 |
 | 6 | ~~Feb 23~~, 25 | Mystery | Fight Club (**snow day Mon**) | 5 |
-| 7 | Mar 2, 4 | Madness | Fight Club / K-PAX | — |
+| 7 | Mar 2, 4 | Mystery | Fight Club (finish) / Discussion | 5 |
 | 8 | Mar 9-15 | **SPRING BREAK** | **R-E-L-A-X** (No Class) | - |
-| 9 | Mar 16, 18 | Madness | K-PAX | 6 |
-| 10 | Mar 23, 25 | Madness | Leaving Las Vegas | — |
+| 9 | Mar 16, 18 | Madness | K-PAX | — |
+| 10 | Mar 23, 25 | Madness | K-PAX (finish) / Leaving Las Vegas | 6 |
 | 11 | Mar 30, Apr 1 | Madness | Leaving Las Vegas | 7 |
 | 12 | Apr 6, 8 | Murder | Nuremberg | 8 |
 | 13 | Apr 13, 15 | Murder | Nuremberg / Wind River | 9 |
@@ -345,49 +347,53 @@
 
 ---
 
-## Week 7: Fight Club (Completion) / K-PAX (Part I)
+## Week 7: Fight Club (Completion) / Mystery Module Wrap-Up
 
 ### Class 9 - Monday, March 2
 **Time:** 10:30-11:45 AM
 
-> Note: Due to Feb 23 snow day, this class completes Fight Club before transitioning to K-PAX.
+> Note: Due to Feb 23 snow day, this class completes Fight Club.
 
 #### Topics to Cover
 1. **Complete Fight Club** (60 min)
    - Resume from ~80 min mark through end (139 min total)
    - The revelation and its impact
 
-2. **Post-Film Discussion** (5 min)
+2. **Post-Film Discussion** (10 min)
    - Quick reactions to the twist
    - Connecting all three Mystery films: Machinist, Identity, Fight Club
 
-3. **Transition to Madness Module** (5 min)
-   - Moving from Mystery to Madness
-   - Mystery explored identity and reality distortion
-   - Madness focuses on diagnostic ambiguity and psychiatric conditions
-
-4. **K-PAX Introduction** (5 min)
+3. **Preview: K-PAX** (5 min)
    - Iain Softley (2001), stars Kevin Spacey, Jeff Bridges
    - Man claims to be from planet K-PAX
-   - Is Prot an alien or delusional?
+   - Will begin after spring break
 
 > **Quiz 5 timing:** Announce Quiz 5 availability after this class (students have now seen all of Fight Club).
 
 ### Class 10 - Wednesday, March 4
 **Time:** 10:30-11:45 AM
 
-#### Topics to Cover
-1. **Film Viewing** (60 min)
-   - Show first 60 minutes of K-PAX
-   - Prot arrives at psychiatric hospital
-   - Dr. Powell begins investigation
+> ✅ **ACTUAL CLASS:** Extended Mystery module discussion and theoretical deep-dive. K-PAX NOT started — saved for after spring break.
 
-2. **Discussion** (15 min)
-   - First impressions of Prot
-   - Evidence for alien vs. delusion interpretations
-   - What makes this ambiguity interesting?
+#### Topics Covered
+1. **Unreliable Narrators Trilogy Synthesis** (30 min)
+   - Cross-film analysis: The Machinist, Identity, Fight Club
+   - All three feature unreliable narrators and identity fragmentation
+   - Different causes: guilt (Machinist), trauma (Identity), alienation (Fight Club)
+   - How each film used the same device to explore different psychology
 
-> **No quiz this week** — students are just beginning K-PAX. Quiz 6 (K-PAX) will be available after Week 9.
+2. **Theoretical Framework: Self-Validating Beliefs & Emotion Regulation** (25 min)
+   - Boudry & Braeckman (2012): How delusions protect through immunizing strategies
+   - Gross's (2015) emotion regulation: How characters construct false realities as situation selection
+   - Preview: How will these concepts apply to the Madness module?
+
+3. **Preview: What to Expect After Break** (20 min)
+   - K-PAX will begin when we return
+   - Transition from Mystery (identity fragmentation) to Madness (diagnostic ambiguity)
+   - Themes to think about over break: What if someone's "delusion" might be real?
+   - Encouraging students to read the assigned literature before returning
+
+> **No quiz this week** — K-PAX begins after spring break.
 
 ---
 
@@ -397,39 +403,78 @@
 
 ---
 
-## Week 9: K-PAX (Part II)
+## Week 9: K-PAX (Part I)
 
-### Class 12 - Monday, March 16
+### Class 11 - Monday, March 16
 **Time:** 10:30-11:45 AM
 
 **Welcome back from Spring Break!**
 
 #### Topics to Cover
-1. **Brief Reconnection** (10 min)
-   - Recap K-PAX developments from before break
-   - Any reflections over break?
+1. **Welcome Back & K-PAX Introduction** (15 min)
+   - Welcome back from spring break
+   - Brief recap: We finished the Mystery module before break (Machinist, Identity, Fight Club — the unreliable narrators trilogy)
+   - Now entering the Madness module — from identity fragmentation to diagnostic ambiguity
+   - K-PAX: Iain Softley (2001), stars Kevin Spacey, Jeff Bridges
+   - A man claims to be from planet K-PAX — is Prot an alien or delusional?
+   - Key question: What if the "delusion" might actually be real?
 
-2. **Film Viewing** (50 min)
-   - Continue K-PAX
-   - Powell's discoveries about Prot's past
+2. **Begin K-PAX** (55 min)
+   - Show first 55 minutes
+   - Prot arrives at psychiatric hospital
+   - Dr. Powell begins investigation
+   - Pay attention to evidence for BOTH interpretations
 
-3. **Discussion** (15 min)
-   - The trauma revealed
-   - Powell's growing uncertainty
+3. **Brief Discussion** (5 min)
+   - First impressions of Prot
+   - What makes this ambiguity interesting?
 
-### Class 13 - Wednesday, March 18
+### Class 12 - Wednesday, March 18
 **Time:** 10:30-11:45 AM
 
 #### Topics to Cover
-1. **Complete K-PAX** (30 min)
-   - The ending: Prot "leaves," another patient speaks
+1. **Continue K-PAX** (55 min)
+   - Resume from ~55 min mark
+   - Powell's discoveries about Prot's past
+   - The trauma revealed
+   - Evidence mounting for the Robert Porter identity
 
-2. **Post-Film Discussion** (45 min)
+2. **Discussion** (20 min)
+   - Powell's growing uncertainty
+   - How does Prot's claim function as a self-validating belief system?
+   - What would it mean for Powell — and for us — if Prot were actually telling the truth?
+
+---
+
+## Week 10: K-PAX (Completion) / Leaving Las Vegas Begins
+
+### Class 13 - Monday, March 23
+**Time:** 10:30-11:45 AM
+
+#### Topics to Cover
+1. **Complete K-PAX** (10 min)
+   - Final ~10 minutes
+   - The ending: Prot "leaves," another patient speaks
+   - The ambiguity preserved
+
+2. **Post-Film Discussion & Quiz 6 Concepts** (25 min)
    - Process the ending's ambiguity
    - What does each interpretation mean psychologically?
    - Prot's impact on other patients
 
-#### Quiz 6 Concepts (MUST COVER)
+3. **Leaving Las Vegas Introduction** (10 min)
+   - Mike Figgis (1995), stars Nicolas Cage (Oscar), Elisabeth Shue
+   - Based on semi-autobiographical novel
+   - No redemption narrative — deliberate choice
+   - **Content Warning:** This film depicts alcoholism, self-destruction, and sexual violence
+   - Check in with students about comfort level
+
+4. **Begin Leaving Las Vegas** (30 min)
+   - Show first 30 minutes
+   - Ben's Hollywood collapse
+   - Initial reactions to Ben's choice
+
+#### Quiz 6 Concepts (MUST COVER — K-PAX)
 1. **Ambiguity and Evidence**
    - Film provides evidence for BOTH interpretations
    - BELIEF: Which is more compelling and why?
@@ -451,40 +496,14 @@
    - Psychological protection through radical dissociation
    - EMOTION: When reality is too painful to inhabit
 
----
+> **Quiz 6 timing:** Announce Quiz 6 availability after this class.
 
-## Week 10: Leaving Las Vegas (Part I)
-
-### Class 14 - Monday, March 23
-**Time:** 10:30-11:45 AM
-
-> **No quiz this week** — K-PAX already covered by Quiz 6. Leaving Las Vegas quiz (Quiz 7) after Week 11.
-
-#### Content Warning
-- This film depicts alcoholism, self-destruction, and sexual violence
-- Check in with students about comfort level
-- Emphasize: This is a challenging film for important reasons
-
-#### Topics to Cover
-1. **Film Introduction** (10 min)
-   - Mike Figgis (1995), stars Nicolas Cage (Oscar), Elisabeth Shue
-   - Based on semi-autobiographical novel
-   - No redemption narrative - deliberate choice
-
-2. **Film Viewing** (55 min)
-   - Show first 55 minutes
-   - Ben and Sera's meeting
-
-3. **Discussion** (10 min)
-   - Initial reactions to Ben's choice
-   - Sera's situation
-
-### Class 15 - Wednesday, March 25
+### Class 14 - Wednesday, March 25
 **Time:** 10:30-11:45 AM
 
 #### Topics to Cover
-1. **Film Viewing** (55 min)
-   - Continue Leaving Las Vegas
+1. **Continue Leaving Las Vegas** (55 min)
+   - Ben and Sera's meeting and relationship developing
 
 2. **Discussion** (20 min)
    - Ben and Sera's relationship developing
@@ -494,18 +513,19 @@
 
 ## Week 11: Leaving Las Vegas (Part II)
 
-### Class 16 - Monday, March 30
+### Class 15 - Monday, March 30
 **Time:** 10:30-11:45 AM
 
 #### Topics to Cover
-1. **Complete Leaving Las Vegas** (45 min)
-   - Final act
+1. **Continue/Complete Leaving Las Vegas** (55 min)
+   - ~25 min remaining from 111-min runtime
+   - If completed early, extend post-film discussion
 
 2. **Post-Film Discussion** (30 min)
    - Processing the ending
    - Why is this film so unsettling?
 
-### Class 17 - Wednesday, April 1
+### Class 16 - Wednesday, April 1
 **Time:** 10:30-11:45 AM
 
 #### Topics to Cover
@@ -557,7 +577,7 @@
 
 ## Week 12: Nuremberg (Part I)
 
-### Class 18 - Monday, April 6
+### Class 17 - Monday, April 6
 **Time:** 10:30-11:45 AM
 
 #### Transition to Murder Module
@@ -579,7 +599,7 @@
 3. **Film Viewing** (50 min)
    - Show first 50 minutes
 
-### Class 19 - Wednesday, April 8
+### Class 18 - Wednesday, April 8
 **Time:** 10:30-11:45 AM
 
 #### Topics to Cover
@@ -628,7 +648,7 @@
 
 ## Week 13: Nuremberg (Part II) / Wind River (Part I)
 
-### Class 20 - Monday, April 13
+### Class 19 - Monday, April 13
 **Time:** 10:30-11:45 AM
 
 #### Topics to Cover
@@ -647,7 +667,7 @@
 
 4. **Begin Wind River** (15 min)
 
-### Class 21 - Wednesday, April 15
+### Class 20 - Wednesday, April 15
 **Time:** 10:30-11:45 AM
 
 #### Topics to Cover
@@ -686,7 +706,7 @@
 
 ## Week 14: Wind River (Part II)
 
-### Class 22 - Monday, April 20
+### Class 21 - Monday, April 20
 **Time:** 10:30-11:45 AM
 
 #### Topics to Cover
@@ -697,7 +717,7 @@
    - Natalie's story revealed
    - Violence against Indigenous women
 
-### Class 23 - Wednesday, April 22
+### Class 22 - Wednesday, April 22
 **Time:** 10:30-11:45 AM
 
 #### Topics to Cover
@@ -736,7 +756,7 @@
 
 ## Week 15: Wrap-up, Review & Final Reflections (Combined)
 
-### Class 24 - Monday, April 27
+### Class 23 - Monday, April 27
 **Time:** 10:30-11:45 AM
 
 #### Topics to Cover
@@ -753,7 +773,7 @@
    - Nuremberg: Obedience, moral judgment, systemic evil
    - Wind River: Violence, marginalization, grief
 
-### Class 25 - Wednesday, April 29
+### Class 24 - Wednesday, April 29
 **Time:** 10:30-11:45 AM
 
 #### Topics to Cover
@@ -796,7 +816,7 @@
 
 ---
 
-### Class 26 - Monday, May 4 (LAST DAY)
+### Class 25 - Monday, May 4 (LAST DAY)
 **Time:** 10:30-11:45 AM
 
 #### Topics to Cover
@@ -894,5 +914,5 @@ Both examine how systems - through action or inaction - enable harm.
 
 ---
 
-*Last Updated: March 3, 2026 (Revised: dropped Rain Man, renumbered quizzes)*
+*Last Updated: March 16, 2026 (Mar 4 discussion day — K-PAX begins Mar 16; Quiz 6 moved to Week 10; fixed class numbering)*
 *CONFIDENTIAL TEACHING NOTES - Section 002*

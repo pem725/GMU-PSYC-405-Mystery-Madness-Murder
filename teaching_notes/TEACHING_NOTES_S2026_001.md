@@ -10,6 +10,8 @@
 > ⚠️ **SECOND SNOW DAY (Feb 23):** Monday, February 23 cancelled due to snow. Week 6 has only one class (Wed Feb 25). Content cascades: Sunset Boulevard spills into Week 7, making Week 7 a combined "Sunset Boulevard / Black Swan" week.
 >
 > ⚠️ **MID-SEMESTER REVISION (Mar 3):** *What's Eating Gilbert Grape* dropped from schedule. Murder module moves to Week 11. Week 14 becomes Film Discussion & Module Review. **Total quizzes: 12 (not 13). All students receive automatic 100% for eliminated quiz + best 9 of remaining 12.**
+>
+> ⚠️ **WEEK 7 DISCUSSION DAY (Mar 4):** Wednesday, March 4 (Class 10) became a full discussion day — no film started. Extended Mystery module synthesis and theoretical deep-dive instead. Black Swan begins Week 9 (March 16) after spring break. Entire Madness module shifts forward by ~1 week. Murder module starts Week 12 (April 6). Week 14 review week absorbed into Week 15 (3 classes).
 
 ---
 
@@ -23,14 +25,14 @@
 | 4 | Feb 9, 11 | Mystery | Shutter Island / North by Northwest | 3 |
 | 5 | Feb 16, 18 | Mystery | North by Northwest | 4 |
 | 6 | ~~Feb 23~~, 25 | Mystery | Sunset Boulevard (**snow day Mon**) | 5 |
-| 7 | Mar 2, 4 | Madness | Sunset Boulevard / Black Swan | 6 |
+| 7 | Mar 2, 4 | Mystery | Sunset Boulevard (finish) / Discussion | 5 |
 | 8 | Mar 9-15 | **SPRING BREAK** | **R-E-L-A-X** (No Class) | - |
-| 9 | Mar 16, 18 | Madness | Black Swan / Good Will Hunting | 7 |
-| 10 | Mar 23, 25 | Madness | Good Will Hunting | 8 |
-| 11 | Mar 30, Apr 1 | Murder | Primal Fear | 9 |
-| 12 | Apr 6, 8 | Murder | Primal Fear / The Hurricane | 10 |
-| 13 | Apr 13, 15 | Murder | The Hurricane | 11 |
-| 14 | Apr 20, 22 | Murder | Film Discussion & Module Review | — |
+| 9 | Mar 16, 18 | Madness | Black Swan | 6 |
+| 10 | Mar 23, 25 | Madness | Good Will Hunting | 7 |
+| 11 | Mar 30, Apr 1 | Madness | Good Will Hunting | 8 |
+| 12 | Apr 6, 8 | Murder | Primal Fear | 9 |
+| 13 | Apr 13, 15 | Murder | Primal Fear / The Hurricane | 10 |
+| 14 | Apr 20, 22 | Murder | The Hurricane | 11 |
 | 15 | Apr 27, 29, May 4 | Epilogue | Wrap-up, Review & Final Reflections | 12 |
 
 ---
@@ -321,12 +323,12 @@
 
 ---
 
-## Week 7: Sunset Boulevard (Completion) / Black Swan (Part I)
+## Week 7: Sunset Boulevard (Completion) / Mystery Module Wrap-Up
 
 ### Class 9 - Monday, March 2
 **Time:** 9:00-10:15 AM
 
-> Note: Due to Feb 23 snow day, this class completes Sunset Boulevard before transitioning to Black Swan.
+> Note: Due to Feb 23 snow day, this class completes Sunset Boulevard.
 
 #### Topics to Cover
 1. **Complete Sunset Boulevard** (50 min)
@@ -340,7 +342,7 @@
    - Moving from Mystery to Madness
    - What distinguishes these themes?
 
-4. **Black Swan Introduction** (10 min)
+4. **Preview: Black Swan** (10 min)
    - Darren Aronofsky (2010), stars Natalie Portman
    - Warning: Film contains disturbing imagery
    - Themes: Perfectionism, psychosis, identity
@@ -350,17 +352,67 @@
 ### Class 10 - Wednesday, March 4
 **Time:** 9:00-10:15 AM
 
+> ✅ **ACTUAL CLASS:** Extended Mystery module discussion and theoretical deep-dive. Black Swan NOT started — saved for after spring break.
+
+#### Topics Covered
+1. **Mystery Module Synthesis** (30 min)
+   - Cross-film analysis: Shutter Island, North by Northwest, Sunset Boulevard
+   - Common themes: Delusion, identity, the line between reality and perception
+   - How each film approached the Mystery theme differently
+   - Which film resonated most with students and why?
+
+2. **Theoretical Framework: Emotion Regulation** (25 min)
+   - Gross's (2015) five strategies: situation selection, situation modification, attentional deployment, cognitive reappraisal, response modulation
+   - How have characters in the Mystery films used these strategies?
+   - Preview: How will these concepts apply to the Madness module?
+
+3. **Preview: What to Expect After Break** (20 min)
+   - Black Swan will begin when we return
+   - Themes to think about over break: perfectionism, imposed purpose, identity dissolution
+   - Encouraging students to read the assigned literature before returning
+
+---
+
+## Week 9: Black Swan (Part I)
+
+### Class 11 - Monday, March 16
+**Time:** 9:00-10:15 AM
+
+**Welcome back from Spring Break!**
+
 #### Topics to Cover
-1. **Film Viewing** (60 min)
-   - Show first 60 minutes of Black Swan
-   - Pay attention to mirror imagery
+1. **Welcome Back & Black Swan Introduction** (15 min)
+   - Welcome back from spring break
+   - Brief recap: We finished the Mystery module before break (Shutter Island, North by Northwest, Sunset Boulevard)
+   - Now entering the Madness module — from external mystery to internal breakdown
+   - Black Swan: Darren Aronofsky (2010), stars Natalie Portman
+   - Content warning: Film contains disturbing imagery, body horror, psychological distress
+   - Themes: Perfectionism, psychosis, identity dissolution
 
-2. **Discussion** (15 min)
-   - What symptoms do you observe?
+2. **Begin Black Swan** (55 min)
+   - Show first 55 minutes
+   - Nina's world: the ballet company, Erica (mother), Thomas (director), Lily (rival)
+   - Pay attention to mirror imagery and early signs of disturbance
+
+3. **Brief Discussion** (5 min)
+   - First impressions — what symptoms do students observe?
    - Mother-daughter dynamics
-   - Nina's transformation beginning
 
-#### Quiz 6 Concepts (MUST COVER)
+### Class 12 - Wednesday, March 18
+**Time:** 9:00-10:15 AM
+
+#### Topics to Cover
+1. **Continue Black Swan** (55 min)
+   - Resume from ~55 min mark through end (108 min total)
+   - The transformation accelerates, the performance, "I was perfect"
+
+2. **Post-Film Discussion** (20 min)
+   - "I was perfect" — triumph or tragedy?
+   - Did Nina achieve artistic greatness or psychotic break? Both?
+   - Connection to creativity and mental illness
+   - How do the theories from the readings (emotion differentiation, imposed purpose) explain Nina's trajectory?
+
+#### Quiz 6 Concepts (MUST COVER — Black Swan)
 **Critical concepts from Feldman Barrett and Kalokerinos:**
 
 1. **Emotion Differentiation (Feldman Barrett et al., 2001)** (ESSENTIAL)
@@ -373,18 +425,15 @@
    - Key finding: Low differentiators struggle with ALL regulation strategies
    - Even adaptive strategies (like reappraisal) backfire
    - Nina tries everything (distraction, suppression) → nothing works
-   - Each failed attempt may worsen symptoms
 
 3. **Identity Fusion and Autonomous Purpose**
    - Erica lives vicariously through Nina
    - Nina's goals aren't truly HERS (non-self-concordant)
-   - Pursuing someone else's dream makes self-regulation harder
    - McKnight & Kashdan (2009) on autonomous vs. imposed purpose
 
 4. **Literal vs. Figurative Interpretation**
    - Thomas: "Lose yourself" (metaphor for emotional access)
    - Nina: Interprets LITERALLY (actual identity dissolution)
-   - Concrete thinking reflects poor reality testing
    - Pre-existing vulnerability + situational pressure = breakdown
 
 5. **Depersonalization and Self-Representation**
@@ -392,42 +441,37 @@
    - Mirror distortions
    - Disturbed self-representation beyond normal performance anxiety
 
+> **Quiz 6 timing:** Announce Quiz 6 availability after this class (students have now seen all of Black Swan).
+
 ---
 
-## Week 9: Black Swan (Part II) / Good Will Hunting (Part I)
+## ⚠️ SPRING BREAK - Week 8 (March 9-15)
 
-### Class 12 - Monday, March 16
+**No Classes**
+
+---
+
+## Week 10: Good Will Hunting (Part I)
+
+### Class 13 - Monday, March 23
 **Time:** 9:00-10:15 AM
 
 #### Topics to Cover
-1. **Complete Black Swan** (30 min)
-   - Final 30 minutes including performance
-
-2. **Post-Film Discussion** (25 min)
-   - "I was perfect" - triumph or tragedy?
-   - Did Nina achieve artistic greatness or psychotic break? Both?
-   - Connection to creativity and mental illness
-
-3. **Good Will Hunting Introduction** (15 min)
+1. **Good Will Hunting Introduction** (15 min)
    - Gus Van Sant (1997), stars Matt Damon, Robin Williams
    - Contrast: External pressure (Black Swan) vs. internal resistance (GWH)
+   - Themes: Trauma, therapeutic relationship, resistance to change
 
-4. **Begin Good Will Hunting** (15 min)
-   - Show opening sequence
+2. **Begin Good Will Hunting** (50 min)
+   - Show first 50 minutes
+   - Will's world: Southie, Lambeau, the bar, the courthouse
 
-### Class 13 - Wednesday, March 18
-**Time:** 9:00-10:15 AM
-
-#### Topics to Cover
-1. **Film Viewing** (55 min)
-   - Continue Good Will Hunting
-
-2. **Discussion** (20 min)
+3. **Brief Discussion** (10 min)
    - First impressions of Will
-   - The therapeutic relationship developing
+   - How does Will's situation contrast with Nina's?
 
-#### Quiz 7 Concepts (MUST COVER)
-**Integration quiz - BOTH films:**
+#### Quiz 7 Concepts (MUST COVER — Black Swan / GWH Integration)
+**Integration quiz — BOTH films. Begin covering these concepts this week:**
 
 1. **Contrasting Psychological Profiles**
    - Nina: Perfectionism, pursuit of external validation, mother-imposed goals
@@ -449,44 +493,57 @@
    - Will rejects purpose → stagnation
    - Both need authentic, self-concordant purpose
 
----
-
-## ⚠️ SPRING BREAK - Week 8 (March 9-15)
-
-**No Classes**
-
----
-
-## Week 10: Good Will Hunting (Part II)
-
-### Class 14 - Monday, March 23
+### Class 14 - Wednesday, March 25
 **Time:** 9:00-10:15 AM
 
-**Welcome back from Spring Break!**
+#### Topics to Cover
+1. **Continue Good Will Hunting** (55 min)
+   - Resume from ~50 min mark
+   - Sean and Will's sessions developing
+   - Will's relationship with Skylar
+
+2. **Discussion** (20 min)
+   - The therapeutic relationship: Why does Sean succeed where others fail?
+   - Will's resistance — what is he protecting?
+   - Continue covering Quiz 7 integration concepts
+
+> **Quiz 7 timing:** Announce Quiz 7 availability after this class.
+
+---
+
+## Week 11: Good Will Hunting (Part II)
+
+### Class 15 - Monday, March 30
+**Time:** 9:00-10:15 AM
 
 #### Topics to Cover
-1. **Brief Reconnection** (10 min)
-   - Recap where we left off
-   - Any reflections over break?
-
-2. **Film Viewing** (50 min)
-   - Continue Good Will Hunting
-
-3. **Discussion** (15 min)
-   - Will's relationship with Skylar developing
+1. **Continue Good Will Hunting** (55 min)
    - Sean's own grief emerging
+   - Will and Skylar's relationship tested
 
-### Class 15 - Wednesday, March 25
+2. **Discussion** (20 min)
+   - Will's growing vulnerability
+   - What's changing inside Will?
+
+### Class 16 - Wednesday, April 1
 **Time:** 9:00-10:15 AM
 
 #### Topics to Cover
-1. **Complete Good Will Hunting** (40 min)
+1. **Complete Good Will Hunting** (25 min)
    - "It's not your fault" scene
-   - Ending
+   - Ending — Will's choice
 
-2. **Post-Film Discussion** (35 min)
+2. **Post-Film Discussion** (25 min)
+   - Process the emotional impact
+   - Compare therapeutic approaches: Thomas (Black Swan) vs. Sean (GWH)
 
-#### Quiz 8 Concepts (MUST COVER)
+3. **Transition to Murder Module** (25 min)
+   - Moving from Madness to Murder
+   - How do psychological concepts apply to criminal behavior?
+   - Introduction to forensic psychology
+   - Preview: Primal Fear begins next week
+
+#### Quiz 8 Concepts (MUST COVER — Good Will Hunting)
 1. **Core Beliefs and Self-Sabotage**
    - Will believes he doesn't deserve success or love
    - Early experiences shape core beliefs
@@ -515,9 +572,9 @@
 
 ---
 
-## Week 11: Primal Fear (Part I)
+## Week 12: Primal Fear (Part I)
 
-### Class 16 - Monday, March 30
+### Class 17 - Monday, April 6
 **Time:** 9:00-10:15 AM
 
 #### Transition to Murder Module
@@ -539,7 +596,7 @@
    - First impressions of Aaron
    - Martin Vail's motivations
 
-### Class 17 - Wednesday, April 1
+### Class 18 - Wednesday, April 8
 **Time:** 9:00-10:15 AM
 
 #### Topics to Cover
@@ -587,9 +644,9 @@
 
 ---
 
-## Week 12: Primal Fear (Part II) / The Hurricane (Part I)
+## Week 13: Primal Fear (Part II) / The Hurricane (Part I)
 
-### Class 18 - Monday, April 6
+### Class 19 - Monday, April 13
 **Time:** 9:00-10:15 AM
 
 #### Topics to Cover
@@ -606,19 +663,6 @@
    - Norman Jewison (1999), stars Denzel Washington
    - Based on true story of Rubin "Hurricane" Carter
    - Themes: Wrongful conviction, racial bias, justice
-
-4. **Begin The Hurricane** (15 min)
-
-### Class 19 - Wednesday, April 8
-**Time:** 9:00-10:15 AM
-
-#### Topics to Cover
-1. **Film Viewing** (55 min)
-   - Continue The Hurricane
-
-2. **Discussion** (20 min)
-   - Carter's psychological resilience
-   - The role of Lesra and the Canadians
 
 #### Quiz 10 Concepts (MUST COVER)
 **Integration quiz - Primal Fear + Hurricane:**
@@ -643,22 +687,34 @@
    - What psychological resources enable this?
    - PURPOSE: How does purpose sustain people through injustice?
 
----
-
-## Week 13: The Hurricane (Part II)
-
-### Class 20 - Monday, April 13
+### Class 20 - Wednesday, April 15
 **Time:** 9:00-10:15 AM
 
 #### Topics to Cover
-1. **Film Viewing** (55 min)
-   - Continue The Hurricane
+1. **Begin The Hurricane** (55 min)
+   - Show first 55 minutes
+
+2. **Discussion** (20 min)
+   - Carter's early life and boxing career
+   - The arrest and trial
+
+---
+
+## Week 14: The Hurricane (Part II)
+
+### Class 21 - Monday, April 20
+**Time:** 9:00-10:15 AM
+
+#### Topics to Cover
+1. **Continue The Hurricane** (55 min)
+   - Carter's prison years
+   - The investigation reopening
 
 2. **Discussion** (20 min)
    - Carter's prison defiance
-   - The investigation reopening
+   - The role of Lesra and the Canadians
 
-### Class 21 - Wednesday, April 15
+### Class 22 - Wednesday, April 22
 **Time:** 9:00-10:15 AM
 
 #### Topics to Cover
@@ -695,66 +751,26 @@
 
 ---
 
-## Week 14: Film Discussion & Module Review
+## Week 15: Wrap-up, Review & Final Reflections
 
-### Class 22 - Monday, April 20
+### Class 23 - Monday, April 27
 **Time:** 9:00-10:15 AM
 
 #### Topics to Cover
-1. **Module Review: Mystery** (25 min)
-   - Shutter Island: Reality testing, delusion, trauma memory
-   - North by Northwest: Mistaken identity, external threat
-   - Sunset Boulevard: Delusion maintenance, enabling
-
-2. **Module Review: Madness** (25 min)
-   - Black Swan: Perfectionism, emotion differentiation
-   - Good Will Hunting: Therapeutic change, trauma
-
-3. **Module Review: Murder** (25 min)
-   - Primal Fear: Forensic psychology, deception
-   - The Hurricane: Wrongful conviction, resilience
-
-### Class 23 - Wednesday, April 22
-**Time:** 9:00-10:15 AM
-
-#### Topics to Cover
-1. **Cross-Film Discussion** (35 min)
+1. **Module Review: All Three Modules** (35 min)
+   - Mystery: Shutter Island, North by Northwest, Sunset Boulevard
+   - Madness: Black Swan, Good Will Hunting
+   - Murder: Primal Fear, The Hurricane
    - Common themes across all three modules
+
+2. **Cross-Film Discussion** (20 min)
    - Student-led: Which films resonated most and why?
    - Connections between governing areas and film content
 
-2. **Psychological Science Integration** (20 min)
+3. **Psychological Science Integration** (20 min)
    - Key researchers and their contributions
    - How theory illuminated film content
    - How film illustrated theory
-
-3. **Looking Ahead** (20 min)
-   - Preview final wrap-up week
-   - Any topics students want revisited
-   - Encourage preparation for Quiz 12 (synthesis)
-
----
-
-## Week 15: Wrap-up & Review
-
-### Class 24 - Monday, April 27
-**Time:** 9:00-10:15 AM
-
-#### Topics to Cover
-1. **Integration Across Films** (30 min)
-   - Common themes: Reality, identity, emotion regulation
-   - How governing areas appeared across films
-   - What surprised students most?
-
-2. **Psychological Science Recap** (20 min)
-   - Key readings and concepts
-   - How theory illuminated film content
-   - How film illustrated theory
-
-3. **Student Discussion** (25 min)
-   - Favorite films and why
-   - Most challenging concepts
-   - How has thinking changed?
 
 #### Quiz 12 Concepts (MUST COVER)
 **Comprehensive review quiz:**
@@ -776,11 +792,7 @@
    - Vrij: Deception detection
    - Morse: Mens rea
 
----
-
-## Week 15: Epilogue (Final)
-
-### Class 25 - Wednesday, April 29
+### Class 24 - Wednesday, April 29
 **Time:** 9:00-10:15 AM
 
 #### Topics to Cover
@@ -795,11 +807,10 @@
 
 3. **Looking Ahead to Final Class** (20 min)
    - Preview Monday's final session
-   - Final reflections assignment or preparation
 
 ---
 
-### Class 26 - Monday, May 4
+### Class 25 - Monday, May 4
 **Time:** 9:00-10:15 AM
 
 #### Topics to Cover
@@ -817,7 +828,7 @@
    - How do course concepts appear outside film?
    - Recognizing psychological phenomena around us
 
-> **Note:** Due to snow week and mid-semester revision, the schedule has been reorganized. Week 14 is Film Discussion & Module Review. Classes 24-26 cover wrap-up, review, and final reflection. Quiz 12 is the final quiz.
+> **Note:** Due to snow week, discussion day (Mar 4), and mid-semester revision, the schedule has been reorganized. Murder module runs Weeks 12-14. Classes 23-25 (Week 15) cover wrap-up, review, and final reflection. Quiz 12 is the final quiz.
 
 ---
 
@@ -862,5 +873,5 @@
 
 ---
 
-*Last Updated: March 3, 2026 (Revised: dropped Gilbert Grape, renumbered quizzes)*
+*Last Updated: March 16, 2026 (Mar 4 discussion day — Black Swan begins Mar 16; Murder module shifts to Weeks 12-14; review week absorbed into Week 15; fixed class numbering)*
 *CONFIDENTIAL TEACHING NOTES - Section 001*
