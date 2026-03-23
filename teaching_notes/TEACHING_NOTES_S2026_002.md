@@ -27,7 +27,7 @@
 | 6 | ~~Feb 23~~, 25 | Mystery | Fight Club (**snow day Mon**) | 5 |
 | 7 | Mar 2, 4 | Mystery | Fight Club (finish) / Discussion | 5 |
 | 8 | Mar 9-15 | **SPRING BREAK** | **R-E-L-A-X** (No Class) | - |
-| 9 | Mar 16, 18 | Madness | K-PAX | — |
+| 9 | ~~Mar 16~~, 18 | Madness | K-PAX (began Wed) | — |
 | 10 | Mar 23, 25 | Madness | K-PAX (finish) / Leaving Las Vegas | 6 |
 | 11 | Mar 30, Apr 1 | Madness | Leaving Las Vegas | 7 |
 | 12 | Apr 6, 8 | Murder | Nuremberg | 8 |
@@ -403,46 +403,59 @@
 
 ---
 
-## Week 9: K-PAX (Part I)
+## Week 9: K-PAX Begins
 
 ### Class 11 - Monday, March 16
 **Time:** 10:30-11:45 AM
 
 **Welcome back from Spring Break!**
 
-#### Topics to Cover
-1. **Welcome Back & K-PAX Introduction** (15 min)
+> ✅ **ACTUAL CLASS:** K-PAX NOT started. Extended discussion and Madness module introduction instead. K-PAX begins Wednesday.
+
+#### Topics Covered
+1. **Welcome Back & Mystery Module Recap** (25 min)
    - Welcome back from spring break
-   - Brief recap: We finished the Mystery module before break (Machinist, Identity, Fight Club — the unreliable narrators trilogy)
-   - Now entering the Madness module — from identity fragmentation to diagnostic ambiguity
-   - K-PAX: Iain Softley (2001), stars Kevin Spacey, Jeff Bridges
+   - Recap the unreliable narrators trilogy: Machinist (guilt → hallucination), Identity (DID → fragmented narrative), Fight Club (alienation → alter ego)
+   - What did students take away from the Mystery module?
+
+2. **Madness Module Introduction** (25 min)
+   - Transition from Mystery (identity fragmentation) to Madness (diagnostic ambiguity)
+   - Theoretical framework: Gross's emotion regulation, Feldman Barrett's emotion differentiation
+   - Self-validating beliefs (Boudry & Braeckman): How delusions can serve protective functions
+   - Key question for the module: Where is the line between eccentric belief and mental illness?
+
+3. **K-PAX Preview** (15 min)
+   - Iain Softley (2001), stars Kevin Spacey, Jeff Bridges
    - A man claims to be from planet K-PAX — is Prot an alien or delusional?
-   - Key question: What if the "delusion" might actually be real?
+   - What if the "delusion" might actually be real?
+   - What to watch for: evidence for BOTH interpretations
 
-2. **Begin K-PAX** (55 min)
-   - Show first 55 minutes
-   - Prot arrives at psychiatric hospital
-   - Dr. Powell begins investigation
-   - Pay attention to evidence for BOTH interpretations
+4. **Open Discussion** (10 min)
+   - How should psychiatrists handle unfalsifiable claims?
+   - What does it mean to be "sane" vs. "insane"?
 
-3. **Brief Discussion** (5 min)
-   - First impressions of Prot
-   - What makes this ambiguity interesting?
+#### Notes for Instructor
+- Extended discussion worked well as re-engagement after break
+- Students had theoretical framework before starting the film — will enhance viewing
 
 ### Class 12 - Wednesday, March 18
 **Time:** 10:30-11:45 AM
 
 #### Topics to Cover
-1. **Continue K-PAX** (55 min)
-   - Resume from ~55 min mark
-   - Powell's discoveries about Prot's past
-   - The trauma revealed
-   - Evidence mounting for the Robert Porter identity
+1. **K-PAX Introduction** (10 min)
+   - Brief recap of Monday's theoretical framework and preview
+   - What to watch for as the film begins
 
-2. **Discussion** (20 min)
-   - Powell's growing uncertainty
+2. **Begin K-PAX** (55 min)
+   - Show first ~60 minutes
+   - Prot arrives at psychiatric hospital
+   - Dr. Powell begins investigation
+   - Pay attention to evidence for BOTH interpretations
+
+3. **Brief Discussion** (10 min)
+   - First impressions of Prot
+   - What makes this ambiguity interesting?
    - How does Prot's claim function as a self-validating belief system?
-   - What would it mean for Powell — and for us — if Prot were actually telling the truth?
 
 ---
 
@@ -452,27 +465,19 @@
 **Time:** 10:30-11:45 AM
 
 #### Topics to Cover
-1. **Complete K-PAX** (10 min)
-   - Final ~10 minutes
+1. **Continue/Complete K-PAX** (55 min)
+   - Resume from ~60 min mark
+   - Powell's discoveries about Prot's past
+   - The trauma revealed — Robert Porter's identity
    - The ending: Prot "leaves," another patient speaks
-   - The ambiguity preserved
 
-2. **Post-Film Discussion & Quiz 6 Concepts** (25 min)
+2. **Post-Film Discussion** (20 min)
    - Process the ending's ambiguity
    - What does each interpretation mean psychologically?
    - Prot's impact on other patients
+   - How does Prot's claim function as a self-validating belief system?
 
-3. **Leaving Las Vegas Introduction** (10 min)
-   - Mike Figgis (1995), stars Nicolas Cage (Oscar), Elisabeth Shue
-   - Based on semi-autobiographical novel
-   - No redemption narrative — deliberate choice
-   - **Content Warning:** This film depicts alcoholism, self-destruction, and sexual violence
-   - Check in with students about comfort level
-
-4. **Begin Leaving Las Vegas** (30 min)
-   - Show first 30 minutes
-   - Ben's Hollywood collapse
-   - Initial reactions to Ben's choice
+> ⚠️ **If K-PAX not fully completed:** Finish opening minutes of Wednesday's class before starting Leaving Las Vegas.
 
 #### Quiz 6 Concepts (MUST COVER — K-PAX)
 1. **Ambiguity and Evidence**
@@ -496,17 +501,26 @@
    - Psychological protection through radical dissociation
    - EMOTION: When reality is too painful to inhabit
 
-> **Quiz 6 timing:** Announce Quiz 6 availability after this class.
+> **Quiz 6 timing:** Announce Quiz 6 availability after K-PAX is complete.
 
 ### Class 14 - Wednesday, March 25
 **Time:** 10:30-11:45 AM
 
 #### Topics to Cover
-1. **Continue Leaving Las Vegas** (55 min)
-   - Ben and Sera's meeting and relationship developing
+1. **Leaving Las Vegas Introduction** (10 min)
+   - Mike Figgis (1995), stars Nicolas Cage (Oscar), Elisabeth Shue
+   - Based on semi-autobiographical novel
+   - No redemption narrative — deliberate choice
+   - **Content Warning:** This film depicts alcoholism, self-destruction, and sexual violence
+   - Check in with students about comfort level
 
-2. **Discussion** (20 min)
-   - Ben and Sera's relationship developing
+2. **Begin Leaving Las Vegas** (55 min)
+   - Show first ~55 minutes
+   - Ben's Hollywood collapse, arrival in Las Vegas
+   - Ben and Sera's meeting
+
+3. **Brief Discussion** (10 min)
+   - Initial reactions to Ben's choice
    - The absence of hope in this narrative
 
 ---
@@ -914,5 +928,5 @@ Both examine how systems - through action or inaction - enable harm.
 
 ---
 
-*Last Updated: March 16, 2026 (Mar 4 discussion day — K-PAX begins Mar 16; Quiz 6 moved to Week 10; fixed class numbering)*
+*Last Updated: March 23, 2026 (K-PAX didn't start Mon Mar 16 — discussion day instead; K-PAX began Wed Mar 18 ~60 min; continues today Mar 23)*
 *CONFIDENTIAL TEACHING NOTES - Section 002*

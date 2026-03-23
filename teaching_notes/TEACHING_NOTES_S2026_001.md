@@ -27,9 +27,9 @@
 | 6 | ~~Feb 23~~, 25 | Mystery | Sunset Boulevard (**snow day Mon**) | 5 |
 | 7 | Mar 2, 4 | Mystery | Sunset Boulevard (finish) / Discussion | 5 |
 | 8 | Mar 9-15 | **SPRING BREAK** | **R-E-L-A-X** (No Class) | - |
-| 9 | Mar 16, 18 | Madness | Black Swan | 6 |
-| 10 | Mar 23, 25 | Madness | Good Will Hunting | 7 |
-| 11 | Mar 30, Apr 1 | Madness | Good Will Hunting | 8 |
+| 9 | Mar 16, 18 | Madness | Black Swan | — |
+| 10 | Mar 23, 25 | Madness | Black Swan (finish) / Good Will Hunting | 6 |
+| 11 | Mar 30, Apr 1 | Madness | Good Will Hunting | 7, 8 |
 | 12 | Apr 6, 8 | Murder | Primal Fear | 9 |
 | 13 | Apr 13, 15 | Murder | Primal Fear / The Hurricane | 10 |
 | 14 | Apr 20, 22 | Murder | The Hurricane | 11 |
@@ -403,14 +403,49 @@
 
 #### Topics to Cover
 1. **Continue Black Swan** (55 min)
-   - Resume from ~55 min mark through end (108 min total)
-   - The transformation accelerates, the performance, "I was perfect"
+   - Resume from ~55 min mark
+   - Nina's transformation accelerating, mirror scenes intensifying
+   - Stop around ~90 min mark
 
-2. **Post-Film Discussion** (20 min)
+2. **Discussion** (20 min)
+   - What's happening to Nina? Psychosis or artistic transformation?
+   - Mother-daughter dynamics: Erica's control vs. Nina's rebellion
+   - How do the theories from Monday apply to what students are seeing?
+
+> ⚠️ **Black Swan not yet complete.** ~18 min remain. Will finish Monday Mar 23.
+
+---
+
+## ⚠️ SPRING BREAK - Week 8 (March 9-15)
+
+**No Classes**
+
+---
+
+## Week 10: Black Swan (Finish) / Good Will Hunting Begins
+
+### Class 13 - Monday, March 23
+**Time:** 9:00-10:15 AM
+
+#### Topics to Cover
+1. **Complete Black Swan** (20 min)
+   - Resume from ~90 min mark through end (108 min)
+   - The performance, the climax, "I was perfect"
+
+2. **Post-Film Discussion** (30 min)
    - "I was perfect" — triumph or tragedy?
    - Did Nina achieve artistic greatness or psychotic break? Both?
    - Connection to creativity and mental illness
-   - How do the theories from the readings (emotion differentiation, imposed purpose) explain Nina's trajectory?
+   - How do the theories (emotion differentiation, imposed purpose) explain Nina's trajectory?
+
+3. **Good Will Hunting Preview** (10 min)
+   - Gus Van Sant (1997), stars Matt Damon, Robin Williams
+   - Contrast: External pressure (Black Swan) vs. internal resistance (GWH)
+   - We'll start the film on Wednesday
+
+4. **Open Discussion** (15 min)
+   - What will students carry from Black Swan?
+   - How does this compare to the Mystery module films?
 
 #### Quiz 6 Concepts (MUST COVER — Black Swan)
 **Critical concepts from Feldman Barrett and Kalokerinos:**
@@ -441,26 +476,15 @@
    - Mirror distortions
    - Disturbed self-representation beyond normal performance anxiety
 
-> **Quiz 6 timing:** Announce Quiz 6 availability after this class (students have now seen all of Black Swan).
+> **Quiz 6 timing:** Announce Quiz 6 availability after this class.
 
----
-
-## ⚠️ SPRING BREAK - Week 8 (March 9-15)
-
-**No Classes**
-
----
-
-## Week 10: Good Will Hunting (Part I)
-
-### Class 13 - Monday, March 23
+### Class 14 - Wednesday, March 25
 **Time:** 9:00-10:15 AM
 
 #### Topics to Cover
 1. **Good Will Hunting Introduction** (15 min)
-   - Gus Van Sant (1997), stars Matt Damon, Robin Williams
-   - Contrast: External pressure (Black Swan) vs. internal resistance (GWH)
    - Themes: Trauma, therapeutic relationship, resistance to change
+   - What to watch for: How does Sean's approach differ from Thomas's?
 
 2. **Begin Good Will Hunting** (50 min)
    - Show first 50 minutes
@@ -469,45 +493,6 @@
 3. **Brief Discussion** (10 min)
    - First impressions of Will
    - How does Will's situation contrast with Nina's?
-
-#### Quiz 7 Concepts (MUST COVER — Black Swan / GWH Integration)
-**Integration quiz — BOTH films. Begin covering these concepts this week:**
-
-1. **Contrasting Psychological Profiles**
-   - Nina: Perfectionism, pursuit of external validation, mother-imposed goals
-   - Will: Self-sabotage, avoidance of potential, internally-imposed limitations
-   - Both struggle with authentic self-expression
-
-2. **Different Therapeutic Approaches**
-   - Thomas pushes Nina beyond boundaries (harmful?)
-   - Sean meets Will where he is (effective?)
-   - Role of therapeutic relationship
-
-3. **Trauma and Self-Protection**
-   - Nina: Trauma from overbearing mother → fragile identity
-   - Will: Trauma from abuse → defensive walls
-   - Different protective strategies, similar roots
-
-4. **Purpose and Meaning**
-   - Nina's purpose is imposed → destructive
-   - Will rejects purpose → stagnation
-   - Both need authentic, self-concordant purpose
-
-### Class 14 - Wednesday, March 25
-**Time:** 9:00-10:15 AM
-
-#### Topics to Cover
-1. **Continue Good Will Hunting** (55 min)
-   - Resume from ~50 min mark
-   - Sean and Will's sessions developing
-   - Will's relationship with Skylar
-
-2. **Discussion** (20 min)
-   - The therapeutic relationship: Why does Sean succeed where others fail?
-   - Will's resistance — what is he protecting?
-   - Continue covering Quiz 7 integration concepts
-
-> **Quiz 7 timing:** Announce Quiz 7 availability after this class.
 
 ---
 
@@ -542,6 +527,31 @@
    - How do psychological concepts apply to criminal behavior?
    - Introduction to forensic psychology
    - Preview: Primal Fear begins next week
+
+#### Quiz 7 Concepts (MUST COVER — Black Swan / GWH Integration)
+**Integration quiz — BOTH films:**
+
+1. **Contrasting Psychological Profiles**
+   - Nina: Perfectionism, pursuit of external validation, mother-imposed goals
+   - Will: Self-sabotage, avoidance of potential, internally-imposed limitations
+   - Both struggle with authentic self-expression
+
+2. **Different Therapeutic Approaches**
+   - Thomas pushes Nina beyond boundaries (harmful?)
+   - Sean meets Will where he is (effective?)
+   - Role of therapeutic relationship
+
+3. **Trauma and Self-Protection**
+   - Nina: Trauma from overbearing mother → fragile identity
+   - Will: Trauma from abuse → defensive walls
+   - Different protective strategies, similar roots
+
+4. **Purpose and Meaning**
+   - Nina's purpose is imposed → destructive
+   - Will rejects purpose → stagnation
+   - Both need authentic, self-concordant purpose
+
+> **Quiz 7 timing:** Announce Quiz 7 early this week (students have now seen both films). **Quiz 8 timing:** Announce after GWH completion.
 
 #### Quiz 8 Concepts (MUST COVER — Good Will Hunting)
 1. **Core Beliefs and Self-Sabotage**
@@ -873,5 +883,5 @@
 
 ---
 
-*Last Updated: March 16, 2026 (Mar 4 discussion day — Black Swan begins Mar 16; Murder module shifts to Weeks 12-14; review week absorbed into Week 15; fixed class numbering)*
+*Last Updated: March 23, 2026 (Black Swan didn't finish Wed Mar 18 — completes today Mar 23; GWH starts Wed Mar 25; quiz timing adjusted)*
 *CONFIDENTIAL TEACHING NOTES - Section 001*

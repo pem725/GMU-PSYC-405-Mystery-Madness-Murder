@@ -110,10 +110,10 @@ After evaluating our timeline, *Rain Man* has been removed from the schedule to 
 | 4 | Mystery | The Machinist / [Identity](https://www.imdb.com/title/tt0309698/){target="_blank"} (2003) 🎬 7.3 \| [🍅 63%](https://www.rottentomatoes.com/m/identity){target="_blank"} \| [📖](https://en.wikipedia.org/wiki/Identity_(2003_film)){target="_blank"} | [Quiz 3](quizzes/spring2026_002/quiz03_machinist_identity.html){target="_blank"} |
 | 5 | Mystery | Identity / [Fight Club](https://www.imdb.com/title/tt0137523/){target="_blank"} (1999) 🎬 8.8 \| [🍅 81%](https://www.rottentomatoes.com/m/fight_club){target="_blank"} \| [📖](https://en.wikipedia.org/wiki/Fight_Club){target="_blank"} | [Quiz 4](quizzes/spring2026_002/quiz04_identity.html){target="_blank"} |
 | 6 | Mystery | Fight Club | [Quiz 5](quizzes/spring2026_002/quiz05_fight_club.html){target="_blank"} |
-| 7 | Madness | Fight Club / [K-PAX](https://www.imdb.com/title/tt0272152/){target="_blank"} (2001) 🎬 7.4 \| [🍅 42%](https://www.rottentomatoes.com/m/kpax){target="_blank"} \| [📖](https://en.wikipedia.org/wiki/K-PAX_(film)){target="_blank"} | — |
+| 7 | Mystery | Fight Club (finish) / Discussion | — |
 | 8 | SPRING BREAK | **R-E-L-A-X** (March 9-15) | NO QUIZ |
-| 9 | Madness | K-PAX | [Quiz 6](quizzes/spring2026_002/quiz08_kpax.html){target="_blank"} |
-| 10 | Madness | [Leaving Las Vegas](https://www.imdb.com/title/tt0113627/){target="_blank"} (1995) 🎬 7.5 \| [🍅 91%](https://www.rottentomatoes.com/m/leaving_las_vegas){target="_blank"} \| [📖](https://en.wikipedia.org/wiki/Leaving_Las_Vegas){target="_blank"} | — |
+| 9 | Madness | [K-PAX](https://www.imdb.com/title/tt0272152/){target="_blank"} (2001) 🎬 7.4 \| [🍅 42%](https://www.rottentomatoes.com/m/kpax){target="_blank"} \| [📖](https://en.wikipedia.org/wiki/K-PAX_(film)){target="_blank"} | — |
+| 10 | Madness | K-PAX (finish) / [Leaving Las Vegas](https://www.imdb.com/title/tt0113627/){target="_blank"} (1995) 🎬 7.5 \| [🍅 91%](https://www.rottentomatoes.com/m/leaving_las_vegas){target="_blank"} \| [📖](https://en.wikipedia.org/wiki/Leaving_Las_Vegas){target="_blank"} | [Quiz 6](quizzes/spring2026_002/quiz08_kpax.html){target="_blank"} |
 | 11 | Madness | Leaving Las Vegas | [Quiz 7](quizzes/spring2026_002/quiz09_leaving_las_vegas.html){target="_blank"} |
 | 12 | Murder | [Nuremberg](https://www.imdb.com/title/tt29567915/){target="_blank"} (2025) 🎬 7.4 \| [🍅 71%](https://www.rottentomatoes.com/m/nuremberg_2025){target="_blank"} \| [📖](https://en.wikipedia.org/wiki/Nuremberg_(2025_film)){target="_blank"} | [Quiz 8](quizzes/spring2026_002/quiz10_nuremberg.html){target="_blank"} |
 | 13 | Murder | Nuremberg / [Wind River](https://www.imdb.com/title/tt5362988/){target="_blank"} (2017) 🎬 7.7 \| [🍅 87%](https://www.rottentomatoes.com/m/wind_river_2017){target="_blank"} \| [📖](https://en.wikipedia.org/wiki/Wind_River_(film)){target="_blank"} | [Quiz 9](quizzes/spring2026_002/quiz11_nuremberg_wind_river.html){target="_blank"} |
@@ -135,7 +135,7 @@ All quiz questions are available for study on our [Quiz Page](QUIZZES.qmd). Yes,
 - **Identity** - Dissociative identity disorder, unreliable narrative, perception vs. reality
 - **Fight Club** - DID, consumerism critique, unreliable narrator, identity fragmentation
 
-**Madness Module (Weeks 7-11):**
+**Madness Module (Weeks 9-11):**
 
 - **K-PAX** - Delusion versus reality, therapeutic relationship, diagnostic uncertainty
 - **Leaving Las Vegas** - Alcoholism, self-destruction, depression, unconventional relationships

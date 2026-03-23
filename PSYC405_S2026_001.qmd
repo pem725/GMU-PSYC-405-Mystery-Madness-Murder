@@ -110,14 +110,14 @@ After evaluating our timeline, *What's Eating Gilbert Grape* has been removed fr
 | 4 | Mystery | Shutter Island / [North by Northwest](https://www.imdb.com/title/tt0053125/){target="_blank"} (1959) 🎬 8.3 \| [🍅 97%](https://www.rottentomatoes.com/m/north_by_northwest){target="_blank"} \| [📖](https://en.wikipedia.org/wiki/North_by_Northwest){target="_blank"} | [Quiz 3](quizzes/spring2026_001/quiz03_shutter_nxnw.html){target="_blank"} |
 | 5 | Mystery | North by Northwest | [Quiz 4](quizzes/spring2026_001/quiz04_north_by_northwest.html){target="_blank"} |
 | 6 | Mystery | [Sunset Boulevard](https://www.imdb.com/title/tt0043014/){target="_blank"} (1950) 🎬 8.4 \| [🍅 98%](https://www.rottentomatoes.com/m/sunset_boulevard){target="_blank"} \| [📖](https://en.wikipedia.org/wiki/Sunset_Boulevard_(film)){target="_blank"} | [Quiz 5](quizzes/spring2026_001/quiz05_sunset_boulevard.html){target="_blank"} |
-| 7 | Madness | Sunset Boulevard / [Black Swan](https://www.imdb.com/title/tt0947798/){target="_blank"} (2010) 🎬 8.0 \| [🍅 85%](https://www.rottentomatoes.com/m/black_swan_2010){target="_blank"} \| [📖](https://en.wikipedia.org/wiki/Black_Swan_(film)){target="_blank"} | [Quiz 6](quizzes/spring2026_001/quiz06_black_swan.html){target="_blank"} |
+| 7 | Mystery | Sunset Boulevard (finish) / Discussion | — |
 | 8 | SPRING BREAK | **R-E-L-A-X** (March 9-15) | NO QUIZ |
-| 9 | Madness | Black Swan / [Good Will Hunting](https://www.imdb.com/title/tt0119217/){target="_blank"} (1997) 🎬 8.3 \| [🍅 97%](https://www.rottentomatoes.com/m/good_will_hunting){target="_blank"} \| [📖](https://en.wikipedia.org/wiki/Good_Will_Hunting){target="_blank"} | [Quiz 7](quizzes/spring2026_001/quiz07_black_swan_gwh.html){target="_blank"} |
-| 10 | Madness | Good Will Hunting | [Quiz 8](quizzes/spring2026_001/quiz08_good_will_hunting.html){target="_blank"} |
-| 11 | Murder | [Primal Fear](https://www.imdb.com/title/tt0117381/){target="_blank"} (1996) 🎬 7.7 \| [🍅 77%](https://www.rottentomatoes.com/m/1070992-primal_fear){target="_blank"} \| [📖](https://en.wikipedia.org/wiki/Primal_Fear_(film)){target="_blank"} | [Quiz 9](quizzes/spring2026_001/quiz10_primal_fear.html){target="_blank"} |
-| 12 | Murder | Primal Fear / [The Hurricane](https://www.imdb.com/title/tt0174856/){target="_blank"} (1999) 🎬 7.6 \| [🍅 82%](https://www.rottentomatoes.com/m/1093641-hurricane){target="_blank"} \| [📖](https://en.wikipedia.org/wiki/The_Hurricane_(1999_film)){target="_blank"} | [Quiz 10](quizzes/spring2026_001/quiz11_primal_fear_hurricane.html){target="_blank"} |
-| 13 | Murder | The Hurricane | [Quiz 11](quizzes/spring2026_001/quiz12_hurricane.html){target="_blank"} |
-| 14 | Murder | Film Discussion & Module Review | — |
+| 9 | Madness | [Black Swan](https://www.imdb.com/title/tt0947798/){target="_blank"} (2010) 🎬 8.0 \| [🍅 85%](https://www.rottentomatoes.com/m/black_swan_2010){target="_blank"} \| [📖](https://en.wikipedia.org/wiki/Black_Swan_(film)){target="_blank"} | — |
+| 10 | Madness | Black Swan (finish) / [Good Will Hunting](https://www.imdb.com/title/tt0119217/){target="_blank"} (1997) 🎬 8.3 \| [🍅 97%](https://www.rottentomatoes.com/m/good_will_hunting){target="_blank"} \| [📖](https://en.wikipedia.org/wiki/Good_Will_Hunting){target="_blank"} | [Quiz 6](quizzes/spring2026_001/quiz06_black_swan.html){target="_blank"} |
+| 11 | Madness | Good Will Hunting | [Quiz 7](quizzes/spring2026_001/quiz07_black_swan_gwh.html){target="_blank"}, [Quiz 8](quizzes/spring2026_001/quiz08_good_will_hunting.html){target="_blank"} |
+| 12 | Murder | [Primal Fear](https://www.imdb.com/title/tt0117381/){target="_blank"} (1996) 🎬 7.7 \| [🍅 77%](https://www.rottentomatoes.com/m/1070992-primal_fear){target="_blank"} \| [📖](https://en.wikipedia.org/wiki/Primal_Fear_(film)){target="_blank"} | [Quiz 9](quizzes/spring2026_001/quiz10_primal_fear.html){target="_blank"} |
+| 13 | Murder | Primal Fear / [The Hurricane](https://www.imdb.com/title/tt0174856/){target="_blank"} (1999) 🎬 7.6 \| [🍅 82%](https://www.rottentomatoes.com/m/1093641-hurricane){target="_blank"} \| [📖](https://en.wikipedia.org/wiki/The_Hurricane_(1999_film)){target="_blank"} | [Quiz 10](quizzes/spring2026_001/quiz11_primal_fear_hurricane.html){target="_blank"} |
+| 14 | Murder | The Hurricane | [Quiz 11](quizzes/spring2026_001/quiz12_hurricane.html){target="_blank"} |
 | 15 | Epilogue (FINAL) | Wrap-up, Review & Final Reflections | [Quiz 12](quizzes/spring2026_001/quiz13_wrapup.html){target="_blank"} |
 
 [^1]: All quizzes are conducted on canvas. Please consult the canvas website for the course. You will have access to the quiz for the period that I announce every week (at random). Come to class. You won't have to wonder when I start the quiz. Just show up. Oh, and bring a computer or phone.
@@ -135,12 +135,12 @@ All quiz questions are available for study on our [Quiz Page](QUIZZES.qmd). Yes,
 - **North by Northwest** - Mistaken identity, paranoia, perception manipulation
 - **Sunset Boulevard** - Delusion, obsession, the thin line between fantasy and reality
 
-**Madness Module (Weeks 7-10):**
+**Madness Module (Weeks 9-11):**
 
 - **Black Swan** - Perfectionism, psychosis, performance anxiety, identity dissolution
 - **Good Will Hunting** - Trauma, therapeutic process, attachment, resistance to change
 
-**Murder Module (Weeks 11-15):**
+**Murder Module (Weeks 12-15):**
 
 - **Primal Fear** - Forensic psychology, malingering, courtroom psychology, deception
 - **The Hurricane** - Wrongful conviction, systemic bias, justice and injustice
