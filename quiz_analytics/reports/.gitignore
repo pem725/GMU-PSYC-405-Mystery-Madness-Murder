@@ -1,0 +1,7 @@
+# Per-student grading data — FERPA-protected, never commit to public repo
+quiz_grades_*.csv
+GRADING_WORKSHEET_*.md
+mid_semester_snapshot_*.md
+
+# Keep this .gitignore
+!.gitignore
