@@ -284,17 +284,45 @@ Those grades will be predicated on the follow complex formula:
 ## Your Keys to Success
 :::
 
-+---------------------+------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Evaluation Criteria | Percent of Grade | Rationale                                                                                                                                                                                                                  | Expectation                                                                                                                                                                                                                              | Computation                                                                                                                                                                                                                                                          |
-+:===================:+:================:+:==========================================================================================================================================================================================================================:+:========================================================================================================================================================================================================================================:+:====================================================================================================================================================================================================================================================================:+
-| Attendance          | 60%              | "80% of success in life is just showing up." – Woody Allen. For this class, showing up gives you 60%. Show up.                                                                                                             | Show up every day. You'll appreciate me, the course, learning, and your fellow students more if you do so.                                                                                                                               | 25 classes (adjusted for snow week and Feb 23 snow day). I expect everyone to attend at least 21 classes. Every class missed after those 4 means you lose 60%/21 or 2.9 percentage points per class.                                                                    |
-+---------------------+------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Quizzes             | 20%              | Show up and pay attention.  Weekly quizzes will be fun and easy but test your attendance (see above) and attention.                                                                                                        | Show up every day and listen to the discussion.  Go home and think.  Talk to your classmates.                                                                                                                                            | Weekly quizzes (N=11) + 1 automatic 100% for eliminated quiz. Best 10 total, so you need your best 9 from the 11. You start with one perfect score in the bank!                                                                                                      |
-+---------------------+------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Engagement          | 20%              | Talk to me.  Show me that you are alive and engaged.  Shy?  Post questions or comments to me via canvas.  Stay engaged.  Extroverted?  Speak up in class.  Everyone has an opportunity and avenue to engage. Please do so. | Show up every day, listen to the discussion, and contribute to it.  Your contributions make all the difference between an OK class and a great class.  Let's make it great together.  I invite you in and you contribute.  Are you game? | Do I know you via voice, email, canvas, or any other medium used by GMU that I have access to and use?  Knowing you want a better grade is not knowing your thoughts or ideas.  Please, make yourself and ideas known to me (and the rest of the class if you wish). |
-+---------------------+------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Extra Credit        | 0%               | NONE. Don't ask.                                                                                                                                                                                                           | Do what is asked of you now and you won't have to make up the work you didn't do.  Come to class, attend to what I say, and stay engaged.  Expect nothing more or less.                                                                  | ***Not Applicable***                                                                                                                                                                                                                                                 |
-+---------------------+------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+::: {.callout-note icon="calendar-check"}
+### Attendance — 60%
+
+**Rationale:** "80% of success in life is just showing up." – Woody Allen. For this class, showing up gives you 60%. Show up.
+
+**Expectation:** Show up every day. You'll appreciate me, the course, learning, and your fellow students more if you do so.
+
+**Computation:** 25 classes (adjusted for snow week and Feb 23 snow day). I expect everyone to attend at least 21 classes. Every class missed after those 4 means you lose 60%/21 or 2.9 percentage points per class.
+:::
+
+::: {.callout-note icon="pencil-square"}
+### Quizzes — 20%
+
+**Rationale:** Show up and pay attention. Weekly quizzes will be fun and easy but test your attendance (see above) and attention.
+
+**Expectation:** Show up every day and listen to the discussion. Go home and think. Talk to your classmates.
+
+**Computation:** Weekly quizzes (N=11) + 1 automatic 100% for eliminated quiz. Best 10 total, so you need your best 9 from the 11. You start with one perfect score in the bank!
+:::
+
+::: {.callout-note icon="chat-dots"}
+### Engagement — 20%
+
+**Rationale:** Talk to me. Show me that you are alive and engaged. Shy? Post questions or comments to me via canvas. Stay engaged. Extroverted? Speak up in class. Everyone has an opportunity and avenue to engage. Please do so.
+
+**Expectation:** Show up every day, listen to the discussion, and contribute to it. Your contributions make all the difference between an OK class and a great class. Let's make it great together. I invite you in and you contribute. Are you game?
+
+**Computation:** Do I know you via voice, email, canvas, or any other medium used by GMU that I have access to and use? Knowing you want a better grade is not knowing your thoughts or ideas. Please, make yourself and ideas known to me (and the rest of the class if you wish).
+:::
+
+::: {.callout-caution icon="x-circle"}
+### Extra Credit — 0%
+
+**Rationale:** NONE. Don't ask.
+
+**Expectation:** Do what is asked of you now and you won't have to make up the work you didn't do. Come to class, attend to what I say, and stay engaged. Expect nothing more or less.
+
+**Computation:** *Not Applicable*
+:::
 
 ::: {.callout-warning icon="exclamation-triangle"}
 ## Grading-related Policies
