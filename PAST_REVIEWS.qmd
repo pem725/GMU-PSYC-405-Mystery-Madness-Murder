@@ -13,7 +13,7 @@ format:
 ::: {.callout-important}
 ## How This Course Compared
 
-**Across 5 sections and 3 semesters, PSYC 405 consistently exceeded Psychology Department averages on instructor-controlled metrics.** Then administration killed it.
+**Across 5 sections and 3 semesters, PSYC 405 consistently exceeded Psychology Department averages on instructor-controlled metrics.** Dr. McKnight has moved on to new work, but the record stands.
 
 | What Students Rate | Course Avg | Dept Avg | Above Average By |
 |--------------------|:----------:|:--------:|:----------------:|
@@ -57,24 +57,22 @@ When asked what modifications they'd suggest for the next time the course is tau
 
 > *"I think the class ran really well. Good movies and discussions after each film."*
 
-**There won't be a next time. The administration decided otherwise.**
+**Dr. McKnight is no longer teaching this course, but he's grateful for every one of these responses.**
 
 ---
 
-## The End of PSYC 405
+## What Happened to PSYC 405
 
-::: {.callout-warning}
-## This Course No Longer Exists
+::: {.callout-note}
+## The Experiment Continues — Elsewhere
 
-After Spring 2026, PSYC 405: Mystery, Madness & Murder was removed from the instructor's teaching assignment. Not because students complained. Not because evaluations flagged problems. Not because learning outcomes failed.
+PSYC 405 was always an experiment. The idea was simple: use film to lure students into doing real psychological science without it feeling like a chore. Call it *slipped learning* — set up conditions where genuine engagement with difficult material feels like the natural thing to do. Based on these evaluations, the experiment worked.
 
-The department chair communicated that the dean's office would be "really reactive" to the course and that the consequences would be "much worse than [the instructor] could imagine." No one from administration asked to observe a class. No one asked about the pedagogy. No one reviewed the evaluation data on this page. No one asked why students called it the best course they'd taken at Mason.
+After Spring 2026, Dr. McKnight moved on to develop new courses. PSYC 405 will continue under other capable faculty in the Psychology Department — if you're looking for it, you'll find it in a different format with a different instructor.
 
-The concern, as best as anyone could articulate it, was that a professor was teaching psychology through movies. The fact that the course was a Mason Apex capstone — designed specifically for integrative, non-traditional pedagogy — apparently didn't matter. The fact that it outperformed departmental averages across every instructor-controlled metric didn't matter. The fact that students were reading primary psychological research, taking rigorous quizzes, and engaging in deep analytical discussion — all because a film made them *want* to — didn't matter.
+Dr. McKnight's next experiment is **[Peak Performance](https://gmu-peak-performance.netlify.app/){target="_blank"}** — a course on the science of what separates exceptional performers from competent ones. Same philosophy: primary research over folklore, discussion over lecture, AI encouraged not feared. The goal is connecting students with the skills and mindset for twenty-first century success.
 
-What mattered was that it looked different. And looking different, to administration, meant looking dangerous.
-
-This page is the complete evidentiary record: five sections of student evaluations, every open-ended comment, every rating. It exists so that anyone who wants to understand what was actually happening in this course — as opposed to what administrators imagined was happening — can see for themselves.
+This page preserves the complete evaluation record from every section of PSYC 405 — every rating, every student comment. Thank you to every student who took the time to share their experience.
 :::
 
 ---
@@ -264,7 +262,7 @@ This section provides detailed comparisons to Department (Psychology), School (H
 
 ### Spring 2026 Section 001 vs. All Benchmarks
 
-The final semester's Section 001 — the last full dataset before the course was cancelled — exceeded every benchmark at every level:
+The final semester's Section 001 exceeded every benchmark at every level:
 
 | Item | Course | Dept | School (HSS) | Institution |
 |------|:------:|:----:|:------------:|:-----------:|
@@ -281,7 +279,7 @@ The final semester's Section 001 — the last full dataset before the course was
 | Understanding of main concepts | **4.82** | 4.51 | 4.45 | 4.36 |
 | Variety of learning opportunities | **4.64** | 4.41 | 4.37 | 4.29 |
 
-Every single item above Department, School, AND Institution averages. This is the course administration decided students shouldn't have access to.
+Every single item above Department, School, AND Institution averages.
 
 ### Highest-Rated Items (Across All 5 Sections)
 
@@ -510,7 +508,7 @@ The discussion-based approach and minimal traditional assignments were **by desi
 | "Schedule unclear" | The syllabus included detailed week-by-week schedules with specific film assignments and quiz weeks clearly marked. |
 | "Hard to take notes on discussions" | Film Resources & Discussion Questions sections provided pre-reading prompts tied to course themes. |
 | "Traditional learners struggle" | This is acknowledged. Students who prefer lecture/exam formats may find other courses more suitable. This course rewarded presence and participation. |
-| "Introverts struggle with sharing" | A valid concern that was being actively addressed through smaller group discussions — one of many improvements that will never be implemented. |
+| "Introverts struggle with sharing" | A valid concern. Smaller group discussions and alternative participation formats were in the works — hopefully the next instructor carries that forward. |
 
 ---
 
@@ -527,7 +525,7 @@ The discussion-based approach and minimal traditional assignments were **by desi
 | S2025 | 003 | 34 | 14 | 41% | 4.16 | 4.28 | 4.53 | 4.45 |
 | | | **172** | **73** | **42%** | **4.42** | **4.49** | **4.63** | **4.65** |
 
-### What 73 Students Told GMU (That GMU Didn't Want to Hear)
+### What 73 Students Had to Say
 
 Across 5 sections and 73 evaluation responses:
 
@@ -539,7 +537,7 @@ Across 5 sections and 73 evaluation responses:
 
 ---
 
-## Summary Statistics for the Permanent Record
+## Summary
 
 ::: {.callout-important}
 ## Executive Summary
@@ -547,6 +545,7 @@ Across 5 sections and 73 evaluation responses:
 **Overall Performance**: PSYC 405 ratings consistently **exceeded departmental and institutional averages** on instructor-controlled metrics across all five sections it was offered.
 
 **Strongest Areas** (all above department average):
+
 - Offering feedback opportunities (+0.33 above dept)
 - Creating engaging environment (+0.32 above dept)
 - Encouraging diverse perspectives (+0.31 above dept)
@@ -556,13 +555,19 @@ Across 5 sections and 73 evaluation responses:
 
 **Student Satisfaction**: Extremely high. Unprompted comments across all semesters describe this as "best course at Mason," "best professor I've had," "one of the best courses I've taken, hands down."
 
-**Course Status**: Terminated by administrative decision after Spring 2026. No observation of the course was conducted. No review of evaluation data was requested. No pedagogical rationale was offered. The stated concern was that the dean's office would react negatively to a professor teaching through film.
-
-The students who took this course know what they experienced. This page ensures the record speaks for itself.
+The students who took this course know what they experienced. Thank you — all of you — for the support and the honesty. This record exists because you took the time.
 :::
 
 ---
 
-*This page documents the complete evaluation record for PSYC 405: Mystery, Madness & Murder, offered at George Mason University from Spring 2025 through Spring 2026. The course was developed by Patrick E. McKnight, Ph.D., as a Mason Apex capstone integrating psychological science with film analysis. It will not be offered again.*
+::: {.callout-tip}
+## What's Next
+
+Dr. McKnight's next course — **[Peak Performance](https://gmu-peak-performance.netlify.app/){target="_blank"}** — applies the same philosophy to the science of human excellence. If you liked what happened in PSYC 405, come check it out.
+:::
+
+---
+
+*This page documents the complete evaluation record for PSYC 405: Mystery, Madness & Murder, offered at George Mason University from Spring 2025 through Spring 2026. The course was developed by Patrick E. McKnight, Ph.D., as a Mason Apex capstone integrating psychological science with film analysis. PSYC 405 continues under other faculty in the Psychology Department.*
 
 *Last updated: May 2026*

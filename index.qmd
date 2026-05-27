@@ -3,21 +3,23 @@ title: "PSYC 405: Mystery, Madness & Murder"
 subtitle: "George Mason University - Department of Psychology"
 ---
 
-::: {.callout-warning}
-## This Course Is No Longer Offered by This Instructor
+::: {.callout-note}
+## This Course Has a New Home
 
-PSYC 405 was developed and taught by **Patrick E. McKnight, Ph.D.** from Spring 2025 through Spring 2026 — five sections across three semesters. It was a Mason Apex capstone course that used film as the vehicle for teaching psychological science: perception, memory, motivation, emotion, psychopathology, criminal behavior, and more.
+PSYC 405 was developed by **Patrick E. McKnight, Ph.D.** as an experiment in what happens when you lure students into learning without them realizing they're doing it. Watch a film, have a conversation, read the science, take a quiz — and somewhere in there, you've learned to see human behavior differently. The experiment worked. The [student evaluations](PAST_REVIEWS.qmd) tell the story.
 
-The course was removed from Dr. McKnight's teaching assignment after Spring 2026 by administrative decision. Students who enrolled in this course consistently rated it among the best they had taken at Mason. The [complete evaluation record](PAST_REVIEWS.qmd) is public and speaks for itself.
+Dr. McKnight is no longer teaching PSYC 405, but the course will continue under other capable faculty in the Psychology Department. If you're looking for it, you'll find it — just in a different format with a different instructor.
 
-If PSYC 405 is offered in the future, it will be under a different instructor using a different course structure. This site documents the course as it was built and taught by its creator.
+Meanwhile, Dr. McKnight has moved on to his next experiment.
+
+**[Check out Peak Performance →](https://gmu-peak-performance.netlify.app/){target="_blank"}**
 :::
 
-## What This Course Was
+## What This Course Was About
 
-Students watched films — carefully selected, psychologically rich films — and then did the hard work of figuring out what they'd actually seen. Not plot summaries. Not movie reviews. Psychological analysis grounded in primary research.
+PSYC 405 was my brainchild — an attempt to test whether you could teach rigorous psychological science through film and have students not only learn it but *want* to learn it. The approach is something I think of as **slipped learning**: set up conditions where real engagement with difficult material feels like the natural thing to do, not the required thing to do.
 
-Every week: watch, read the science, discuss, get quizzed. The quizzes required knowledge of both the film *and* the psychological literature. The discussions required showing up prepared and willing to think out loud. The grading rewarded presence and engagement over test performance, because the point was never to memorize — it was to *see* human behavior more clearly.
+Students watched films — carefully selected, psychologically rich films — and then did the hard work of figuring out what they'd actually seen. Not plot summaries. Not movie reviews. Psychological analysis grounded in primary research. The trick was that by the time students realized they were reading Kahneman and Bandura and debating the reliability of eyewitness memory, they were already hooked.
 
 ### Modules
 
@@ -55,7 +57,7 @@ All syllabi from every semester this course was offered:
 
 ## The Record
 
-- **[Student Evaluations](PAST_REVIEWS.qmd)** — The complete evaluation record across all 5 sections. Every rating, every student comment, every department comparison. This is the evidence.
+- **[Student Evaluations](PAST_REVIEWS.qmd)** — The complete evaluation record across all 5 sections, every rating, every student comment. Thank you to everyone who took the time.
 - **[Film History](FILM_HISTORY.qmd)** — The timeline of psychological science as told through cinema.
 - **[Readings](READINGS.qmd)** — The primary research that grounded every discussion.
 - **[Books](BOOKS.qmd)** — Recommended reading for students who wanted to go deeper.
@@ -68,23 +70,31 @@ All syllabi from every semester this course was offered:
 ::: {.callout-tip}
 ## Peak Performance — Spring 2027
 
-Dr. McKnight is now developing a new course on **human peak performance** — the science of what separates exceptional performers from competent ones across sport, the arts, medicine, business, and tactical professions.
+I'm always experimenting. PSYC 405 was my experiment in slipped learning through film. The next experiment is **Peak Performance** — a course about the science of what separates exceptional performers from competent ones across sport, the arts, medicine, business, and tactical professions.
 
-Same philosophy: primary research over self-help folklore, discussion over lecture, AI encouraged not feared, show up and do the work.
+Same philosophy: primary research over folklore, discussion over lecture, AI encouraged not feared, show up and do the work. The goal is connecting students with the skills and mindset for twenty-first century success — and doing it in a way that brings some positivity to the process.
+
+If anyone would care to question whether I know anything about performance, they're welcome to look me up.
 
 **[Visit the Peak Performance course site →](https://gmu-peak-performance.netlify.app/){target="_blank"}**
 :::
 
 ---
 
-## About the Instructor
+## Thank You
+
+To every student who showed up, watched the films, read the articles, spoke up in discussion, and told us what worked and what didn't — thank you. You made this course what it was. The evaluation data on this site exists because you took the time to write thoughtful, honest feedback. That feedback is the best evidence that slipped learning works.
+
+PSYC 405 will be in good hands with the faculty who carry it forward. And if you want to keep working with me, come find me in Peak Performance.
+
+— Patrick
+
+---
+
+## Instructor
 
 **Patrick E. McKnight, Ph.D.**
 George Mason University · Department of Psychology
-
-Patrick McKnight has studied, achieved, and appreciated performance across many domains. He has published extensively on motivation, purpose in life, and measurement. He has competed at elite levels. He has coached, mentored, and taught students who went on to do remarkable things. If anyone would like to question his qualifications to teach about performance — or about anything else — they are welcome to look him up.
-
-Now he wants to help students achieve.
 
 ::: {.callout-note}
 ## Contact
@@ -94,4 +104,4 @@ Now he wants to help students achieve.
 
 ---
 
-*PSYC 405: Mystery, Madness & Murder was a Mason Apex capstone course at George Mason University. It was taught from Spring 2025 through Spring 2026. This site serves as its permanent archive.*
+*PSYC 405: Mystery, Madness & Murder was a Mason Apex capstone course at George Mason University, taught from Spring 2025 through Spring 2026. This site serves as its archive.*
