@@ -3,62 +3,88 @@ title: "PSYC 405: Mystery, Madness & Murder"
 subtitle: "George Mason University - Department of Psychology"
 ---
 
-## Course Overview
+::: {.callout-warning}
+## This Course Is No Longer Offered by This Instructor
 
-This course uses psychological science to analyze popular media portrayals of human behavior. By watching films about mystery, psychological complexity, and criminal behavior, you'll learn to:
+PSYC 405 was developed and taught by **Patrick E. McKnight, Ph.D.** from Spring 2025 through Spring 2026 — five sections across three semesters. It was a Mason Apex capstone course that used film as the vehicle for teaching psychological science: perception, memory, motivation, emotion, psychopathology, criminal behavior, and more.
 
-- Observe and analyze human behavior patterns
-- Connect psychological theories to what you see on screen
-- Distinguish fictional portrayals from factual ones
-- Recognize how directors manipulate audience perception
+The course was removed from Dr. McKnight's teaching assignment after Spring 2026 by administrative decision. Students who enrolled in this course consistently rated it among the best they had taken at Mason. The [complete evaluation record](PAST_REVIEWS.qmd) is public and speaks for itself.
 
-## Current Semester: Spring 2026
-
-::: {.callout-tip}
-## Section 001 (9:00 AM - 10:15 AM)
-**Location:** Krug Hall 5 (Basement)
-
-**Films:** Shutter Island, North by Northwest, Sunset Boulevard, Black Swan, Good Will Hunting, What's Eating Gilbert Grape, Primal Fear, The Hurricane
-
-[View Section 001 Syllabus](PSYC405_S2026_001.qmd) | [Download PDF](PSYC405_S2026_001.pdf)
+If PSYC 405 is offered in the future, it will be under a different instructor using a different course structure. This site documents the course as it was built and taught by its creator.
 :::
 
+## What This Course Was
+
+Students watched films — carefully selected, psychologically rich films — and then did the hard work of figuring out what they'd actually seen. Not plot summaries. Not movie reviews. Psychological analysis grounded in primary research.
+
+Every week: watch, read the science, discuss, get quizzed. The quizzes required knowledge of both the film *and* the psychological literature. The discussions required showing up prepared and willing to think out loud. The grading rewarded presence and engagement over test performance, because the point was never to memorize — it was to *see* human behavior more clearly.
+
+### Modules
+
+**Module 1: Mystery** — Perception, memory, and deception through psychological thrillers and detective stories.
+
+**Module 2: Madness** — Psychological disorders, their media representation, and scientific understanding.
+
+**Module 3: Murder** — Criminal psychology, moral reasoning, and justice through behavioral science.
+
+### Governing Areas of Inquiry
+
+Throughout the course, films were examined through six psychological lenses:
+
+1. **BELIEF** — Why do people believe weird things?
+2. **PURPOSE** — What will people do to protect their beliefs?
+3. **MOTIVATION** — What drives people to act?
+4. **UNCERTAINTY** — How do people handle the unknown?
+5. **DISCOMFORT** — What will people do for comfort?
+6. **EMOTION** — How much do emotions drive behavior?
+
+---
+
+## Syllabi (Archive)
+
+All syllabi from every semester this course was offered:
+
+| Semester | Section | Syllabus |
+|----------|:-------:|----------|
+| Spring 2026 | 001 | [View](PSYC405_S2026_001.qmd) \| [PDF](PSYC405_S2026_001.pdf) |
+| Spring 2026 | 002 | [View](PSYC405_S2026_002.qmd) \| [PDF](PSYC405_S2026_002.pdf) |
+| Fall 2025 | 001 | [View](updated_syllabus.qmd) |
+| Spring 2025 | 001 | [View](PSYC405syllabus.qmd) |
+
+---
+
+## The Record
+
+- **[Student Evaluations](PAST_REVIEWS.qmd)** — The complete evaluation record across all 5 sections. Every rating, every student comment, every department comparison. This is the evidence.
+- **[Film History](FILM_HISTORY.qmd)** — The timeline of psychological science as told through cinema.
+- **[Readings](READINGS.qmd)** — The primary research that grounded every discussion.
+- **[Books](BOOKS.qmd)** — Recommended reading for students who wanted to go deeper.
+- **[Quizzes](QUIZZES.qmd)** — The quizzes that required both watching and reading.
+
+---
+
+## What's Next
+
 ::: {.callout-tip}
-## Section 002 (10:30 AM - 11:45 AM)
-**Location:** Krug Hall 5 (Basement)
+## Peak Performance — Spring 2027
 
-**Films:** The Machinist, Identity, Fight Club, Rain Man, K-PAX, Leaving Las Vegas, Nuremberg, Wind River
+Dr. McKnight is now developing a new course on **human peak performance** — the science of what separates exceptional performers from competent ones across sport, the arts, medicine, business, and tactical professions.
 
-[View Section 002 Syllabus](PSYC405_S2026_002.qmd) | [Download PDF](PSYC405_S2026_002.pdf)
+Same philosophy: primary research over self-help folklore, discussion over lecture, AI encouraged not feared, show up and do the work.
+
+**[Visit the Peak Performance course site →](https://gmu-peak-performance.netlify.app/){target="_blank"}**
 :::
 
-## Course Modules
+---
 
-### Module 1: Mystery
-Exploration of perception, memory, and deception through psychological thrillers and detective stories.
-
-### Module 2: Madness
-Analysis of psychological disorders, their media representation, and scientific understanding.
-
-### Module 3: Murder
-Investigation of criminal psychology, moral reasoning, and justice through behavioral science.
-
-## Governing Areas of Inquiry
-
-Throughout the course, we examine films through six psychological lenses:
-
-1. **BELIEF** - Why do people believe weird things?
-2. **PURPOSE** - What will people do to protect their beliefs?
-3. **MOTIVATION** - What drives people to act?
-4. **UNCERTAINTY** - How do people handle the unknown?
-5. **DISCOMFORT** - What will people do for comfort?
-6. **EMOTION** - How much do emotions drive behavior?
-
-## Instructor
+## About the Instructor
 
 **Patrick E. McKnight, Ph.D.**
-George Mason University
-Department of Psychology
+George Mason University · Department of Psychology
+
+Patrick McKnight has studied, achieved, and appreciated performance across many domains. He has published extensively on motivation, purpose in life, and measurement. He has competed at elite levels. He has coached, mentored, and taught students who went on to do remarkable things. If anyone would like to question his qualifications to teach about performance — or about anything else — they are welcome to look him up.
+
+Now he wants to help students achieve.
 
 ::: {.callout-note}
 ## Contact
@@ -68,4 +94,4 @@ Department of Psychology
 
 ---
 
-*This is a Mason Apex course integrating psychological science with media analysis.*
+*PSYC 405: Mystery, Madness & Murder was a Mason Apex capstone course at George Mason University. It was taught from Spring 2025 through Spring 2026. This site serves as its permanent archive.*

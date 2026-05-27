@@ -27,14 +27,12 @@ website:
     left:
       - text: "Home"
         href: index.qmd
-      - text: "Current Syllabi"
+      - text: "Syllabi"
         menu:
           - text: "Spring 2026 - Section 001"
             href: PSYC405_S2026_001.qmd
           - text: "Spring 2026 - Section 002"
             href: PSYC405_S2026_002.qmd
-      - text: "Previous Syllabi"
-        menu:
           - text: "Fall 2025"
             href: updated_syllabus.qmd
           - text: "Spring 2025"
@@ -47,9 +45,11 @@ website:
         href: BOOKS.qmd
       - text: "Quizzes"
         href: QUIZZES.qmd
-      - text: "Past Reviews"
+      - text: "Student Reviews"
         href: PAST_REVIEWS.qmd
     right:
+      - text: "Peak Performance →"
+        href: https://gmu-peak-performance.netlify.app/
       - icon: github
         href: https://github.com/pem725/GMU-PSYC-405-Mystery-Madness-Murder
 
