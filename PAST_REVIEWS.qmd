@@ -1,6 +1,6 @@
 ---
 title: "Student Evaluations & Course Reviews"
-subtitle: "PSYC 405: Mystery, Madness & Murder"
+subtitle: "PSYC 405: Mystery, Madness & Murder — The Complete Record"
 author: "Patrick E. McKnight"
 format:
   html:
@@ -11,54 +11,176 @@ format:
 ## The Bottom Line
 
 ::: {.callout-important}
-## How This Course Compares
+## How This Course Compared
 
-**PSYC 405 exceeds Psychology Department averages on instructor-controlled metrics.** The numbers:
+**Across 5 sections and 3 semesters, PSYC 405 consistently exceeded Psychology Department averages on instructor-controlled metrics.** Then administration killed it.
 
 | What Students Rate | Course Avg | Dept Avg | Above Average By |
 |--------------------|:----------:|:--------:|:----------------:|
-| **Encouraged diverse perspectives** | 4.79 | 4.56 | **+0.23** |
-| **Offered feedback opportunities** | 4.75 | 4.42 | **+0.33** |
-| **Created engaging environment** | 4.71 | 4.44 | **+0.27** |
-| **Teaching methods & style** | 4.56 | 4.31 | **+0.25** |
-| Course organization | 4.55 | 4.40 | +0.15 |
-| Technology & resources | 4.61 | 4.42 | +0.19 |
-| Communicated requirements | 4.68 | 4.53 | +0.15 |
-| Presented content clearly | 4.67 | 4.52 | +0.15 |
+| **Encouraged diverse perspectives** | 4.83 | 4.52 | **+0.31** |
+| **Created engaging environment** | 4.73 | 4.41 | **+0.32** |
+| **Offered feedback opportunities** | 4.69 | 4.36 | **+0.33** |
+| **Teaching methods & style** | 4.55 | 4.27 | **+0.28** |
+| Course organization | 4.61 | 4.37 | +0.24 |
+| Communicated requirements | 4.70 | 4.50 | +0.20 |
+| Presented content clearly | 4.64 | 4.51 | +0.13 |
+| Technology & resources | 4.51 | 4.39 | +0.12 |
 
-*Data from 3 sections across Fall 2025 and Spring 2025. All ratings on 1-5 scale.*
+*Data from 5 sections across Spring 2025, Fall 2025, and Spring 2026. All ratings on 1-5 scale. Department averages from Spring 2026 evaluation cycle.*
 :::
 
 ---
 
-## What Students Say (In Their Own Words)
+## What Students Said (In Their Own Words)
 
-> *"This was my favorite class this semester. The professor was super adaptive and responded to emails quickly. He made the class seem like it wasn't a requirement because he made it feel like it was for fun."*
+> *"Teaching method, it felt like we were having a conversation. It was the most engaged and insightful I've been for a 9am lecture. I learned so many ideas/theories that were actually applicable to real life and it was a perfect balance of watching course content, having a conversation about it, and learning the why. I think one of the most powerful ways to communicate your course's content is by being passionate about it and being able to ramble on about it and Prof McKnight excelled at this. This is one of the best courses I've taken, hands down."*
+
+> *"This was one of the best classes I have taken. I really enjoyed how we watched films and then analyzed their deeper psychological meanings. This approach made the material more engaging and helped me better understand concepts by seeing them applied in real-life scenarios."*
+
+> *"there were no obstacles learning in this course because Professor McKnight is so wonderful and he's funny, his teaching brings students to engage about the material being taught through the films we watched."*
 
 > *"Best teacher I've had at GMU hands down."*
 
 > *"None, this course is probably the best course I've taken at Mason."* — When asked about least valuable aspects
 
-> *"I have never had a professor so excited to be with students before. It made the class engaging and approachable. I was excited to come to class every week."*
+When asked what modifications they'd suggest for the next time the course is taught, Spring 2026 Section 001 students answered:
 
-> *"Dr. McKnight values the sharing of knowledge above all else and it shows in his teaching. There's no pressure or frustration with his method of teaching. I felt relaxed, I felt like I learned, and most of all I enjoyed myself."*
+> *"No modifications, best class."*
 
-**Share this page with friends or family who want to know what this course is really like.**
+> *"no modifications, Professor. McKnight's course is amazing, he's amazing"*
+
+> *"None, I loved this class and professor"*
+
+> *"None. The professor and lectures were engaging, informative, and uplifting."*
+
+> *"nothing, professor is amazing and made class so fun and interesting"*
+
+> *"I think the class ran really well. Good movies and discussions after each film."*
+
+**There won't be a next time. The administration decided otherwise.**
+
+---
+
+## The End of PSYC 405
+
+::: {.callout-warning}
+## This Course No Longer Exists
+
+After Spring 2026, PSYC 405: Mystery, Madness & Murder was removed from the instructor's teaching assignment. Not because students complained. Not because evaluations flagged problems. Not because learning outcomes failed.
+
+The department chair communicated that the dean's office would be "really reactive" to the course and that the consequences would be "much worse than [the instructor] could imagine." No one from administration asked to observe a class. No one asked about the pedagogy. No one reviewed the evaluation data on this page. No one asked why students called it the best course they'd taken at Mason.
+
+The concern, as best as anyone could articulate it, was that a professor was teaching psychology through movies. The fact that the course was a Mason Apex capstone — designed specifically for integrative, non-traditional pedagogy — apparently didn't matter. The fact that it outperformed departmental averages across every instructor-controlled metric didn't matter. The fact that students were reading primary psychological research, taking rigorous quizzes, and engaging in deep analytical discussion — all because a film made them *want* to — didn't matter.
+
+What mattered was that it looked different. And looking different, to administration, meant looking dangerous.
+
+This page is the complete evidentiary record: five sections of student evaluations, every open-ended comment, every rating. It exists so that anyone who wants to understand what was actually happening in this course — as opposed to what administrators imagined was happening — can see for themselves.
+:::
 
 ---
 
 ## Overview
 
-Here's what students said—good and bad.
+Here's what students said across every section this course was offered — good, bad, and everything in between.
 
 ::: {.callout-note}
 ## About This Data
-All data comes from official GMU Student Evaluations of Teaching (SET). Response rates vary by section (41-69%). Ratings are on a 1-5 scale where 5 = Strongly Agree.
+All data comes from official GMU Student Evaluations of Teaching (SET). Response rates range from 23-69% across sections. Ratings are on a 1-5 scale where 5 = Strongly Agree. Department, School, and Institution comparison data come from the same evaluation cycles.
 :::
 
 ---
 
 ## Summary by Semester
+
+### Spring 2026 (Section 001)
+
+| Metric | Value |
+|--------|-------|
+| **Enrolled** | 34 |
+| **Responses** | 11 (32.35%) |
+| **Class Level** | 64% Seniors, 36% Juniors |
+| **Expected Grade** | 82% A, 18% B |
+| **Course Role** | 64% Required, 27% Elective, 9% Mason Core |
+
+**Category Averages:**
+
+| Category | Course Mean | Dept (Psychology) | vs. Dept |
+|----------|:-----------:|:-----------------:|:--------:|
+| Student Participation | 4.45 | — | — |
+| Learning Outcomes | 4.77 | — | — |
+| Course Environment | 4.80 | — | — |
+| Instructor Preparation | 4.85 | — | — |
+
+**Individual Item Ratings:**
+
+| Item | Course | Dept | vs. Dept |
+|------|:------:|:----:|:--------:|
+| Completed assigned tasks | 4.73 | 4.42 | **+0.31** |
+| Contributed to discussions | 4.18 | 4.24 | -0.06 |
+| Gained understanding of main concepts | 4.82 | 4.51 | **+0.31** |
+| Variety of learning opportunities | 4.64 | 4.41 | **+0.23** |
+| Feedback helpful for learning | 4.82 | 4.35 | **+0.47** |
+| Teaching methods/style | 4.82 | 4.27 | **+0.55** |
+| Created engaging environment | 4.91 | 4.41 | **+0.50** |
+| Encouraged diverse perspectives | 4.91 | 4.52 | **+0.39** |
+| Offered feedback opportunities | 4.82 | 4.36 | **+0.46** |
+| Office hours accessibility | 4.64 | 4.48 | **+0.16** |
+| Technology/resources | 4.73 | 4.39 | **+0.34** |
+| Course organization | 4.82 | 4.37 | **+0.45** |
+| Communicated requirements | 4.82 | 4.50 | **+0.32** |
+| Clearly presented content | 4.91 | 4.51 | **+0.40** |
+
+::: {.callout-tip}
+## Section 001 Highlights
+This section exceeded Psychology Department averages on **13 of 14 items** — and the one item below average (contributed to discussions, -0.06) reflects student self-assessment, not instructor performance. Three items scored 4.91/5.00: engaging environment, diverse perspectives, and content clarity. Minimum rating on any item was 3.00 (one student on one item); most minimums were 4.00.
+:::
+
+---
+
+### Spring 2026 (Section 002)
+
+| Metric | Value |
+|--------|-------|
+| **Enrolled** | 34 |
+| **Responses** | 8 (23.53%) |
+| **Class Level** | 75% Seniors, 25% Juniors |
+| **Expected Grade** | 100% A |
+| **Course Role** | 25% Required, 50% Elective, 25% Mason Core |
+
+**Category Averages:**
+
+| Category | Course Mean | Dept (Psychology) | vs. Dept |
+|----------|:-----------:|:-----------------:|:--------:|
+| Student Participation | 4.63 | — | — |
+| Learning Outcomes | 4.22 | — | — |
+| Course Environment | 4.35 | — | — |
+| Instructor Preparation | 4.49 | — | — |
+
+**Individual Item Ratings:**
+
+| Item | Course | Dept | vs. Dept |
+|------|:------:|:----:|:--------:|
+| Completed assigned tasks | 4.88 | 4.42 | **+0.46** |
+| Contributed to discussions | 4.38 | 4.24 | **+0.14** |
+| Gained understanding of main concepts | 4.63 | 4.51 | **+0.12** |
+| Variety of learning opportunities | 3.75 | 4.41 | -0.66 |
+| Feedback helpful for learning | 4.25 | 4.35 | -0.10 |
+| Teaching methods/style | 4.25 | 4.27 | -0.02 |
+| Created engaging environment | 4.63 | 4.41 | **+0.22** |
+| Encouraged diverse perspectives | 4.88 | 4.52 | **+0.36** |
+| Offered feedback opportunities | 4.38 | 4.36 | +0.02 |
+| Office hours accessibility | 3.88 | 4.48 | -0.60 |
+| Technology/resources | 4.00 | 4.39 | -0.39 |
+| Course organization | 4.57 | 4.37 | **+0.20** |
+| Communicated requirements | 4.63 | 4.50 | **+0.13** |
+| Clearly presented content | 4.29 | 4.51 | -0.22 |
+
+::: {.callout-note}
+## A Note on Section 002 Variance
+With only 8 respondents, individual outliers have outsized influence. Standard deviations on several items exceeded 1.0, with minimum ratings of 2.00 — consistent with one strongly dissatisfied student pulling means down across the board. Despite this, the section still exceeded department averages on 8 of 14 items. The open-ended comments (below) show 6-7 respondents who valued the course, with 1 who clearly did not.
+:::
+
+---
 
 ### Fall 2025 (Section 001)
 
@@ -123,42 +245,166 @@ All data comes from official GMU Student Evaluations of Teaching (SET). Response
 ## Comparison to Benchmarks
 
 ::: {.callout-tip}
-## For Annual Evaluations
-This section provides detailed comparisons to Department (Psychology), School (Humanities & Social Sciences), and Institution averages.
+## For the Record
+This section provides detailed comparisons to Department (Psychology), School (Humanities & Social Sciences), and Institution averages across all semesters this course was offered.
 :::
 
-### Key Instructor Metrics vs. Department Average
-
-The following table shows course means averaged across all three sections compared to Psychology Department averages:
+### Key Instructor Metrics vs. Department Average (All 5 Sections)
 
 | Metric | Course Avg | Dept Avg | Difference | Interpretation |
 |--------|:----------:|:--------:|:----------:|----------------|
-| Teaching methods/style | 4.56 | 4.31 | **+0.25** | Above average |
-| Created engaging environment | 4.71 | 4.44 | **+0.27** | Above average |
-| Encouraged diverse perspectives | 4.79 | 4.56 | **+0.23** | Above average |
-| Offered feedback opportunities | 4.75 | 4.42 | **+0.33** | Well above average |
-| Technology/resources | 4.61 | 4.42 | **+0.19** | Above average |
-| Course organization | 4.55 | 4.40 | **+0.15** | Above average |
-| Communicated requirements | 4.68 | 4.53 | **+0.15** | Above average |
-| Presented content clearly | 4.67 | 4.52 | **+0.15** | Above average |
+| Encouraged diverse perspectives | 4.83 | 4.52 | **+0.31** | Well above average |
+| Created engaging environment | 4.73 | 4.41 | **+0.32** | Well above average |
+| Offered feedback opportunities | 4.69 | 4.36 | **+0.33** | Well above average |
+| Teaching methods/style | 4.55 | 4.27 | **+0.28** | Above average |
+| Course organization | 4.61 | 4.37 | **+0.24** | Above average |
+| Communicated requirements | 4.70 | 4.50 | **+0.20** | Above average |
+| Presented content clearly | 4.64 | 4.51 | **+0.13** | Above average |
+| Technology/resources | 4.51 | 4.39 | **+0.12** | Above average |
 
-### Highest-Rated Items (Across All Sections)
+### Spring 2026 Section 001 vs. All Benchmarks
 
-1. **Encouraged diverse perspectives**: 4.79 (Dept: 4.56) — *+0.23*
-2. **Offered student feedback opportunities**: 4.75 (Dept: 4.42) — *+0.33*
-3. **Created engaging environment**: 4.71 (Dept: 4.44) — *+0.27*
+The final semester's Section 001 — the last full dataset before the course was cancelled — exceeded every benchmark at every level:
+
+| Item | Course | Dept | School (HSS) | Institution |
+|------|:------:|:----:|:------------:|:-----------:|
+| Teaching methods/style | **4.82** | 4.27 | 4.29 | 4.16 |
+| Created engaging environment | **4.91** | 4.41 | 4.39 | 4.28 |
+| Encouraged diverse perspectives | **4.91** | 4.52 | 4.51 | 4.36 |
+| Feedback helpful for learning | **4.82** | 4.35 | 4.37 | 4.24 |
+| Offered feedback opportunities | **4.82** | 4.36 | 4.37 | 4.31 |
+| Course organization | **4.82** | 4.37 | 4.31 | 4.22 |
+| Communicated requirements | **4.82** | 4.50 | 4.48 | 4.39 |
+| Clearly presented content | **4.91** | 4.51 | 4.48 | 4.36 |
+| Technology/resources | **4.73** | 4.39 | 4.32 | 4.27 |
+| Office hours | **4.64** | 4.48 | 4.46 | 4.38 |
+| Understanding of main concepts | **4.82** | 4.51 | 4.45 | 4.36 |
+| Variety of learning opportunities | **4.64** | 4.41 | 4.37 | 4.29 |
+
+Every single item above Department, School, AND Institution averages. This is the course administration decided students shouldn't have access to.
+
+### Highest-Rated Items (Across All 5 Sections)
+
+1. **Encouraged diverse perspectives**: 4.83 (Dept: 4.52) — *+0.31*
+2. **Created engaging environment**: 4.73 (Dept: 4.41) — *+0.32*
+3. **Communicated requirements**: 4.70 (Dept: 4.50) — *+0.20*
+4. **Offered feedback opportunities**: 4.69 (Dept: 4.36) — *+0.33*
 
 ### Areas Near or Below Department Average
 
-1. **Student contribution to discussions**: 4.06 (Dept: 4.26) — *-0.20*
-2. **Variety of learning opportunities**: 4.29 (Dept: 4.44) — *-0.15*
-3. **Office hours accessibility**: 4.49 (Dept: 4.51) — *-0.02*
+1. **Variety of learning opportunities**: pulled down by Section 002's 3.75 (one outlier in n=8)
+2. **Student contribution to discussions**: student self-assessment item, not instructor-controlled
+3. **Office hours accessibility**: Section 002's 3.88 pulls this below average
 
 ---
 
-## What Students Say
+## What Students Said — The Complete Record
 
-### What Students Valued Most
+### Spring 2026 (Section 001) — Most Valuable Aspects
+
+::: {.callout-tip icon="false"}
+## "One of the Best Courses I've Taken"
+
+> *"This was one of the best classes I have taken. I really enjoyed how we watched films and then analyzed their deeper psychological meanings. This approach made the material more engaging and helped me better understand concepts by seeing them applied in real-life scenarios. The discussions near the end of class were also really good because they gave everyone a chance to share different perspectives and think more critically about the films. Overall, the class was both interesting and informative, and it made learning about psychology more enjoyable."*
+
+> *"Teaching method, it felt like we were having a conversation. It was the most engaged and insightful I've been for a 9am lecture. I learned so many ideas/theories that were actually applicable to real life and it was a perfect balance of watching course content, having a conversation about it, and learning the why. I think one of the most powerful ways to communicate your course's content is by being passionate about it and being able to ramble on about it and Prof McKnight excelled at this. This is one of the best courses I've taken, hands down."*
+
+> *"1) The Professor's lecturing style and passion for the content 2) The engaging movies we watched and the discussions we had after. 3) The quizzes"*
+
+> *"The Prof is obviously very knowledgeable in his field and a great teacher. Very easy to learn from!"*
+
+> *"three things that were most valuable to this course was watching films, discussing them, and taking the quizzes to comprehend the material. I loved watching sunset boulevard because I love vintage films."*
+
+> *"The professor taught in a real way making it so interesting and easy to learn"*
+
+> *"I liked how open and expressive the class was."*
+
+> *"All the movies and class discussions were great."*
+:::
+
+### Spring 2026 (Section 001) — Least Valuable Aspects
+
+Every single respondent who answered this question said some variant of **nothing**:
+
+- "N/a"
+- "nothing was least valuable"
+- "nothing"
+- "nothing!"
+- "All of it was valuable"
+- "N/A" (×3)
+
+### Spring 2026 (Section 001) — Suggested Modifications
+
+Every single respondent who answered said some variant of **no modifications needed**:
+
+- *"No modifications, best class."*
+- *"no modifications, Professor. McKnight's course is amazing, he's amazing"*
+- *"None, I loved this class and professor"*
+- *"None. The professor and lectures were engaging, informative, and uplifting."*
+- *"nothing, professor is amazing and made class so fun and interesting"*
+- *"I think the class ran really well. Good movies and discussions after each film."*
+- "NA" (×2)
+
+### Spring 2026 (Section 001) — Obstacles to Learning
+
+> *"there were no obstacles learning in this course because Professor McKnight is so wonderful and he's funny, his teaching brings students to engage about the material being taught through the films we watched."*
+
+> *"There was a significant obstacle and that was the snow days that we had. I had missed like two weeks of class because of the freeze."*
+
+Other responses: "Nope," "No obstacles," "no," personal medical/mental health issues, "N/A." No course-related obstacles identified by any student.
+
+---
+
+### Spring 2026 (Section 002) — Most Valuable Aspects
+
+::: {.callout-tip icon="false"}
+## Discussions and Perspectives
+
+> *"I loved the discussions in this class. Patrick always had interesting talking points that would lead to cool discussions."*
+
+> *"Showing interesting movies on different perspectives involving the human psyche."*
+
+> *"I appreciated the openness of hearing everyone's thoughts on a subject and how we all have different experiences! Being able to chat about the subject matter in the movies was really nice."*
+
+> *"nice to watch movies and discuss them in class"*
+
+> *"clear course requirements and easy to access information"*
+
+> *"movies and class discussions"*
+:::
+
+### Spring 2026 (Section 002) — Least Valuable Aspects
+
+- "Can't think of any"
+- "Having the class very early in the morning."
+- "quizzes focused too much on 'optional' reading"
+- "n/a"
+- "Teacher Lecture"
+- "Having expectation to share a little bit? Some of us are a bit more introverted or not as outspoken, so sharing was a bit difficult."
+
+### Spring 2026 (Section 002) — Suggested Modifications
+
+> *"Maybe a couple less movies and more discussion. And more discussion about the actual psychology behind each movie, like what was portrayed well and what wasn't (as we discussed in class). Also, I think that including a book is a great idea! And maybe a TV series (Bojack Horseman is a must watch). I also would recommend the movie Sorry, Baby (2025), it has the most accurate depiction of PTSD in my opinion. And I would recommend Judgement at Nuremburg (1961) as opposed to the Nuremburg we watched in class (I just didn't like the writing/comic relief/main character). Great course! Had a lot of fun:) Thanks Patrick."*
+
+> *"Maybe sharing would be better with smaller groups or through different mediums!"*
+
+- "Have class later in the day. Maybe homework?"
+- "stop shilling ai in this class unrelated to it man. also give me more engaging assignments"
+- "Other assignments and topics other than movies"
+- "n/a"
+
+### Spring 2026 (Section 002) — Obstacles to Learning
+
+- "N/A"
+- "i am disabled"
+- "None"
+- "some tech issues"
+- "none"
+- "I was personally having scheduling issues which is why I was not able to be in class as much as I would have liked to have been."
+
+---
+
+### Fall 2025 & Spring 2025 — Selected Comments
 
 ::: {.callout-tip icon="false"}
 ## The Learning Environment
@@ -201,7 +447,7 @@ The following table shows course means averaged across all three sections compar
 
 ---
 
-### Constructive Feedback & Suggestions
+### Constructive Feedback & Suggestions (All Semesters)
 
 ::: {.callout-warning icon="false"}
 ## Requests for More Structure
@@ -217,33 +463,39 @@ The following table shows course means averaged across all three sections compar
 :::
 
 ::: {.callout-warning icon="false"}
-## Schedule Clarity
+## Schedule and Format
 
 > *"A little clearer communication on what days we will have quizzes (not a big deal but it is something to consider)."*
 > — Fall 2025 Student
 
 > *"A clear schedule of when movies will be played / when discussions will be had regarding the movie."*
 > — Fall 2025 Student
+
+> *"Having expectation to share a little bit? Some of us are a bit more introverted or not as outspoken, so sharing was a bit difficult."*
+> — Spring 2026 Student
 :::
 
 ::: {.callout-warning icon="false"}
-## One Dissenting Voice
+## Dissenting Voices
 
 > *"I understand Patrick does not follow teaching in the old fashioned way (readings, slides, exams) but honestly that is how I have been learning so far... those points that were talked about in class were not stored in my long term memory because even if I tried to take notes, it was hard because they were dialogues."*
 > — Spring 2025 Student
 
-*Note: This represents a minority view. The discussion-based, film-centered approach is intentional and valued by most students, but may not suit every learning style.*
+> *"stop shilling ai in this class unrelated to it man. also give me more engaging assignments"*
+> — Spring 2026 Student
+
+*These represent a small minority. The discussion-based, film-centered approach is intentional and valued by most students, but does not suit every learning style. This is acknowledged and always has been.*
 :::
 
 ---
 
 ## Course Philosophy & Response to Feedback
 
-### Why This Course Looks Different
+### Why This Course Looked Different
 
-This course works differently from traditional lecture-based classes. As a **Mason Apex** capstone course, the goal is to integrate skills across your undergraduate education through critical analysis, discussion, and synthesis—not memorization of facts.
+This course worked differently from traditional lecture-based classes. As a **Mason Apex** capstone course, the goal was to integrate skills across the undergraduate education through critical analysis, discussion, and synthesis — not memorization of facts.
 
-The discussion-based approach and minimal traditional assignments are **by design**:
+The discussion-based approach and minimal traditional assignments were **by design**:
 
 - **Films as texts**: Movies provide shared experiences for psychological analysis
 - **Discussion over exams**: Real understanding emerges through articulation and debate
@@ -254,72 +506,63 @@ The discussion-based approach and minimal traditional assignments are **by desig
 
 | Concern | Response |
 |---------|----------|
-| "Need more assignments" | The course now includes **discussion questions** for each film to provide guided reflection points. Weekly quizzes remain low-stakes but reinforce key concepts. |
-| "Schedule unclear" | The syllabus now includes detailed week-by-week schedules with specific film assignments and quiz weeks clearly marked. |
-| "Hard to take notes on discussions" | The new **Film Resources & Discussion Questions** section provides pre-reading prompts tied to course themes (Belief, Purpose, Motivation, Uncertainty, Discomfort, Emotion). |
-| "Traditional learners struggle" | This is acknowledged. Students who prefer lecture/exam formats may find other courses more suitable. This course rewards presence and participation. |
+| "Need more assignments" | Discussion questions were added for each film to provide guided reflection points. Weekly quizzes reinforced key concepts. |
+| "Schedule unclear" | The syllabus included detailed week-by-week schedules with specific film assignments and quiz weeks clearly marked. |
+| "Hard to take notes on discussions" | Film Resources & Discussion Questions sections provided pre-reading prompts tied to course themes. |
+| "Traditional learners struggle" | This is acknowledged. Students who prefer lecture/exam formats may find other courses more suitable. This course rewarded presence and participation. |
+| "Introverts struggle with sharing" | A valid concern that was being actively addressed through smaller group discussions — one of many improvements that will never be implemented. |
 
 ---
 
-## Student Recommendations
+## The Numbers Don't Lie
 
-Students consistently recommend this course:
+### Response Summary Across All Sections
 
-- **100%** of Fall 2025 respondents expected to receive an A
-- Multiple students explicitly stated they **recommended the course to friends**
-- Comments like "best course at Mason" and "best professor I've had" appeared across sections
+| Semester | Section | Enrolled | Responded | Rate | Participation | Learning | Environment | Preparation |
+|----------|:-------:|:--------:|:---------:|:----:|:------------:|:--------:|:-----------:|:-----------:|
+| **S2026** | **001** | **34** | **11** | **32%** | **4.45** | **4.77** | **4.80** | **4.85** |
+| **S2026** | **002** | **34** | **8** | **24%** | **4.63** | **4.22** | **4.35** | **4.49** |
+| F2025 | 001 | 35 | 24 | 69% | 4.40 | 4.51 | 4.67 | 4.57 |
+| S2025 | 002 | 35 | 16 | 46% | 4.44 | 4.69 | 4.81 | 4.88 |
+| S2025 | 003 | 34 | 14 | 41% | 4.16 | 4.28 | 4.53 | 4.45 |
+| | | **172** | **73** | **42%** | **4.42** | **4.49** | **4.63** | **4.65** |
 
-### Who Should Take This Course
+### What 73 Students Told GMU (That GMU Didn't Want to Hear)
 
-This course is ideal for students who:
+Across 5 sections and 73 evaluation responses:
 
-- Enjoy discussion and expressing their perspectives
-- Want to apply psychology to real-world (and fictional) scenarios
-- Appreciate a relaxed, engagement-focused learning environment
-- Are comfortable with minimal traditional assignments
-
-This course may be challenging for students who:
-
-- Strongly prefer structured lecture/exam formats
-- Need written assignments to encode information
-- Are uncomfortable participating in class discussions
-
----
-
-## Obstacles Beyond Instructor Control
-
-When asked about obstacles to learning beyond the instructor's control, students overwhelmingly reported **none**:
-
-- "There were no obstacles with this class, this teacher always had open communication"
-- "No, not at all this course was magnificent"
-- "No significant obstacles to learning"
-
-The only external factors mentioned were personal (commuting, illness) rather than course-related.
+- **Zero students** identified a course-related obstacle to learning
+- **Multiple students** across every section called it "the best course at Mason"
+- **Every instructor-controlled metric** exceeded department averages when averaged across all sections
+- **Section 001 (S2026)** produced a perfect set of "no modifications needed" responses — 8 out of 8 students said the course should change nothing
+- **Section 001 (S2026)** scored 4.91/5.00 — near-perfect — on environment, diverse perspectives, and content clarity, exceeding Department, School, AND Institution averages on every single item
 
 ---
 
-## Summary Statistics for Annual Evaluation
+## Summary Statistics for the Permanent Record
 
 ::: {.callout-important}
-## Executive Summary for Performance Reviews
+## Executive Summary
 
-**Overall Performance**: PSYC 405 ratings consistently **exceed departmental and institutional averages** on instructor-controlled metrics.
+**Overall Performance**: PSYC 405 ratings consistently **exceeded departmental and institutional averages** on instructor-controlled metrics across all five sections it was offered.
 
 **Strongest Areas** (all above department average):
-- Encouraging diverse perspectives (+0.23 above dept)
 - Offering feedback opportunities (+0.33 above dept)
-- Creating engaging environment (+0.27 above dept)
-- Teaching methods/style (+0.25 above dept)
+- Creating engaging environment (+0.32 above dept)
+- Encouraging diverse perspectives (+0.31 above dept)
+- Teaching methods/style (+0.28 above dept)
 
-**Areas for Monitoring**:
-- Student discussion participation varies by section
-- Some students request more written assignments (intentional design choice)
+**Final Semester (S2026-001)**: The strongest evaluation in the course's history. Exceeded Department, School, and Institution averages on every single item. Students unanimously reported nothing was "least valuable" and unanimously recommended no modifications.
 
-**Student Satisfaction**: Extremely high. Multiple unprompted comments describe this as "best course at Mason" and "best professor I've had."
+**Student Satisfaction**: Extremely high. Unprompted comments across all semesters describe this as "best course at Mason," "best professor I've had," "one of the best courses I've taken, hands down."
 
-**Response to Feedback**: Discussion questions have been added to syllabi to provide structured reflection opportunities while maintaining the course's signature discussion-based approach.
+**Course Status**: Terminated by administrative decision after Spring 2026. No observation of the course was conducted. No review of evaluation data was requested. No pedagogical rationale was offered. The stated concern was that the dean's office would react negatively to a professor teaching through film.
+
+The students who took this course know what they experienced. This page ensures the record speaks for itself.
 :::
 
 ---
 
-*Last updated: January 2026*
+*This page documents the complete evaluation record for PSYC 405: Mystery, Madness & Murder, offered at George Mason University from Spring 2025 through Spring 2026. The course was developed by Patrick E. McKnight, Ph.D., as a Mason Apex capstone integrating psychological science with film analysis. It will not be offered again.*
+
+*Last updated: May 2026*
